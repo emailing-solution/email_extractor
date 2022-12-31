@@ -1,0 +1,1043 @@
+Return-Path: bounce-18112297_HTML-984933249-84345494-10745993-13010@bounce.crocs-email.com
+Received: from mx08.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.48)
+ by md13.aqua.sync.lan with LMTP; Wed, 8 Dec 2021 16:07:55 -0500 (EST)
+Return-Path: <bounce-18112297_HTML-984933249-84345494-10745993-13010@bounce.crocs-email.com>
+X-Received-HELO: from [66.231.80.137] (helo=mta.crocs-email.com)
+Authentication-Results: mx08.aqua.bos.sync.lan smtp.mail=bounce-18112297_HTML-984933249-84345494-10745993-13010@bounce.crocs-email.com; spf=permerror
+Authentication-Results: mx08.aqua.bos.sync.lan header.DKIM-Signature=email@crocs-email.com; dkim=pass
+Received-SPF: permerror (mx08.aqua.bos.sync.lan: 66.231.80.137 is neither permitted nor denied by domain of bounce.crocs-email.com)
+Received: from [66.231.80.137] ([66.231.80.137:51404] helo=mta.crocs-email.com)
+	by mx.windstream.net (envelope-from <bounce-18112297_HTML-984933249-84345494-10745993-13010@bounce.crocs-email.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id A7/F9-07478-AAE11B16; Wed, 08 Dec 2021 16:07:55 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=crocs-email.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=email@crocs-email.com;
+ bh=PcUv1MtXExBpmS+GAHClIEd0vs3VwJsRoQt2MgikGRk=;
+ b=ouCbL+MjNfK7RkCMUnRXQPHH0Q+//AxNqgbLsZ5QfUEsrOnWaEGh1t9XFwqg2WxxWMmYwqGL6Jn7
+   4lx67j9fmbHe2Z32UQZzlqBsv4lcxkIIZ+SpCpTQDKTdebTkudCu+ym3WCUTQdIEqvcfeeCQsP14
+   dGfaIAOCdS69Nnt8DO4=
+Received: by mta.crocs-email.com id hm4fam2fmd42 for <KATIELEE529@WINDSTREAM.NET>; Wed, 8 Dec 2021 21:07:48 +0000 (envelope-from <bounce-18112297_HTML-984933249-84345494-10745993-13010@bounce.crocs-email.com>)
+From: "Crocs" <email@crocs-email.com>
+To: <KATIELEE529@WINDSTREAM.NET>
+Subject: =?UTF-8?B?SGFwcHkgQ3JvY3MgYW5uaXZlcnNhcnkhIENlbGVicmF0ZSB5b3Vy?=
+ =?UTF-8?B?IGRheSB3aXRoIHNhdmluZ3Mg8J+OiQ==?=
+Date: Wed, 08 Dec 2021 15:07:47 -0600
+List-Unsubscribe: <http://click.crocs-email.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiIxMDc0NTk5MyIsInMiOiI5ODQ5MzMyNDkiLCJsaWQiOiIxODExMjI5NyIsImoiOiI4NDM0NTQ5NCIsImpiIjoiMTMwMTAiLCJkIjoiMTAxNTMifQ.GeMwNHD0-zZegXKfzAcbiP1zKiG-gRuQj63xzUT7w1s>, <mailto:leave-fc4c15787465067f7c131f2d205921-fe1c1d78716d077e771079-fe561c74766001797c10-fe591570726001747c17-ff0a1573756504@leave.crocs-email.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Crocs" <reply-84345494-18112297_HTML-984933249-10745993-13010@crocs-email.com>
+List-ID: <10518406.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 1
+x-job: 10745993_84345494
+Message-ID: <899df43e-4748-44b3-8e89-e3c8957a3ac2@ind1s01mta769.xt.local>
+Content-Type: multipart/alternative;
+	boundary="TD9coDQwbGtY=_?:"
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvuddrjeekgddugeegucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdpgffpggdqhgfkpfffuffvtffgtefonecuuegrihhlohhuthemucef
+X-Vade-Analysis-3: tddunecundfotefknffkpffiucdludejmdenucfjughrpefhvffufffjgghrjefktgesrgdtreertddt
+X-Vade-Analysis-4: jeenucfhrhhomhepfdevrhhotghsfdcuoegvmhgrihhlsegtrhhotghsqdgvmhgrihhlrdgtohhmqeen
+X-Vade-Analysis-5: ucggtffrrghtthgvrhhnpedugfeigfffieevtedtvdffveeiheefgfeiudfhgfffkeelteefhfefteev
+X-Vade-Analysis-6: hefftdenucffohhmrghinheptghrohgtshdqvghmrghilhdrtghomhenucfkphepieeirddvfedurdek
+X-Vade-Analysis-7: tddrudefjeenucevlhhushhtvghrufhiiigvpedvnecurfgrrhgrmhepihhnvghtpeeiiedrvdefuddr
+X-Vade-Analysis-8: kedtrddufeejpdhhvghlohepmhhtrgdrtghrohgtshdqvghmrghilhdrtghomhdpmhgrihhlfhhrohhm
+X-Vade-Analysis-9: pegsohhunhgtvgdqudekudduvddvleejpgfjvffonfdqleekgeelfeefvdegledqkeegfeegheegleeg
+X-Vade-Analysis-10: qddutdejgeehleelfedqudeftddutdessghouhhntggvrdgtrhhotghsqdgvmhgrihhlrdgtohhmpdhr
+X-Vade-Analysis-11: tghpthhtohepmfetvffkgffngffghedvleeshgfkpfffuffvtffgtefordfpgffvpdhmthgrhhhoshht
+X-Vade-Analysis-12: pehmgidrrghquhgrrdgsohhsrdhshihntgdrlhgrnhdpshhpfhepphgvrhhmvghrrhhorhdpughkihhm
+X-Vade-Analysis-13: pehprghsshdpnhgspghrtghpthhtohepud
+X-Vade-Client: AQUA
+
+This is a multi-part message in MIME format.
+
+--TD9coDQwbGtY=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+Crocs
+
+
+
+
+
+
+
+
+
+
+
+
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; 
+
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d588c6d6b52f36f9b120d5bcb6b0f7a40c7671aed42800176b84c3ab954137f4327a69ea5a5943177f14e340a1663342431b2b931634812b70 
+Free shipping on qualified orders&dagger;
+
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5aa632f9e48a16479d1fee294289b40b16d5451658ffca74ad8506db755dadc918fb7b81db0a7eda84d1db5e4e9d722493fe5c0dd2b33aad1 
+
+
+ 
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+Anniversary! 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+Anniversary! 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+Thanks for subscribing and being part of the Crocs family. We look forward to celebrating many more years with you full of comfort  and style. 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+take &#36;15 off 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+your next purchase of &#36;50 or more 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+enter code in cart  at crocs.com
+
+AN15-P47V639DVTH3
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c56ecc2f731fe151a96c3f3ebf8cab3fcbe2b44cbc205815ab0ce2dce6a96910b5d398c10756cee3592bf00a449565c6be3667b87330c913 
+Treat yo&rsquo; self 
+
+Footwear Only. Exclusions Apply.*
+
+
+ 
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5e19a15fba7bd128f1fcfb3fdae7168c7997603f20c1254887925d846f7e28d3d6d2c881f729cd7dc2b9f2000321f107435e5f15fe86159ec 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5e19a15fba7bd128f1fcfb3fdae7168c7997603f20c1254887925d846f7e28d3d6d2c881f729cd7dc2b9f2000321f107435e5f15fe86159ec 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d547a8555e96531d3177e1b4bc231b271d773f2c702f3f01a23027736deb47d2a0a37840f1ac84ee92fa47b2647baab5a6a6d6a4133f928631 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d547a8555e96531d3177e1b4bc231b271d773f2c702f3f01a23027736deb47d2a0a37840f1ac84ee92fa47b2647baab5a6a6d6a4133f928631 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d548029a2c20b9f2686ba19da055cc8427419238581d1696d0dbcdb086c0caf7b9cd820b539005dc4ec1e6915d961f1585d2aa8606c7373257 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d548029a2c20b9f2686ba19da055cc8427419238581d1696d0dbcdb086c0caf7b9cd820b539005dc4ec1e6915d961f1585d2aa8606c7373257 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c073171905360d97da4aacc109f39394bf585cc8b30a519d67dbbce215cc7a9e58e57f28b16b6820880d815cab3d6ecb3676c1be451fcd26 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c073171905360d97da4aacc109f39394bf585cc8b30a519d67dbbce215cc7a9e58e57f28b16b6820880d815cab3d6ecb3676c1be451fcd26 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d548340c759e3d10c7168489c143f6aa6a7a3470eded2ec3bfa677bf978206fd42c09b7e32211961ad923e2b0e10aab892083ae9c1d869c09c 
+New Arrivals for Men
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5714a1e47932f0af5dc80b8b4b6cd1e38767ffafdc5a293ae0513213040350006f7c5515d4662da4294409f68762a76508cf3740040de9027 
+Best Sellers for Men
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d56c7997ca9265412d27a48b4d12256b58c8c2601b85805f22eb0e2898098de836d4d829987be0f7aaf67747cd46bb3996fe12f06ab2969d23 
+Shop Men&rsquo;s Loafers
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5ee8dc62583682f0933fabb733505512d34f4dd6a139bd79a8e10ef1446d2cbb5c7f816598b8508e92d18a4e4c31df79d4ee91dc7985bd1b2 
+Shop Men&rsquo;s Sale
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d547a8555e96531d3177e1b4bc231b271d773f2c702f3f01a23027736deb47d2a0a37840f1ac84ee92fa47b2647baab5a6a6d6a4133f928631 
+Shop All
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5e6b7ae7481a65fdb55ecc604a36413a1e91e2f2a06a2af3d8b5b94a8566fc000ad51a0721aaf6f176b958db66ff7d81ab592ec29bdbfedae 
+New Arrivals for Women
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5a8b54c420151a881ebf940854f54cdb7deecbc8e4b4784b44d2cc1f6efdf7d4de15eaec3ccc30de7b49a9763e3ff9ef472f83b2b511e5af0 
+Best Sellers for Women
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5f558591e951b78a3ba52f8fa109d54b8bf02c48b8fcd8f01c5816fc12807312cde632a0d32c7e5e81a6f89d87fbcde4ab86037e1b6c06fd7 
+Shop Women&rsquo;s Sandals
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d55526dde5e6d9bd7ce0da2a01b49fe874f2de71ef38972875e3bde7e44e2262e3e4bbad2a4754454c2a9fe23cf9a6e65f75ffa85138abe61c 
+Shop Women&rsquo;s Sale
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5e19a15fba7bd128f1fcfb3fdae7168c7997603f20c1254887925d846f7e28d3d6d2c881f729cd7dc2b9f2000321f107435e5f15fe86159ec 
+Shop All
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d57ad7640a453932e63b4c79bf9138f4cfb670e4a9e92aa9bd44e67edeed174bf4bd71277b7582067783a3512f135a1f701fc0ffde94ad74ba 
+Women
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5f4e6ae900223aac59752b7315a7267b5601fa49196ec6fa5a59194a7ed0268331c68df7562ca0f11dd35583768a9385e62442a1e81314f4c 
+Men
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5263d9bf9207604e2b2d221f80b86d2d68a38beded15633dde61a99fc37f1776c0f3b37676277358e6baa2790208e74ec6297b40c1e6a15bb 
+Kids
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d51ab0d1cab884a33f2cac11f208ca145791d06f63d7ec39778f3175afb8bd011e448ee19447187542ba4e299dbba8e43279c9585a3880f4a3 
+Crocs at work&trade;
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5d47d6837dc5f4d098701e16a6800a12f60c89db2232689e160ffe959c44038021685ed01e78b570c1fb901dd113b74c49d2ac5c65f694ab2 
+Jibbitz&trade; Charms
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5bb7c6aaccbf85ce2f8b4d56d472ca9518aa60c1f8172c495dcdb9171648b4be0abb127eb54673bf7f2610400ef23c12339cc99ccfd7a818c 
+Sale
+
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+unique starts with you 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d505fd0bd6f5cf9713fa6ee2416ebf1c3cf6a48579e42bd7dc6cfa2251c604c225c29f6a7ead24a32c1d963bb7b0e01cf503ceea3b8d08edbb 
+Tag your photos @Crocs #ComeAsYouAre 
+
+
+ 
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d50cb4d407a7f45abaf619118f4b59b4ce097ca893f0bd9ca3b7cb965a4772c714bae3b387bac01d2422a106695f4b7ca40e64c58bfd17b5d4 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d50cb4d407a7f45abaf619118f4b59b4ce097ca893f0bd9ca3b7cb965a4772c714bae3b387bac01d2422a106695f4b7ca40e64c58bfd17b5d4 
+Gift Cards 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d50cb4d407a7f45abaf619118f4b59b4ce097ca893f0bd9ca3b7cb965a4772c714bae3b387bac01d2422a106695f4b7ca40e64c58bfd17b5d4 
+ Send surprises 
+instantly to your
+loved ones for any
+occasion.
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d597d18f4ea3f356e5e9cbfd0bbce5b34c6a31df9877a5de8b1a236a749ea507cdbb75965acf8b4411c1dc91fcb2b19d4b87cae1b5cc23e308 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d597d18f4ea3f356e5e9cbfd0bbce5b34c6a31df9877a5de8b1a236a749ea507cdbb75965acf8b4411c1dc91fcb2b19d4b87cae1b5cc23e308 
+Free Returns 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d597d18f4ea3f356e5e9cbfd0bbce5b34c6a31df9877a5de8b1a236a749ea507cdbb75965acf8b4411c1dc91fcb2b19d4b87cae1b5cc23e308 
+Change your mind? 
+
+ No problem. Our
+
+ free returns process
+
+ makes it easy.
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d54d35fe3ac479d468ff6e0068b2d7240d1d4c77267b4471f0194dec0f3f4c921d803b212c15739d8fa0a22bb90e67b9f74eed48560eeb9d27 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d54d35fe3ac479d468ff6e0068b2d7240d1d4c77267b4471f0194dec0f3f4c921d803b212c15739d8fa0a22bb90e67b9f74eed48560eeb9d27 
+Shop Now. Pay Later. 
+
+ Always interestâFree.
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d54d35fe3ac479d468ff6e0068b2d7240d1d4c77267b4471f0194dec0f3f4c921d803b212c15739d8fa0a22bb90e67b9f74eed48560eeb9d27 
+Split your payment 
+
+ into 4 interest-free
+
+ payments.
+
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d52cf83fb4cf3e184ab0cb724839d61ffe7b1e2e47102ac9e65152980b7f36d36e788f77b1e58a2f83fe8cb0b62493febc1c89b688f0500e66 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d57d954acd3de104f82a39e39c975f9a431155566943421f83aeb5b23cb7dc07d6700cf3b83e3e972ff15d899d4b25bc294d0083dcf72de361 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d58fdef5c917161e672dbdd1a9f022e221cf21936edf6acfdcbaf7eaaeeeb09308454ed6a65d8ed2de27f379148d9485d263c12cd15c113518 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d55bbeee4243cd13acae3c56a58d9b151ce5fc5e682931c0c02cf483fb94ad3f5f2817112ef3913b737fc251a18f40a11dd3f679b3923cef86 
+
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5b64c68b41609e80f071b15cfea242dafeb7a0c22509f30469c24f58c24803392be7f1803758796aa3cdb259062e1bfdd0b443515976621d7 
+
+ Contact Us
+  
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d598edbcc6987a958c0712d972096f353ab2e990731b3981e2073c4ddd50579cd0f8798a0770716f24ca5e8a8281d7955f6a0a445295c3ad38 
+
+ Order Status
+  
+http://view.crocs-email.com/?qs=11f3912e943603212075bd3bad140fbe325176158e72ae206529b912566e090b86d29728b2fcbe722966cd16c34ca80121bbc495161b7f8f6b846d4c7e68ac40708d84c444a2dbc86885e00164279f00a4560fafab0557fd0f79701f6ca7b5ef 
+
+ View As Webpage
+  
+http://click.crocs-email.com/unsub_center.aspx?qs=0f4f524128a8e91a1b00ef7fd506469e1a9e636d3e05b0db45851c23d2c93a1c1bf652c0a5ebcce4e8939014a59e68913120c45f520226f373182d883f2604cb941e2e3e6e5221b45114bba732a89afb 
+
+ Unsubscribe
+  
+http://click.crocs-email.com/?qs=00f9b7023ac1f3d5f4df068c4d308ea54f820153041a351c2699af89a5f4435708a9459fadb758b745eec9adc7cba0b5acb95e26d3313a97f9a45570920186cf 
+
+ Update Your Preferences 
+  
+
+
+ This email was sent by:
+
+ Crocs
+
+ 13601 Via Varra
+
+ Broomfield, CO 80020
+ 
+
+&dagger;Free economy shipping on qualified orders. Otherwise, economy shipping is &#36;6.99. Shipping promotion is subject to change without notice. Please see site for more details.
+ 
+
+ *Offer valid online at Crocs.com. Qualifying purchase amount does not include any applicable taxes and/or shipping costs. Must enter coupon code displayed above in cart to apply discount. One time use per code. Cannot be combined with any other offer or promotion. Offer valid while supplies last. Offer not valid on previous purchases. No rain checks. Offer ends  01/07/2022 at 11:59 pm MT.
+ 
+
+
+
+                                     
+
+--TD9coDQwbGtY=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=N6lC5nAV_sfmc_10745993_sha256&partner_uid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=N6lC5nAV_sfmc_10745993_subid&partner_uid=984933249" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_ad_impression.gif?confid=v1uigapxb&advertiserid=10745993&campaignid=us_x_trigger_15off50anniversaryoffer_x" width=0 height=0 style="display:none;" /></custom></td></tr></table>
+<head>
+<!-- Shared Templates/2018/Responsive Template -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 ">
+<title>Crocs</title>
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.crocs.com/on/demandware.static/Sites-crocs_us-Site/-/default/v1519623210574/css/proxima.css">
+<style>
+body {
+    margin: 0 !important;
+    min-width: 100% !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+body, table, td, a {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+img {
+    border: 0;
+    height: auto;
+    line-height: 100%;
+}
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    font-family: inherit !important;
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+    text-decoration: none !important;
+}
+sup {
+    font-size: 45%;
+    line-height: 0;
+}
+u + .email-body #new-gmail-hack {
+    display: block !important;
+}
+#MessageViewBody, #MessageWebViewDiv {
+    margin: 0 !important;
+    min-width: 100vw;
+    padding: 0 !important;
+    zoom: 1 !important;
+}
+#MessageViewBody #backgroundTable {
+    min-width: 100vw;
+}
+.main div.contentcell {
+    width: 640px;
+}
+</style>
+<style>
+a, a:link {
+    color: #444444;
+    text-decoration: none;
+}
+.email-body {
+    background-color: #ffffff;
+}
+.barcode-headline .headline {
+    font-size: 105px !important;
+}
+.barcode-image img {
+    width: 100% !important;
+}
+.copyBarcode-copy .subcopy-wrapper {
+    width: 600px !important;
+}
+.free-shipping-banner {
+    font-size: 18px !important;
+    line-height: 21px !important;
+}
+.photoGallery .leftImageColumn {
+    width: 322px !important;
+}
+.photoGallery .linkText {
+    font-size: 20px !important;
+    line-height: 23px !important;
+}
+.photoGallery .rightImageColumn {
+    width: 312px !important;
+}
+.photoGallery .rightImageWrapper {
+    display: inline-block!important;
+    max-height: 100% !important;
+}
+.threeColumn .centerColumn200, .threeColumn .leftColumn200, .threeColumn .rightColumn200 {
+    width: 200px !important;
+}
+.threeColumn .column204 {
+    width: 204px !important;
+}
+.twoColumn .leftColumn300, .twoColumn .rightColumn300 {
+    width: 300px !important;
+}
+.twoColumn .leftColumn315, .twoColumn .rightColumn315 {
+    width: 315px !important;
+}
+.twoColumn .leftColumn318, .twoColumn .rightColumn318 {
+    width: 318px !important;
+}
+.twoColumn .leftColumn320, .twoColumn .rightColumn320 {
+    width: 320px !important;
+}
+.twoColumn .leftColumnWrapper {
+    float: left !important;
+}
+.twoColumn .rightColumnWrapper {
+    float: right !important;
+}
+
+@media only screen and (max-width: 639px) {
+.barcode-headline .headline {
+    font-size: 60px !important;
+}
+.barcode-image img {
+    width: 75% !important;
+}
+.copyBarcode-copy .subcopy-wrapper {
+    width: 235px !important;
+}
+.free-shipping-banner {
+    font-size: 12px !important;
+    line-height: 15px !important;
+}
+.photoGallery .leftImageColumn, .photoGallery .rightImageColumn {
+    width: 640px !important;
+}
+.photoGallery .linkText {
+    font-size: 13px !important;
+    line-height: 17px !important;
+}
+.photoGallery .rightImageWrapper {
+    display: none !important;
+    max-height: 0 !important;
+}
+.threeColumn .centerColumn200, .threeColumn .leftColumn200, .threeColumn .rightColumn200, .threeColumn .column204 {
+    width: 640px !important;
+}
+.twoColumn .leftColumn300, .twoColumn .rightColumn300, .twoColumn .leftColumn315, .twoColumn .rightColumn315, .twoColumn .leftColumn318, .twoColumn .rightColumn318, .twoColumn .leftColumn320, .twoColumn .rightColumn320 {
+    width: 640px !important;
+}
+.twoColumn .leftColumnWrapper, .twoColumn .rightColumnWrapper {
+    float: none !important;
+}
+.columnContainer {
+    width: 100%!important;
+}
+.columnSingle {
+    display: block!important;
+    width: 100%!important;
+    text-align: center!important;
+}
+.mobileHide {
+    display: none!important;
+    width: 0!important;
+    height: 0!important;
+    overflow: hidden!important;
+}
+.mobileView {
+    display: block!important;
+    width: auto!important;
+    height: auto!important;
+    max-height: inherit!important;
+    max-width: inherit!important;
+    float: none!important;
+    overflow: visible!important;
+    visibility: visible!important;
+    mso-hide: none!important;
+    font-size: inherit!important;
+}
+}
+</style>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<div itemscope="" itemtype="http://schema.org/Organization">
+
+  <meta itemprop="name" content="Gmail">
+
+  <meta itemprop="logo" content="http://image.crocs-email.com/lib/fe591570726001747c17/m/14/313facdc-c499-4e44-a1cc-8db7a286188f.jpg">
+</div>
+
+<div itemscope="" itemtype="http://schema.org/DiscountOffer">
+  <meta itemprop="description" content="Open Your Gift Now!">
+ 
+</div>
+<div itemscope="" itemtype="http://schema.org/PromotionCard">
+  <meta itemprop="image" content="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/d97165d6-743c-4561-a2af-c8c01b546232.jpg">
+</div></td></tr></table>
+<!--[if !mso]><!-->
+
+<style>
+   td { font-family: 'proxima_novaregular', Arial, sans-serif !important; }
+   
+   .headline, .subheadline { font-family: 'proxima_novaextrabold', 'Arial Black', 'Arial Bold', Arial, sans-serif !important; }
+   
+   .headline-black, .subheadline-black { font-family: 'proxima_novablack', 'Arial Black', 'Arial Bold', Arial, sans-serif !important; }
+   
+   @-moz-document url-prefix() { .headline, .subheadline, .headline-black, .subheadline-black { font-weight: normal !important; } }
+  </style>
+<!--<![endif]--> 
+<!--[if (gte mso 9)|(IE)]>    <style>     table { border-collapse: collapse; }          table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }          sup { font-size: 75%; mso-text-raise: 12%; }          .headline, .subheadline, .headline-black, .subheadline-black { line-height: 80% !important; }          .photoGallery .rightImageWrapper { display: block !important; }    </style>    <![endif]--> 
+<!--[if gte mso 9]>    <xml>     <o:OfficeDocumentSettings>      <o:AllowPNG/>      <o:PixelsPerInch>96</o:PixelsPerInch>     </o:OfficeDocumentSettings>    </xml>    <![endif]-->
+</head><body class="email-body"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Enjoy $15 off your purchase of $50 or more. Free shipping on qualified orders.</div>
+<img style="visibility:hidden;display:none;" height="1" width="1" src="https://demandwarecrocs.demdex.net/event?d_dpid=196107&c_emailopened=Yes&d_dpuid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988&campaignID=us_x_trigger_15off50-anniversaryoffer_x&c_subscriberID=984933249">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+
+
+
+<!-- coupon code ampscript -->
+</td></tr></table>
+
+<table id="backgroundTable" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color: #ffffff;">
+  <tr>
+    <td align="center"><table role="presentation" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td class="main" align="center" style="width: 640px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div style="display: none; max-height: 0px; overflow: hidden;">
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td bgcolor="#db1f37" class="free-shipping-banner" style="padding: 10px 20px 12px; font-family: Arial, Helvetica, sans-serif; font-weight: normal; line-height: 15px; font-size: 12px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c18d2e5db8e759b889dcfea44f8eb619150e8aa13154b4fe8a1c81f001195f36cb5735a877c7b06a1f3377718259f74e8d41bd3767008e46" target="_blank" style="text-decoration: none; text-transform: uppercase; color: #ffffff;"> <strong class="headline">Free shipping</strong> on qualified orders<sup>&dagger;</sup> </a></td>
+  </tr>
+</table>
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td align="center" bgcolor="#ffffff" style="padding: 25px 0px;">
+   <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5b49b40e67eec2ca6c78a179d1d3fa4f033a76e3a90a7d7cb6061644384bb707868d74343030515845f44ceb8c45f18817052a6b247f86962" target="_blank">
+    <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/18/1ce014eb-4b05-4ddf-8f15-753a0e5347f1.png" alt="crocsâ¢" style="width: 176px; height: auto; display: block; margin: 0 auto; border: 0;" width="176">
+   </a>
+  </td>
+ </tr>
+</table></td></tr></table>
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" style="padding-bottom: 6px;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/07d28f72-3881-4b5b-9eeb-3e63025f25cd.jpg" alt="Happy Crocs" width="320" height="68" style="width: 100%; max-width: 320px; display: block; margin: 0 auto; border: 0;"> </a></td>
+  </tr>
+</table>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="mobileHide" align="center" style="font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; text-transform: uppercase; font-weight: bold; line-height: 70px; font-size: 70px;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" class="headline" target="_blank" style="text-decoration: none; color: #db1f37;">Anniversary!</a></td>
+  </tr>
+  <tr>
+    <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" class="headline" target="_blank" style="text-decoration: none; color: #db1f37; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; text-transform: uppercase; font-weight: bold; line-height: 40px; font-size: 40px;">Anniversary!</a></td>
+  </tr>
+  <tr>
+    <td class="" style="width: 640px; padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td align="center" style="padding: 13px 5px 17px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td align="center" style="width: 460px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 22px; font-weight: 400; text-transform: none; mso-line-height-rule: exactly;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank" style="text-decoration: none; color: #000000;" tabindex="-1">Thanks for subscribing and being part of the Crocs family. We look forward to celebrating many more years with you full of comfort <span style="white-space: nowrap;">and style. </span></a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="mobileHide" align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/96d38f1a-a69c-4678-b55c-4d87ae0672b4.jpg" alt="Happy Crocsversary! Celebrate With Savings" width="640" style="width: 100%; max-width: 640px; display: block; margin: 0 auto; border: 0;"> </a></td>
+  </tr>
+  <tr>
+    <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/91c7e8f8-9110-433e-9e32-f6add3190726.jpg" alt="Happy Crocsversary! Celebrate With Savings" width="320" style="width: 100%; display: block; margin: 0 auto; border: 0;"> </a></td>
+  </tr>
+</table>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="" style="padding: 0px 0px 20px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr class="rowOne">
+          <td align="center" style="padding: 0px 0px 0px;"><table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;">
+              <tr>
+                <td bgcolor="#db1f37" class="subheadline" height="60" align="center" valign="middle" style="width: 600px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="" style="width: 600px; padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" style="padding: 36px 5px 10px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td class="headline" align="center" style="width: 600px; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-size: 40px; line-height: 44px; font-weight: bold; text-transform: uppercase; mso-line-height-rule: exactly;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank" style="text-decoration: none; color: #ffffff;" tabindex="-1">take &#36;15 off</a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 640px; padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" style="padding: 0px 5px 7px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td align="center" style="width: 460px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 22px; font-weight: 400; text-transform: none; mso-line-height-rule: exactly;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank" style="text-decoration: none; color: #ffffff;" tabindex="-1">your next purchase of &#36;50 or more</a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/83dcb1bd-90c9-4429-80be-bf23d35e1839.jpg" alt="" width="40" style="width: 100%; max-width: 40px; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 640px; padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" style="padding: 9px 0px 15px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td class="headline" align="center" style="width: 550px; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-size: 18px; line-height: 20px; font-weight: bold; text-transform: uppercase; mso-line-height-rule: exactly;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank" style="text-decoration: none; color: #ffffff;" tabindex="-1">enter code in cart <span style="white-space: nowrap;">at crocs.com</span></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 640px; padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" style="padding: 0px 15px 23px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td align="center" style="width: 400px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 22px; color: #ffffff; font-weight: 400; text-transform: none; mso-line-height-rule: exactly;">AN15-P47V639DVTH3</td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td class=""><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr class="rowOne">
+                            <td align="center" style="padding: 0 15px 10px;"><table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;">
+                                <tr>
+                                  <td bgcolor="#ffffff" class="subheadline" height="60" align="center" valign="middle" style="width: 285px; height: 60px; border: 2px solid #ffffff; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-size: 22px; line-height: 24px; font-weight: bold; text-transform: uppercase; padding: 0 10px;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d588d2d3e1f407163091090a7175c6990f30c85a1f3f8a4919b1001a57d463fd723b49f93bbfa704f1681a0624a5395b8abaf0e2a04c66a5a6" target="_blank" style="width: 100%; display: inline-block; padding: 5px 0; text-decoration: none; color: #000000;">Treat yo&rsquo; self</a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="padding: 6px 20px 26px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 20px; color: #ffffff; font-weight: 400; text-transform: none;">Footwear Only. Exclusions Apply.*</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td></tr></table>
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table class="twoColumn" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="" style="padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr class="rowOne">
+          <td style="text-align: center; font-size: 0;"><!--[if (gte mso 9)|(IE)]>       <table role="presentation" cellpadding="0" cellspacing="0" border="0">        <tr>         <td align="left" valign="bottom" style="width: 320px;">          <![endif]-->
+            
+            <table class="leftColumnWrapper" role="presentation" cellpadding="0" cellspacing="0" border="0" style="display: inline-block; margin: 0 auto; float: none; vertical-align: bottom;">
+              <tr>
+                <td class="leftColumn320" style="width: 640px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="mobileHide" align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5f9cefdfe0da293552b9184cd3d8356dd117302fe6b18c6dbd31095b3b1332ad068d8aa5303e06e678de53cf6c998716f058dedf87ece24e1" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/be874ef9-6ebd-4049-adde-a9bfec19ae0c.jpg" alt="Shop Women's Footwear Styles" width="320" style="width: 100%; max-width: 320px; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5f9cefdfe0da293552b9184cd3d8356dd117302fe6b18c6dbd31095b3b1332ad068d8aa5303e06e678de53cf6c998716f058dedf87ece24e1" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/fb0e114a-3047-4b0e-bbcc-711ef97507a3.jpg" alt="Shop Women's Footwear Styles" width="320" style="width: 100%; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>         <td align="right" valign="top" style="width: 320px;">          <![endif]-->
+            
+            <table class="rightColumnWrapper" role="presentation" cellpadding="0" cellspacing="0" border="0" style="display: inline-block; margin: 0 auto; float: none; vertical-align: top;">
+              <tr>
+                <td class="rightColumn320" style="width: 640px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="mobileHide" align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5fa52cabeaea62ea644a6937cf470df8b2e117fb5af5a2cc698f0b5c3ba1e900bb58f36b9ea8790680ae7c8675df681cc5fa7865e74e76dcb" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/58dacd29-eefb-4a7a-8aab-4805893d6c4f.jpg" alt="Shop Men's Footwear Styles" width="320" style="width: 100%; max-width: 320px; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5fa52cabeaea62ea644a6937cf470df8b2e117fb5af5a2cc698f0b5c3ba1e900bb58f36b9ea8790680ae7c8675df681cc5fa7865e74e76dcb" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/5d5751ed-ff58-4061-b46b-94c061e648ac.jpg" alt="Shop Men's Footwear Styles" width="320" style="width: 100%; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>        </tr>       </table>       <![endif]--></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+<table class="twoColumn" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="" style="padding-bottom: 0px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr class="rowOne">
+          <td style="text-align: center; font-size: 0;"><!--[if (gte mso 9)|(IE)]>       <table role="presentation" cellpadding="0" cellspacing="0" border="0">        <tr>         <td align="left" valign="bottom" style="width: 320px;">          <![endif]-->
+            
+            <table class="leftColumnWrapper" role="presentation" cellpadding="0" cellspacing="0" border="0" style="display: inline-block; margin: 0 auto; float: none; vertical-align: bottom;">
+              <tr>
+                <td class="leftColumn320" style="width: 640px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="mobileHide" align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d568fef40d733b02833b889ba65a212b811663f381b52f391fcf0c671997630ec0fbc1147b41df09011340b789de5951bc7d60e65afa728335" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/8bc43abd-e010-403c-95d1-a3fb1075031c.jpg" alt="Shop Kid's Footwear Styles" width="320" style="width: 100%; max-width: 320px; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d568fef40d733b02833b889ba65a212b811663f381b52f391fcf0c671997630ec0fbc1147b41df09011340b789de5951bc7d60e65afa728335" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/02262b60-0332-4475-86c6-31dde703a7c8.jpg" alt="Shop Kid's Footwear Styles" width="320" style="width: 100%; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>         <td align="right" valign="top" style="width: 320px;">          <![endif]-->
+            
+            <table class="rightColumnWrapper" role="presentation" cellpadding="0" cellspacing="0" border="0" style="display: inline-block; margin: 0 auto; float: none; vertical-align: top;">
+              <tr>
+                <td class="rightColumn320" style="width: 640px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="mobileHide" align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d508f99f6e6cebed6d5d815e7a43a891c47435f93355c9047dee61b4366408f7eb18ba008b10823904d48fbab7310d70ff978bff9b2cf3e36c" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/4f1e3437-b7c2-42d5-9111-b6f9e236eab9.jpg" alt="Shop All New Arrivals" width="320" style="width: 100%; max-width: 320px; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="mobileView" align="center" style="display:none; height:0; width:0; max-height:0; max-width:0; overflow:hidden; float:left; visibility:hidden; line-height:0; mso-hide:all;"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d508f99f6e6cebed6d5d815e7a43a891c47435f93355c9047dee61b4366408f7eb18ba008b10823904d48fbab7310d70ff978bff9b2cf3e36c" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/16/483d88ca-c9b1-437c-8d05-1bef56194936.jpg" alt="Shop All New Arrivals" width="320" style="width: 100%; display: block; margin: 0 auto; border: 0;"> </a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>        </tr>       </table>       <![endif]--></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td></tr></table>
+            
+            
+            
+            
+            
+            
+            
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!---->
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td style="padding: 25px 0;" align="center">
+   <table role="presentation" style="margin: 0 auto;" cellspacing="0" cellpadding="0" border="0">
+    <!---->
+    <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d589f1eb843ec91ce3cd2eab7691b5a8e6147f0b25015abf03f8b9fcc342151e74b20610528d8131ee33261d0d4902879ad9b342383192080d" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Women</strong>
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5a3f4a04c9054b71da3bad7226f20248b21020399772704320a79fea54e249e29ae6bbc619b5b5ef955a50e5059b3f83e08e9613b93aac8ac" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Men</strong>
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5cf9e191a89f4ef72cf1279097beecc789199dbb03a7fbf5e39b96f3383ab61440d3667731c84e5353936717c77d09ffaeca1e684ed199b86" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Kids</strong>
+      </a>
+     </td>
+    </tr>
+       <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d55bbe02a995ff3a6013f89114d03b49d0efd70a01a7cd43cd8f768a4df39cd0fe7881df90dc8e29ce96e87c37b86dc2c02ab34ee537b9cb82" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Crocs at work&trade;</strong>
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d581e8ba5eb898201335efc0fcd7196ddc569fd698726440d81d54fb0f3f62f6f66459b2ee70079649584e845560b98ce4866733bdcc0a01c9" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Jibbitz&trade; Charms</strong>
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td style="width: 600px; padding: 20px 0; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; font-family: Arial, Helvetica, sans-serif; line-height: 26px; font-size: 22px; color: #444444; text-transform: uppercase;" align="center">
+      <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5b41a1ad6c7f60859635f5bca261c225031219cd75fd6da7d30f4f7cf4a5fdfeb3aa6ccf7c572acfb322d7c68d78f601381853b67d2597586" target="_blank" style="text-decoration: none; color: #444444;">
+       <strong>Sale</strong>
+      </a>
+     </td>
+    </tr>
+    <!---->
+   </table>
+  </td>
+ </tr>
+</table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td style="padding: 0px 0px 5px;" align="center"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td class="photoGallery" bgcolor="#000000" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; line-height: 22px; font-weight: bold; padding: 15px;"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" target="_blank" style="text-decoration: none; text-transform: uppercase; color: #ffffff;">unique starts with you</a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table style="margin: 0 auto" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td border="0" style="margin: 0 auto; border: none" width="640" align="center"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=1&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=2&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+        </tr>
+      </table>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=3&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=4&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+        </tr>
+      </table>
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=5&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+          <td style="padding:5px; border: none;" border="0" width="50%"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" width="310"> <img src="https://email.pixlee.com/redirect?api_key=9I6goAUL43kvIXAHsqyL&photo_number=6&photo_size=square_medium&photo_count=6&email_type=campaign&widgetType=Photowall&filter_id=3999563&esp_user_id=&esp_campaign_id=" alt="#ComeOneComeAll" max-height="310" style="margin: 0;display:block;max-width:100%; max-height:310px" width="310" border="0"> </a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td style="padding: 20px 5px 20px;" align="center"><table role="presentation" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td class="" style="width: 550px; font-family: Arial, sans-serif; font-size: 18px; line-height: 22px; font-weight: 400; text-transform: none; mso-line-height-rule: exactly;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d558eca8db693e23e2bf1788fedddea9e85fa46b7b6364b1e83ca443c1aa866dc7a6143b554d531577afd5448fdddd0c81dddaba187fab2a13" target="_blank" style="text-decoration: none; color: #444444;" tabindex="-1">Tag your photos @Crocs #ComeAsYouAre</a></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td></tr></table>
+            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table class="threeColumn" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td class="" style="padding: 20px 0px;" bgcolor="#ebebeb"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tr class="rowOne">
+          <td style="text-align: center; font-size: 0;"><!--[if (gte mso 9)|(IE)]>       <table role="presentation" cellpadding="0" cellspacing="0" border="0">        <tr>         <td align="center" valign="top" style="width: 200px;">          <![endif]-->
+            
+            <table role="presentation" style="display: inline-block; margin: 0 auto; float: none; vertical-align: top;" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="leftColumn200" style="width: 640px; padding-bottom: 10px;"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5176e6e1e15926f97586cd0d246f3071c92e30067918df8f8f17125cdb91ff168ecefdab458467dc8ca4d6bdf78b75d3967d14d58d5b4ffc1" target="_blank"> <img src="https://image.crocs-email.com/lib/fe591570726001747c17/m/17/4057803a-562b-4ad8-ac9c-8883c79d031e.png" alt="Gift Cards" style="width: 100%; max-width: 150px; height: auto; display: block; margin: 0; border: 0;" width="150"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 550px; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-weight: bold; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 15px 12px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5176e6e1e15926f97586cd0d246f3071c92e30067918df8f8f17125cdb91ff168ecefdab458467dc8ca4d6bdf78b75d3967d14d58d5b4ffc1" target="_blank" style="text-decoration: none; color: #444444;" tabindex="-1">Gift Cards</a></td>
+                    </tr>
+                    <tr>
+                      <td style="width: 380px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 15px 10px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5176e6e1e15926f97586cd0d246f3071c92e30067918df8f8f17125cdb91ff168ecefdab458467dc8ca4d6bdf78b75d3967d14d58d5b4ffc1" target="_blank" style="text-decoration: none; color: #2b2b2b;" tabindex="-1"> Send surprises<br>instantly to your<br>loved ones for any<br>occasion.</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>         <td align="center" valign="top" style="width: 200px;">          <![endif]-->
+            
+            <table role="presentation" style="display: inline-block; margin: 0 auto; float: none; vertical-align: top;" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="centerColumn200" style="width: 640px; padding-bottom: 10px;"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56dc6a3be9b3d7eb27e675e26545dcd276bef4662b883d508e5780776f87695ff327838d53b8267143e51eeb7804cc15210fabf3af7f2df50" target="_blank"> <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/16/4a487392-099a-446f-8367-0ebac51577e0.png" alt="Free Returns" style="width: 100%; max-width: 150px; height: auto; display: block; margin: 0; border: 0;" width="150"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 550px; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-weight: bold; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 15px 12px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56dc6a3be9b3d7eb27e675e26545dcd276bef4662b883d508e5780776f87695ff327838d53b8267143e51eeb7804cc15210fabf3af7f2df50" target="_blank" style="text-decoration: none; color: #444444;" tabindex="-1">Free Returns</a></td>
+                    </tr>
+                    <tr>
+                      <td style="width: 380px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 15px 10px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56dc6a3be9b3d7eb27e675e26545dcd276bef4662b883d508e5780776f87695ff327838d53b8267143e51eeb7804cc15210fabf3af7f2df50" target="_blank" style="text-decoration: none; color: #2b2b2b;" tabindex="-1">Change your mind?<br>
+                        No problem. Our<br>
+                        free returns process<br>
+                        makes it easy.</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>         <td align="center" valign="top" style="width: 200px;">          <![endif]-->
+            
+            <table crole="presentation" style="display: inline-block; margin: 0 auto; float: none; vertical-align: top;" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="rightColumn200" style="width: 640px; padding-bottom: 10px;"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                      <td align="center"><a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56f59422ec0e6144a887ad3705b92ff8e74606e883f45747b723a3e1d0f10f09d54bf8f65b759f79aa7ceaa4d8cce6aa44507cb2cc65d250a" target="_blank"> <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/16/35bb0fce-9c3b-430f-b33d-5f723faf2db5.png" alt="Afterpay" style="width: 100%; max-width: 150px; height: auto; display: block; margin: 0; border: 0;" width="150"> </a></td>
+                    </tr>
+                    <tr>
+                      <td class="" style="width: 550px; font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif; font-weight: bold; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 0px 12px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56f59422ec0e6144a887ad3705b92ff8e74606e883f45747b723a3e1d0f10f09d54bf8f65b759f79aa7ceaa4d8cce6aa44507cb2cc65d250a" target="_blank" style="text-decoration: none; color: #444444;" tabindex="-1">Shop Now. Pay Later.<br>
+                        Always interestâFree.</a></td>
+                    </tr>
+                    <tr>
+                      <td style="width: 380px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0px 0px 10px;" align="center"><a class="" href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d56f59422ec0e6144a887ad3705b92ff8e74606e883f45747b723a3e1d0f10f09d54bf8f65b759f79aa7ceaa4d8cce6aa44507cb2cc65d250a" target="_blank" style="text-decoration: none; color: #2b2b2b;" tabindex="-1">Split your payment<br>
+                        into 4 interest-free<br>
+                        payments.</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>         </td>        </tr>       </table>       <![endif]--></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td style="padding-bottom: 25px;" align="center">
+            <table role="presentation" style="background-color: #444444;" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+     <td style="padding: 25px 0 16px;" align="center">
+      <table role="presentation" style="margin: 0 auto;" cellspacing="0" cellpadding="0" border="0">
+       <tr>
+        <td style="width: 61px;" align="center">
+         <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5ac156bb64352a18fb923c3576352a0b942e501637d57a9f6322472025c0e4f9006f58671b38aa0da6bf20fd94b875c228123ddbc44efbe33" target="_blank">
+          <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/8/social-facebook.png" alt="Facebook" style="width: 41px; height: auto; display: block; margin: 0 auto; border: 0; padding: 0 10px;" width="41">
+         </a>
+        </td>
+        <td style="width: 61px;" align="center">
+         <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d51f8ec9e429f5328f22f78abd7765883a55f1d2bf06743881261fe393d4be31e62ae58f9541763efb2a89220238bb548d4c3306b7ebdc83c0" target="_blank">
+          <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/8/social-instagram.png" alt="Instagram" style="width: 41px; height: auto; display: block; margin: 0 auto; border: 0; padding: 0 10px;" width="41">
+         </a>
+        </td>
+        <td style="width: 61px;" align="center">
+         <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5c1e7b34e944149ba2264e7b3efdb9857c5e354cfce337fdfec62a4c2a756fae0a4780f5e2e31063a32f7a34039980259a34ddbf49e9f4089" target="_blank">
+          <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/8/social-twitter.png" alt="Twitter" style="width: 41px; height: auto; display: block; margin: 0 auto; border: 0; padding: 0 10px;" width="41">
+         </a>
+        </td>
+        <td style="width: 61px;" align="center">
+         <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d57dc8d4b1aba4c2b75ded7dc7bf0a00c146059ca6ff99e8026fb382a2f4fff2e38a71d97be1067154fc932eddb8e396d7a65ecfb0bb682dc6" target="_blank">
+          <img src="http://image.crocs-email.com/lib/fe591570726001747c17/m/8/social-pinterest.png" alt="Pinterest" style="width: 41px; height: auto; display: block; margin: 0 auto; border: 0; padding: 0 10px;" width="41">
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td style="padding-bottom: 16px;" align="center">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+       <tr>
+        <td style="width: 450px; font-family: Arial, Helvetica, sans-serif; mso-line-height-rule: exactly; line-height: 32px; font-size: 15px; color: #ffffff;" align="center">
+         <span style="display: inline-block; white-space: nowrap;">
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+          <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5e4672fda937d2f8686bd8ba9b0fa0db5dd562ca34df818aad02e3e038d87c1268291e1bf3ea1f3412b230a3e900697488d13411915681b7c" target="_blank" style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+           Contact&nbsp;Us
+          </a>
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+         </span>
+         <span style="display: inline-block; white-space: nowrap;">
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+          <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d58f535e693a79e5d33459c426d7452c368ca676e2afdb12b0cd90235a70afce81f522848b39b8ef5f6669312d4fc5103169bba66f61cde576" target="_blank" style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+           Order&nbsp;Status
+          </a>
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+         </span>
+         <span style="display: inline-block; white-space: nowrap;">
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+          <a href="http://view.crocs-email.com/?qs=11f3912e943603212075bd3bad140fbe325176158e72ae206529b912566e090b86d29728b2fcbe722966cd16c34ca80121bbc495161b7f8f6b846d4c7e68ac40708d84c444a2dbc8bb3473000d147cade958d315d539643b982b0771ac788398" target="_blank" style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+           View&nbsp;As&nbsp;Webpage
+          </a>
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+         </span>
+          <!--[if (gte mso 9)|(IE)]><br><![endif]-->
+         <span style="display: inline-block; white-space: nowrap;">
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+          <a href="http://click.crocs-email.com/unsub_center.aspx?qs=0f4f524128a8e91a1b00ef7fd506469e1a9e636d3e05b0db45851c23d2c93a1c1bf652c0a5ebcce4e8939014a59e68913120c45f520226f373182d883f2604cb7d0365146a4d33e2a47db0fdf56c117a" target="_blank" style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+           Unsubscribe
+          </a>
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+         </span>
+         <span style="display: inline-block; white-space: nowrap;">
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+
+          <a href="http://click.crocs-email.com/?qs=00f9b7023ac1f3d5200cb72bb7b8112282c3e443019e006dcc180e79a66c445010c8597ba09f0d7a69005ffffc7e5f63aba295c36fc179ccc50b11a69ebe7c1b" target="_blank" style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+           Update Your Preferences 
+          </a>
+          <!--[if (gte mso 9)|(IE)]>&nbsp;&nbsp;&nbsp;<![endif]-->
+         </span>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td style="padding-bottom: 25px; font-family: Arial, Helvetica, sans-serif; line-height: 19px; font-size: 15px; color: #ffffff;" align="center">
+      This email was sent by:<br>
+      Crocs<br>
+      13601 Via Varra<br>
+      Broomfield, CO 80020
+     </td>
+    </tr>
+   </table>
+        </td>
+    </tr>
+</table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table class="oneColumn" role="presentation" style="display: inline-block; margin: 0 auto; float: none; vertical-align: middle;" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td class="" style="width: 640px; padding-bottom: 10px;">
+   <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+     <td style="padding: 0 20px 15px;" align="center">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+       <tr>
+        <td style="width: 600px; font-family: Arial, Helvetica, sans-serif; line-height: 120%; font-size: 13px; color: #444444;" align="center">
+         <sup>&dagger;</sup>Free economy shipping on qualified orders. Otherwise, economy shipping is &#36;6.99. Shipping promotion is subject to change without notice. Please see site for more details.<br>&nbsp;<br>
+          *Offer valid online at Crocs.com. Qualifying purchase amount does not include any applicable taxes and/or shipping costs. Must enter coupon code displayed above in cart to apply discount. One time use per code. Cannot be combined with any other offer or promotion. Offer valid while supplies last. Offer not valid on previous purchases. No rain checks. Offer ends  01/07/2022 at 11:59 pm MT.
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table></td></tr></table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- +++ Gmail App - Force Email To Center Hack +++ -->
+<section>
+  <div id="new-gmail-hack" style="white-space: nowrap; font: 15px courier; line-height: 0; display: none;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
+</section>
+<!-- +++ /End Gmail App - Force Email To Center Hack +++ --> 
+<!-- Exact Target tracking code -->
+<div style="height: 1px; overflow: hidden;">
+  <img src="http://click.crocs-email.com/open.aspx?ffcb10-fe561c74766001797c10-fdf711717261067e761d7070-fe591570726001747c17-fe6015787465067f7c13-fe1c1d78716d077e771079-ff0a1573756504&d=10153&bmt=0" width="1" height="1" alt=""></custom>
+  <img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=N6lC5nAV_sfmc_10745993_sha256&partner_uid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=N6lC5nAV_sfmc_10745993_subid&partner_uid=984933249" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_ad_impression.gif?confid=v1uigapxb&advertiserid=10745993&campaignid=us_x_trigger_15off50anniversaryoffer_x" width=0 height=0 style="display:none;" /></custom>
+</div>
+</body>
+</html>
+
+--TD9coDQwbGtY=_?:--
+

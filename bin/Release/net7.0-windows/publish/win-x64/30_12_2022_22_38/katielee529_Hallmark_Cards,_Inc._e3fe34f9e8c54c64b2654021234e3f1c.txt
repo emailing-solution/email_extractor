@@ -1,0 +1,285 @@
+Return-Path: bounce-19_HTML-19011563-223008-7269830-26046@bounce.e-mail.hallmark.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md13.aqua.sync.lan with LMTP; Thu, 27 Jan 2022 10:18:45 -0500 (EST)
+Return-Path: <bounce-19_HTML-19011563-223008-7269830-26046@bounce.e-mail.hallmark.com>
+X-Received-HELO: from [13.111.4.79] (helo=mta4.e-mail.hallmark.com)
+Authentication-Results: mx02.aqua.bos.sync.lan smtp.mail=bounce-19_HTML-19011563-223008-7269830-26046@bounce.e-mail.hallmark.com; spf=permerror
+Authentication-Results: mx02.aqua.bos.sync.lan header.DKIM-Signature=hallmark@e-mail.hallmark.com; dkim=pass
+Received-SPF: permerror (mx02.aqua.bos.sync.lan: 13.111.4.79 is neither permitted nor denied by domain of bounce.e-mail.hallmark.com)
+Received: from [13.111.4.79] ([13.111.4.79:45436] helo=mta4.e-mail.hallmark.com)
+	by mx.windstream.net (envelope-from <bounce-19_HTML-19011563-223008-7269830-26046@bounce.e-mail.hallmark.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id A1/C7-07665-3D7B2F16; Thu, 27 Jan 2022 10:18:44 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=e-mail.hallmark.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=hallmark@e-mail.hallmark.com;
+ bh=EZ5FCxjGFdcQ8f1RX2fzcnvS9pcRn4MI8nRth7v/Lgs=;
+ b=uk/Ydp43fPt2e682UEPHZb/zDmJsXvG+fNmKId/00mhm++Ol0N188ycQ7N0BiUQSGSYEBk43g8N6
+   gg3bsZHxOpJn9e3ECQp5QPO8w1rDTzfcg8wpKjcbQB8nVDnZx3vtk3jrf61N0yLfpHYJ4XTY31FU
+   TQnEM4pdFWBQWUMjDo0=
+Received: by mta4.e-mail.hallmark.com id huart82fmd4p for <KATIELEE529@WINDSTREAM.NET>; Thu, 27 Jan 2022 15:06:09 +0000 (envelope-from <bounce-19_HTML-19011563-223008-7269830-26046@bounce.e-mail.hallmark.com>)
+From: "Hallmark Cards, Inc." <hallmark@e-mail.hallmark.com>
+To: <KATIELEE529@WINDSTREAM.NET>
+Subject: =?UTF-8?B?Um9zZXMgYXJlIHJlZC4gVmlvbGV0cyBhcmUgYmx1ZeKApg==?=
+Date: Thu, 27 Jan 2022 09:06:08 -0600
+List-Unsubscribe: <https://click.e-mail.hallmark.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI3MjY5ODMwIiwicyI6IjE5MDExNTYzIiwibGlkIjoiMTkiLCJqIjoiMjIzMDA4IiwiamIiOiIyNjA0NiIsImQiOiI3MDE3MiJ9.G89FzoR6mpaagx3yPXSNiJ-qJxjoQiPqLzNc-1dy3Wc>, <mailto:leave-fd8115791a3c402029-fe651579756505787317-fed0167276640475-fe8c1372736d0c7e75-fefd1676756002@leave.e-mail.hallmark.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Hallmark Cards, Inc." <reply-fed0167276640475-19_HTML-19011563-7269830-26046@e-mail.hallmark.com>
+List-ID: <7238199.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 7
+x-job: 7269830_223008
+Message-ID: <1c49eee8-103d-4799-83fb-edda5d33761b@atl1s07mta2403.xt.local>
+Content-Type: multipart/alternative;
+	boundary="0EUHWrtNuiIF=_?:"
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddrfeefgdejhecutefuodetggdotefrodftvfcurfhrohhf
+X-Vade-Analysis-2: ihhlvgemucfujgfpteevqfftpdghkffpfffuvfftgfetofdpgffpggdqhgfkpfffuffvtffgtefonecu
+X-Vade-Analysis-3: uegrihhlohhuthemuceftddunecundfotefknffkpffiucdludejmdenucfjughrpefhvffufffjgghr
+X-Vade-Analysis-4: jefktgesrgdtreertddtjeenucfhrhhomhepfdfjrghllhhmrghrkhcuvegrrhgushdpucfknhgtrddf
+X-Vade-Analysis-5: uceohhgrlhhlmhgrrhhksegvqdhmrghilhdrhhgrlhhlmhgrrhhkrdgtohhmqeenucggtffrrghtthgv
+X-Vade-Analysis-6: rhhnpeffheeuledthedtjeekueehgfdugfeuudejfeelvefhudefvdejveetuefgfefgueenucffohhm
+X-Vade-Analysis-7: rghinhephhgrlhhlmhgrrhhkrdgtohhmnecukfhppedufedrudduuddrgedrjeelnecuvehluhhsthgv
+X-Vade-Analysis-8: rhfuihiivgepvddvnecurfgrrhgrmhepihhnvghtpedufedrudduuddrgedrjeelpdhhvghlohepmhht
+X-Vade-Analysis-9: rgegrdgvqdhmrghilhdrhhgrlhhlmhgrrhhkrdgtohhmpdhmrghilhhfrhhomhepsghouhhntggvqddu
+X-Vade-Analysis-10: legpjffvoffnqdduledtudduheeifedqvddvfedttdekqdejvdeileekfedtqddviedtgeeisegsohhu
+X-Vade-Analysis-11: nhgtvgdrvgdqmhgrihhlrdhhrghllhhmrghrkhdrtghomhdprhgtphhtthhopefmtefvkffgnffggfeh
+X-Vade-Analysis-12: vdelseghkffpfffuvfftgfetofdrpffgvfdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshih
+X-Vade-Analysis-13: nhgtrdhlrghnpdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepphgrshhspdhnsggprhgtphhtthho
+X-Vade-Analysis-14: pedu
+X-Vade-Client: AQUA
+
+This is a multi-part message in MIME format.
+
+--0EUHWrtNuiIF=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+Don't miss out! See this message as a Web page:
+https://view.e-mail.hallmark.com/?qs=44fab68a925948e436348c56627ad4822b26aa626cfc9dd585f7efb2b7979cf06b5e14edd7c3e6160c04deac64f7128e2dbb9662eab3ae47ca126ec8e6d365e778f1ccdbdbb6eac10f7a9bf87ca13650
+
+
+-------
+Privacy & Security
+You are receiving this email because you asked us to notify you about special offers and updates from Hallmark. If you no longer wish to receive Hallmark emails, please use this link to unsubscribe:
+https://mckknct5-5wyx6-89h67g3y04wqq.pub.sfmc-content.com/eq1guv1plth?qs=25f3378dd658ae600bb3fd303a0a53650dd9a763d8e2e81f9dd1869194bbf6007707de435d61b00475f21612983a834f
+
+
+This email address cannot receive replies. For customer service, please use this link:
+https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161418e8e6f1e01a4e2421d3e40300b0e82ac9805c174109dd16cbff64ac4ab3949ead73d63f3a84a71ead65d57eef4448b85
+
+Your privacy is our priority. To learn more about our privacy policy, please use this link:
+https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141600218a89cb266e096fc16b3ed5a21a994660b2ad5f3cb6440661270eab4e4d84177a08c65096201f6a99973f5f65928
+
+Hallmark Cards, Inc., 2501 McGee, P.O. Box 419034, Kansas City, MO 64141
+
+
+--0EUHWrtNuiIF=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width">
+      <title>Hallmark Cards, Inc.
+      </title>
+      <style>
+        body {Margin:0!important;padding:0;width:100%!important;min-width:100%!important;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;} img{line-height:100%;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;} a img{border:none;} #backgroundTable {margin:0;padding:0;width:100%!important;} a, a:link{color:inherit;} table td {border-collapse:collapse;} span {color:inherit; border-bottom:none;} span:hover {background-color:transparent;} a[x-apple-data-detectors] {color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important; font-weight:inherit!important;line-height:inherit!important;}
+      </style>
+      <style>
+        td[class=body]{padding:10px 0px 0px 0px}.feature-btn a{display:inline-block}@media only screen and (max-width: 599px){.fluid{display:table !important;width:100% !important}.pad-T30{padding-top:30px !important}.pad-B30{padding-bottom:30px !important}.btn-position{position:relative}.pinit-btn{position:absolute;top:0px;right:0px}.pinit-btn-article{position:absolute;bottom:0px;right:0px}.feature-a-wrapper{height:66vw !important}.feature-b-wrapper{height:50vw !important}.feature-c-wrapper{height:40vw !important}.feature-ext-wrapper{height:25vw !important}}@media only screen and (max-width: 480px){.height-reset{height:inherit !important}.line-break{display:block}.mobile-hide{display:none !important}.html-banner{height:60px !important;font-size:4.6vw !important}.html-banner
+ td{font-size:4.6vw !important}.html-banner-divider{width:15vw !important}.feature-dept{font-size:3.5vw !important}.feature-a-title{font-size:9vw !important;line-height:10vw !important}.feature-title{font-size:7vw !important;line-height:8vw !important}.feature-text,.feature-btn{font-size:3.6vw !important;line-height:5vw !important}.feature-btn{width:62vw !important;min-width:150px}.feature-btn a{border-top-width:15px !important;border-bottom-width:15px !important}.social-icons td{width:30px !important;padding:0px 10px !important}}
+      </style>
+      <!--[if !mso|(IE)]><!-->
+      <style>
+        .custom-serif { font-family: 'Sentinel', serif !important; }
+        .custom-sans { font-family: 'Gotham', sans-serif !important; font-weight: normal !important; }
+        .custom-sans-bold { font-family: 'Gotham', sans-serif !important; font-weight: bold !important; }
+        .custom-sans-med { font-family: 'Gotham', sans-serif !important; font-weight: 400 !important; }
+      </style>
+      <!--<![endif]-->    
+      <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]-->
+      </head>
+    <body style="background: #ffffff;font-family:Arial, Helvetica, sans-serif; font-size:1em;">
+      <table id="backgroundTable" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#ffffff;">
+        <tr>
+          <td class="body" align="center" valign="top" style="background:#ffffff;" width="100%">
+            <table cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="center" style="width: 600px;">
+                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"></td></tr></table>
+                  
+                </td>
+              </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0">
+              <tr>
+                <td class="main" align="center" style="width:600px;">
+                  <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td align="center">
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+<br>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+
+
+</td></tr></table>
+<br><br>
+
+
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+ <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- preheader --><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="center" style="padding: 7px 7px 4px 7px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 12px; color: #000000;">
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141673a1fd0a24e7a199f6de611735fea0869590b167f16f2d8c0b562bfb90e11fd4f3cd1a27b1ce4167320a9583233e23a" style="color:#000000;text-decoration:underline;" target="_blank">Get a free card and we'll even mail it for you.</a></td></tr><tr>
+   <td align="center" style="padding: 0px 10px 10px 10px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;">
+    <table cellpadding="0" cellspacing="0">
+     
+      <tr>
+       <td align="center" style="padding: 0px 0px 0px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;">
+        Thanks for subscribing, <a href="mailto:KATIELEE529@WINDSTREAM.NET" style="color: #000000; text-decoration: none;">KATIELEE529@WINDSTREAM.NET</a>. <span class="mobile-hide">&nbsp;&nbsp;|&nbsp;&nbsp;</span> <a  alt="" class="line-break" href="https://view.e-mail.hallmark.com/?qs=44fab68a925948e436348c56627ad4822b26aa626cfc9dd585f7efb2b7979cf06b5e14edd7c3e6160c04deac64f7128e2dbb9662eab3ae47ca126ec8e6d365e7d2c33cd8732618c3c111acafb2333fcd" style="text-decoration: underline; color: #000000;" target="_blank">View in browser </a></td></tr></table></td></tr></table><!-- /preheader --></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+	
+		<tr>
+			<td align="center" class="logo" style="padding: 0px 0px 0px 0px;">
+				<a  alt="" border="0" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614157b4af886d60bd9e67d7a101a1ff1b1083f51d4ea3be5ba9ea86d499f3b4dfcb8f4a399357c7bb6bd6becabfb3c64592ab3a831c8fee6276" target="_blank"><img alt="Hallmark Gold Crown" src="http://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/11/db8323af-1ea6-405e-aa62-0bcd6798f95d.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; width: 100%;" width="100%"> </a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<br>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600px" style="max-width:600px;border-style:none;width:100%">
+ 
+  <tr>
+   <td align="left" style="width: 600px; padding: 0px 0px 0px 0px;">
+    <table cellpadding="2px" cellspacing="0" width="100%">
+     
+      <tr>
+       <td align="center" class="height-reset html-banner" height="50" style="height: 50px; padding: 0px 15px 0px 15px; background-color: #604099; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff;" valign="middle">
+    Kathy, you have a coupon expiring on 1/31!<br>
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=9af1c190622afed2e7bd0fbaa71b0608166402400f341fb67c23d0e48d094aa89d966642ac32b9e00590e8f5afebf9c2051296a84eacf3260640a4627ca37892" style="text-decoration: none; font-weight: bold; color: #ffffff;" target="_blank">REDEEM NOW &nbsp;âº</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left">
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141028ce4d0f3ca6d397a841d0a7e3c359ed53d76322c1993f03cd7d80afd9c9f835a478bb5c938b93c80f6d75b98cbff9c" style="" target="_blank"><img alt="With Sign and Sendâ¢, sending your love for all on Valentine's Day is easy and FREE." border="0" src="https://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/28/42ca582a-2951-457f-9446-bdbbdc663207.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 12px; color: #4c4c4c;"> </a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left">
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161410da043443142306e316dada5bab02aba6809fb2b3000e5d63da51ff06cdc7721137eac41d131c89c9c0bf0ab25db2743" style="" target="_blank"><img alt="" border="0" src="https://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/28/63a9db90-6691-40f3-8da8-87083c6284e9.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 12px; color: #4c4c4c;"> </a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left">
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141aa3ba5795d3ec39e6edd45103ce4b1f7efdcd6786af3ff23486c39809d3ee87ede90f2a44ba50df42924825e389492af" style="" target="_blank"><img alt="Get all your favorite people together for a sweet, delectable and unforgettable Galentine's gathering." border="0" src="https://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/28/22e7a408-2a9a-4b82-a928-9f99f7787299.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 12px; color: #4c4c4c;"> </a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left">
+    <a  alt="" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141888aef58dce3315d05019ca1bcbcf4765338947798d418eccb61af12484f4bbcd36ef2ce84f68962df32cd64870db8c6" style="" target="_blank"><img alt="Let our writers guide you in crafting the perfect Valentine's Day message." border="0" src="https://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/28/f28488bf-aaf2-430a-a1ec-ef27320a22a0.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 12px; color: #4c4c4c;"> </a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+
+
+
+
+
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="600px" style="max-width:600px;border-style:none;width:100%">
+ <tr style="padding: 10px 10px 10px 10px;  font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 18px;">
+   <td width="280px" style="  max-width:280px; min-width:280px; width: 280px;" align="middle" bgcolor="#604099"> <a style="border-right: 0px; text-decoration: none; color: #ffffff; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18px;"> <font color="#ffffff"><strong> You have a Coupon expiring on 1/31!</strong></font> </a><a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614104d26c0e3aa7bcecd1752656d5664bc78d6fafab4e56f60065a3767d9d0e10136a5500a53c44179e2d92cb51639712e1de7bf071950de73f" style="text-decoration: none; color: #ffffff; font-size: 15px;" target="_blank "> <br>REDEEM NOW &nbsp;âº</a>
+         </td>
+   <td width="280px" style="  max-width:280px; min-width:280px; width: 280px;" align="middle" bgcolor="#e0e0e0"> <a style="border-right: 0px; text-decoration: bold; color: #4c4c4c; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18x;">  <strong>CROWN REWARDS<br></strong>
+              Kathy&nbsp;Vires<br>
+        
+
+       Member Number: 934572180029 <br>
+
+    </a></td>
+ </tr>
+</table>
+
+
+</td></tr></table>
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:600px;border-style:none; width:100%" width="600px">
+ 
+  <tr style="height: 58px; padding: 0px 0px 0px 0px;  font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 20px; line-height: 24px; color: #4c4c4c;">
+   <td align="center" height="58" style="border-top: 1px solid #4c4c4c; border-right: 1px solid #4c4c4c; max-width:300px; width: 300px; min-width:300px;" valign="middle">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141a6dda050ef71cb60b8cfc2fbe8903cd26e49215fe7fbbc0005556e5603cecb9a47d7926cd13df33d398a82fbdb7ce6d9c8d4393f88fe4326" style="text-decoration: none; color: #4c4c4c;" target="_blank">Shop Ornaments</a></td><td align="center" height="58" style="border-top: 1px solid #4c4c4c; max-width:300px; width: 300px; min-width:300px;" valign="middle">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161416685ac8b7d4723360e3f9ad8e50d9581d5177c51c393994d14ebb702d44e065426684109b64599330a7097ac1bb84f7bc6fa53315bc93e92" style="text-decoration: none; color: #4c4c4c;" target="_blank">Offers</a></td></tr><!-- row 2 --><tr align="center" height="58" style="height: 58px; padding: 0px 0px 0px 0px; border-top: 1px solid #4c4c4c; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 20px; line-height: 24px; color: #4c4c4c;" valign="middle">
+   <td style="border-top: 1px solid #4c4c4c; border-right: 1px solid #4c4c4c;  max-width:300px; width: 300px; min-width:300px;">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161416ff04291f70be8214469fc74aac7719a7332d77499bb23d72f0b44facf99db8b8b144aacc48da62f8b44b1fbbbbcd26b6681427868f1b475" style="text-decoration: none; color: #4c4c4c;" target="_blank">Shop Cards</a></td><td style="border-top: 1px solid #4c4c4c; max-width:300px; width: 300px; min-width:300px;">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614164781e743215058ffb24e41b569e7e920aff7498d3126c8b71291cd4af0cb1418250d08113414ad853327f4bd64743a4d33f121aad68fc36" style="text-decoration: none; color: #4c4c4c;" target="_blank">Ideas &amp; Inspiration</a></td></tr><!-- row 3 --><tr align="center" height="58" style="height: 58px; padding: 0px 0px 0px 0px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 20px; line-height: 24px; color: #4c4c4c;" valign="middle">
+   <td style="border-top: 1px solid #4c4c4c; border-right: 1px solid #4c4c4c; border-bottom: 1px solid #4c4c4c;  max-width:300px; width: 300px; min-width:300px;">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161416d694651bd8688a2683b5bacd425ce49e5680bfb365e56724e6e05bfedec38fc8f0f10f113500557011aa6c01123df9ad6180af01015801d" style="text-decoration: none; color: #4c4c4c;" target="_blank">Shop Gifts</a></td><td style="border-top: 1px solid #4c4c4c; border-bottom: 1px solid #4c4c4c; max-width:300px; width: 300px; min-width:300px;">
+    <a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141821ac6c9e75ea6afd598dbb62131aac8a8d9886353f21f24f8ccf779b1156783ab948977687338fbb33dd5003710dedc7e428e4a3f389748" style="text-decoration: none; color: #4c4c4c;" target="_blank">Find a store</a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0">
+	
+		<tr>
+			<td align="center" style="width: 600px; padding: 20px 0px 20px 0px; border-top: 0px solid #4c4c4c;">
+				<table cellpadding="0" cellspacing="0" class="social-icons">
+					
+						<tr>
+							<td align="center" style="width: 78px; padding: 0px 0px 0px 0px;">
+								<a  alt="Pinterest" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a16141a7b1ac8223017a259b314786145f8a1aabd09f634bd1432be0d34f62bea4299a811bb66d4d6d6cffa6e9d450cc86f481" target="_blank"><img alt="Pinterest" border="0" src="http://image.exct.net/lib/fecd167275640174/m/1/6d3f81f8-0503-4b56-8659-4f382fa9ad72.png" style="display: block; margin: 0; border: 0; max-width: 100%;" width="46"> </a></td><td align="center" style="width: 78px; padding: 0px 0px 0px 0px;">
+								<a  alt="Facebook" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614146986701ed7d4682a061fec21e73f96630d0c728375ef3c887a1a0b8a70e8d8663dbbac1afe815831088932eaa56f4a0" target="_blank"><img alt="Facebook" border="0" src="http://image.exct.net/lib/fecd167275640174/m/1/b6b7f86a-2379-4d9a-85fb-3535df97dacb.png" style="display: block; margin: 0; border: 0; max-width: 100%;" width="46"> </a></td><td align="center" style="width: 78px; padding: 0px 0px 0px 0px;">
+								<a  alt="TikTok" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161416b605f2f860706c74bf3d260c3e3d222d437ad26bac2c39a1ce49dca19a3ac8f2d566aa8cd213b51ba21b8f2265d2067" target="_blank"><img alt="TikTok" border="0" src="https://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/28/8169bcb8-e8f0-4885-8ed2-28f5bfe7d007.png" style="display: block; margin: 0; border: 0; max-width: 100%;" width="46"> </a></td><td align="center" style="width: 78px; padding: 0px 0px 0px 0px;">
+								<a  alt="Instagram" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161414cb153ef5c424f5202a0cf698c736ccb404df131084cef3541423313ef27261432f654228d9b0553506faf9975d5e7ca" target="_blank"><img alt="Instagram" border="0" src="http://image.exct.net/lib/fecd167275640174/m/1/906e0e5d-50ae-4d59-b49e-fd19a91f1e20.png" style="display: block; margin: 0; border: 0; max-width: 100%;" width="46"> </a></td><td align="center" style="width: 78px; padding: 0px 0px 0px 0px;">
+								<a  alt="YouTube" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161411c63ef11cec9d76079ffe2a698bf558825872ed3e3676a65e37621d3a46e5bf3db78005990a06aa8bafb87fefae7d932" target="_blank"><img alt="YouTube" border="0" src="http://image.exct.net/lib/fecd167275640174/m/1/a0ae4661-b6eb-47e0-abbe-5851c3752b51.png" style="display: block; margin: 0; border: 0; max-width: 100%;" width="46"> </a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+	
+		<tr>
+			<td align="center" class="logo" style="padding: 0px 0px 5px 0px;">
+				<img src="http://image.e-mail.hallmark.com/lib/fe8c1372736d0c7e75/m/12/9b3a7527-b3bf-4532-bf13-55fd8fa0a0da.jpg" style="display: block; margin: 0; border: 0; max-width: 100%; width: 100%;" width="100%"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left" style="padding: 0px 10px 0px 10px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #4c4c4e;">
+     <strong>  CROWN REWARD MEMBERS:</strong> Membership information may not reflect recent activity. To see your most up-to-date information, <b><a   href="https://click.e-mail.hallmark.com/?qs=9af1c190622afed2f53f138ba42fc56bee8544eb554bbffe5a8b7d47d9407c2fb4d0b7cbe77f4b0305f57aeb956627b09a9a70f92a2f583e0ec52a98bb1ac7d8" style="color:#4c4c4c;text-decoration:none;">click here</a></b>. For full program details, <b><a   href="https://click.e-mail.hallmark.com/?qs=9af1c190622afed2179ec6aa1eaedcb1b22fd509671b2e050eb6b8e244277a03bcd933d6f8c656529d2caef630a06fdaf7d221c934ff6c55c25faa37cdf69513" style="color:#4c4c4c;text-decoration:none;">click here</a></b>.<br><br></td></tr></table></td></tr></table> </td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%">
+ 
+  <tr>
+   <td align="left" style="padding: 0px 10px 0px 10px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #4c4c4e;">
+    <b>Exclusions:&nbsp;</b> Limit one free Sign & Send card per person.&nbsp;&nbsp;Crown Rewards membership required. Not valid on past purchases.&nbsp;<b>Consumer: 
+ Must be logged into your Crown Rewards account at checkout and online promo code must be used.</b>&nbsp;Offer valid through 6/30/22&nbsp;only at Hallmark.com&nbsp;and only for Sign & Send eligible greeting cards. Hallmark.com orders require U.S. billing and mailing addresses.&nbsp;
+<b>Consumer:</b>&nbsp;Use online code <b>SIGNANDSEND</b>&nbsp;at checkout.<br>
+    <br>
+ 
+    &nbsp;</td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0">
+	
+		<tr>
+			<td align="center" style="width: 600px; padding: 23px 0px 0px 0px;">
+				<table cellpadding="0" cellspacing="0" width="100%">
+					
+						<tr>
+							<td align="center" style="padding: 0px 30px 30px 30px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #4c4c4e;">
+								<a alias="address" class="line-break" href="mailto:hallmark@e-mail.hallmark.com" style="color: #4c4c4e;" target="_blank">Add us to your address book</a> <span class="mobile-hide">&nbsp;|&nbsp;</span> <a  class="line-break" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614142ed3d4e3b0736f96597434ab293a78a79cc0c988489c1f5b52db4bd348cd2daf84c7665e46606015f52df3899f8493c" style="color: #4c4c4e;" target="_blank">Privacy Policy</a> <span class="mobile-hide">&nbsp;|&nbsp;</span> <a  class="line-break" href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a161414d49dd9109fa9c9c73c71c5b5403222e28d868b1353d37cba321e3e4d9c396e4ec4646fbb4a732cd715b74ad99c3f803" style="color: #4c4c4e;" target="_blank">Customer Service</a> <span class="mobile-hide">&nbsp;|&nbsp;</span> 
+<a  href="https://click.e-mail.hallmark.com/?qs=3df3bbccf7a1614151ce450e30d3609f4e235c5e5243828b504872395b01e13f0384dcddcbb21d8b9607354933a297590d78dfaa00ee6ac2e3fb57f5c36f32db" style="color: #4c4c4e;" target="_blank">1-Click Unsubscribe</a><br>
+								Hallmark Cards, Inc., 2501 McGee, P.O. Box 419034, Kansas City, MO 64141<br>
+								<span>&copy;</span>&nbsp;2022&nbsp;Hallmark Licensing, LLC</td></tr></table></td></tr></table></td></tr></table>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            
+  
+            
+          </td>
+        </tr>
+      </table>
+      <!-- Exact Target tracking code -->
+      <img src="https://click.e-mail.hallmark.com/open.aspx?ffcb10-fed0167276640475-fe6c17707261057d7614-fe8c1372736d0c7e75-ff951579-fe651579756505787317-fefd1676756002&d=70172&bmt=0" width="1" height="1" alt="">
+        </body>
+      </html>
+
+--0EUHWrtNuiIF=_?:--
+

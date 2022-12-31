@@ -1,0 +1,1061 @@
+Return-Path: bounce-19_HTML-5679799-653004-6249493-12694@bounce.t.kohls.com
+Received: from mx03.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.43)
+ by md13.aqua.sync.lan with LMTP; Mon, 4 Nov 2019 09:19:39 -0500 (EST)
+Return-Path: <bounce-19_HTML-5679799-653004-6249493-12694@bounce.t.kohls.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.3 cv=LK0Yv6e9 c=1 sm=1 tr=0 b=1 cx=a_idp_d a=/c3LR/GPKn1dn6l4BVMkTQ==:117 a=/c3LR/GPKn1dn6l4BVMkTQ==:17 a=KGjhK52YXX0A:10 a=IkcTkHD0fZMA:10 a=6giede-wJD4A:10 a=MeAgGD-zjQ4A:10 a=5KLPUuaC_9wA:10 a=SSmOFEACAAAA:8 a=DYCxyh8gAAAA:8 a=0rCVaXwTAAAA:8 a=o2QoyYduAAAA:8 a=E1L9jGidAAAA:8 a=Lj-FhzfTAAAA:8 a=3dmE9pB9xs2t5mZCjdQA:9 a=N-wR3lWwSBnpefi-:21 a=xzrt9lpDMeTE0jNm:21 a=wY3ZqUIZn7Mq952z:21 a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10 a=QEXdDO2ut3YA:10 a=RuJWqldkRFsA:10 a=5kG5LtRPOfsA:10 a=SRD58Kjar-FrDRMrJIRk:22 a=S50rnUa8yRbNnh2hyxzf:22 a=zj_XsxPeL4dJTamw-mo3:22 a=mcAH2pKSSm4w5mgSA03D:22 awl=host:16601
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [198.245.93.223] (helo=mta2.t.kohls.com)
+Received: from [198.245.93.223] ([198.245.93.223:33391] helo=mta2.t.kohls.com)
+	by mx.windstream.net (envelope-from <bounce-19_HTML-5679799-653004-6249493-12694@bounce.t.kohls.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 9E/29-28898-B7330CD5; Mon, 04 Nov 2019 09:19:39 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=t.kohls.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type:
+ Content-Transfer-Encoding; i=Kohls@t.kohls.com;
+ bh=6cnxtZ0gQdh8qy770Z+9ucK7dIc8cEnZDdDbDcm7cVw=;
+ b=g7e/7Gjicc6vu17WCexsgogiMrwpUzJ2CeWquRvHdrwe81t1DAdvHGZ8L35SOKvP5YKDqtO1emLy
+   UWfXYrI/nF9/zX10ySTEiGdqLbFmfIxCqSF9fPju4xVETVeXAnC0Ujmaj3v1BpKZV0JEv/daUqI4
+   0Lzc8yxI5L8rCTV+rck=
+Received: by mta2.t.kohls.com id ho0ppk2fmd4f for <katielee529@windstream.net>; Mon, 4 Nov 2019 14:20:10 +0000 (envelope-from <bounce-19_HTML-5679799-653004-6249493-12694@bounce.t.kohls.com>)
+From: "Kohl's" <Kohls@t.kohls.com>
+To: <katielee529@windstream.net>
+Subject: =?UTF-8?B?TmljZSB3b3JrISBIZXJl4oCZcyB5b3VyIEtvaGzigJlzIENhc2gu?=
+Date: Mon, 04 Nov 2019 08:19:38 -0600
+MIME-Version: 1.0
+Reply-To: "Kohl's" <reply-fecd127576640479-19_HTML-5679799-6249493-12694@t.kohls.com>
+List-ID: <6241319.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 6249493_653004
+Message-ID: <864f4ef2-8786-481e-b64f-480caf49aacf@ind1s06mta1118.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Kohls Cash</title>
+<style type="text/css">
+  /* Forces Hotmail to display emails at full width */
+  .ReadMsgBody {
+    width: 100%;
+  }
+  /*Hotmail table centering fix*/
+  .ExternalClass {
+    width: 100%;
+  }
+  /* Forces Hotmail/Outlook to display normal line spacing*/
+  .ExternalClass * {
+    line-height: 100%;
+  }
+  /*Yahoo paragraph fix*/
+  p {
+    margin: 1em 0;
+  }
+  /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+  table td {
+    border-collapse: collapse;
+  }
+  /*viewport width scaling for all devices*/
+   @-ms-viewport {
+   width: device-width;
+  }
+  /*This resolves the issue when iphone puts links on dates, etc.*/
+  .appleLinks {
+    color: inherit;
+    text-decoration: none;
+  }
+  .appleLinks a {
+    color: inherit;
+    text-decoration: none;
+  }
+  body[yahoo] .autoht, .header-myaccount, .header-customerservice {
+    height: inherit !important;
+  }
+
+  /*Mobile - Media Queries Starts - 320X480 Screen*/
+  @media screen and (max-width: 480px) {
+    body[yahoo] .header-mobile-hidden {
+			display: none !important;
+		}
+		body[yahoo] .header-logoimg {
+			width: 121px !important;
+			height: inherit !important;
+		}
+		body[yahoo] .header-logo {
+			padding-right: 10px !important;
+		}
+		body[yahoo] .header-bopusimg {
+			width: 100% !important;
+			height: auto !important;
+			max-width: 239px !important;
+		}
+		body[yahoo] .header-mobilenav {
+			width: 156px !important;
+		}
+		body[yahoo] .header-myaccount {
+			width: 60px !important;
+			height: inherit !important;
+		}
+		body[yahoo] .header-customerservice {
+			width: 92px !important;
+			height: inherit !important;
+		}
+		body[yahoo] .header-menuborder {
+			height: 10px !important;
+		}
+		body[yahoo] .header-menufont, .header-menufont a, .header-menufont a span {
+			font-size: 11px !important;
+			color: #000001 !important;
+		}
+		body[yahoo] .header-menufontlast, .header-menufontlast a, .header-menufontlast a span {
+			font-size: 11px !important;
+			color: #fd232b !important;
+		}
+		body[yahoo] .header-menupad {
+			padding: 0 8px 0 8px !important;
+		}
+		body[yahoo] .header-menupad-first {
+			word-wrap: normal !important;
+			padding: 0 8px 0 0 !important;
+		}
+		body[yahoo] .header-menupad-last {
+			word-wrap: normal !important;
+			padding: 0 0 0 8px !important;
+		}
+      body[yahoo] .footer-drop {
+			width: 100% !important;
+			float: left !important;
+			display: block !important;
+			text-align: left !important;
+		}
+		body[yahoo] .footer-fullwidth {
+			width: 100% !important;
+		}
+		body[yahoo] .footer-noborder {
+			border: 0 !important;
+		}
+		body[yahoo] .footer-toppad {
+			padding-top: 20px !important;
+		}
+		body[yahoo] .footer-width-auto {
+			width: auto !important;
+		}
+		body[yahoo] .footer-width90 {
+			width: 90% !important;
+		}
+		body[yahoo] .footer-nopadtp {
+			padding-top: 0 !important;
+		}
+      body[yahoo] .recs-mobile-hidden {
+	    display:none !important;
+	    padding: 0 !important;
+		}
+		body[yahoo] .recs-mobile-show {
+			display: block !important;
+			margin: 0 !important;
+			padding: 0 !important;
+			overflow: visible !important;
+			width: auto !important;
+			max-height: inherit !important;
+		}
+	  body[yahoo] img.recs-header-img {
+	    width:290px !important;
+	    display:block !important;
+	    height:auto !important;
+	    float:none !important;
+	  }
+		body[yahoo] .recs-nopadtp {
+			padding-top: 0 !important;
+		}
+		body[yahoo] .recs-fnt19 {
+			font-size: 19px !important;
+		}
+		body[yahoo] .recs-alg-center {
+			text-align: center !important;
+		}
+		body[yahoo] .recs-drop {
+			width: 100% !important;
+			float: left !important;
+			display: block !important;
+			text-align: left !important;
+		} 
+
+    /*Do not show in mobiles*/
+    body[yahoo] .mobile-hidden {
+      display: none !important;
+    }
+    /*Shows in mobiles*/
+    body[yahoo] .mobile-show {
+      display: block !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: visible !important;
+      width: auto !important;
+      max-height: inherit !important;
+    }
+    body[yahoo] .button-mobile-show {
+      line-height: 16px !important;
+      heigth: 28px !important;
+      display: table-cell !important;
+      max-height: inherit !important;
+      overflow: visible !important;
+      font-size: 13px !important;
+    }
+    /*Table,Td resize*/
+    table[class=resize_table_to_320], td[class=resize_table_to_320] {
+      width: 100% !important;
+      height: auto;
+      margin: 0 auto;
+    }
+    body[yahoo] .subfooter-pad {
+      padding-right: 15px !important;
+    }
+    body[yahoo] .bordermobile {
+      border-left: 1px solid #cccccc;
+      border-right: 1px solid #cccccc;
+      border-bottom: 1px solid #cccccc;
+      padding-bottom: 25px;
+    }
+    body[yahoo] .drop {
+      width: 100% !important;
+      float: left !important;
+      display: block !important;
+      text-align: left !important;
+    }
+    body[yahoo] .drop-center {
+      width: 100% !important;
+      float: left !important;
+      display: block !important;
+    }
+    body[yahoo] .photo {
+      width: 100% !important;
+      height: auto !important;
+    }
+    body[yahoo] .spacer15 {
+      width: 1px !important;
+      height: 15px !important;
+    }
+    body[yahoo] .spacer30 {
+      width: 1px !important;
+      height: 30px !important;
+    }
+    body[yahoo] .zeropadrt {
+      padding-right: 0px !important;
+    }
+    body[yahoo] .item-fs15 {
+      font-size: 15px !important;
+    }
+    body[yahoo] .item-mobpadhdr {
+      padding-top: 15px !important;
+    }
+    *.item-midcontwidth {
+      width: 320px !important;
+      padding-right: 0px !important;
+    }
+    body[yahoo] .mid-contpad {
+      padding-top: 15px;
+      padding-bottom: 22px;
+      font-size: 12px !important;
+      font-weight: bold !important;
+    }
+    body[yahoo] .mid-contpad2 {
+      padding-top: 15px;
+      padding-bottom: 7px;
+      font-size: 12px !important;
+      font-weight: bold !important;
+    }
+    body[yahoo] .mid-contpad3 {
+      padding-bottom: 7px;
+      font-size: 12px !important;
+      font-weight: bold !important;
+    }
+    body[yahoo] .zeropad {
+      padding: 0px !important;
+    }
+    body[yahoo] .item-gwp {
+      padding: 14px 0 !important;
+    }
+    body[yahoo] .yppad {
+      text-align: left !important;
+      font-size: 10px !important;
+    }
+    body[yahoo] .yppad1 {
+      text-align: left !important;
+      font-size: 10px !important;
+      padding: 14px 0px 2px 0 !important;
+    }
+    body[yahoo] .fnt10 {
+      font-size: 10px !important;
+    }
+    body[yahoo] .width130 {
+      width: 130px !important;
+      padding-top: 0 !important;
+      height: inherit !important;
+    }
+    body[yahoo] .display-inline {
+      display: inline !important;
+      float: left !important;
+    }
+    body[yahoo] .width130left {
+      width: 130px !important;
+      padding-right: 28px !important;
+    }
+    body[yahoo] .mobpad {
+      padding: 20px 15px 25px !important;
+    }
+    body[yahoo] .fnt9 {
+      font-size: 9px !important;
+    }
+    body[yahoo] .nopadtp {
+      padding-top: 0 !important;
+    }
+    body[yahoo] .txtalignleft {
+      text-align: left !important;
+      padding-left: 3px;
+    }
+    body[yahoo] .padgpick {
+      padding-top: 35px !important;
+    }
+    body[yahoo] .bordermob {
+      border-bottom: 1px solid #cccccc !important;
+      border-top: 1px solid #cccccc !important;
+    }
+    body[yahoo] .nopadtpnbt {
+      padding-top: 0px !important;
+      padding-bottom: 0 !important;
+    }
+    body[yahoo] .padrtzero {
+      padding-right: 0px !important;
+    }
+    body[yahoo] .colorblk {
+      color: #000001 !important;
+    }
+    body[yahoo] .fnt13 {
+      font-size: 13px !important;
+    }
+    body[yahoo] .yrs {
+      font-size: 16px !important;
+    }
+    body[yahoo] .yrstp {
+      padding-top: 20px !important;
+    }
+    body[yahoo] .fnt19 {
+      font-size: 19px !important;
+    }
+    body[yahoo] .padrt15 {
+      padding-right: 15px !important;
+    }
+    body[yahoo] .padrt13 {
+      padding-right: 14px !important;
+    }
+    body[yahoo] .alg-center {
+      text-align: center !important;
+    }
+    body[yahoo] .moborderpad {
+      padding-top: 20px !important;
+    }
+    body[yahoo] .mobbotpadbtn {
+      padding-bottom: 20px;
+    }
+    body[yahoo] .fnsz12 {
+      font-size: 12px !important;
+    }
+    body[yahoo] .fnt20 {
+      font-size: 20px !important;
+      line-height: 20px !important;
+    }
+    body[yahoo] .pickup-mobpickpad {
+      padding-bottom: 12px !important;
+    }
+    body[yahoo] .nhpad {
+      padding-top: 5px !important;
+      padding-bottom: 35px !important;
+    }
+    body[yahoo] .nopadtop {
+      padding-top: 0px !important;
+    }
+    body[yahoo] .nopadlft {
+      padding-left: 0px !important;
+    }
+    body[yahoo] .col46 {
+      color: #464646 !important;
+    }
+    body[yahoo] .ordersummary-padbtos {
+      padding-bottom: 12px !important;
+    }
+    body[yahoo] .earning-padbtye {
+      padding-bottom: 12px !important;
+      padding-top: 40px !important;
+    }
+    body[yahoo] .fnt16 {
+      font-size: 16px !important;
+    }
+    body[yahoo] .lhmob {
+      line-height: 13px !important;
+    }
+    body[yahoo] .mobilenav {
+      width: 156px !important;
+    }
+    body[yahoo] .nopadlr {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+    }
+    body[yahoo] .width-ed {
+      max-width: 140px !important;
+    }
+    body[yahoo] .widthaddr {
+      max-width: 150px !important;
+    }
+    body[yahoo] .width140 {
+      max-width: 140px !important;
+    }
+    body[yahoo] .width130 {
+      max-width: 130px !important;
+    }
+    body[yahoo] .padtopzero {
+      padding-top: 0 !important;
+    }
+    body[yahoo] .display-inline-right {
+      float: right !important;
+      display: inline !important;
+    }
+    body[yahoo] .maxwidth-content {
+      max-width: 350px !important;
+    }
+    body[yahoo] .kohls-cashdetails {
+      padding: 12px 5px !important;
+    }
+    body[yahoo] .kohls-cash-lespad {
+      padding-left: 0px !important;
+      padding-top: 20px;
+    }
+    body[yahoo] .center-img {
+      display: block !important;
+      margin: 0 auto;
+    }
+    body[yahoo] .fnt10 {
+      font-size: 10px !important;
+    }
+    body[yahoo] .fnt14 {
+      font-size: 14px !important;
+    }
+    body[yahoo] .width273 {
+      width: 273px !important;
+    }
+    body[yahoo] .kohls-cash-leftpad {
+      padding-left: 8px !important;
+    }
+    body[yahoo] .kohlscash-widthgsmob {
+      width: 140px !important;
+    }
+    body[yahoo] .disinline {
+      display: inline !important
+    }
+    body[yahoo] .padb15 {
+      padding-bottom: 15px !important;
+    }
+  }
+</style>
+</head>
+<body class="appleLinks" bgcolor="#FFFFFF" style="margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;line-height:16px; mso-line-height-rule:exactly;" yahoo="fix"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Spend it in store, online and at the kiosk.</div>
+<!-- ET Tracking Code-->
+<img src="http://click.t.kohls.com/open.aspx?ffcb10-fecd127576640479-fe6015717661077b711c-fe8a1272716d007476-ff951579-fe7b1176726d03747c-fef91572736d00" width="1" height="1">
+<!-- `date "+ET%m.%y"` --> 
+<!-- Table used to center email Starts-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" valign="top" style="padding: 15px 0px 20px 0px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #888888;" bgcolor="#ffffff" class="nopadtop">
+      <div align="center"> 
+        <!-- Table used to set width of email -->
+        <table class="resize_table_to_320" border="0" cellpadding="0" cellspacing="0" width="640" bgcolor="#ffffff">
+          <!--Header starts-->
+          <!--VAWP starts-->
+          <tr>
+            <td align="right" valign="top" style="padding: 10px 10px 10px 0;">
+              <a href="http://view.t.kohls.com/?qs=a617390724530a673f9e504dd1022dcb48dbf430c22a7f844cdd3ae1f1a5508c41d74cccce04c67a103ea614a56561e331dc3d44966a7d09e0a641c8eeff3a6831cc90de2b025ea1d0605a39f8a030b1" target="_blank" style="color: #00add8; text-decoration: none;" ><span style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #454545; text-decoration: underline;">View this email in a browser</span></a>
+            </td>
+          </tr>
+          <!--VAWP ends-->
+
+          <!--Header starts-->
+          <tr>
+            <td align="center" valign="top" bgcolor="#454545" style="padding-top:10px; padding-bottom:8px;">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="header-logo" align="left" valign="top" style="padding-left:12px; padding-right:205px;"><a href="http://click.t.kohls.com/?qs=51ec9847ade638510ec9f09f7a04ba9b37b48df750867dd3f8201e779a146abf404caa081c151fc4083dae21a478116fd5c1908f34165686"  target="_blank" style="text-decoration:none"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Order_Confirmation_03.jpg" class="header-logoimg" width="151" height="22" border="0" alt="KOHL'S"/></a></td>
+                  <td class="header-mobilenav" align="left" valign="middle">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td align="left" valign="middle" style="font-size:0%;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851d09103651ea003708e116c39404a6f6ff1dae7f82e2a91232545fb1bb0ff72544a1509c0d274e0d9f71f0ec2cee4f1d4"  target="_blank" style="text-decoration:none;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Order_Confirmation_06.jpg" width="96" class="header-myaccount" height="11" border="0" alt="MY ACCOUNT"/></a></td>
+                        <td align="left" valign="middle" style="padding-right:6px; padding-left:4px; font-size:0%"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Order_Confirmation_08.jpg" width="2" class="header-menuborder" height="14" border="0" alt=""/></td>
+                        <td align="left" valign="middle"  style="padding-right:12px; font-size:0%;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851538838cfcb4765b9244f14bfadc341c0004bcdee850dceef2ae471d6f2a8473b7148ba385cea42a978eb8528582722a3"  target="_blank" style="text-decoration:none"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Order_Confirmation_10.jpg" class="header-customerservice" width="145" height="11" border="0" alt="CUSTOMER SERVICE"/></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!--Header ends--> 
+          
+          <!--Header Menu starts-->
+          <tr>
+            <td align="left" valign="top">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+               <tr>
+                  <td align="center" valign="top" style="padding-top:15px;">
+                    <table border="0" cellspacing="0" cellpadding="0" align="center">
+                      <tr>
+                        <td align="center" valign="middle" class="header-menufont header-menupad-first" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #454545;"><a href="http://click.t.kohls.com/?qs=51ec9847ade638513f2f34da19f353a1348716b88efc68ce100ce98d113a623610921b5da1f3678a18eaac5ab6bfa4056a40420097ac9435"  target="_blank" style="text-decoration:none;color: #454545;"><span style="color: #454545;">FOR THE HOME</span></a></td>
+                        <td align="center" valign="middle" class="header-menufont header-menupad" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #454545;"> <a href="http://click.t.kohls.com/?qs=51ec9847ade63851c7bbdd5c11d724266693cf554784c3d9351ba63159d3722753eb76d8ae089dd41178f50865ffec876843aae2b24f7ff9"  target="_blank" style="text-decoration:none;color: #454545;"><span style="color: #454545;">WOMEN</span></a> </td>
+                        <td align="center" valign="middle" class="header-menufont header-menupad" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #454545;"><a href="http://click.t.kohls.com/?qs=51ec9847ade6385156ae57251acf21bae8cb46fd55412339e4ea12ce8d4549b9cc8e78a9381502a131e19a86908f73332b3d339db553e701"  target="_blank" style="text-decoration:none;color: #454545;"><span style="color: #454545;">MEN</span></a></td>
+                        <td align="center" valign="middle" class="header-menufont header-menupad" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #454545;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851f1c0ce1df34666bab2807e26060db826e63f67fbdafeafd416ccd1bf8f56174a1e3eec5053fab8559b51fc4f7ca74103"  target="_blank" style="text-decoration:none;color: #454545;"><span style="color: #454545;">KIDS</span></a></td>
+                        <td align="center" valign="middle" class="header-menufont header-menupad header-mobile-hidden" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #454545;"><a href="http://click.t.kohls.com/?qs=51ec9847ade638511e3f47a7dad4fae9d30096a6b9800f9592abbdd508cb6ab04870a7fbf8c10ddba958347c20e1f2c29290e96508b09b35"  target="_blank" style="text-decoration:none;color: #454545;"><span style="color: #454545;">BABY</span></a> </td>
+                        <td align="center" valign="middle" class="header-menufontlast header-menupad-last" style="padding:0 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; font-weight:bold; color: #fd232b;"><a href="http://click.t.kohls.com/?qs=51ec9847ade6385170511bb6bd9e957450c11f63f2151e86173600e1fb1c1c8c232663aa6d1c07aa775baff7567b56e35e005dca5f4017d5"  target="_blank" style="text-decoration:none;color: #fd232b;"><span style="color: #fd232b;">CLEARANCE</span></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!--Header Menu ends-->
+          <!--Header ends--> 
+
+          <!--Summary starts-->
+          <tr>
+            <td align="left" valign="top">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <!--Body Starts--> 
+
+                <!--Kohls Cash Starts-->
+                       <tr>
+                        <td align="center" valign="top" bgcolor="#ffffff" style="padding-left:12px; padding-right:12px; padding-top:35px;" class="moborderpad">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td align="left" valign="top" class="drop">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; mso-line-height-rule:exactly; font-size: 24px; font-weight:bold; color: #000001; line-height:30px; padding-right:55px;" class="fnt20 colorblk alg-center padrtzero">You earned Kohl's Cash</td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td align="left" valign="top" width="200" class="mobile-hidden">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td align="center" bgcolor="#95c96f" valign="middle" width="200" height="42" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; color: #ffffff; font-weight:bold;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851c7726c74076345e72c3bc6cb4da39551b5bd968646079d54e643b0651ddc37d49de2e22ad75fd5c5fdc243b3d5ffbdd38afa11d91dc2d5bd"  target="_blank" style="text-decoration:none;color: #ffffff; display:block;">START SHOPPING</a></td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; mso-line-height-rule:exactly; font-size: 18px; color: #000001; padding-left:12px; padding-right:12px; padding-top:10px; line-height:20px;" class="fnsz12 alg-center lhmob padb15"><span style="font-weight:bold;" class="display-blk">Nice work!</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" style="padding-bottom:15px;"> 
+                          <!-- Div used to Hide the Content - Ends--> 
+                          <!--[if !mso]><!-->
+                          <div class="mobile-show" style="font-size: 0%; max-height: 0; overflow: hidden; display: none;">
+                            <table width="180" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td align="center" bgcolor="#95c96f" valign="middle" width="255" height="30" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 10px; color: #ffffff;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851c7726c74076345e72c3bc6cb4da39551b5bd968646079d54e643b0651ddc37d49de2e22ad75fd5c5fdc243b3d5ffbdd38afa11d91dc2d5bd"  target="_blank" style="text-decoration:none;color: #ffffff; display:block;">START SHOPPING</a></td>
+                              </tr>
+                            </table>
+                          </div>
+                          <!--<![endif]--> 
+                          <!-- Div used to Hide the Content - Ends--></td>
+                      </tr>
+
+                      <tr>
+                        <td bgcolor="#e9f4cc" class="kohls-cashdetails" align="center" valign="top" style="padding-left:15px; padding-bottom:15px; padding-top:15px; padding-right:15px;">
+                          <table width="100%" class="width273" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td align="center" valign="top" class="drop-center"><img style="display:block;color:#00ac4d; font-family:Arial, Helvetica, sans-serif; font-size:28px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/Kohls_Cash_Green.png" width="273" height="141" border="0" alt="KOHL'S cash" /></td>
+                              <td align="left" valign="top" style="padding-left:25px;" class="drop kohls-cash-lespad appleLinks">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td align="left" valign="middle" class="fnt10 kohls-cash-leftpad" style="font-family: Arial, Helvetica, sans-serif; line-height:22px; mso-line-height-rule:exactly; font-size: 12px; color: #000001; padding-bottom:6px;">KOHL'S CASH VALUE: <span style="color: #000001; font-size:22px; font-weight:bold; text-decoration:none;" class="fnt16">$15.00</span></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" valign="middle" class="fnt10 kohls-cash-leftpad" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #000001; padding-bottom:12px;">KOHL'S CASH NUMBER: <span style="color: #000001; font-size:15px; font-weight:bold; text-decoration:none;" class="fnt14">251577650916301</span></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" valign="middle" class="fnt10 kohls-cash-leftpad" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #000001; padding-bottom:14px;">PIN: <span style="color: #000001; font-size:15px; font-weight:bold; padding-right:15px; text-decoration:none;" class="fnt14">6464</span> VALID: <span style="color: #000001; font-size:15px; font-weight:bold; text-decoration:none;" class="fnt14">11/02/2019-11/14/2019</span></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="center" valign="top">
+                                      <table border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                          <td width="200" bgcolor="#FFFFFF" align="center" valign="top" style="padding-top: 12px;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:15px;" class="center-img" src="http://cl.s6.exct.net/LiveContent.aspx?qs=cecded5c8ee4d32bffd4dbd9d0e7b131b4d6de96b13cb616bab4f0d98a122f615d5c25013d39409dc2e14ddea8f4129731ce73c688e4b6b0a5c912cdbb1071b592152baf8f54a78c124c8c9be28cb7636b6bf95951181689bd4c14e77a2a0dee" width="200" height="50" border="0" alt="" /></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#e9f4cc" align="center" valign="top"><img class="photo" style="display:block;color:#00ac4d; font-family:Arial, Helvetica, sans-serif; font-size:28px;" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/Cash_Border_Green.png" width="640" border="0" alt="" /></td>
+                      </tr>
+
+                      <!-- KC Extender Start -->
+
+                      <tr>
+                        <td class="mobile-hidden" align="left" valign="top" style="padding-top:10px;">
+                    <table width="640px" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="top">
+
+<table width="640px" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+    <td rowspan="4"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Desktop_01.jpg" width="360" height="190" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+</tr>
+
+<tr>
+    <td colspan="2"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Desktop_02.jpg" width="280" height="53" alt="take an extra 15% off using promo code SHOPTODAY. shop now." style="display:block;"></a></td>
+</tr>
+    
+    
+<tr>
+    <td><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_barcode.png" width="164" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+    
+    <td><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Desktop_04.jpg" width="116" height="59" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>  
+</tr>
+
+<tr>
+    <td colspan="2"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Desktop_05.jpg" width="280" height="78" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+                    </td>
+                  </tr>
+
+                      <!--[if !mso]><!-->
+                      <tr>
+                        <td align="middle" valign="top" style="padding-top:10px;">
+                          <div class="mobile-show" style="font-size: 0%; max-height: 0; overflow: hidden; display: none;">
+                        <table width="320px" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <td align="center" valign="top">
+  
+  <table width="320px" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td colspan="3"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Mobile_01.jpg" alt="take an extra 15% off using promo code SHOPTODAY. shop now." width="320" height="197" style="display:block;" border="0"></a></td>
+ </tr>
+ 
+   <tr>
+      <td><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Mobile_02.jpg" width="42" height="59" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+      
+      <td><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_barcode.png" width="164" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+      
+      <td><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Mobile_04.jpg" width="114" height="59" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+ </tr>
+ 
+  <tr>
+      <td colspan="3"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc2f48089f999272f03216b1f7f59e1e58febc23e94c65791be3950be71ebc6edeed125e46f0d442b4985bd6f80c9ec3"><img src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/2/KC_Extender_191101_Mobile_05.jpg" height="67" width="320" alt="take an extra 15% off using promo code SHOPTODAY. shop now." border="0" style="display:block;"></a></td>
+ </tr>
+      
+</table>
+
+  </td>
+  </tr>
+
+        
+  </table>
+                          </div>
+                    </td>
+                  </tr>
+                      <!--<![endif]--> 
+
+                      <!-- KC Extender End -->
+
+                      <tr>
+                        <td align="left" valign="top" style="padding-top:30px; padding-bottom:30px;">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td class="drop padrtzero" width="280" align="left" valign="top" style="padding-right:36px">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td class="alg-center" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; color: #000001; font-weight:bold; padding-bottom:4px;">Always have your Kohl's Cash on hand</td>
+                                  </tr>
+                                  <tr>
+                                    <td class="alg-center" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #464646; padding-bottom:10px;">You'll never forget your Kohl's Cash when it's stored in the Kohl's App. Use the Wallet feature 
+                                      and keep every coupon at your fingertips.</td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" class="center-img kohlscash-widthgsmob" valign="top" width="180">
+                                      <table class="kohlscash-widthgsmob" width="180" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                          <td height="28" width="180" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #000001; border: 1px solid #000001; font-weight:bold;" class="fnt13"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851381ba646da92d125c542c76fc3f3d606f425d23333dcc22157f027c7b9c1d40ea3ee3ea44c9364a8492b62a6dae8fed9933a3c670821e44d"  target="_blank" style="text-decoration:none;color:#000001; display:block;"><span style="color:#000001;">ADD TO WALLET</span></a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <!-- <td class="drop moborderpad padrtzero" class="mobile-hidden" width="285" align="left" valign="top" style="padding-right:15px;"> -->
+                              <td class="mobile-hidden" width="285" align="left" valign="top" style="padding-right:15px;">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td class="alg-center" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 14px; color: #000001; font-weight:bold; padding-bottom:4px;">See your balance online</td>
+                                  </tr>
+                                  <tr>
+                                    <td class="alg-center" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #464646; padding-bottom:10px;">Used some of your Kohl's Cash and not sure how much is left? Look up the remainder anytime.</td>
+                                  </tr>
+                                  <tr>
+                                    <td class="padtopzero center-img" align="left" valign="top" width="180" style="padding-top:16px;">
+                                      <table width="180" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                          <td height="28" width="180" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #000001; border: 1px solid #000001; font-weight:bold;" class="fnt13"><a href="http://click.t.kohls.com/?qs=51ec9847ade6385176daa9eda38b741a802c59674da914554b38b858b0357ab6381496c1f779f236d86f83e09883b16826e41d2b02c826a4ec9d5bda32ee8c12"  target="_blank" style="text-decoration:none;color:#000001; display:block;"><span style="color:#000001;">CHECK YOUR BALANCE</span></a></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!--Kohls Cash Ends--> 
+                <!--Question Ends-->
+                <tr>
+                  <td align="left" valign="top" style="padding-bottom:15px; padding-left:12px; padding-right:12px;border-top: 1px solid #cccccc;">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td align="left" valign="top" class="alg-center" style="font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size: 18px; color: #000001; font-weight:bold; padding-top:30px;">Questions about Kohl's Cash?</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="middle"  class="alg-center" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 12px; color: #464646;padding-top:12px;">View the <a href="http://click.t.kohls.com/?qs=51ec9847ade6385174c85c2fd8ab429686c54336a8964211227eb1b14d739779f19e3076828aa2f73f657496bb6c385760e4ec8d58451dcf5e480e19bd2d09c5"  target="_blank" style="text-decoration:underline;color: #000001;"><span style="color: #000001;">Kohl's Cash Overview</span></a> for info on using your Kohl's Cash online and on how to earn more! Still have questions? Feel free to <a href="http://click.t.kohls.com/?qs=51ec9847ade6385139f35cfad83776989ad9b92d2697092da3cc883d67f901f9581c917395ea11ffe8e7f0707dbcfbcbfeabf5322635284ea929e93b24958976"  target="_blank" style="text-decoration:underline;color: #000001;"><span style="color: #000001;">contact us</span></a>.</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!--Question Ends--> 
+
+
+                <!--Recommendations starts-->
+                
+
+                <!--Recommendations starts-->
+                <tr>
+
+                  	<td align="left" valign="top" bgcolor="#ffffff" style="padding-top:20px;">
+                    	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                			<tr>
+                  				<td align="center" valign="top" bgcolor="#ffffff" class="recs-nopadtp" style="padding-left:12px; padding-right:12px; border-top: 1px solid #cccccc;">
+
+                    				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			                      		<tr>
+			                        		<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:20px; mso-line-height-rule:exactly; font-size: 18px; padding-top: 25px; font-weight: bold; color: #000001;" class="recs-fnt19 recs-alg-center">Here are some great items to use your Kohl's Cash on:</td>
+			                      		</tr>
+			                      		<tr>
+			                        		<td align="center" valign="top">
+			                          			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			                            			<tr>
+
+ 
+
+
+
+		                              					<td align="center" valign="top" class="recs-drop" style="padding-top: 18px;">
+		                                					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		                                  						<tr>
+
+
+
+		                                    						<td align="center" valign="top">
+		                                      							<table width="140" border="0" cellspacing="0" cellpadding="0">
+		                                        							<tr>
+		                                          								<td align="left" valign="top"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851ddde16048c17c49e772a5d9a8243cb8634979b41921c5c569710000c9929b177421389c8d4e9b179b05b3cf21bc2cb61f53cf609216c9047"  target="_blank" style="text-decoration:none; color: #8f887f;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="https://api-bd.kohls.com/v1/ede/email/recommendations/imgreq/single?cid=TransEmail&etype=KohlsCashGeneric&plid=Horizontal&pos=0&ccp=eyJrb2hsc0Nhc2hVcHBlckxpbWl0IjoiMC4wIiwia29obHNDYXNoTG93ZXJMaW1pdCI6IjAuMCIsImN1c3RvbWVyRW1haWxIYXNoIjoiLTE3NDE4OTI0NzgtMzc4Mzk3NDMwIiwia29obHNDYXNoQW1vdW50IjoiMTUuMCJ9" width="140" border="0" alt="" /></a></td>
+		                                        							</tr>
+                                    	
+		                                      							</table>
+		                                    						</td>
+
+ 
+
+
+
+		                                    						<td align="center" valign="top">
+		                                      							<table width="140" border="0" cellspacing="0" cellpadding="0">
+		                                        							<tr>
+		                                          								<td align="left" valign="top"><a href="http://click.t.kohls.com/?qs=51ec9847ade6385170539af6e784db07effe34c971ed8ed4e057cdb408e8c8bb009e15a51183eb369aba5476dfabe8d476312c54c683d6c0001676b37debbe8d"  target="_blank" style="text-decoration:none; color: #8f887f;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="https://api-bd.kohls.com/v1/ede/email/recommendations/imgreq/single?cid=TransEmail&etype=KohlsCashGeneric&plid=Horizontal&pos=1&ccp=eyJrb2hsc0Nhc2hVcHBlckxpbWl0IjoiMC4wIiwia29obHNDYXNoTG93ZXJMaW1pdCI6IjAuMCIsImN1c3RvbWVyRW1haWxIYXNoIjoiLTE3NDE4OTI0NzgtMzc4Mzk3NDMwIiwia29obHNDYXNoQW1vdW50IjoiMTUuMCJ9" width="140" border="0" alt="" /></a></td>
+		                                        							</tr>
+                                    	
+		                                      							</table>
+		                                    						</td>
+
+
+
+		                                  						</tr>
+		                                					</table>
+		                              					</td>
+ 
+
+
+
+		                              					<td align="center" valign="top" class="recs-drop" style="padding-top: 18px;">
+		                                					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		                                  						<tr>
+
+
+
+		                                    						<td align="center" valign="top">
+		                                      							<table width="140" border="0" cellspacing="0" cellpadding="0">
+		                                        							<tr>
+		                                          								<td align="left" valign="top"><a href="http://click.t.kohls.com/?qs=819080724c6a6e34a47b077c1c93e6ca0f50226a2a0378fe913f41d5438674b42b9cf47a9fb70ca5c102a9c01f14ad8ee663a45fb9299b6eec15a7c237d9450b"  target="_blank" style="text-decoration:none; color: #8f887f;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="https://api-bd.kohls.com/v1/ede/email/recommendations/imgreq/single?cid=TransEmail&etype=KohlsCashGeneric&plid=Horizontal&pos=2&ccp=eyJrb2hsc0Nhc2hVcHBlckxpbWl0IjoiMC4wIiwia29obHNDYXNoTG93ZXJMaW1pdCI6IjAuMCIsImN1c3RvbWVyRW1haWxIYXNoIjoiLTE3NDE4OTI0NzgtMzc4Mzk3NDMwIiwia29obHNDYXNoQW1vdW50IjoiMTUuMCJ9" width="140" border="0" alt="" /></a></td>
+		                                        							</tr>
+                                    	
+		                                      							</table>
+		                                    						</td>
+
+ 
+
+
+
+		                                    						<td align="center" valign="top">
+		                                      							<table width="140" border="0" cellspacing="0" cellpadding="0">
+		                                        							<tr>
+		                                          								<td align="left" valign="top"><a href="http://click.t.kohls.com/?qs=819080724c6a6e342908eacc435ce429aef6ce0be26bd2520ace03d7e7c26ac1493d79858b1516d41ff29cdb453cdcbcd8287a006b9a57f4fb3f7b6d34603822"  target="_blank" style="text-decoration:none; color: #8f887f;"><img style="display:block;color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:16px;" src="https://api-bd.kohls.com/v1/ede/email/recommendations/imgreq/single?cid=TransEmail&etype=KohlsCashGeneric&plid=Horizontal&pos=3&ccp=eyJrb2hsc0Nhc2hVcHBlckxpbWl0IjoiMC4wIiwia29obHNDYXNoTG93ZXJMaW1pdCI6IjAuMCIsImN1c3RvbWVyRW1haWxIYXNoIjoiLTE3NDE4OTI0NzgtMzc4Mzk3NDMwIiwia29obHNDYXNoQW1vdW50IjoiMTUuMCJ9" width="140" border="0" alt="" /></a></td>
+		                                        							</tr>
+                                    	
+		                                      							</table>
+		                                    						</td>
+
+
+
+		                                  						</tr>
+		                                					</table>
+		                              					</td>
+
+
+		                            				</tr>
+		                          				</table>
+		                        			</td>
+		                      			</tr>
+		                    		</table>
+		                  		</td>
+		                	</tr>
+                    	</table>
+                  	</td>
+                </tr>
+                <!--Recommendations ends-->
+                
+
+                <!--Recommendations ends-->
+
+                <!--Footer Starts-->
+                <!--Footer Starts-->
+<tr>
+  <td align="center" valign="top" style="padding-top:25px; padding-bottom:25px;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center" valign="top" style="padding-top:25px; padding-bottom:25px; background-color:#f0f0f0;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="center" valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" valign="top" class="footer-drop">
+                      <table class="footer-width90" align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td class="footer-width-auto" align="center" valign="top" style="font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size:14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851a89294830b51cc6a888d52366a0ef4b22b0afb6dcc3b76a7bb26ead6e58808433000136d3a965f841b71f7fae7155ae2"  target="_blank" style="text-decoration:none; color:#454545;">KOHL'S&nbsp;CHARGE</a></td>
+                          <td class="footer-width-auto footer-noborder" align="center" valign="top" style="border-left: 1px solid #d6d9db; font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size: 14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851538838cfcb4765b9244f14bfadc341c0004bcdee850dceef2ae471d6f2a8473b7148ba385cea42a978eb8528582722a3"  target="_blank" style="text-decoration:none; color:#454545;">CUSTOMER&nbsp;SERVICE</a></td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td align="center" valign="top" class="footer-drop footer-toppad">
+                      <table class="footer-width90" align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td class="footer-width-auto footer-noborder" align="center" valign="top" style="border-left: 1px solid #d6d9db; font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size:14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851d08dea28984b702da8be73f73a3229a82bdffc61b01de817cacaf41f5240decaae885d4747f89e715f3b1c08e476c129"  target="_blank" style="text-decoration:none; color:#454545;">FIND&nbsp;A&nbsp;STORE</a></td>
+                          <td class="footer-width-auto footer-noborder" align="center" valign="top" style="border-left: 1px solid #d6d9db; font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size:14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851a8ccffe025179ec723ddc7acc29fd40b77afea4de8dcc479eb0b0b4f2799459192633b03e58111ad690c2eef946d54a2"  target="_blank" style="text-decoration:none; color:#454545;">KOHL'S&nbsp;COUPONS</a></td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="padding-top:25px;">
+                <table class="footer-fullwidth" width="450" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade6385194e0dc6c261dd7f7f086e6bb6964fdbfabffee13c6aede7326c7cd4b7342366088c11129a4930594c3844ad000976e42" target="_blank"  style="text-decoration:none;"><img alt="Facebook" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Social_FB.jpg" width="26" height="26" border="0" style="display:block;"></a>
+                    </td>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851062cbbd312c566af4acb850968eefe75c966b378c1fa3e01035d0308fcb4b281e2285672cd84e18f06151899c3bc6539" target="_blank"  style="text-decoration:none;"><img alt="Twitter" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Social_TW.jpg" width="26" height="26" border="0" style="display:block;"></a>
+                    </td>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851d1d10ac918231fa9ce4cb1ef05871edbecc64a86f16f14c1baa27a5c1e82484c69817dcedfcacfec884c850c190b58ce" target="_blank"  style="text-decoration:none;"><img alt="Pinterest" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Social_PT.jpg" width="26" height="26" border="0" style="display:block;"></a>
+                    </td>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851bc79d65264b25f8125b439f8d0511949d7aa14e279efe1c21927c5c9e30945fcbc1f4f3379e820fb03ee87d006a6dd13" target="_blank"  style="text-decoration:none;"><img alt="Instagram" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Social_IN.jpg" width="26" height="26" border="0" style="display:block;"></a>
+                    </td>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851f4ed07c1290e612993974c700142b37f771a948aa8a9c7ff84d6b8de8063c99cfcdee3213e9640e34b68f934c73aa259" target="_blank"  style="text-decoration:none;"><img alt="YouTube" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Social_YT.jpg" width="26" height="26" border="0" style="display:block;"></a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="padding-top:25px;">
+                <table width="300" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851253010bff1ad0fe0e0225317c17a7ef325a7a9535c91d9054b1f95b429f83920df8f0a51ed51d76027d833a9b53de512" target="_blank"  style="text-decoration:none;"><img alt="Download on the App Store" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_App_Store.jpg" width="120" height="35" border="0" style="display:block;"></a>
+                    </td>
+                    <td align="center" valign="top">
+                      <a href="http://click.t.kohls.com/?qs=51ec9847ade63851250ddd864fe53a2ad57aae28a3cf8ed7692b12564c0ec2f259daee0154f38237dc770fcd43f66b79c5adece8e7dc7558" target="_blank"  style="text-decoration:none;"><img alt="Get it on Google Play" src="http://image.t.kohls.com/lib/fe8a1272716d007476/m/1/Shared_Footer_Google_Play.jpg" width="114" height="35" border="0" style="display:block;"></a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="padding: 15px 20px 0 20px; font-family: Arial, Helvetica, sans-serif; line-height:15px; mso-line-height-rule:exactly; font-size: 11px; color:#454545; font-weight:normal;">
+                Android, Google Play and the Google Play logo are trademarks of Google Inc.<br>App Store is a service mark of Apple Inc.
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="padding-top:25px;">
+                <table class="footer-width90" align="center" width="550" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" valign="top" style="padding:0 10px 0 10px; font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size:14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851b33ccfbc7b0f46b76bdbc6d2fda6edfb0498e9cdc7b3dc6b435810005aa22114822f374811c2042a2ede6a2b790fef7d"  target="_blank" style="text-decoration:none; color:#454545;">SECURITY &amp; PRIVACY POLICY</a></td>
+                    <td align="center" valign="top" style="padding:0 10px 0 10px; border-left: 1px solid #d6d9db; font-family: Arial, Helvetica, sans-serif; line-height:18px; mso-line-height-rule:exactly; font-size: 14px; color:#454545; font-weight:normal;"><a href="http://click.t.kohls.com/?qs=51ec9847ade63851ddbe7854a4737d50a2b6a80f0d0a0b4e8b63720d2af896bfe990e653c3f9bb697d3c5ced1ef322b9e731f1bbc88c7735"  target="_blank" style="text-decoration:none; color:#454545;">HASSLE-FREE RETURNS POLICY</a></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>   
+        </td>
+      </tr>  
+    </table>   
+  </td>
+</tr>  
+<!--Footer ends-->
+
+<!--Tracking starts-->
+<tr>
+  <td align="center" valign="top" bgcolor="#ffffff" class="footer-nopadtp" style="padding-left:12px; padding-right:12px; font-size:0%">
+    <table cellpadding="0" cellspacing="0" border="0" width="40" height="6" style="display:none;">
+    <tbody>
+        <tr>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713600&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713601&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713602&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713603&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713604&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713605&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713606&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713607&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713608&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713609&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713610&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713611&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713612&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713613&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713614&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713615&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713616&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713617&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713618&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+            <td style="font-size:0%"><img src=http://li.kohls.com/imp?s=123713619&sz=2x1&li=Kohls_Cash_Responsive_Dynamic&e=katielee529@windstream.net&p=653004 width="2" height="6" border="0" /></td>
+        </tr>
+    </tbody>
+</table>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="top" bgcolor="#ffffff" class="footer-nopadtp" style="padding-left:12px; padding-right:12px; font-size:0%">
+    
+<img width='0' height='0' src='https://log.dmtry.com/redir/1/1289/3811/_kohls_cash_responsive_dynamic/0/1/157/0/966/1.ver?at=i&d=PxImp&img=1'>
+  </td>
+</tr>
+ <tr>
+  <td align="center" valign="top" bgcolor="#ffffff" class="footer-nopadtp" style="padding-left:12px; padding-right:12px; font-size:0%">
+    
+<img src="https://pippio.com/api/sync?pid=5322&_=1&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=2&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=3&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=4&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=5&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=6&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=7&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=8&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=9&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;"><img src="https://pippio.com/api/sync?pid=5322&_=10&it=4&iv=1150b8f2475c94e99ad2d4f510d892c5&it=4&iv=89d00df9decad18e59a5c6ff8db5b525374706a8&it=4&iv=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width="1"
+height="1" border="0" style="display:none; overflow:hidden;">
+  </td>
+</tr>
+<!--Tracking ends-->
+              <!--Footer ends-->
+
+                <!--SubFooter Starts-->
+                <tr>
+                  <td align="left" valign="top" class="appleLinks" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 11px; padding: 5px 12px 0 12px; color: #464646;">
+                    <b>Kohlâs CashÂ® redeemable in store and online 11/02/2019-11/14/2019.</b> Kohlâs CashÂ® is not legal tender. No cash back. <b>Kohlâs CashÂ® Earn:</b> Customer will receive a $10 Kohlâs CashÂ® coupon for every $50 spent in a single transaction during the stated earn window. Kohlâs CashÂ® coupon is earned on the amount of customer purchases after all applicable discounts are applied and before tax is imposed. Qualifying customer purchases exclude the purchase of Gift Cards. <b>Kohlâs CashÂ® Redeem:</b> Coupon can be redeemed during the stated redeem window with any other offer. <b>Kohlâs CashÂ® coupons and other dollar-off discounts will be applied prior to percent-off total purchase discounts/coupons.
+</b> Kohlâs CashÂ® coupon may not be redeemed (1) on purchases of Kohlâs CaresÂ® cause merchandise or other charitable items; (2) to purchase Gift Cards; (3) as price adjustments on prior purchases; (4) to reduce a Kohlâs Charge or any third-party charge account balance; or (5) to pay for any services or fees, including taxes and shipping. <b>If merchandise purchased earning a Kohlâs CashÂ® coupon is subsequently returned or price adjusted, the value of the Kohlâs CashÂ® coupon previously earned and/or the amount of the merchandise refund will be reduced to reflect any unearned value. Return value of merchandise purchased with a Kohlâs CashÂ® coupon may be subject to adjustment.</b> Coupon is nontransferable. See associate for details.
+                  </td>
+                </tr>
+
+                <tr>
+                  <td align="left" valign="top" class="appleLinks" style="font-family: Arial, Helvetica, sans-serif; line-height:16px; mso-line-height-rule:exactly; font-size: 11px; padding: 15px 12px 0 12px; color: #464646;">
+                    <b>15% OFFER IS VALID ON PURCHASES November 7 - November 17, 2019 IN STORE AND ONLINE WITH ANY TENDER TYPE. Present offer for in-store purchase or enter code at Kohls.com to receive discount.</b><br> Limit one offer per customer. <b>DOLLAR-OFF DISCOUNTS, INCLUDING KOHL'S CASH&reg; COUPONS, YES2YOU REWARDS&reg; AND PROMOTIONAL GIFTS, WILL BE APPLIED PRIOR TO PERCENT-OFF TOTAL PURCHASE DISCOUNTS/COUPONS.
+</b> Offer cannot be used in conjunction with any other percent-off discounts, including age-specific discounts. Offer not valid on the following categories and brands of merchandise: Gift Cards; Kohlâs Cares&reg; cause merchandise or other charitable items; select online-exclusives; premium athletic; beauty and fragrance; consumables; Curated by Kohl's brands; select electrics; premium electronics; sporting goods; sports team merchandise; premium sunglasses; toys; Columbia; Dyson; KitchenAid; Koolaburra by UGG; Levi's; S'well; and Timberland. See complete list of exclusions at Kohls.com/exclusions or look for signs in store. Offer also not valid on price adjustments on prior purchases; payment on a Kohlâs Charge account; taxes, shipping and/or handling fees. Reproductions or duplicates
+ not accepted. Offer is nontransferable. See associate for details.
+                  </td>
+                </tr>
+
+                <tr>
+                  <td align="left" valign="top" style="padding-top:15px;">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="appleLinks" align="left" valign="top" style="border-top: 1px solid #cccccc; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000001; padding: 15px 12px 20px 12px;" class="subfooter-pad">For other inquiries, email us at <a href="mailto:myaccount.help@kohls.com" alias="Email Us" target="_blank" style="text-decoration:underline;color:#000001;">myaccount.help@kohls.com</a>, or write us at Kohl's Department Stores, Attention: Customer Service, N54 W13600 Woodale Drive, Menomonee Falls, WI 53051.<br><a href="http://click.t.kohls.com/?qs=51ec9847ade63851333464d53b597e3d306180924ada7d13fde6f4ec9cd7fc8db1b9114d96291232e4884240b68e24f6c546f421122648668102f666cc6dc43f"  target="_blank" style="text-decoration:underline;color:#000001;">Find a Kohl's</a> near you!</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!--SubFooter ends-->
+
+             </table>
+            </td>
+          </tr>
+          
+          <!--Body Ends-->
+          
+        </table>
+        <!-- END Table use to set width of email --> 
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- Table used to center email Ends-->
+</body>
+</html>

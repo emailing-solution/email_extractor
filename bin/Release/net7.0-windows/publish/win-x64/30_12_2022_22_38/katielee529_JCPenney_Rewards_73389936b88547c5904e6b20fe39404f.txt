@@ -1,0 +1,844 @@
+Return-Path: bounce-19_HTML-44541420-3066-534000654-2@bounce.email.jcpenney.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md13.aqua.sync.lan with LMTP; Mon, 2 May 2022 12:33:55 -0400 (EDT)
+Return-Path: <bounce-19_HTML-44541420-3066-534000654-2@bounce.email.jcpenney.com>
+X-Received-HELO: from [13.110.217.16] (helo=mta16.email.jcpenney.com)
+Authentication-Results: mx05.aqua.bos.sync.lan header.DKIM-Signature=JCPenney@email.jcpenney.com; dkim=pass
+Authentication-Results: mx05.aqua.bos.sync.lan smtp.mail=bounce-19_HTML-44541420-3066-534000654-2@bounce.email.jcpenney.com; spf=permerror
+Received-SPF: permerror (mx05.aqua.bos.sync.lan: 13.110.217.16 is neither permitted nor denied by domain of bounce.email.jcpenney.com)
+Received: from [13.110.217.16] ([13.110.217.16:56440] helo=mta16.email.jcpenney.com)
+	by mx.windstream.net (envelope-from <bounce-19_HTML-44541420-3066-534000654-2@bounce.email.jcpenney.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 1E/0A-03322-2F700726; Mon, 02 May 2022 12:33:55 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=12dkim1; d=email.jcpenney.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=JCPenney@email.jcpenney.com;
+ bh=0cOhHViYOWsagCUKd2fL41gjgUK7+oDfRd5zY0d64dA=;
+ b=UbjPe1218m3177dMQO9i0Qg0zTmce2NFZikfD5rKXKa0kuZayzKmPIDfOZe66XmqNmwLnxbbaRDp
+   UvrE3L2sI05fHFEO0YRlsD0TGKH0tpt4Tct9Xk3LZ7RFxpfO9TzdtiXTmyriWAqx2MGY/mPrkun4
+   7yJchWk3GA8cmtklAmXqiQKAJrr+uOXFy4IpGHq7W/BGNe8eNDkw18ghwOlm5EP/KswALyl0dE5Q
+   3ZKDG+G2U44QpicDRsfHuLXoUybR6BHfeuXzQE//GdIYT5oL7TjfoMlGWNQT8PSX2MaIh1ke6Ejp
+   TG4HmTNosjgfXpSG14gtSXii0ILK8pjapOJs9Q==
+Received: by mta16.email.jcpenney.com id he03v42fmd4l for <katielee529@windstream.net>; Mon, 2 May 2022 16:33:52 +0000 (envelope-from <bounce-19_HTML-44541420-3066-534000654-2@bounce.email.jcpenney.com>)
+From: "JCPenney Rewards" <JCPenney@email.jcpenney.com>
+To: <katielee529@windstream.net>
+Subject: =?UTF-8?B?SGFwcHkgYmlydGhkYXkhIEhlcmXigJlzIGEgc3BlY2lhbCBnaWZ0?=
+ =?UTF-8?B?IHRvIGNlbGVicmF0ZSBZT1Uu?=
+Date: Mon, 02 May 2022 10:33:52 -0600
+List-Unsubscribe: <https://click.email.jcpenney.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MzQwMDA2NTQiLCJzIjoiNDQ1NDE0MjAiLCJsaWQiOiIxOSIsImoiOiIzMDY2IiwiamIiOiIyIiwiZCI6IjEyMDAwMSJ9.TGopzD8gBxafEQVdZvIfL34Ibuk-xbMnuuzT5i0DIL0>, <mailto:leave-fd8115791a3c402029-fe671074706005797714-ff3017707362-fe3411737164047d731174-ffcd16@leave.email.jcpenney.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "JCPenney" <reply-ff3017707362-19_HTML-44541420-534000654-2@email.jcpenney.com>
+List-ID: <526003439.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 12
+x-job: 534000654_3066
+Message-ID: <452a741d-4ae2-471f-8c4a-368b709487f3@iad4s12mta236.xt.local>
+Content-Type: multipart/alternative;
+	boundary="2VlvgUkkcPDI=_?:"
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvfedrvdehgddutdduucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdphgfkpfffuffvtffgtefopdfgpfggqdghkffpfffuvfftgfetofen
+X-Vade-Analysis-3: uceurghilhhouhhtmecufedtudenucdnofetkffnkffpifculddujedmnecujfgurhephffvufffjfgg
+X-Vade-Analysis-4: rhejkfgtsegrtderredttdejnecuhfhrohhmpedflfevrfgvnhhnvgihucftvgifrghrughsfdcuoefl
+X-Vade-Analysis-5: vefrvghnnhgvhiesvghmrghilhdrjhgtphgvnhhnvgihrdgtohhmqeenucggtffrrghtthgvrhhnpedv
+X-Vade-Analysis-6: feegteelgfejkeekudefffetfeeutedujeehkeejffdtheejueeiveelveeuudenucffohhmrghinhep
+X-Vade-Analysis-7: jhgtphgvnhhnvgihrdgtohhmnecukfhppedufedruddutddrvddujedrudeinecuvehluhhsthgvrhfu
+X-Vade-Analysis-8: ihiivgepgeenucfrrghrrghmpehinhgvthepudefrdduuddtrddvudejrdduiedphhgvlhhopehmthgr
+X-Vade-Analysis-9: udeirdgvmhgrihhlrdhjtghpvghnnhgvhidrtghomhdpmhgrihhlfhhrohhmpegsohhunhgtvgdqudel
+X-Vade-Analysis-10: pgfjvffonfdqgeegheegudegvddtqdeftdeiiedqheefgedttddtieehgedqvdessghouhhntggvrdgv
+X-Vade-Analysis-11: mhgrihhlrdhjtghpvghnnhgvhidrtghomhdprhgtphhtthhopehkrghtihgvlhgvvgehvdelseifihhn
+X-Vade-Analysis-12: ughsthhrvggrmhdrnhgvthdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshihnhgtrdhlrghn
+X-Vade-Analysis-13: pdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepphgrshhspdhnsggprhgtphhtthhopedu
+X-Vade-Client: AQUA
+
+This is a multi-part message in MIME format.
+
+--2VlvgUkkcPDI=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+ 
+
+ 
+
+
+JCPenney
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ Wishing you the best day ever. 
+ 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9876575b0d816481f1696941402911bf559b1a317ee745007d6a5dc4986d8b28b8548a4f1818afae37bb7d05589c5293b6 
+
+ DISCOVER MORE AT 
+https://click.email.jcpenney.com/?qs=00835c255b701b984d2bd90a9898ff1d515ab15b11db37cb460cd196e8ea79464f70e8f27cdb3a1268cb77680feca4d18a30e62aa8196087 
+JCP.COM &#10095;
+
+
+ 
+ 
+
+
+
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98e706ac36b52ab7119e86821bcd3def7336e616438c5b9afd78f2ed9c024dafa249f2d4e87b6e4681c6df930c8ef83b1c 
+WOMEN 
+https://click.email.jcpenney.com/?qs=00835c255b701b986d82ac4e702724072d834a6e6df4c9c0ed5aad9211259168df1aeb7ae6fa7f34de6060fe8d8d0ad758f2d1a8a4ecfb62 
+MEN 
+https://click.email.jcpenney.com/?qs=00835c255b701b98399eefe01dbf635ab3b3966f9ff282c615e76a30cd70c4fea97040da417ee00f3a777a0597bcf5b48d158eae92cda4ba 
+HOME 
+https://click.email.jcpenney.com/?qs=00835c255b701b983ac0ff85000007448b9de0e12234f09ea3e5c5134e83299d1c9c9a3ac5aa6fa134a65a71b3c7587251fcee977bff6637 
+CLEARANCE 
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98a3d6bf675d4bc96b14228a0cf2c2a1848f849fa795d2dadf77f6bc6f5a053602cfc2c4e5734f6f2202dbb54bfca39bb5cf81ece851414ff4 
+
+Thank you for being a Rewards member!
+$10 off $25 or more. One-time use. Show barcode for in-store savings.
+
+Offer valid in-store or online. Expires on 05/31/2022.
+
+ Use Reward code YOURDAY5 & serial number: 9910008588 at jcp.com 
+.
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98ad40d2b9bb4b616459b88d30df51fd7a5ba3830b22595f64b7f4229ac5c96ad52d47e3d763daaeed8588847b1ebbae2969e0bacdde81f0aa 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98e8ee3a7ef417a51cd45a1e6ee2fb876286e4b0b8d13d241210376d964ff8a78b9adda7257cc3b205bd11e633d0d58425678c7d1dc9f83c0c 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b982dfa2df13f475ded8f44f7b4e0ebf32852e6796763c1832dbb82f5bb9adc9100a2e493e91c5321cff82614faf138f48a972e3abca06b1c6f 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98f1c8250db82b2980162978fb63784d7c4e8bbedd1cefb53196b10c2ec2c703e8dbfbe2abc1b8d0cefdd970664e94aa97b366d1ffb1ee7634 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9804db25bd95ce29c92fdc4ffb1205c7a58c8918debd051fd6535818263b59fde50f93aa85d10a734b2e437c61f218a8314087c56b09b68cd0 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b987225184b5036007d7b307408297fcd698de1e8d726c4cb4932b3dc321d574306d977e628e4a4e9fc9f731d0f563935a43a466a563dd8597d 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9803b328e572414b7aa7a5a7672a5fc865a5c5c5b01f186d4d3f5650c10eeb307ce3dbb2c2f988b78a16e52a7f500cbd16c2117af728a8096c 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9828a455b4761daf4fc568d474634e17311a2395a70ec651ba82ad3205429881cf63840a31a37285a13a67ac67a2e60861e6f39755e61ad9bf 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9802c71d39b2d4daafd960e52e7cd91567654833124549cea924c5111e5c370da4920f871bdf56610fe2933a0b3fc02436b3c0dca60c3a565f 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98e773b58c719e655494ac7b3cb7c98ed5183f132cce6f038c2740d2b12afcd5a1e967e3536eae05824f1aaa371f6ad0f0f561a441cf18ec87 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b983d2cc4ef0aa21ce2fd444cc9b82f93b1b3d76558e0d60e1b0947eda7dd054facbbe399aad03649644e47ad4ea91960f32e7ca75229f4aecd 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b982bdef3e11a28771013d61c649d6be7844354d9ef39ebc9bf6bae7ac5f65f2c222beca05badd8f3511b6f8bfa4dfa3877a6572dd92d37ac66 
+
+
+
+
+
+
+
+
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98c45fde28d3d7ba842da1834c90ce808a2b1fc6851bc2554bf868dc925d7570a76cd46d095c82cfd121eb8d2465074da2 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b989b7e522829cc91250e4d14018f8028392c4f762a866c474ca4a075eb7e35f0e765012ab014e0c03b3e1ad18cc9dc5d44 
+
+
+ 
+ 
+ 
+
+
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98da217a9a888541e654529704f7317aedd4116ff4398a2048db6e9cf52348a7f3e1a60066d5f860fb47ae882107272dfc 
+KIDS 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98b0847ecf8494fec7d17a78d10791e60b55ae41c8bdda448fecf867b34817d823cec7cb4ddc542b6ce18b395ebc45c0ef 
+SHOES 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9809b9c3beefd9dfbdeb2adb3a9b5ded5db0a5973ab00e3f4c9b0fa92ab489049f9b620704f0aeadacf7f96a9365aabfd3 
+JEWELRY 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98fbc72da94f05e5a26c1119a78e177c9feb70169410adbad0bc7c8e721fa0584f7ee4fc43e74ef4c17d0aeba48a3aacf0 
+LINGERIE 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98ecfae876ad6aa4c5a1fd3c0f899a5c012e042bcc728669a246e10441e7bb9c05b5a43d996351ffbd91e20237ff35657b 
+COUPONS 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98c5d486511728066d7b7ca97946422317f6f15647409a263327b0325a4d34fba62c86a82eb5f73f45a155c0cacf3ae478 
+STORE ADS 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98aab96608eacc5229215d461c4a9199794f16a81af6e1f1a615ea4292ac5b3fb9e6486bcfc036499a00a424c7e08b7b5e 
+STORE LOCATOR 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98a1a198a1995b5db5f853736449c177f5844fe842f4256866cc95a273b1ca25879a267653f2300234d4e1011df5fde969 
+SAME DAY PICKUP 
+
+
+ 
+
+
+https://click.email.jcpenney.com/?qs=00835c255b701b980818ead0caada1a4942fc41c406a63fcb8a0724544cab722e24cd1e07fe1ff1c42944878226f4438b95db82556cba951 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98300e4c75f66b7fb5cc68301832ec2ebe907ce87d231213f48c090859ffd91543969d9df0757f6467135471118f021940 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b985425afd22ab2107daa63c0c864e67c02e9f5cedb0ad855140ca2601c14399ebcdef69c7ea7008cef83f72f84267efc03 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9841c3dbe4078debf896771ed3982d2b05eb6eafd161e7703e9f57a8679f65a584fb33f58ec9b9c1b802fb0c8ffb7b0460 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98fd73ef163842b8239a7eaa1c8b49e0701d99ec77b08d7c73f1af5d694e878258d010c41a4267114936d54f9c47c5973f 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98c754f46f235777de5ad7bb12420053bb8f9e9621ed3db907e93faa8a168418076c6495ffac73aede3f0f633ab7f73d86 
+Check out our app!
+
+ Get all your rewards &#38; coupons delivered to you, right in the wallet
+
+https://click.email.jcpenney.com/?qs=00835c255b701b9844a5845d0be07b4c6b3b2baa97c80e23b67b5bb5675e3c92a8b9d3eb20f2fc1892eaf15f7e5c0d715a499c43bbcf5abd 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b98206214655b1bf8ae3f7cf65dae64c09f98c767777ccee53f30dc7a06273c5324242269c3bfd1f1ba9593ae11472b31f9 
+
+
+ 
+
+ 
+*$10 off select original, regular and sale-priced apparel, shoes, accessories, fine jewelry, watches, salon products, select JCPenney Beauty and home purchases of $25 or more. Offers good in store and at jcp.com, excluding taxes and shipping charges, through 05/31/2022. One use per coupon, one coupon per customer; must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons. Does not apply to Clearance, Best Value, Doorbusters, Limited Time Specials, adidas, ArtCarved Personalized Jewelry, Athletic Shoes, Baby Gear, Champion, Citizen Quartz Watches, Clarks, Columbia, Denizen from Leviâs, Disney Collection, e.l.f., FILA, Forever 21, Fragrances and select JCPenney Beauty, Grasshoppers, Hurley,
+ Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, PUMA, Reebok, Sephora, Skechers, Smartwatches, Team Sports Merchandise, Tempur-Pedic Mattresses, Toys, Umbro, W3LL People, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards. Coupon cannot be combined with the JCPenney Credit Card new account discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. Additional exclusions and exceptions may apply,
+ see jcpenney.com/exclusions or store associate for details. REPRODUCTIONS WILL NOT BE ACCEPTED.
+
+INSTRUCTIONS FOR JCP.COM ORDERS: Enter online code YOURDAY5â¯when prompted at checkout or call 1.800.322.1189 and mention the code. When prompted, enter your exclusive serial number.
+
+
+ 
+
+
+Items are subject to availability. "Original" and "regular" prices are offering prices that may not have resulted in sales, and intermediate markdowns may have been taken. Prices not effective in closing JCPenney stores. JCPenney reserves the right to limit returns or exchanges without a valid receipt. "Sale" events exclude Best Value merchandise.
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
+
+katielee529@windstream.net received this email from JCPenney. To ensure deliverability of our emails, add
+
+mailto:jcpenney@email.jcpenney.com 
+jcpenney@email.jcpenney.com  to your address book now. To UNSUBSCRIBE from such emails, 
+https://click.email.jcpenney.com/?qs=00835c255b701b9803298f57dc877a464e27258b9284ac607dd194b09d38586d9ed265245637b1e2b81898e8ece353e68f09b564a4cf1f7b 
+click here . Please allow 7-10 days for your request to be processed. To read our privacy notice, 
+https://click.email.jcpenney.com/?qs=00835c255b701b98a4bba608520e90560cafcbea7ccc66c086f613ce275b5086720637c5155791e590aa061bba65cd2cfded6d40c3d9d740 
+click here . To read our California Privacy Rights notice, 
+https://click.email.jcpenney.com/?qs=00835c255b701b98dbae16dbc9a368176820f35ba49ebfe48b6e644dadb9d506f3987508a87d36c9b4cc2699685bfbef994a354ea75aa892 
+click here .
+
+PLEASE DO NOT REPLY TO THIS MESSAGE
+
+ This email is generated automatically, and is not monitored for responses.
+
+ If you have any questions, please 
+https://click.email.jcpenney.com/?qs=00835c255b701b98bd6b82a6d5a4b8865524e29f7ccf089b7d01f0cf0de4aafae6db6189e036684b835cfae79f6db1ec41d530be968a3287 
+click here  to visit the JCPenney.com Customer Service page or call our Customer Care team.
+
+https://click.email.jcpenney.com/?qs=00835c255b701b982591913b30eb31dd7cf499a59df3d118d68116fdea3300cf2fa26f01a137084c0e4d1b685f00aa2076d0886ba6ee4462 
+
+https://click.email.jcpenney.com/?qs=00835c255b701b982591913b30eb31dd7cf499a59df3d118d68116fdea3300cf2fa26f01a137084c0e4d1b685f00aa2076d0886ba6ee4462 
+
+(c) 2022 Penney IP LLC, 2401 S. Stemmons Freeway, Suite 4000, Lewisville, Texas, 75067, United States of America.
+
+ All rights reserved. To contact customer service, please call 1-800-322-1189.
+
+
+ This is an advertisement from JCPenney.
+
+View in 
+https://view.email.jcpenney.com/?qs=88be3c15f7e654b6bad041ed00907708db0740e0d6b424d944dda1a3f31e30ff53de8d7c1e427e62836793d83cf82b869ddbf207b8e1ce2f2dfe15acc6f937e98cfc6d8a7ac2c19a 
+web browser 
+
+
+ 
+
+
+
+--2VlvgUkkcPDI=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+<!--  begin link table matrix logic -->
+          
+
+ 
+<!--  end link table matrix logic -->
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<link rel="icon" type="image/x-icon" href="https://static.cdn.responsys.net/i5/responsysimages/content/jcpenney/jcp_favicon.jpg">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+<meta name="x-apple-disable-message-reformatting" />
+
+    
+<title>JCPenney</title>
+   
+  
+</head>
+<body>  
+  <img src="https://click.email.jcpenney.com/open.aspx?ffcb10-ff3017707362-fe9610767660067f71-fe3411737164047d731174-ff951579-fe671074706005797714-ffcd16&d=120001&bmt=0" width="1" height="1" alt="">
+<!-- Being pixles - MOVABLE INK PIXEL AND UCMCONTROLLER PIXEL - Pull these in by key - located: Content Builder>_Template>Code Snippets -->
+
+
+
+
+
+<!-- UCMCONTROLLER PIXEL  -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+         <tr>
+             <td style="padding:0;margin:0;border:0;height:1px;line-height:1px;" valign="top"> 
+                 <img src="http://login.dotomi.com/ucm/UCMController?dtm_com=2&dtm_cid=3021&dtm_cmagic=9cb9ed&dtm_fid=103&dtm_format=6&cli_promo_id=99&dtm_user_id=0035e00000aukYkAAI&dtmc_drop_id=05-02-2022" width="1" height="1" border="0">
+    </td>
+   </tr>
+</table>
+  
+ 
+<!-- / pixels -->
+ 
+<!-- BEGIN ACTUAL EMAIL WRAPPER -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+ <tr>
+  <td> 
+ 
+ <!--Begin Header-->
+      
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+         <tr>
+            <td style="padding:0;margin:0;border:0;">
+               <!--Begin Pre-Header-->       
+               <table align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+                  <tbody>
+                     <tr>
+                        <td width="640" style="padding:0; margin:0; border:0; text-align:right; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#999999">Wishing you the best day ever. 
+                        </td>
+                     </tr>
+       <!--<tr>
+                        <td width="640" style="padding:0; margin:0; border:0; text-align:right; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#999999">shop <a href="https://www.jcpenney.com/" conversion="true" alais="header_jcpCom" style="text-decoration:none; color:#4e7ab9">jcp.com</a> | view in <a href="https://view.email.jcpenney.com/?qs=88be3c15f7e654b6bad041ed00907708db0740e0d6b424d944dda1a3f31e30ff53de8d7c1e427e62836793d83cf82b8626b92e6ba0a8134b" alias="view_in_web_browser" style="text-decoration:none; color:#4e7ab9">web browser</a>
+                        </td>
+                     </tr>-->
+       
+                  </tbody>
+               </table>
+               <!--End Pre-Header--> 
+               <!--Begin Header-->
+               <table align="center" cellspacing="0" cellpadding="0" border="0" width="640">
+                  <tbody>
+                     <tr align="center">
+ <td style="margin:0;border:  0; padding-top: 10px;"><a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1431e714326fef69d73c9caa64c3795289da5413c65e5695444564cd83207ce218225b05079dea8b60d19e9e76bec9ca711ea785bd22fe00776"  >
+  <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/1094fae7-1727-4621-872c-b47df140f634.gif" alt="JCPenney" width="185" height="60" border="0" style="border:0;"></a></td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="margin:0;border:0; padding-top: 10px; padding-bottom: 8px;">
+                           <span style="font-family: Helvetica, Arial, 'sans-serif'; font-size:13px; line-height:16px; font-weight:bold; text-transform: uppercase; color: #666666;">&nbsp;DISCOVER MORE AT&nbsp;</span><a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1437c6729c8b59162b3810828e17750120bf03b39faffe9ba8a991d4b6b286337bd215744aba38a5e480ef0534c08392ba83ad66c3433a1bf3f"   style="text-decoration: none; color:#CC0000;"><span style="font-family: Helvetica, Arial, 'sans-serif'; font-size:13px; line-height:16px; font-weight:bold; color:#E71324;">JCP.COM&nbsp;</span><span style="font-size: 10px; font-weight: bold; position: relative; bottom: 1px;">&#10095;</span></a>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <!--End Header--> 
+            </td>
+         </tr>
+      </table>
+    
+ <!--End Header--> 
+   
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td>
+<!-- Nav location: Content Builder>_Template>Header Content Blocks -->
+
+
+<!--Begin Nav-->
+<table cellpadding="0" cellspacing="0" style="border: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: left">
+         <tr>
+            <td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;"></td>
+         </tr>
+      </table>
+      <img src="http://login.dotomi.com/ucm/UCMController?dtm_com=2&dtm_cid=3021&dtm_cmagic=9cb9ed&dtm_fid=103&dtm_format=6&cli_promo_id=99&dtm_user_id=57705812745&dtmc_drop_id=12-13-2017" width="1" height="1" border="0"> 
+      <!-- End Conversant Tag --> 
+      <!--Begin Wrapper-->
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+         <tr>
+            <td style="padding:0;margin:0;border:0;">
+               <!--Begin Pre-Header-->
+               <!--Begin Nav-->     
+               <table align="center" cellspacing="0" cellpadding="0" border="0" width="640">
+                  <tbody>
+                     <tr>
+                        <td style="padding:0;margin:0;border:0; line-height:1px;"><img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/2b27bae0-a648-4d8a-ad95-a3eef3b8ac91.png" width="640" height="1" style="border:0;display:block;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="640" align="center" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                     <td width="640" align="center" style="font-family: Helvetica, Arial, 'sans-serif'; color:#39566f; font-size:16px; padding-top:10px; padding-bottom:10px;"><a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143b6f3929fd4719f9e0a3abb12341a83dad80fe9cd69e6fcfffd3ee565c12279de8d64fdc06071bc378a9840c7be6fdd6a5ee0b6d101d9218a"   style="text-decoration:none; color:#666666; font-weight: 600;">WOMEN</a>
+                     </td>
+                     <td width="640" align="center" style="font-family: Helvetica, Arial, 'sans-serif'; color:#39566f; font-size:16px; padding-top:10px; padding-bottom:10px;">
+                        <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143171392a9d80706ad9c17bc83aea88f29f952688f56dae6230bf22095813dd40104238dd04cab1ef75f04f2a6d00538b8690f1d1206f32e12"   style="text-decoration:none; color:#666666;  font-weight: 600;">MEN</a>
+                     </td>
+                     <td width="640" align="center" style="font-family: Helvetica, Arial, 'sans-serif'; color:#39566f; font-size:16px; padding-top:10px; padding-bottom:10px; font-weight: 600;">
+                        <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c14375193566fe7457d53241194a4e93b511a45bdc5bf357ceef443991268d3462e77acfbb6b667d2a270ba3b6e47d06458c65282c9506f5f23b"   style="text-decoration:none; color:#666666;">HOME</a>
+                     </td>
+                     <td width="640" align="center" style="font-family: Helvetica, Arial, 'sans-serif'; color:#666666; font-size:16px; padding-top:10px; padding-bottom:10px; font-weight: 600;"> 
+                        <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143c17bb9bc0ba98a880c77735d93d51d21662d26d76301edddfa685f98f2583045b67498e9cf145d410d642e68f6ec08ae511bf78ffdae3d19"   style="text-decoration:none; color:#666666;">CLEARANCE</a>
+                     </td>
+                  </tr>
+               </table>
+               <table align="center" cellspacing="0" cellpadding="0" border="0" width="640">
+                  <tbody>
+                     <tr>
+                        <td style="padding:0;margin:0;border:0; line-height:1px;"><img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/2b27bae0-a648-4d8a-ad95-a3eef3b8ac91.png" width="640" height="1" style="border:0;display:block;"></td>
+                     </tr>
+                  </tbody>
+               </table>
+               <!--End Nav--> 
+            </td>
+         </tr>
+      </table>
+            
+<!--END Nav-->
+    </td>
+ </tr>
+   </table>
+ 
+<!--Begin Content Block -->           
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td>
+    
+    
+
+
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<!-- CALCULATE LAST DAY OF MONTH -->
+
+
+<!-- END DATE FUNCTION -->
+
+
+<!-- coded by Kathy Bigham on 04/19/22 -->
+<!-- wrapper start -->
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+<!-- Body start --> 
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98dfa4eb280d47f1ca325c1b3f97e6d965e8ae8c5f545327f4b792d105341ba9481f4b801f9a6165a0e64ec58d53f9bfc31703def0e394f7d4"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_02.jpg" width="640" height="574" border="0" alt="Our gift to you... Happy Birthday! JCPenney is celebrating 120 years - it&#39;s time to celebrate you too! $10 off* $25 or more. Select styles. *See details below. Shop Now"></a></td>
+ </tr>
+</table>
+<!-- BEGIN BARCODE SECTION -->
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_03.gif" width="640" height="20" alt=""></td>
+ </tr>
+</table>
+   
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td style="background-color: #e71324;">
+   <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_04.gif" width="20" height="200" alt=""></td>
+  <td width="600" align="center" style="background-color: #ffffff; font-size:18px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; text-decoration:none !important; color:#000000 !important; text-align:middle; line-height:20px;">
+   <br>
+   <span style="font-weight: bold;">Thank you for being a Rewards member!</span><br>
+   <span>$10 off $25 or more. One-time use. Show barcode for in-store&nbsp;savings.</span><br>
+            <!-- This is the code for the actual barcode itself. Barcode is Mailstream --> 
+   <img src="http://cl.s12.exct.net/LiveContent.aspx?qs=1fb8a8dcf0b50a7198adc5384fb7165bd850e6030e6a3d578bd2b659c8a63100ee4a5662001181b40c9f1fddc9c39bc2376f84ad3e7e1d2b4234ab1a36bb8898677e187fc0174dc68ac3b3226d2cc49e8432dc0c22e36992946ba85f1687fb0a38ada4e737164569" width="240" height="84" alt="MC4611444420009910008588" border="0" style="max-width:240px;font-family:OpenSans, Arial, sans-serif;font-size:16px;line-height:18px;color:#000000;border-top:10px solid white;border-bottom:10px solid white;" />
+   <br>
+   <!-- This is the Online Vanity code and serial number. The Vanity code is provided by Jana Desjardins (EX: SHOP30) and is not dynamic. The serial is populated dynamically through the barcode DE. Should be the last 10 digits of the barcode. NOTE: jcp.com has styling to prevent it from appearing as a link.  -->
+   <span style="font-size: 16px;">Offer valid in-store or online. Expires on 05/31/2022.<br>
+    Use Reward code <strong>YOURDAY5</strong> &amp; serial number: <strong>9910008588</strong> at&nbsp;<a style="color:#000000; text-decoration:none;">jcp.com</a>.</span><br><br>
+  
+  </td>
+  <td style="background-color: #e71324;">
+   <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_06.gif" width="20" height="200" alt=""></td>
+ </tr>
+</table>   
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_07.gif" width="640" height="20" alt=""></td>
+ </tr>
+</table>
+<!-- END BARCODE SECTION -->   
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98a3716db4e0b0d8da0b8e0fe50a8986e0e414cb937bce6a466097b274baa0b8b9732452fdc2d93b2ce7bd6ec9d990ae8d778c20e3c729ff84"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_08.gif" width="320" height="80" border="0" alt="Women"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98e10182cd9e8af68c4277bcc14795845969ead02a722a0fdcec9ceb736652b941387d50ef56e328799f477be83b08e394f551a4c077b8ee18"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_09.gif" width="320" height="80" border="0" alt="Men"></a></td>
+ </tr>
+</table>
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b983da277d1c04d8e6cc9361c1ceddc3c1e5a6fa6e3b6e19f7b4cbf0d80bf340989981611e8f748bce2616eae3e3657163a2bf4a7bb23cdb6a7"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_10.gif" width="320" height="65" border="0" alt="New Arrivals"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b987207de6912b20427c3be8ab2346d566db8f854b77fb63671cece43cd3bca879a3e1aecc60a431b0212c19dfabb4e42ccc25efae177bd02d9"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_11.gif" width="320" height="65" border="0" alt="Home"></a></td>
+ </tr>
+</table>
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98c84e114e2a48ab07ed506293423507d62c2589cfe237a9f8f227545be3981c47c9a5811ac70fdedcdbbb4b8b1b4cda348df75a228476669e"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_12.gif" width="320" height="65" border="0" alt="Kids"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98298dbea3edb75f4a666ce93b50d47ed38fb94f572812b1b7e06e335a4971a4745bce448c6954737d1f55f057a6d3ebdafc57bf8cb1afcaf3"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_13.gif" width="320" height="65" border="0" alt="Baby &#38; Toddler"></a></td>
+ </tr>
+</table>
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b9885e5a5e58b58cca7f1076e0f8bb4ca3e9e367120bbe34de2d41e2191a5ee16720884dca7c3bc982a68d88eaedd73dc4a4b3144f635e3d8ec"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_14.gif" width="320" height="65" border="0" alt="Shoes"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98fa2bbca323522d199d1583cb3bf45df9fbc3e4bc981856b62e181fc49060e801fdd03285c6519035f8df8a99f9308f8e551aa992358ea0ae"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_15.gif" width="320" height="65" border="0" alt="Activewear"></a></td>
+ </tr>
+</table>
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b984dba807bbf7539e9740b6a15e6f6babb55fa3990da7f255c4282c944ee6a4285dd69cd55fe7dd58670803e61adc44e153407cdcbdf3d007a"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_16.gif" width="320" height="65" border="0" alt="Intimates"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b9861de498126c05a4c39baac876b6e2d6fcf1662cc0eeae6fdab1918532787ebb3355e577865cb9d43cea7a9715c52397cd94cf50cf71044ac"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_17.gif" width="320" height="65" border="0" alt="Jewelry"></a></td>
+ </tr>
+</table>
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98ed4f304e24d888d676d42b6f1579c51f6a21cdeb52a82c06cde48ea8a35fb9c5f3ca12a0ba9bd5667c7a604b892fb6f58268597cf857f56e"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_18.gif" width="320" height="75" border="0" alt="Salon"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=00835c255b701b98c268fc99304fb6730f7258cb6888dd1a912fccb0464bead6ffb5beccb3c7ce5cdd33b7bc586ea7dcc7eba8654338fc86ad09647f694884fe"  >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/6/EMAIL_APR_WK10_040322_HAPPY_BIRTHDAY_REWARDS_RED_19.gif" width="320" height="75" border="0" alt="Beauty"></a></td>
+ </tr>
+</table>
+   
+<!-- Body end -->
+    </td>
+  </tr>
+</table>
+<!-- wrapper end -->  
+</td></tr></table>
+
+
+
+<!-- coded by Kathy Bigham on 1/5/22 -->
+<!-- wrapper start -->
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+<!-- Body start --> 
+   
+<!-- 10px Spacer -->   
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td bgcolor="#ffffff" width="640" height="10">
+  </td>
+ </tr>
+</table> 
+<!-- End 10px Spacer -->
+
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c14388cd8d75da4fee33b866498ab61894cd395c4e4891c3574338b4024cc31f635141d1a0d2a33209bc4b6aa3aff6d9237e" >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/54034652-3958-4dcf-bbfd-81ba23bc54bb.gif" width="320" height="169" border="0" alt="Save an extra 15% on select purchases when you open &#38; use your JCPenney Credit Card. 5% on select merchandise. Learn More"></a></td>
+  <td>
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1435d1fe7f2bd4e16ff07f3ee0eddc9f0c14756ef825b1bebc8807d8668b8aac943b02c5f56452578cc358e003a2b7c6d03" >
+    <img style="display:block; border-style:none;" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/a45c0e49-48bd-4841-a15b-712d4c6b534b.gif" width="320" height="169" border="0" alt="Klarna. Pay in 4 interest-free installments. Get Details"></a></td>
+ </tr>
+</table>
+
+<!-- 10px Spacer -->   
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td bgcolor="#ffffff" width="640" height="10">
+  </td>
+ </tr>
+</table> 
+<!-- End 10px Spacer -->
+   
+<!-- Body end -->
+    </td>
+  </tr>
+</table>
+<!-- wrapper end -->
+    
+    
+    </td>
+      </tr>
+</table>    
+<!--END Content Block-->
+  
+
+   
+<!-- 10px Spacer -->   
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td bgcolor="#ffffff" width="640" height="10">
+  </td>
+ </tr>
+</table>  
+<!-- End 10px Spacer -->   
+     
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td>
+<!-- Nav location: Content Builder>_Template>Footer Content Blocks -->
+<!-- FOOTER NAVIGATION -->        
+<table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: solid 1px #dedddd;">
+ <tr>
+  <td> 
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a class="owaImgFix" style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1431952297ca45ab3b58e0c0c87e4c02fd489456a693656adb03d8643170865733a2ff63d10e2dc7de815decc417bca15adaaaafe259adb18ca"  >KIDS</a></td>
+    </tr>
+   </table>
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1438222cbc78f768d87dfe1595341fb06edf02fd794d4936c8f6701004311fa7aad88f9bfc1066e8bd2e7bb0a9393a43922f9ca2db88b3c3565"  >SHOES</a></td>
+    </tr>
+   </table>
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666; " href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143000596ae59478b9a32d49a2348afa2d459e30c3e8aeb4fe71ea519c12dae3410e924d9e281bcb454f6252ed388e74bcd039b2385193841e1"  >JEWELRY</a></td>
+    </tr>
+   </table>
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a class="owaImgFix" style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143c0f1f1e1d5f80be1874829457bdf653c3c1be2a3b6a3970c77daef47524cf6755a476302aa96182926e816985f2115fd56e4569ee5af2582"  >LINGERIE</a></td>
+    </tr>
+   </table>
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1433cd3ac025cbc8a43575614d4cd18015b2e9e64d9775e78da5b1719cca2caa41a93c2778a78e0685643bf782326bea47e9bdc2ba611dbd390"  >COUPONS</a></td>
+    </tr>
+   </table>  
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143def94e822f5518e9ef1e33634b0a78d03ee9003606a57852557e83c4013087f08e488dfac0a5819ec5047c25ee42402f64de9b27c930d33e"  >STORE ADS</a></td>
+    </tr>
+   </table>
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1432a74a052b87a3825cba4c0ae4cf489efa5a653cac7ff92a099253e37713fb1e181e23341a0c2787ff68b317210596e89ea07b5f574522163"  >STORE LOCATOR</a></td>
+    </tr>
+   </table> 
+
+   <table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+     <td style="border: solid 1px #dedddd; color:#666666; font-family: Helvetica, Arial, 'sans-serif'; font-size:16px; font-weight: bold;" height="45" align="center">
+      <a style="text-decoration: none; color:#666666;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143d02c0bb12e054c005c3cf7717b295080c7587ab2d1f51e9f761ee9b6839829580c071c71b8a07d44facec549cdd14542bcc68ad3caa02007"  >SAME DAY PICKUP</a></td>
+    </tr>
+   </table>  
+  </td>
+ </tr>
+</table>
+<!-- END FOOTER NAVIGATION --> 
+    </td>
+ </tr>
+   </table>   
+   
+  
+ <table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td>
+<!-- Location: Content Builder>_Template>Footer Content Blocks -->
+<!--SOCIAL LINKS-->
+<table width="640" align="center" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td width="128"></td>
+  <td width="77" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1439963cd09579f4b24270db83352d451bb2806a802558db2a9241c7734a6ff4dd9e78f1ca998e0adbdc873baf3c4e6dfa6" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/3851d115-aab4-46c1-82e2-bda6ee9704d7.gif" alt="Facebook" width="34" height="64" style="border:0;display:inline-block;"></a></td>
+  <td width="77" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1436e05f7f7be75217f09b69fb19382c3f7befe4c40b66674ca868692195ba7125da06bebc6aadafec850979d6afcaea29c" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/a8c643f7-7e9b-4a10-9b7b-a840ec6d80e8.gif" alt="Twitter" width="36" height="64" style="border:0;display:inline-block;"></a></td>
+  <td width="77" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143281b1891fd9703d3c49f1ee6da972ca6984d85e928efb60f12f2be4d94e7d7183943a103e4252dea46528444c9076a3f" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/aa4bf21e-d4e3-4b92-99c7-225f790ae079.gif" alt="Instagram" width="41" height="64" style="border:0;display:inline-block;"></a></td>
+  <td width="77" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c14381e0a652ff118710491d6304a51330cd96a758b6edc73a65e2094d036efb5f4afb2771466ddabed4ec4c3bd2739b6e9e" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/865d5100-c07b-48c9-8b01-f122a1221984.gif" alt="Pinterest" width="35" height="64" style="border:0;display:inline-block;"></a></td>
+  <td width="77" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c14388dccda569dce990fc94406d1d75173395c71cb8d6326e4d44292cf78b917d350ff38f5a39230fb7533fc5d31f7f6190" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/aa2c4f07-4ed7-4d12-bd4c-d2b7268c656f.gif" alt="youtube" width="26" height="28" style="border:0;display:inline-block;"></a></td>
+  <td width="127"></td>
+ </tr>
+</table>
+<!-- END SOCIAL LINKS -->    
+              
+<!--APP LINKS -->
+<table width="640" align="center" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td width="640" align="center" style="padding-top: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:15px; font-weight: normal; text-align: center; text-transform: uppercase; line-height: 20px; border-top: solid 2px #dedddd;">
+   <a style="text-decoration: none; color: #000000;" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c14342a066726d1e2b3b14e85574d7e8b7b886c75ffe1744e9681a54da7b0c306752155cf4ad21d60c6ef7b43ff85c9002272f3305a9dda018fe"  >
+    <span style="font-weight: bold; color:#E71324; font-size: 16px;">Check out our app!</span><br>
+    Get all your rewards &#38; coupons delivered to you, right in the wallet</a>
+  </td>
+ </tr>
+</table>
+<table width="640" align="center" border="0" cellpadding="0" cellspacing="0" style="padding-top: 20px; padding-bottom: 15px; border-bottom: solid 2px #dedddd;">
+ <tr>
+  <td width="187"></td>
+  <td width="104" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1430fd8cef4a54a685e1d34924579da2af4c18b62b7ede2be694e36d07101c735d49dd4014421f03e2e2a000cee93a8ac5c" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/c287268b-4255-4ef9-8894-44c50813aab6.gif" alt="Download on the App Store" width="104" height="36" style="border:0;display:inline-block;">
+   </a>
+  </td>
+  <td width="40"></td>
+  <td width="121" align="center">
+   <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143ac0f52f7272743e2b085edeb9731af5a63b99581e0d48e13d27c990636fc236d3bcda2ba19dc8a1f97c476b13260f866" >
+    <img src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/79a6fb2d-40b9-4c7f-9e70-c89db8c2f7e9.gif" alt="Get it on Google Play" width="121" height="36" style="border:0;display:inline-block;">
+   </a>
+  </td>
+  <td width="188"></td>
+ </tr>
+</table>
+<!--End APP LINKS --> 
+    </td>
+ </tr>
+</table>          
+           
+       
+<!--Begin Dynamic Disclaimer-->
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+  <td>
+  <table border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr>
+  <td width="640" style="font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:11px; line-height:15px;">
+    <p><b>*$10 off select original, regular and sale-priced apparel, shoes, accessories, fine jewelry, watches, salon products, select JCPenney Beauty and home purchases of $25 or more. Offers good in store and at jcp.com, excluding taxes and shipping charges, through 05/31/2022. One use per coupon, one coupon per customer; must be provided/surrendered at time of purchase. Dollar-off offers (including JCPenney Rewards) applied prior to companywide percent-off discounts or coupons.
+</b> Does not apply to Clearance, Best Value, Doorbusters, Limited Time Specials, adidas, ArtCarved Personalized Jewelry, Athletic Shoes, Baby Gear, Champion, Citizen Quartz Watches, Clarks, Columbia, Denizen from Leviâs, Disney Collection, e.l.f., FILA, Forever 21, Fragrances and select JCPenney Beauty, Grasshoppers, Hurley, Jewelry Trunk Shows, Keds, Levi's, Modern Bride Design Your Dream Ring, Nike, PUMA, Reebok, Sephora, Skechers, Smartwatches, Team Sports Merchandise, Tempur-Pedic Mattresses, Toys, Umbro, W3LL People, In-Store Services, Service Plans, Gift Cards, Closing Store Purchases, current orders and prior purchases, or in combination with other coupon(s). Coupon can be combined with earned JCPenney Rewards. Coupon cannot be combined with the JCPenney Credit Card new account
+ discount. Coupon cannot be used for payment on account. Coupon cannot be redeemed as cash or merchandise credit if merchandise is returned. No cash value. JCPenney may refuse, or limit the use of, any coupon and/or return for any reason, including reoccurring disruptive behavior. <b>Additional exclusions and exceptions may apply, see jcpenney.com/exclusions or store associate for details. </b>REPRODUCTIONS WILL NOT BE ACCEPTED.<br><br>
+
+<b>INSTRUCTIONS FOR JCP.COM ORDERS:</b> Enter online code <b>YOURDAY5</b>â¯when prompted at checkout or call 1.800.322.1189 and mention the code. When prompted, enter your exclusive serial number.<br><br>
+</p>
+   </td>
+  </tr>
+</table>
+  </td>
+ </tr>
+</table>             
+              
+<table align="center" width="640" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+          <td>
+<!-- Nav location: Content Builder>_Template>Footer Content Blocks -->
+<!--Begin Footer-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr>
+  <td width="640" style="font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size:11px; line-height:15px;">
+    <p><strong>Items are subject to availability. </strong>"Original" and "regular" prices are offering prices that may not have resulted in sales, and intermediate markdowns may have been taken. Prices not effective in closing JCPenney stores. JCPenney reserves the right to limit returns or exchanges without a valid receipt. "Sale" events exclude Best Value merchandise.</p>
+    <p>Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.</p>
+    <p><span style="text-decoration:none; color:#4e7ab7">katielee529@windstream.net</span> received this email from JCPenney. To ensure deliverability of our emails, add<br />
+     <a href="mailto:jcpenney@email.jcpenney.com" conversion="true" alias="footer_email" style="text-decoration:none !important; color:#4e7ab7">jcpenney@email.jcpenney.com</a> to your address book now. To <strong>UNSUBSCRIBE</strong> from such emails, <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143912559f52e9ad667e3b6be6bc29830902aca3e4cfb8d6cbde381d4bcddcf40ca7f72691c2d82e4e85de4174931d3a848"  style="text-decoration:underline solid 1px #000000; color:#000000; font-weight:bold;">click here</a>. Please allow 7-10 days for your request to be processed. To read our privacy notice, <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1433a34c151ed7fd1ac96944f1efb130e3a64ea694c8700a5590f1231e6f6fe15d4d95752af3c579665a720088fe3ed756418d81181346394e8"   style="text-decoration:underline solid 1px #000000; color:#000000; font-weight:bold;">click here</a>. To read our California Privacy Rights notice, 
+<a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1438149718202b4b997e902b6344557698ac0630bc593d81fdcdbea7ad832e95e517997e0021fa37c6b263cdb4406271c8779a3b449f573f494"   style="text-decoration:underline solid 1px #000000; color:#000000; font-weight:bold;">click here</a>.</p>
+     <p><strong>PLEASE DO NOT REPLY TO THIS MESSAGE</strong><br />
+      This email is generated automatically, and is not monitored for responses.<br />
+      If you have any questions, please <a href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c1439295d97f9e62e24f670e84b55cd3676fa2b986acea4788a7d1f132f2b3457e6bb95978ff6a77f1185f490f7cf53d9f3d4ebae1772e022666"   style="text-decoration:underline solid 1px #000000; color:#000000; font-weight:bold;">click here</a> to visit the JCPenney.com Customer Service page or call our Customer Care team.</p>
+
+     <!-- ORIGINAL REWARDS CARD ICONS --> 
+     <table align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+      <tr>
+       
+       <td style="padding:0;margin:0;border:0; padding-top:10px; padding-right:2px;">
+        <a class="owaImgFix" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143f3531a3aa1ce77ef422deda851428e7f7919c5bfcc58e9db7345b87fda80bc9e565cbeb711a0429bad8784b261e7ddf9f933defc0072f9ae"  >
+         <img height="50" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/8c99f1f7-e964-4396-b7ab-570d66a408fe.gif" style="display:block; border:0;" width="80" /></a></td>
+       <td style="padding:0;margin:0;border:0; padding-top:10px;">
+        <a class="owaImgFix" href="https://click.email.jcpenney.com/?qs=0d93dcfe36b5c143f3531a3aa1ce77ef422deda851428e7f7919c5bfcc58e9db7345b87fda80bc9e565cbeb711a0429bad8784b261e7ddf9f933defc0072f9ae"  >
+         <img height="50" src="https://image.email.jcpenney.com/lib/fe3411737164047d731174/m/1/87c4f6b7-e8b7-4065-bd94-cb1c0d8a469e.jpg" style="display:block; border:0;" width="396" /></a></td>
+      </tr>
+     </table>
+     <!-- END REWARDS CARD ICONS -->  
+
+  <p>&copy; 2022 Penney IP LLC, 2401 S. Stemmons Freeway, Suite 4000, Lewisville, Texas, 75067, United States of America.<br />
+  All rights reserved. To contact customer service, please call 1-800-322-1189.<br />
+  <br />
+  This is an advertisement from JCPenney.</p>
+  <p>View in <a href="https://view.email.jcpenney.com/?qs=88be3c15f7e654b6bad041ed00907708db0740e0d6b424d944dda1a3f31e30ff53de8d7c1e427e62836793d83cf82b869ddbf207b8e1ce2f79540696435a55a0c340d70e3f0d0f41" style="text-decoration:none; color:#4e7ab7">web browser</a></p></td>
+ </tr>
+</table>
+<!--End Footer-->
+    </td>
+ </tr>
+   </table>
+    
+  </td>
+ </tr>
+</table>
+<!-- END ACTUAL EMAIL WRAPPER -->    
+</body>
+</html>
+
+--2VlvgUkkcPDI=_?:--
+

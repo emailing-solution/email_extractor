@@ -1,0 +1,334 @@
+Return-Path: bounce-16_HTML-95459803-56451-100027498-416793@bounce.em.samsclub.com
+Received: from mx03.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.43)
+ by md27.aqua.sync.lan with LMTP; Fri, 30 Dec 2022 05:49:50 -0500 (EST)
+Return-Path: <bounce-16_HTML-95459803-56451-100027498-416793@bounce.em.samsclub.com>
+X-Received-HELO: from [13.111.115.227] (helo=mta12.em.samsclub.com)
+Authentication-Results: mx03.aqua.bos.sync.lan smtp.mail=bounce-16_HTML-95459803-56451-100027498-416793@bounce.em.samsclub.com; spf=permerror
+Authentication-Results: mx03.aqua.bos.sync.lan header.DKIM-Signature=transaction@info.samsclub.com; dkim=pass
+Received-SPF: permerror (mx03.aqua.bos.sync.lan: 13.111.115.227 is neither permitted nor denied by domain of bounce.em.samsclub.com)
+Received: from [13.111.115.227] ([13.111.115.227:34622] helo=mta12.em.samsclub.com)
+	by mx.windstream.net (envelope-from <bounce-16_HTML-95459803-56451-100027498-416793@bounce.em.samsclub.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 90/A0-13920-E42CEA36; Fri, 30 Dec 2022 05:49:50 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=10dkim1; d=info.samsclub.com;
+ h=From:To:Subject:Date:List-Help:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type:Content-Transfer-Encoding;
+ i=transaction@info.samsclub.com;
+ bh=jmp2DRzsP7MJEEd4oiPcw1eHwQlhkslwkO31dsuZJ2o=;
+ b=Tqt/NOJWh1kBSs4cppwgzXxE8t0atyHT3YL9SpUogiC4tKehk4csEAE3d1ATJ05mWe1BmeKYtEJS
+   nE1f8CRl51yOBmpqWj/H7vlmgHLKhF9wkzUl9rMR3d9+uymn/ZZ8IEO/RvWiV1pFcpTAfFmoyzjZ
+   DBYi3I8huzYwIjqaI7TFWBDLw4aGcenzx3DztiQruhRtgUarl/cJmVGEmYJcUdRk7zQtpCJQf2vK
+   jr+2PNPStPebYo5kdL6En12d+F00Oh7NkA4FetKFzdjL7wzO2vb4I3/hkMuLh4RsyrhlTzSNGoke
+   KX/jJt/fR37kRUavfpWs5A7tYEA15F4W56CaJw==
+Received: by mta12.em.samsclub.com id hlr14s2fmd4k for <rmf4handpvp@windstream.net>; Fri, 30 Dec 2022 10:49:49 +0000 (envelope-from <bounce-16_HTML-95459803-56451-100027498-416793@bounce.em.samsclub.com>)
+From: "Sam's Club" <transaction@info.samsclub.com>
+To: <rmf4handpvp@windstream.net>
+Subject: Reset your password
+Date: Fri, 30 Dec 2022 04:49:49 -0600
+List-Help: <https://click.em.samsclub.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiIxMDAwMjc0OTgiLCJzIjoiOTU0NTk4MDMiLCJsaWQiOiIxNiIsImoiOiI1NjQ1MSIsImpiIjoiNDE2NzkzIiwiZCI6IjEwMDE3OCJ9.JnFH5O48oa-vVaKajHvoFHL34Peo2mBCmtD2L1svrrI>
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Sam's Club" <reply-fefa1176716105-16_HTML-95459803-100027498-416793@em.samsclub.com>
+List-ID: <100024869.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 10
+x-job: 100027498_56451
+Message-ID: <2ab4d24e-f984-4914-99e4-f68adf6b194c@dfw1s10mta766.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Vade-Verdict: transactional:account
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvhedrieeigddulecutefuodetggdotefrodftvfcurfhrohhf
+X-Vade-Analysis-2: ihhlvgemucfujgfpteevqfftpdghkffpfffuvfftgfetofdpgffpggdqhgfkpfffuffvtffgtefonecu
+X-Vade-Analysis-3: uegrihhlohhuthemuceftddunecundettggtohhunhhtucdlvddtmdenucfjughrpefhvffuffefgghr
+X-Vade-Analysis-4: jefktgfgsehhkeertddttdejnecuhfhrohhmpedfufgrmhdkshcuvehluhgsfdcuoehtrhgrnhhsrggt
+X-Vade-Analysis-5: thhiohhnsehinhhfohdrshgrmhhstghluhgsrdgtohhmqeenucggtffrrghtthgvrhhnpeehieffhfev
+X-Vade-Analysis-6: tddvtdetjeffkedvtdehgfdutdehvedutdetiedttdekfeejgeekfeenucffohhmrghinhepshgrmhhs
+X-Vade-Analysis-7: tghluhgsrdgtohhmnecukfhppedufedrudduuddrudduhedrvddvjeenucevlhhushhtvghrufhiiigv
+X-Vade-Analysis-8: pedtnecurfgrrhgrmhepihhnvghtpedufedrudduuddrudduhedrvddvjedphhgvlhhopehmthgruddv
+X-Vade-Analysis-9: rdgvmhdrshgrmhhstghluhgsrdgtohhmpdhmrghilhhfrhhomhepsghouhhntggvqdduiegpjffvoffn
+X-Vade-Analysis-10: qdelheegheelkedtfedqheeigeehuddquddttddtvdejgeelkedqgeduieejleefsegsohhunhgtvgdr
+X-Vade-Analysis-11: vghmrdhsrghmshgtlhhusgdrtghomhdprhgtphhtthhopehrmhhfgehhrghnughpvhhpseifihhnughs
+X-Vade-Analysis-12: thhrvggrmhdrnhgvthdpmhhtrghhohhsthepmhigtdefrdgrqhhurgdrsghoshdrshihnhgtrdhlrghn
+X-Vade-Analysis-13: pdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepphgrshhspdhnsggprhgtphhtthhopedupdhishgp
+X-Vade-Analysis-14: nhgrpehtrhhuvg
+X-Vade-Client: AQUA
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  
+
+
+  
+  
+  
+ <head>
+  <!--  -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Sam's Club Member Services</title>
+  <link rel="stylesheet" href="https://use.typekit.net/mkj5tsx.css">
+  <style>
+   body { margin: 0 !important; min-width: 100% !important; padding: 0 !important; width: 100% !important; }
+
+   * { -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+
+   img { border: 0; height: auto; line-height: 100%; }
+
+   sup { font-size: 45%; line-height: 0; }
+
+   span.outlook-overflow-scaling { width: 100% !important; max-width: 100%; padding: 0 !important; }
+
+   .main div.contentcell { width: 640px; }
+
+   a, a:link { color: #1e6cbb; text-decoration: none; }
+
+   h1, h2, h3, h4, h5, h6, p { margin: 0; }
+
+   h1, h2, h3, h4, h5, h6, p, table, td { font-family: "aktiv-grotesk-std", Arial, Helvetica, sans-serif !important; }
+
+   #backgroundWrapper, .email-body { background-color: #ffffff; min-width: 640px; }
+
+   .stack-wrapper { font-size: 0; text-align: center; }
+   .stack-wrapper .column, .stack-wrapper .column1, .stack-wrapper .column2, .stack-wrapper .column3 { display: inline-block; width: 100%; vertical-align: top; }
+
+   .cta-btn { padding-right: 0 !important; }
+
+   .ffd { padding: 16px 0 !important; }
+
+   .ffds { padding: 0 0 16px !important; }
+
+   .ffi { padding: 0 0 16px !important; }
+
+   .ffi-block .column1 { max-width: 420px; }
+   .ffi-block .column2 { max-width: 220px; }
+
+   .ffi-pad { padding: 0 !important; }
+
+   .ffi-qty { width: 10px !important; }
+
+   .twoset { max-width: 640px !important; }
+
+   .twofooter .column { max-width: 200px; }
+
+   .dshow { display: block !important; }
+
+   .mshow { display: none !important; }
+
+   .fourColumnBorder { max-width: 640px !important; }
+   .fourColumnBorder .column { margin: 0 8px; max-width: 296px; }
+
+   @media only screen and (max-width: 639px) { u ~ .email-body #backgroundWrapper { width: 100vw !important; }
+     #backgroundWrapper, .email-body { min-width: 100%; }
+     .cta-btn { padding-right: 20px !important; }
+     .ffd { padding: 16px 20px !important; }
+     .ffds { padding: 0 20px 16px !important; }
+     .ffi { padding: 0 20px 16px !important; }
+     .ffi-block .column1, .ffi-block .column2 { max-width: 100%; }
+     .ffi-pad { padding: 0 0 12px !important; }
+     .ffi-qty { width: 76px !important; }
+     .twoset { max-width: 320px !important; }
+     .dshow { display: none !important; }
+     .mshow { display: block !important; }
+     .fourColumnBorder { max-width: 320px !important; } }
+  </style>
+  <!--[if false]><!-->
+  <style>
+   a[x-apple-data-detectors], #MessageViewBody .samsungfix a { color: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; text-decoration: none !important; }
+
+   #MessageViewBody, #MessageWebViewDiv { margin: 0 !important; min-width: 100vw; padding: 0 !important; zoom: 1 !important; }
+
+   #MessageViewBody #backgroundWrapper { min-width: 100vw; }
+  </style>
+  <!--<![endif]-->
+  <!--[if true]>   <style>    h1, h2, h3, h4, h5, h6, p, table, td { font-family: Arial, Helvetica, sans-serif !important; }     table { border-collapse: collapse; }     table, td { mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }     li { text-indent: -1em; margin: 0px 0px 6px; }     sup { font-size: 75%; mso-text-raise: 12%; }     .column, .column1, .column2, .column3 { margin: 0 !important; }     .mht { line-height: 24px !important; }   </style>   <![endif]-->
+  
+  <!--[if gte mso 9]>   <xml>    <o:OfficeDocumentSettings>     <o:AllowPNG/>     <o:PixelsPerInch>96</o:PixelsPerInch>    </o:OfficeDocumentSettings>   </xml>   <![endif]-->
+ </head>
+ <body class="email-body" style="font-family: sans-serif; margin: 0; padding: 0;">
+  <table id="backgroundWrapper" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+   <tr>
+    <td align="center">
+     <div style="display: none; max-height: 0px; overflow: hidden;">
+      Instructions for changing your password
+           
+ &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+      <img src="https://click.em.samsclub.com/open.aspx?ffcb10-fefa1176716105-fe30157277630774771574-fe3015707564067a711d78-ff981576-fe541d7571610d757517-fec1107173630d7e&d=100178&bmt=0" width="1" height="1" alt="">
+     </div>
+     <table border="0" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+       <td class="main" align="center" style="width: 640px;">
+         <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
+          <tr>
+           <td align="center" style="padding: 26px 0;">
+            
+            <a href="https://click.em.samsclub.com/?qs=821c056889245a17a98768bb28372810b5430a17ea554cb9cdfd8a86122d130c7a66130cce763b204fe504f65b40a106bdbcaeed03a3522c31b7ac9fdf60d72e"  target="_blank">
+             <img src="https://image.em.samsclub.com/lib/fe3015707564067a711d78/m/2/PromoEmail_Logo.png" alt="Sam's Club" width="212" style="display: block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; font-size: 24px; color: #1e6cbb;" />
+            </a>
+           </td>
+          </tr>
+         </table>
+         <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td style="font-family: Arial, sans-serif; font-size: 0; line-height: 0; margin: 0; border-bottom: 1px solid #cccccc; padding: 0;" align="center">
+   &nbsp;&zwnj;
+  </td>
+ </tr>
+ <tr>
+  <td style="font-family: sans-serif; font-size: 20px; line-height: 1; margin: 0; border: 0; padding: 0;" align="center">
+   &nbsp;&zwnj;
+  </td>
+ </tr>
+</table></td></tr></table>
+         <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<!--******************-->
+<!--BEGIN BODY CONTENT-->
+<!--******************-->
+<table class="column1" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+     <td align="center" style="font-size:28px;font-family:Verdana, Arial, sans-serif;color:#000;-webkit-text-size-adjust:none;-ms-text-size-adjust:100%;padding:10px 20px 10px 20px;text-align:center;font-weight:bold;" valign="top" bgcolor="#ffffff">Forgot your password, Mike?</td>
+  </tr>
+  <tr>
+     <td align="center" style="font-family:Arial,sans-serif;font-size:16px; color:#333333;mso-line-height-rule:exactly;line-height:22px;padding:8px 20px 2px 20px;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" valign="top" bgcolor="#ffffff">
+        Here's the link to reset your password. The link will expire in 24&nbsp;hours. 
+
+        <br><br>If you didn't request a new password, please disregard this&nbsp;email.
+     </td>
+  </tr>
+  <tr>
+     <td style="padding:20px 20px 40px 20px;" valign="top" bgcolor="#ffffff" align="center">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+         <tr>
+          <td align="center">
+           <!--[if true]>            <table border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#0067a0">             <tr>              <td align="center" style="padding: 0 80px;">               <![endif]-->
+              <a href="https://click.em.samsclub.com/?qs=21db792ab1e7a42fdc9851c070fb8cdebd84d2c5f264eba619523dcea3fc2637433038acbb6117fd3a64199d0c42ed39204f38f70daa074014262cf817eacdd8"  target="_blank" style="background-color: #0067a0; border: 1px solid #0067a0; border-radius: 2px; color: #ffffff; display: inline-block; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; line-height: 1; mso-line-height-alt: 100%; margin: 0; padding: 10px 80px; text-decoration: none;">Reset Password</a>
+              <!--[if true]>              </td>             </tr>            </table>            <![endif]-->
+          </td>
+         </tr>
+        </table>
+     </td>
+  </tr>
+</table>
+<!--****************-->
+<!--END BODY CONTENT-->
+<!--****************--></td></tr></table>
+
+         
+         <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<!-- MonitorCampaignID: EMT_109 -->
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#f2f1ef">
+ <tr>
+  <td>
+   <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+     <td style="padding: 10px 20px;">
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+       <tr>
+        <td align="center">
+         <table class="twofooter" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tr>
+           <td class="stack-wrapper" align="center">
+            <!--[if true]>             <table border="0" cellpadding="0" cellspacing="0" role="presentation">              <tr>               <td align="center" valign="top" style="width: 200px;">                <![endif]-->
+               <div class="column">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                 <tr>
+                  <td class="mht" style="font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; font-weight: bold; padding: 10px;" align="center">
+                   <a href="https://click.em.samsclub.com/?qs=ce8d45bd9cbcad031b6f50a961ec4325d56295541a72a36a8cfb597af5f4f6d1bcfbcf87dfada65c160229c9e99866ff36b73e96be705cbe337b12877654372a"  target="_blank" style="color: #666666; text-decoration: none; padding: 0 4px;">Get the App</a>
+                   &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+                   <a href="https://click.em.samsclub.com/?qs=efab19e2dc20348ae5740e267807472c6d5e5c92b499cf4ea4c447b5aba602ddd62e04138dc3b871113fdb0170a42c4e36d9573edf18e42e7afa8f644128be67"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/26f16d52-f93a-48f9-97a7-f3a99530ed25.png" alt="Apple" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; color: #666666; vertical-align: middle;" width="17"></a>
+                   &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+                   <a href="https://click.em.samsclub.com/?qs=e869a0fbd8cbeed9c0beb78b714737d476bbe789db614f3e26ed720b841e0c74fc47dbc16c145e38bc9152ab9c834698eb260181fd95bbbf872f702ce7d8fed2"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/a5413923-5017-42cb-a6b8-ccd110177fcf.png" alt="Android" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; color: #666666; vertical-align: middle;" width="18"></a>
+                  </td>
+                 </tr>
+                </table>
+               </div>
+               <!--[if true]>               </td>               <td align="center" valign="top" style="width: 200px;">                <![endif]-->
+<div class="column">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                 <tr>
+                  <td class="mht" style="font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; font-weight: bold; padding: 10px 23px 10px 10px;" align="center">
+                   <a href="https://click.em.samsclub.com/?qs=31e7971e7a8813d0b488d740eaa0dbe45139257a915e35ddb6c319ec103341173391fc26f00b382071d0645921ed6e41665400a93ed5f99d19662ddeb52cc6f6"  target="_blank" style="padding: 6px 6px 0 0; color: #666666; text-decoration: none;">Your Account</a>
+                   &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+                   <a href="https://click.em.samsclub.com/?qs=b777d4230385b0bea3d0dc264b9cb2230f3493baa7e747c4bfed4914c0d7063195f061e60d6274a920df20a6d4e126ccfd34dc321d1ae534e6eb36d7e3578353"  target="_blank" style="padding: 6px 0 0 0; color: #666666; text-decoration: none;">Your Club</a>
+                  </td>
+                 </tr>
+                </table>
+               </div>
+               <!--[if true]>               </td>              </tr>             </table>             <![endif]-->
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding: 10px 0; color: #686868; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px;" align="center">
+         <a href="https://click.em.samsclub.com/?qs=3d93ab040a34904544acee1cce0f0915e337595f8f48bba467b260a691e5b2dea5a367c8799a8df244aad502976c33cc8b4b55152f2e96b4fc7f85ca14c0da99"  target="_blank" style="color: #686868; text-decoration: none;">Pickup</a>
+         &nbsp;&zwnj;|&zwnj;&nbsp;
+         <a href="https://click.em.samsclub.com/?qs=1b8ffdf118cb73c21bdc132e9185a34f0b77f38a24888971dcc4d6a6b384882ae3991aed7e11a310b565b62955049d3b553b5ba5e2cf5e3fd739579a1c30abad"  target="_blank" style="color: #686868; text-decoration: none;">Instant&nbsp;Savings</a>
+         &nbsp;&zwnj;|&zwnj;&nbsp;
+         <a href="https://click.em.samsclub.com/?qs=6d6ce94a912b0acea37e9cbce869a839e48b86874f414d70b40e13bfd86460ab9737621fa66d7fec584eef465bdc3dbc002a6e240075df645f8c654a10e6d054"  target="_blank" style="color: #686868; text-decoration: none;">All&nbsp;Services
+       </a></td></tr>
+       <tr>
+        <td style="padding: 10px 0; font-family: Arial, sans-serif; font-size: 20px; line-height: 1;" align="center">
+         <a href="https://click.em.samsclub.com/?qs=74d62100a100479849bc51d42313c65f14ce614989a669bcd25794fc79fdc527e3ad249712ebc0987d918daddd70004583ab5e72eb4d4842030a1bdf3df429c9"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/7c0803bf-017d-4491-b94b-def9a8aae79f.png" alt="facebook" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px; color: #666666;" width="32"></a>
+         &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+         <a href="https://click.em.samsclub.com/?qs=e7ab60465bb5ac324deb521592d42273e0ac8fb16f6bc1604ff3dd6c098db2af606d0b565cd73a0b7040d349262a8a4bd5fde97606a0006d3072a4fb86ec63a8"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/93770664-101a-4d2f-a5f0-0747553e2d0d.png" alt="twitter" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px; color: #666666;" width="32"></a>
+         &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+         <a href="https://click.em.samsclub.com/?qs=01a5ebfc5f101690918372b7c1705c0ebb2d067893d64b337a9bb1eb18a4025a377ba897b952577cba443a988cd8fe61d9f9f95f83222cafdedab0c9435c8a46"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/74b53670-dd25-4ee0-8c97-e8b1a9a5145a.png" alt="instagram" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px; color: #666666;" width="32"></a>
+         &nbsp;&zwnj;<!--[if true]> &nbsp;&zwnj; <![endif]-->
+         <a href="https://click.em.samsclub.com/?qs=a1f25f14602fe56c405d34164709e25861e08887917018c0361480c6ac0c4e7164a82571ac5132387648f87fd8532dc24a770f6c0e77b55138edc3b325b761fd"  target="_blank" style="padding: 0 4px;"><img src="http://image.em.samsclub.com/lib/fe3015707564067a711d78/m/1/6ff26031-9b45-410f-8697-96d01a91c314.png" alt="pinterest" style="display: inline-block; margin: 0; border: 0; padding: 0; font-family: Arial, sans-serif; font-size: 12px; color: #666666;" width="32"></a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td style="font-family: sans-serif; font-size: 30px; line-height: 1; margin: 0; border: 0; padding: 0;">
+   &nbsp;&zwnj;
+  </td>
+ </tr>
+</table>
+</td></tr></table></td></tr></table>
+         
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+       <tr>
+         <td align="center" style="padding: 0 30px;">
+           <table border="0" cellpadding="0" cellspacing="0" role="presentation">
+             <tr>
+               <td align="left" style="color: #686868; font-family: Arial, sans-serif; font-size: 11px; line-height: 16px; width: 580px; padding: 0 0 30px;">
+                 <p style="margin: 0 0 16px; font-style: italic;">
+                   Sam's Club Member Services 2101 SE Simple Savings Drive, Bentonville, AR 72716-0745 &copy;2000&ndash;2022, Sam's Club Member Services All rights reserved.
+                   
+                 </p>
+                 <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<p style="margin: 0 0 16px;color: #686868; font-family: Arial, sans-serif; font-size: 11px; line-height: 16px;">
+  Privacy Policy and Terms &amp; Conditions<br>
+  Sam&#8217;s Club wants to protect your security and privacy. Be assured that we will never ask for personal information (such as passwords or credit card numbers) in an email newsletter. If you receive such a request, please do not respond to that email. See our <a href="https://click.em.samsclub.com/?qs=d6d34cad8de715fe0291506281f67e713fbaecbb6b0d1111baefb6d4a07477a1a208a32248527fd1b9f39a1a07fa49add7895054cd2d14eb9b7141b9c8cdfeaf"  target="_blank" style="color: #1e6cbb; text-decoration: none;">Privacy Policy</a> and <a href="https://click.em.samsclub.com/?qs=636f4a511a6f28fbc0925474d89a4e97c3b1157e60bfd1b2ecd67f6078396a5330667fbc1f0b088927d4e0e1cfacea6828d7013181f8a7bd6fee6cd13bad6246"  target="_blank" style="color: #1e6cbb; text-decoration: none;">Terms and Conditions</a> to learn more.
+</p>
+<p style="margin: 0 0 16px;color: #686868; font-family: Arial, sans-serif; font-size: 11px; line-height: 16px;">
+    For questions about returns and refunds, see our <a href="https://click.em.samsclub.com/?qs=65b29db08eaa988e31d31b3327efeb1f38154d3554d7fbb51418acdf6741d4bda6a3cc8227ac64a909254cb51ad8b160e839b6b995d805e1c0955406ac267381"  target="_blank" style="color: #1e6cbb; text-decoration: none;">Return / Refund Policy</a>.
+</p>
+<p style="margin: 0 0 16px;color: #686868; font-family: Arial, sans-serif; font-size: 11px; line-height: 16px;">
+  Having trouble viewing images? <a href="https://view.em.samsclub.com/?qs=1bb2d0191718d7a34568a3eef5a583b928513d0ce50b6af5ad6d481b73db83005c3a2776d55dbafe714067695ee5d5f457a6ad0be5d32416c158a1193961eb319ad43681292bad5df813c845c34cf731"  target="_blank" style="color: #1e6cbb; text-decoration: underline;">View this email on the web</a>.
+</p></td></tr></table>
+               </td>
+             </tr>
+           </table>
+         </td>
+       </tr>
+      </table>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>

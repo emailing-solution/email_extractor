@@ -1,0 +1,1102 @@
+Return-Path: bounce-20_HTML-114484691-162656-7284872-4449@bounce.em.target.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md13.aqua.sync.lan with LMTP; Wed, 30 Oct 2019 13:54:08 -0400 (EDT)
+Return-Path: <bounce-20_HTML-114484691-162656-7284872-4449@bounce.em.target.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.3 cv=W4VGqiek c=1 sm=1 tr=0 b=1 cx=a_idp_d a=N3dnym6W+LbMjoEtU6otcQ==:117 a=N3dnym6W+LbMjoEtU6otcQ==:17 a=KGjhK52YXX0A:10 a=6giede-wJD4A:10 a=XobE76Q3jBoA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=zvf0HzS0AAAA:8 a=HFrSJ0SbIZkSafxT7o8A:9 a=d7awDGayUjmAJvxA:21 a=uTKsvE53K6gUu3EK:21 a=CjuIK1q_8ugA:10 a=jeBkea1l0M4A:10 a=SSmOFEACAAAA:8 a=QokKNR2EAAAA:8 a=UKEclCKIAAAA:8 a=20smzQFZcKzySDhlMHQA:9 a=s3wgtJmgE0WrlMFK:21 a=zPLRDpZOMPcZtN64:21 a=VfJSdXHapa0Nztkp:21 a=frz4AuCg-hUA:10 a=rESHVxB4socA:10 a=N61GIqHMUuK-X2svPR0L:22 a=ky-ryw7cPk5rlI4SUVYu:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [13.111.21.214] (helo=mta28.em.target.com)
+Received: from [13.111.21.214] ([13.111.21.214:48453] helo=mta28.em.target.com)
+	by mx.windstream.net (envelope-from <bounce-20_HTML-114484691-162656-7284872-4449@bounce.em.target.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 8A/F9-31376-F3EC9BD5; Wed, 30 Oct 2019 13:54:08 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=em.target.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ Message-ID:Content-Type; i=targetnews@em.target.com;
+ bh=5HthstMyGUWYuwOIXVZkP8hviXdclxcJL7lH/AsaFVw=;
+ b=OFV4MXPEBhT/o6feMqm8pl5BDgyvxvMAepS9RGaTG9Z/cv2nPNqhxqlUkUduIBEHHUHjNZnyg7Pi
+   fc8GeP/R/9ktVZAwhFZkpPsbUGCGWZiiFT2BhUKU6f+ot/aTWjrkYbNa3ASDAgxn3mr8zmSY4/Nd
+   BfReqJd8TREbnR2x1Ao=
+Received: by mta28.em.target.com id hn773u2fmd49 for <KATIELEE529@WINDSTREAM.NET>; Wed, 30 Oct 2019 17:54:07 +0000 (envelope-from <bounce-20_HTML-114484691-162656-7284872-4449@bounce.em.target.com>)
+From: "Target" <targetnews@em.target.com>
+To: <KATIELEE529@WINDSTREAM.NET>
+Subject: Big deals on LEGO, Star Wars toys, NERF & more.
+Date: Wed, 30 Oct 2019 11:54:05 -0600
+List-Unsubscribe: <mailto:leave-fd8916701a3c402029-fe29157171600c79731d71-fec515767762017b-fe8913727d600c7a77-ff2a1074716d@leave.em.target.com>
+MIME-Version: 1.0
+Reply-To: "Target" <reply-fec515767762017b-20_HTML-114484691-7284872-4449@em.target.com>
+List-ID: <7282972.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7284872_162656
+Message-ID: <e9481c8c-ee1f-451d-a2b5-d836cb0b60de@atl1s07mta1394.xt.local>
+Content-Type: multipart/alternative;
+	boundary="f8W7eDOBThMr=_?:"
+
+This is a multi-part message in MIME format.
+
+--f8W7eDOBThMr=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+==================================================
+TARGET
+==================================================
+ 
+View full message:
+https://view.em.target.com/?qs=6dea8c086d0a50b14839a71e58669ebbd0715ab2152fc5aaff8230ce8e87b6fca785d8a68099ebc1334b2498b06731b9aac20479e5cf842b8ffa8d95d932c49a5386210555ab791facd16aa2165f74ab
+ 
+==================================================
+ 
+======================
+
+
+clothing:
+
+https://click.em.target.com/?qs=096788737a958bd086a7227903eb66a3ebee038ec0f67d96b54615cfd0527a7f11dee2fe5ade585227280bbaf35d43b2c584fa6df1b695d90ecbc32582560f44
+
+
+shoes:
+
+https://click.em.target.com/?qs=acd22379f3d51641c90fe5470db50818c21adc265f9558ea7d60e44440502a542ae45d8539218c0f3f7e5d41506afd613b19fa3ebc3730e3f5ba1a2365db824d
+
+
+home:
+
+https://click.em.target.com/?qs=acd22379f3d51641be5a7a6e3d3c50319e2c0f990fc529c226cccb35f4d5d8e3216714a5f6aeeeb8afb61b6ea64027800a5f6146c892f64b4232346620b90ba1
+
+
+electonics:
+
+https://click.em.target.com/?qs=acd22379f3d51641a71467cf61c8d1dcc8d73781eef9fcfea6fbd556f637e3e4b6a2133a216339ecc68bc952102424e9f35455339be0c2bdee7abaf3984e2a00
+
+
+toys:
+
+https://click.em.target.com/?qs=acd22379f3d51641362a4bbf0bbc8f9a81c7e63ec5928f216e96f85ee7ca576bfe4e87f1b14df90325f2434c05bfc33a26da23ac04654b275d2a13087450b922
+
+
+find a store:
+
+https://click.em.target.com/?qs=acd22379f3d51641e50b5bf24f88a9bd5dc75aff47fad997f734026935d8c86e5132b31c07bbbae11b43234d6322a2849d0b1775335d0d459ee4290af9809312
+
+
+privacy:
+
+https://click.em.target.com/?qs=acd22379f3d51641afafc4fc2cc57f7963f30c0d48e9a013919a243b655d3f931e86e3204633455704d671901bdcf2b12a712f1d66c055cac8ef52b625a61313
+
+
+okay, so here&#39;s the fine print:
+
+Promotions valid Sunday-Saturday unless otherwise stated. Pricing, promotions, and availability may vary by location and online. Descriptive, typographic and photographic errors are subject to correction and Target shall have no liability for such errors.
+
+
+REDcard(R): Subject to application approval. Some restrictions apply. See program rules in store or at Target.com/redcard for details:
+
+https://click.em.target.com/?qs=acd22379f3d51641058dda0a896301d1ce97d88a13c4ca3880d996d149f3eb3deea95aac3f671573a20304dca03433cc1435ae024a72a1ab7f7d798f72cbad4d
+
+
+For messages containing gift card offers: Gift card on select items with purchase. Terms and conditions apply to gift cards. Offer details:
+
+https://click.em.target.com/?qs=34a04a940ac6a9def653e86157bfde25ba6e8e5adb9dde8d001e6b23b9bab0039fc2efcabe5347ff532655a0240b414cb099a643a0bb8af1e933e0f626dd582a
+
+
+(C)2017 Target.com. Target and the Bullseye Design are registered trademarks of Target Brands, Inc. All rights reserved.
+
+
+----------------------------------------------------------------------
+
+
+my preferences
+
+
+If you no longer wish to receive our commercial email advertisements, simply unsubscribe:
+
+https://pages.em.target.com/page.aspx?qs=38dfbe491fab00ea7cc5e0e39ed74f24df2fcce52521f09d3f124a6f8f9919c7ff10a0c6eef4311aac09606ac71dab2baaf4bd48c32d9b81e5e2f5053ddf8fad987f49137ee87d82d90aada0f7296afbb7c51d1f2dd80cabd42f0ad44311a8aca640564f225891d308cf6d691a0f6a10c0d6ca1dd78211856259f146743409daeb07ca84da5471e386c8b8b4cd07dd51
+
+
+Was this email forwarded to you? Sign up to get them straight from the source:
+
+https://click.em.target.com/?qs=34a04a940ac6a9de893677dd1e4812fe6b8844d0421968a5a99f9266fe000bad23284d5953e7f546aac3c57cb4ed01d6eaf005e3685e76db
+
+
+If you have a Target.com website account, you may update your email address under My Account
+
+https://click.em.target.com/?qs=905ea9a38c6f1b9f7450ebe8ea4a4df031f7fa4b5ef15405f70364d3330a0f2c88e67db65a08c9c70a3f947da53cf63f91c6cbe24a9fe44448327d3ca899a825
+
+
+----------------------------------------------------------------------
+
+
+contact us
+
+
+We can&#39;t respond to emails sent to this address, but you can get in touch through our Contact Us page:
+
+https://click.em.target.com/?qs=905ea9a38c6f1b9fb7e668085fb3dfc35b7d690139c83ea1bd246b06c7bad88105f8ad9e0c74c4670e0bfe12b8dc1ae29b0780b86c516716d380a267bcaaf600
+
+
+Or by writing to: Target Guest Relations, Mail Stop 1A-X, P.O. Box 9350, Minneapolis, MN 55440-9350.
+
+
+
+--f8W7eDOBThMr=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+
+
+
+<table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+
+<title></title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES ------------------- */
+.ExternalClass {width:100%; /* Force Hotmail to display emails at full width */}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%; /* Force Hotmail to display normal line spacing */}
+#outlook a {padding: 0; /* Force Outlook to provide a "view in browser" message */}
+.ReadMsgBody {width: 100%; /* Force Hotmail to display emails at full width */}
+body, table, td, a {/* Prevent WebKit and Windows mobile changing default text sizes */-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing:antialiased;}
+table, td {/* Remove spacing between tables in Outlook 2007 and up */mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-cellspacing: 0px; mso-padding-alt: 0px 0px 0px 0px;}
+img {/* Allow smoother rendering of resized image in Internet Explorer */-ms-interpolation-mode: bicubic;}
+a {/* Prevent Windows Mail 10 from adding underlines to links */text-decoration:none;}
+a:focus {/* Set focus styles for supported clients */outline: 0!important;text-decoration: underline!important;}
+a:focus img {box-shadow:0 0 0 2px #ffffff, 0 0 0 4px #000000!important;}
+a:focus span {text-decoration: underline!important;}
+/* RESET STYLES --------------------------- */
+body {height: 100% !important; margin: 0; padding: 0; width: 100% !important;}
+img {border: 0; display: block; line-height: 100%; outline: none; text-decoration: none;}
+table {border-collapse: collapse !important;}
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+/* MOBILE STYLES --------------------------- */
+/* Promo Marketing Templates 0001 - 0012 */
+@media screen and (max-width: 480px) {
+  .bb        {border-bottom:1px solid #d6d6d6!important;}
+  .c6        {color:#666666!important;}
+  .bgWhite   {background-color:#ffffff!important;}
+  .bt        {border-top:1px solid #d6d6d6!important;}
+  .db        {display:block!important; visibility:visible!important;}
+  .dn        {display:none!important; visibility:hidden!important;}
+  .fs13      {font-size:13px!important;}
+  .fs14      {font-size:14px!important;}
+  .fs15      {font-size:15px!important;}
+  .fs17      {font-size:17px!important;}
+  .ftrPad    {padding:15px 0 15px 0!important;}
+  .h40       {height:40px!important;}
+  .h99       {height:99px!important;}
+  .h192      {height:192px!important;}
+  .h576      {height:576px!important;}
+  .lh17      {line-height:17px!important;}
+  .p0        {padding:0 0 0 0!important;}
+  .pb10      {padding-bottom:10px!important;}
+  .pb14      {padding-bottom:14px!important;}
+  .pm        {padding-left:10px!important; padding-right:10px!important;}
+  .pn        {padding-left:0px!important; padding-right:0px!important;}
+  .pr0       {padding-right:0px!important;}
+  .pr10      {padding-right:10px!important;}
+  .pt0       {padding-top:0px!important;}
+  .px34      {width:34px!important;}
+  .px40      {width:40px!important;}
+  .px72      {width:72px!important;}
+  .px83      {width:83px !important;}
+  .px135     {width:135px!important;}
+  .px192     {width:192px!important;}
+  .px205     {width:205px!important;}
+  .px344     {width:344px!important;}
+  .px364     {width:364px!important;}
+  .px384     {width:384px!important;}
+  .tc        {text-align:center!important;}
+  .waPad     {padding:435px 0 18px 0!important;}
+  .waPadTemp {padding:15px 0 18px 0!important;}
+  .waPadv2   {padding:15px 0 18px 0!important;}
+  /* Triggered Components */
+  .bbc6D     {border-bottom:2px solid #dddddd!important;}
+  .blc6F     {border-left:1px solid #ffffff!important;}
+  .brc6F     {border-right:1px solid #ffffff!important;}
+  /* New Triggered Components */
+  .fs20      {font-size:20px!important;}
+  .fs24      {font-size:24px!important;}
+  .fs30      {font-size:30px!important;}
+  .lh19      {line-height:19px!important;}
+  .lh20      {line-height:20px!important;}
+  .lh26      {line-height:26px!important;}
+  .h75       {height:75px!important;}
+  .h102      {height:102px!important;}
+  .h192      {height:192px!important;}
+  .h576      {height:576px!important;}
+  .mP1Br     {border-right:1px solid #ffffff!important;}
+  .mP2Bt     {border-top:1px solid #c0c0c0!important;}
+  .mP3BrBt   {border-right:1px solid #ffffff!important; border-top:1px solid #c0c0c0!important;}
+  .mTrgImg   {height:100px!important; width:100px!important;}
+  .pl0       {padding-left:0px!important;}
+  .pt3       {padding-top:3px!important;}
+  .pt30      {padding-top:30px!important;}
+  .px229     {width:229px!important;}
+  .px354     {width:354px!important;}
+  /* 2019 Ratings & Reviews */
+  .rrTrgImg   {width:160px!important;}
+  .rrImgWrapper {height:160px!important; width:384px!important; padding:32px 10px 0 10px!important; vertical-align:top!important;}
+  .rrCopyWrapper {height:192px!important; width:384px!important; padding:0 0 0 0!important;}
+  .rrCopyPad {padding:20px 70px 10px 70px!important;}
+  /* Registry Completion Coupon Wedding & Baby */
+  .pr1015    {padding:10px 15px 0px 0px!important;}
+  .px258     {width:258px!important;}
+  .pt5       {padding:5px 0px 0px 0px!important;}
+  /* Baby_Registry_Nav_32033 */
+  .fs10      {font-size:10px!important;}
+  .fs12      {font-size:12px!important;}
+  .pl16      {padding:0 0 0 16px!important;}
+  .px117     {width:117px!important;}
+  .px267     {width:267px!important;}
+  /* 0404 NEWWelcomeBanner 18781 */
+  .pt0pl20   {padding:0px 0px 0px 20px!important;}
+  .wBanner_M {background-image: url(http://scene7.targetimg1.com/is/image/Target/bullseyeHelloimage_upload-170202_1486051393400?fmt=jpeg&scl=1&qlt=100)!important; width:384px!important; height: 120px!important; background-size:384px 120px!important; background-repeat:no-repeat!important; display:block!important;}
+  /* 1030 HolidayFreeShippingBanner 21388 */
+  .px297     {width:297px!important;}
+  /* 0729_REDplus1OC_B_38694 */
+  .h168      {height:168px!important;}
+  .appleLinks a {color:#333333!important;}
+  .pb35      {padding-bottom:35px!important;}
+  /* 0626 Cartwheel Blast Off 32460 */
+  .fs17lh26 {font-size:17px!important; line-height:26px!important;}
+  .fs30     {font-size:30px!important;}
+  .pt3      {padding-top:3px!important;}
+  .pt10     {padding:10px 0 0 0!important;}
+  .pt125    {padding:125px 0 0 0!important;}
+  .w190     {width:190px!important;}
+  .w200     {width:200px!important;}
+  .cwBg {background-image: url(http://target.scene7.com/is/image/Target/Cartwheel_EMU_m_bg_06image_upload-170622_1498155513236?fmt=gif&qlt=100&scl=1)!important; width:384px!important; height:557px!important; background-size:384px 557px!important; background-repeat:no-repeat!important; display:block!important; visibility:visible!important;}
+}
+</style>
+<style type="text/css">
+/* Welcome Acq Trigger */
+@media screen and (max-width: 480px) {
+  .imgswap {background-image: url(http://static.targetimg1.com/uploads/email-3/367-141015.jpg); background-repeat: no-repeat; background-size: 384px 196px; display: block; width:384px !important; height:196px !important;}
+  .pad3 {padding:0 !important;}
+}
+</style>
+<style type="text/css">
+/* LowPricesMessages 01.07 35857 component */
+@media screen and (max-width: 480px) {
+  .lpmM35857  {background-image: url(https://target.scene7.com/is/image/Target/LowPrice_Mobileimage_upload-180103_1514998972769?fmt=jpeg&qlt=100&scl=1)!important; width:384px!important; height:192px!important; background-size:384px 192px!important; background-repeat:no-repeat!important;}
+  .fs20lh22   {font-size:20px!important; line-height:22px!important;}
+  .fs40lh42   {font-size:40px!important; line-height:42px!important;}
+  .pt22       {padding:22px 0 0 0!important;}
+}
+</style>
+<style type="text/css">
+/* 0914_ApplePreOrder_J_39523 * Mobile Styles */
+@media screen and (max-width: 480px) {
+  .iPhoneXs-show {background-image: url(https://target.scene7.com/is/image/Target/iPhoneXs-mobileimage_upload-180912_1536805332500?fmt=jpeg&qlt=100&scl=1); width:384px!important; height:739px!important; background-size:384px 739px!important; background-repeat:no-repeat!important; display:block!important; visibility:visible!important;}
+  .AppleWatchSeries4-show {background-image: url(https://target.scene7.com/is/image/Target/Watch4-mobile_altimage_upload-180912_1536807404086?fmt=jpeg&qlt=100&scl=1); width:384px!important; height:356px!important; background-size:384px 356px!important; background-repeat:no-repeat!important; display:block!important; visibility:visible!important;}
+  .tl   {text-align:left!important;}
+}
+</style>
+<style type="text/css">
+/* 0921_AppleBuyNow_J_39539 * Mobile Styles */
+@media screen and (max-width: 480px) {
+  .iPhoneXs-showBuyNow {background-image: url(https://target.scene7.com/is/image/Target/iPhoneXs-BuyNow-mobileimage_upload-180917_1537228795348?fmt=jpeg&qlt=100&scl=1); width:384px!important; height:739px!important; background-size:384px 739px!important; background-repeat:no-repeat!important; display:block!important; visibility:visible!important;}
+  .AppleWatchSeries4-showBuyNow {background-image: url(https://target.scene7.com/is/image/Target/Watch4-BuyNow-mobileimage_upload-180917_1537228795348?fmt=jpeg&qlt=100&scl=1); width:384px!important; height:356px!important; background-size:384px 356px!important; background-repeat:no-repeat!important; display:block!important; visibility:visible!important;}
+  .tl   {text-align:left!important;}
+}
+</style>
+<style type="text/css">
+/* Holiday Gifting */
+@media screen and (max-width: 480px) {
+  .goldDivider_m {background-image: url(https://target.scene7.com/is/image/Target/GoldDivider_mobileimage_upload-181102_1541185292016?fmt=jpeg&scl=1); background-repeat: no-repeat; background-size: 384px 33px!important; display: block!important; width:384px!important; height:33px!important;}
+  .giftingHeader_m {background-image: url(https://target.scene7.com/is/image/Target/KidsGiftingHeader_mobileimage_upload-181102_1541187546484?fmt=jpeg&scl=1); background-repeat: no-repeat; background-size: 384px 46px!important; display: block!important; width:384px!important; height:46px!important;}
+  .kidsGifting_m {background-image: url(https://target.scene7.com/is/content/Target/Opening_Mobile_01image_upload-181106_1541536448637?fmt=gif&scl=1); background-repeat: no-repeat; background-size: 384px 192px!important; display: block!important; width:384px!important; height:192px!important;}
+  .fs16      {font-size:16px!important;}
+  .lh21      {line-height:21px!important;}
+  .pt12      {padding:12px 0 0 0!important;}
+}
+</style>
+<style type="text/css">
+/* 40317 */
+@media screen and (max-width: 480px) {
+  .bFHero_M_40317  {background-image: url(https://target.scene7.com/is/image/Target/BF_Mobile40318_01image_upload-181108_1541691180842?fmt=jpeg&scl=1)!important; width:384px!important; height:384px!important; background-size:384px 384px!important; background-repeat:no-repeat!important;}
+  .copyPad_t_40317 {padding:0 0 14px 0!important;}
+  .copyPad_m_40317 {padding:0 0 23px 0!important;}
+}
+</style>
+<style type="text/css">
+/* 40318 */
+@media screen and (max-width: 480px) {
+  .bFHero_M_40318  {background-image: url(https://target.scene7.com/is/image/Target/BF_Mobile40318_01image_upload-181108_1541691180842?fmt=jpeg&scl=1)!important; width:384px!important; height:384px!important; background-size:384px 384px!important; background-repeat:no-repeat!important;}
+  .copyPad_t_40318 {padding:0 0 14px 0!important;}
+  .copyPad_m_40318 {padding:0 0 23px 0!important;}
+  .h235 {height:235px!important;}
+}
+</style>
+<style type="text/css">
+/* 40521 */
+@media screen and (max-width: 480px) {
+  .M_40521  {background-image: url(https://target.scene7.com/is/image/Target/40255_mimage_upload-181109_1541795876019?fmt=jpeg&scl=1)!important; width:384px!important; height:192px!important; background-size:384px 192px!important; background-repeat:no-repeat!important;}
+  .copyPad_t_40521 {padding:22px 0 14px 0!important;}
+  .copyPad_m_40521 {padding:0 0 23px 0!important;}
+}
+</style>
+<style type="text/css">
+/* 40419 */
+@media screen and (max-width: 480px) {
+  .cmHero_M_40419  {background-image: url(https://target.scene7.com/is/image/Target/CM_Mobile_40319_01_lrimage_upload-181121_1542837588363?scl=1)!important; width:384px!important; height:384px!important; background-size:384px 384px!important; background-repeat:no-repeat!important;}
+  .copyPad_t_40419 {padding:0 0 14px 0!important;}
+  .copyPad_m_40419 {padding:0 0 23px 0!important;}
+}
+</style>
+<style type="text/css">
+/* iPad mini * Portrait and Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+  .iPadMini  {min-width:768px!important;}
+}
+</style>
+
+</head><body>
+<!-- Analytics Tracking * START -->
+<img src="https://click.em.target.com/open.aspx?ffcb10-fec515767762017b-fe28107076600c79761c75-fe8913727d600c7a77-ff9d1670-fe29157171600c79731d71-ff2a1074716d" width="1" height="1">
+<!-- Analytics Tracking * END --></custom>
+</td></tr></table>
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;">Free shipping on orders $35+ or with your RedCard*. Yesss!</div>
+<div style="display: none; max-height: 0px; overflow: hidden;">
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+</div>
+<!-- 0014 Component Container * START -->
+<table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation">
+  <tr>
+    <td valign="top">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation">
+        <tr>
+          <td class="px384" bgcolor="#ffffff" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 0 14px 0;">
+            <a  href="https://click.em.target.com/?qs=258340fe7e41bc7ab8f199fde799d650a45657b028f6994815dd67aa265fcb10a4fad3ec41780472df916ef9f373f3fa174795bb081b3c0e7925eab835ba257d" style="text-decoration:none; display:block;">
+              <img src="http://scene7.targetimg1.com/is/image/Target/TGT_x2image_upload-170202_1486051646731?fmt=gif&scl=1&qlt=100" style="border:none; display:block" alt="Target" width="35">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation">
+  <tr>
+    <td bgcolor="#f7f7f7" height="34" style="height:34px; padding:5px 0 5px 0;" valign="middle">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation">
+        <tr>
+          <td style="padding:0 25px 0 0;">
+            <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+              <a  href="https://click.em.target.com/?qs=e656056d1738c678f438549d32986d21d677155976bbd79afa6d9eaa1e779669a5e234ec657ae99cb3820785e76bdf2b5ea2c9b12db4558f5e5d40d3d545a104" style="color:#666666; text-decoration:none; display:block;">Clearance</a>
+            </p>
+          </td>
+          <td style="padding:0 25px 0 0;">
+            <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+              <a  href="https://click.em.target.com/?qs=b0c4d979620a13a32b42235b9f8dc8dd2fb3ec30bfd3a1a0c1d8841a820050ada5c4b2901741e6de7b76b0537c2aca3e2b2f4e5bd75bf1ef09158ca14767e429" style="color:#666666; text-decoration:none; display:block;">Home</a>
+            </p>
+          </td>
+          <td style="padding:0 8px 0 0;">
+            <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+              <a  href="https://click.em.target.com/?qs=b0c4d979620a13a328e15d92f5c11f5008a2602b34db5e62319b1851f3d34e37a741c5967611656fe771f827a30dd69fae51e4cce62d6e7113e06fb8464f16f6" style="color:#666666; text-decoration:none; display:block;">Clothing</a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- 0014 Component Container * END --></td></tr></table>
+
+
+
+
+
+
+
+<div data-marker="wrapper" class="stylingblock-content-wrapper"></div>
+
+
+
+
+
+
+
+<div data-marker="wrapper" class="stylingblock-content-wrapper"></div>
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+<div data-marker="wrapper" class="stylingblock-content-wrapper"></div>
+
+
+
+
+</td></tr></table>
+
+
+
+
+
+<!-- 0001 Component Container * START --><div data="EMAIL-47064" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#2a628e" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f100e149fa56542a51e7eb78b7f7e8f254dfe2d9914d564a1e0049c6819a50e0e9fcc26b8d658ed5e631e02852c01f2aa356e626ebae336288e" style="color:#FFFFFF; text-decoration:none; display:block;"><b>Free $10 gift card</b> when you <span class="db"></span>spend $50 on select LEGO sets.* <br />Plus, more awesome <b>toy deals.</b> <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Left Column * START -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Retina Image w/Button Template * START --><td bgcolor="#9ad9de" valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f10ae58d4e90e0466d6f5a84aadae597508c0d001a5df7592b156ab4388d703f78cc6a7e17f6c9a888a84a826dabc397627dfcfc7bec15232fd" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064_0147064-191011_1570809343467?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="lego deal" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td height="40" bgcolor="#2a628e" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f10ae58d4e90e0466d6f5a84aadae597508c0d001a5df7592b156ab4388d703f78cc6a7e17f6c9a888a84a826dabc397627dfcfc7bec15232fd" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">lego deal</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td><!-- 384x384 Retina Image w/Button Template * END --></tr></table><!-- Left Column * END -->
+<!--[if mso]></td><td><![endif]--><!-- Right Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td height="384" align="left" valign="top" style="width:384px; height:384px;"><!--- RTL & RTR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RTL Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#f7f7f7" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f102f75e93a17c865f0d4d57d51804428ce1dbbb0058cbefddf78802446f1905ac0e94965b100de0e3cf1c2c58022b54e099a794716068147e3" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47064-extd_0247064-191021_1571684963125?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save up to 20% on NERF  blasters and toys*" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f102f75e93a17c865f0d4d57d51804428ce1dbbb0058cbefddf78802446f1905ac0e94965b100de0e3cf1c2c58022b54e099a794716068147e3" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save up to 20%</span> on NERF <br />blasters and toys* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END -->
+<!--- RTL Tab * END --><!--- RTR Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f108ed00bc033f0668bf05843c873040197682b0ff6950f04ba17666f02d5ece05e2d38ab86f0b4765df0ea02bcc69b32730bf1c30ed2585c76" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064-extd_0347064-191021_1571684736112?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save 10% on  Star Wars toys*" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;">
+<a  href="https://click.em.target.com/?qs=38cff3d8d3da0f108ed00bc033f0668bf05843c873040197682b0ff6950f04ba17666f02d5ece05e2d38ab86f0b4765df0ea02bcc69b32730bf1c30ed2585c76" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save 10%</span> on<br /> Star Wars toys* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- RTR Tab * END --></tr></table><!--- RTL & RTR Tabs * END --><!--- RBL & RBR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RBL Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f1006f82c83154e408605de86a5b1a539f99d396ec136d849e6f211bf8ced55c9ef86c587720220951ede855bf0999cf6e48b21b547f494b193" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064_0547064-191014_1571066726825?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save on dress-up &  pretend play items" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f1006f82c83154e408605de86a5b1a539f99d396ec136d849e6f211bf8ced55c9ef86c587720220951ede855bf0999cf6e48b21b547f494b193" style="text-decoration:none; display:block;">
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;">
+<span style="color: #cc0000;">Save</span> on dress-up & <br />pretend play items <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- RBL Tab * END --><!--- RBR Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#f7f7f7" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f103b74a16dd2a9d973244df5a294e40f1dfb3d182e0e1fd34e907f9877b14baabd7401effe4f4ff84257b447545eb253d38ffc6a24685156ac" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47064_0647064-191011_1570809568163?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save on Hatchimals,  L.O.L. Surprise! & more" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=38cff3d8d3da0f103b74a16dd2a9d973244df5a294e40f1dfb3d182e0e1fd34e907f9877b14baabd7401effe4f4ff84257b447545eb253d38ffc6a24685156ac" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save</span> on Hatchimals, <br />L.O.L. Surprise! & more <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END -->
+<!--- RBR Tab * END --></tr></table><!--- RBL & RBR Tabs * END --></td></tr></table><!-- Right Column * END --></td></tr></table><!-- Hero Extenstion 0005 * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Top Row * START --><table class="px384" align="left" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td class="px384" height="192" align="left" valign="top" style="width:768px; height:192px;"><!--- LTL & LTR Tabs * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!--- LTL Tab * START --><!-- 192x192 Promo Retina Image * START -->
+<td height="192" bgcolor="#ebebeb" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652a3c4df56d7394cb83c33dbda0864516fa07f66676809814ad19f5f29cfd4c122c5cd7179f74ecb3472e306e615a85468904d9519e1f1e164" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064-extd_0847064-191021_1571684752106?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save 15% on select  Fisher-Price toys*" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652a3c4df56d7394cb83c33dbda0864516fa07f66676809814ad19f5f29cfd4c122c5cd7179f74ecb3472e306e615a85468904d9519e1f1e164" style="text-decoration:none; display:block;">
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save 15%</span> on select <br />Fisher-Price toys* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- LTL Tab * END --><!--- LTR Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#f2f2f2" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b6527db647a51adfe4b5ee2142aad39289ba8fca7ff8da3e64ee9b1d96d79ae37e9275cd194bd27dae8e39d55c2e3075bcd5627657bcbee0c2ce" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47064-extd_0947064-191021_1571684974827?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save up to 20% on  Fortnite toys*" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b6527db647a51adfe4b5ee2142aad39289ba8fca7ff8da3e64ee9b1d96d79ae37e9275cd194bd27dae8e39d55c2e3075bcd5627657bcbee0c2ce" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save up to 20%</span> on <br />Fortnite toys* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- LTR Tab * END --></tr>
+</table><!--- LTL & LTR Tabs * END --><!--[if mso]></td><td><![endif]--><!--- RTL & RTR Tabs * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!--- RTL Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#f7f7f7" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652a41eb9a8604437c0a7e364cedf4ea430a0de1e09238f618a49bd251e946a033c6827958b9d560e399f857790880e5303ea7b7d6a7f3c415f" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064-extd_1047064-191021_1571684779609?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save 10% on Our  Generation playsets*" width="192" height="143">
+</a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652a41eb9a8604437c0a7e364cedf4ea430a0de1e09238f618a49bd251e946a033c6827958b9d560e399f857790880e5303ea7b7d6a7f3c415f" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;"><span style="color: #cc0000;">Save 10%</span> on Our <br />Generation playsets* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- RTL Tab * END --><!--- RTR Tab * START --><!-- 192x192 Promo Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652b576c24639a8f28cf06bbd814db3709a00891811d1bb6f5b71304d07dfb5faf0260bc1915646b15e39b2fe8114cb6f58e43a6031ffb45980" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47064-extd_1147064-191021_1571684784378?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Save 15%  on KidKraft*" width="192" height="143"></a></td></tr><tr><td height="49" align="center" valign="top" style="width:192px; height:49px;"><a  href="https://click.em.target.com/?qs=c438b4bf5be5b652b576c24639a8f28cf06bbd814db3709a00891811d1bb6f5b71304d07dfb5faf0260bc1915646b15e39b2fe8114cb6f58e43a6031ffb45980" style="text-decoration:none; display:block;">
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%;">
+<span style="color: #cc0000;">Save 15%</span> <br />on KidKraft* <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Promo Retina Image * END --><!--- RTR Tab * END --></tr></table><!--- RTL & RTR Tabs * END --></td></tr></table><!-- Top Row * END --></td></tr></table><!-- Hero Extenstion 0005 * END --><!-- 0001 Component Container * END -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 0009 Component Container * START --><div data="EMAIL-47551" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#514136" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=68310b94a618ec3993000fffdcb1fd5e48726816c24d18ffc1788b18cb6017a80b8f084a1affdb85a59c923a99edbfcd95ab16dc03f3abaec875bdc3c962f376" style="color:#FFFFFF; text-decoration:none; display:block;"><b>Save up to 40% </b>on furniture.*<br />Online only. <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Left Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr>
+<!-- 384x384 Background Image Template * START --><td style="background-size:384px 384px;" background="http://target.scene7.com/is/image/Target/47175_0147551-191024_1571928850765?scl=1&qlt=100&fmt=pjpeg" bgcolor="#FFFFFF" width="384" height="384" align="left" valign="top"><!--[if (gte mso 9)|(IE)]><v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:384px; height:384px;" src="http://target.scene7.com/is/image/Target/47175_0147551-191024_1571928850765?scl=1&qlt=100&fmt=pjpeg" /><v:rect fill="true" stroke="false" style="position:absolute; width:384px; height:384px;"><v:fill opacity="0%"/><![endif]--><div><table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top">
+<a  href="https://click.em.target.com/?qs=68310b94a618ec391f8707cb00d2301f41e6e81fbb173955521859e97ce2de9fe05d74bb4ed84cb6481af2bba6a367964b79fca94dcdc781ee99ce0aac9df9a1" style="text-decoration:none; display:block;"><img src="http://scene7.targetimg1.com/is/image/Target/invisibleLinkimage_upload-170201_1485979046054?fmt=gif-alpha&scl=1&qlt=100" style="border:none; display:block;" alt="furniture deals" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr>
+<td height="40" bgcolor="#514136" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=68310b94a618ec391f8707cb00d2301f41e6e81fbb173955521859e97ce2de9fe05d74bb4ed84cb6481af2bba6a367964b79fca94dcdc781ee99ce0aac9df9a1" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">furniture deals</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div><!--[if (gte mso 9)|(IE)]></v:fill></v:rect></v:image><![endif]--></td><!-- 384x384 Background Image Template * END --></tr></table><!-- Left Column * END --><!--[if mso]></td><td><![endif]--><!-- Right Column * START -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Retina Image wo/Button Template * START --><td bgcolor="#FFFFFF" valign="top"><table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=68310b94a618ec39884eca376bfa8847253a03e499f4f69f1aeb013a6843d5bdeb6c81549cad30ec8385aeeaa0e4ddf9fb9a88b340e72769f682b7dd5d3e58c0" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47175_0247551-191024_1571928916059?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="" width="384" height="384"></a></td></tr></table></td><!-- 384x384 Retina Image wo/Button Template * END --></tr></table><!-- Right Column * END --></td></tr></table><!-- 0009 Component Container * END -->
+
+
+
+
+
+
+
+<!-- 0001 Component Container * START --><div data="EMAIL-47075" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#5e1723" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=9279e540141b0c010fb8a22eb09a905f4563faa1f8e01a2e010b2d012f2ec1645a8f3aa935b1a94c85959743631bbe6456122e932d22f9debc6de6a5d632714c" style="color:#FFFFFF; text-decoration:none; display:block;">Get your home holiday-ready<span class="db"></span> with <b>up to 25% off</b> home updates.* <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Left Column * START -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Background Image Template * START --><td style="background-size:384px 384px;" background="http://target.scene7.com/is/image/Target/47075_0147075-191014_1571063357883?scl=1&qlt=100&fmt=pjpeg" bgcolor="#FFFFFF" width="384" height="384" align="left" valign="top"><!--[if (gte mso 9)|(IE)]><v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:384px; height:384px;" src="http://target.scene7.com/is/image/Target/47075_0147075-191014_1571063357883?scl=1&qlt=100&fmt=pjpeg" /><v:rect fill="true" stroke="false" style="position:absolute; width:384px; height:384px;"><v:fill opacity="0%"/><![endif]--><div>
+<table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=9279e540141b0c01cc3ec31c685809c78dafb487b08687c9143099c6c2a8ff4bcd0e46e3d9ecbfac4cf8fb5eaec0f71e6dcb193044c229729ac1baccbe6e2220" style="text-decoration:none; display:block;"><img src="http://scene7.targetimg1.com/is/image/Target/invisibleLinkimage_upload-170201_1485979046054?fmt=gif-alpha&scl=1&qlt=100" style="border:none; display:block;" alt="home sale" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr>
+<td height="40" bgcolor="#5e1723" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=9279e540141b0c01cc3ec31c685809c78dafb487b08687c9143099c6c2a8ff4bcd0e46e3d9ecbfac4cf8fb5eaec0f71e6dcb193044c229729ac1baccbe6e2220" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">home sale</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div><!--[if (gte mso 9)|(IE)]></v:fill></v:rect></v:image><![endif]--></td><!-- 384x384 Background Image Template * END --></tr></table><!-- Left Column * END --><!--[if mso]></td><td><![endif]--><!-- Right Column * START -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td height="384" align="left" valign="top" style="width:384px; height:384px;"><!--- RTL & RTR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RTL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#f8f8f8" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=9279e540141b0c01ea22012965c7f5f393898dee7c26decd16355df755526a1768d7d50a2398ac32368e53a3388aca783e5b08f060c5af2242cb67f54bd18928" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47075_0247075-191014_1571063362939?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="throw pillows" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=9279e540141b0c01ea22012965c7f5f393898dee7c26decd16355df755526a1768d7d50a2398ac32368e53a3388aca783e5b08f060c5af2242cb67f54bd18928" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">throw pillows <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTL Tab * END --><!--- RTR Tab * START -->
+<!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#ffffff" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=9279e540141b0c01870ae6cd70104e7efaf8cded716373d974d1269c0e9565a4e44a322700408d59200f51932c9f1109d6eeddc8a53e8c38cfb00c8c458b8c4e" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47075_0347075-191014_1571063379117?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="home decor" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=9279e540141b0c01870ae6cd70104e7efaf8cded716373d974d1269c0e9565a4e44a322700408d59200f51932c9f1109d6eeddc8a53e8c38cfb00c8c458b8c4e" style="text-decoration:none; display:block;">
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">home decor <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTR Tab * END --></tr></table><!--- RTL & RTR Tabs * END --><!--- RBL & RBR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RBL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#ffffff" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top">
+<a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0fcadf6acee87ec54b76ef593a6ff9003ccb3fb4eef7823decbaf415997ceb7f0590d94d313a57992e9d2f11ebae0a71d8d6d1044db6f7fc2" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47075_0547075-191014_1571063374812?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="wall decor" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0fcadf6acee87ec54b76ef593a6ff9003ccb3fb4eef7823decbaf415997ceb7f0590d94d313a57992e9d2f11ebae0a71d8d6d1044db6f7fc2" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">wall decor <span style="font-size:18px;">&#8250;</span></span></a></td></tr>
+</table></td>
+<!-- 192x192 Category Retina Image * END --><!--- RBL Tab * END --><!--- RBR Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#f8f8f8" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=224f7dcada5a6ee008b04ecd42cb6a53e49636a5772b8ea95fdf558cc38ab3af368cd9c2c99a807fa405b2eae30f61152e80decce554e790e14ac402a10fd7bf" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47075_0647075-191014_1571063384043?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="throw blankets" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;">
+<a  href="https://click.em.target.com/?qs=224f7dcada5a6ee008b04ecd42cb6a53e49636a5772b8ea95fdf558cc38ab3af368cd9c2c99a807fa405b2eae30f61152e80decce554e790e14ac402a10fd7bf" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">throw blankets <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RBR Tab * END --></tr></table><!--- RBL & RBR Tabs * END --></td></tr></table><!-- Right Column * END --></td></tr></table><!-- 0001 Component Container * END -->
+
+
+
+
+
+
+
+<!-- 0001 Component Container * START --><div data="EMAIL-47733" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#333333" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=d8cfc4f8ca77adf9f6572c97edaea3d5b487a1d7fc9c32d100ca09ac99b012e5ce08f9285fef2e8af2babfe95d169f26366fd3229ebcecc00b4710377691169f" style="color:#FFFFFF; text-decoration:none; display:block;">Buy 2, <b>get 1 free</b> on movies, <span class="db"></span>video games, <br class="dn" />board games, <span class="db"></span>books, music and activity kits.* <span class="db"></span>Online only. <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td>
+<!-- Left Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Retina Image wo/Button Template * START --><td bgcolor="#FFFFFF" valign="top"><table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbedaac6c744cbd85664bd4f8b483087991c21c8561f0533b21678a88b1bff990dc9e77d03067b33778ac2ce1467d647d4696499197e1189c61" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47195_0147733-191030_1572445971364?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="" width="384" height="384"></a></td></tr></table></td><!-- 384x384 Retina Image wo/Button Template * END --></tr></table><!-- Left Column * END --><!--[if mso]></td><td><![endif]-->
+<!-- Right Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td height="384" align="left" valign="top" style="width:384px; height:384px;"><!--- RTL & RTR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RTL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d8cfc4f8ca77adf95ee79d15f3e3c6d5d63ec5d5d2152986fd59959e5385ecd8749d23524e6eed290da49b67151f4a949180bc4d55089160cdd8a8b42b0f18ee" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47195_0247733-191030_1572445979808?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Movies" width="192" height="192"></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTL Tab * END --><!--- RTR Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d8cfc4f8ca77adf913b9e2a31263b172fa161ad0e8eb3d152c3641123b4c9757fb819dbd0913312411fc7558bbe3d57225f49ef1c36372146d86fe4096eedd4e" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47195_0347733-191030_1572445984450?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="" width="192" height="192"></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTR Tab * END --></tr></table><!--- RTL & RTR Tabs * END --><!--- RBL & RBR Tabs * START --><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><!--- RBL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=e3a53faab950359c2e6e776788143d82e50d1d3f68d6e3e00744f8355a027490c55ddd0738f720105557b75e7e3c2ad6825c7af1490c9d9c999c5a7b87c914eb" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47195_0447733-191030_1572445994705?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="" width="192" height="192"></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RBL Tab * END --><!--- RBR Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=e3a53faab950359cab4a32378e44fbd17f7ef759922b9469d9125bd504d0a1ef2b34176eed2ed7b30ef2adecfd35028683a2b83d02849d5b4edf0f6ec3b3984c" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47195_0547733-191030_1572446003101?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Video Games" width="192" height="192"></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RBR Tab * END --></tr></table><!--- RBL & RBR Tabs * END --></td></tr></table><!-- Right Column * END --></td></tr></table><!-- Hero Extenstion 0005 * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Top Row * START --><table class="px384" align="left" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr>
+<td class="px384" height="192" align="left" valign="top" style="width:768px; height:192px;"><!--- LTL & LTR Tabs * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!--- LTL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#ebebeb" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbeebbc20196375f91f6b0851a8b1531fff62ce41d10c53e0b513947e43860cbc0b17e40bade55e5b27763f2c7e81c4bab80631bba254c215a2" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47195_0647733-191030_1572446019872?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="activity kits" width="192" height="159"></a></td>
+</tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbeebbc20196375f91f6b0851a8b1531fff62ce41d10c53e0b513947e43860cbc0b17e40bade55e5b27763f2c7e81c4bab80631bba254c215a2" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">activity kits <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- LTL Tab * END --><!--- LTR Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#f2f2f2" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top">
+<a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe384b123550d5c8000056f484dd484f439593e1f26ef8403808bc8b33ec4ad1db2b79414db785e85e4907d48c1dfcbfd0e9821ab524a0cdb6" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47195_0747733-191030_1572446031737?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="board games" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe384b123550d5c8000056f484dd484f439593e1f26ef8403808bc8b33ec4ad1db2b79414db785e85e4907d48c1dfcbfd0e9821ab524a0cdb6" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">board games <span style="font-size:18px;">&#8250;</span></span></a></td></tr>
+</table></td>
+<!-- 192x192 Category Retina Image * END --><!--- LTR Tab * END --></tr></table><!--- LTL & LTR Tabs * END --><!--[if mso]></td><td><![endif]--><!--- RTL & RTR Tabs * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!--- RTL Tab * START --><!-- 192x192 Category Retina Image * START --><td height="192" bgcolor="#f7f7f7" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe25ca13d79105b518f56b0fd81845effacc6ce5dfd0ca2ec9981e87af8151e9dbab5cac77fb04be5db48f5b4225279af06d352c1497a7be90" style="text-decoration:none; display:block;">
+<img src="http://target.scene7.com/is/image/Target/47195_0847733-191030_1572446044337?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Books" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe25ca13d79105b518f56b0fd81845effacc6ce5dfd0ca2ec9981e87af8151e9dbab5cac77fb04be5db48f5b4225279af06d352c1497a7be90" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">Books <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTL Tab * END --><!--- RTR Tab * START --><!-- 192x192 Category Retina Image * START -->
+<td height="192" bgcolor="#FFFFFF" align="left" valign="top" style="width:192px; height:192px;"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe278250b6fff28d3cb329984a98ae92fb4a2910a9dfc4ac96ae49d58c03ac40d959238d3bdd29761b27b30f7f8a61e3fca6851acb67bc1624" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/image/Target/47195_0947733-191030_1572446049419?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Music" width="192" height="159"></a></td></tr><tr><td height="33" align="center" valign="top" style="width:192px; height:33px;"><a  href="https://click.em.target.com/?qs=d2fd21ebf5301bbe278250b6fff28d3cb329984a98ae92fb4a2910a9dfc4ac96ae49d58c03ac40d959238d3bdd29761b27b30f7f8a61e3fca6851acb67bc1624" style="text-decoration:none; display:block;">
+<span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#333333; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">Music <span style="font-size:18px;">&#8250;</span></span></a></td></tr></table></td><!-- 192x192 Category Retina Image * END --><!--- RTR Tab * END --></tr></table><!--- RTL & RTR Tabs * END --></td></tr></table><!-- Top Row * END --></td></tr></table><!-- Hero Extenstion 0005 * END --><!-- 0001 Component Container * END -->
+
+
+
+
+
+
+ 
+<!-- 0009 Component Container * START --><div data="EMAIL-47073" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#3f3b42" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=e3a53faab950359cec5c2c411064719c61afcc47a2ae0600f89e081562d7a2ee2588e1e9d8c4a8165010834c637e3782e2d68c20b8d00192715605bb92291ff8" style="color:#FFFFFF; text-decoration:none; display:block;"><b>Save 30%</b> on select <span class="db"></span>Halloween decor.* Plus,<span class="db"></span> <b>BOGO 50% off</b> <br class="dn" />trick-or-treat<span class="db"></span> candy.* Ends Thursday. <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td>
+<!-- Left Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Background Image Template * START --><td style="background-size:384px 384px;" background="http://target.scene7.com/is/image/Target/46878_0147073-191009_1570645457160?scl=1&qlt=100&fmt=pjpeg" bgcolor="#FFFFFF" width="384" height="384" align="left" valign="top"><!--[if (gte mso 9)|(IE)]><v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:384px; height:384px;" src="http://target.scene7.com/is/image/Target/46878_0147073-191009_1570645457160?scl=1&qlt=100&fmt=pjpeg" /><v:rect fill="true" stroke="false" style="position:absolute; width:384px; height:384px;"><v:fill opacity="0%"/><![endif]--><div>
+<table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=9279e540141b0c01149630b7cc9de8750a4c6255b044e626a70faa7b6536678c3e33e990f84ea45caf9553320f29748ca33a3bd4e4f19fc4911a9870e9950bf7" style="text-decoration:none; display:block;"><img src="http://scene7.targetimg1.com/is/image/Target/invisibleLinkimage_upload-170201_1485979046054?fmt=gif-alpha&scl=1&qlt=100" style="border:none; display:block;" alt="Halloween decor sale" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td height="40" bgcolor="#3f3b42" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=9279e540141b0c01149630b7cc9de8750a4c6255b044e626a70faa7b6536678c3e33e990f84ea45caf9553320f29748ca33a3bd4e4f19fc4911a9870e9950bf7" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">Halloween decor sale</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div><!--[if (gte mso 9)|(IE)]></v:fill></v:rect></v:image><![endif]--></td><!-- 384x384 Background Image Template * END --></tr></table><!-- Left Column * END --><!--[if mso]></td><td>
+<![endif]--><!-- Right Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Retina Image w/Button Template * START --><td bgcolor="#a19ca2" valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=9279e540141b0c0171c484280805a1f5ab1772d915d68c672699d5bb97aca86adc1b2938b5382ecf6786832c52359ce3034e578e4880a44fbed22bde43dc00e1" style="text-decoration:none; display:block;"><img src="http://target.scene7.com/is/content/Target/46878_0247073-191009_1570645467787?scl=1&qlt=100&fmt=pjpeg" style="border:none; display:block;" alt="Candy deal" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td height="40" bgcolor="#3f3b42" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=9279e540141b0c0171c484280805a1f5ab1772d915d68c672699d5bb97aca86adc1b2938b5382ecf6786832c52359ce3034e578e4880a44fbed22bde43dc00e1" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">Candy deal</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td><!-- 384x384 Retina Image w/Button Template * END --></tr></table>
+<!-- Right Column * END --></td></tr></table><!-- 0009 Component Container * END -->
+
+
+
+
+
+
+
+<!-- 0009 Component Container * START --><div data="EMAIL-47091" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div><!-- Promo Bar Template * START --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td valign="top"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" role="presentation"><tr><td class="px384" bgcolor="#3a5352" valign="middle" align="center" height="34" style="width:768px; height:34px; padding:15px 15px 15px 15px;">
+<h1 class="fs15 lh17" style="font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;"><a  href="https://click.em.target.com/?qs=d2dea319983cf8d800148ac820d3fe9580206ac0d11054562f38c00e57a387973c769a06dd661577bfd50834bf5011bb67889435ae1d3f6e67dee5a6e2990ef1" style="color:#FFFFFF; text-decoration:none; display:block;">Snuggle up in cold-weather wear&#8212;<br /><b>buy one sweater, get one 50% off.*</b> <span class="fs17" style="font-size:21px;">&#8250;</span></a></h1></td></tr></table></td></tr></table><!-- Promo Bar Template * END --><table class="px384 iPadMini" align="center" border="0" cellpadding="0" cellspacing="0" style="width:768px;" role="presentation"><tr><td><!-- Left Column * START --><table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation">
+<tr><!-- 384x384 Background Image Template * START --><td style="background-size:384px 384px;" background="http://target.scene7.com/is/image/Target/47091_0247091-191019_1571512161280?scl=1&qlt=100&fmt=pjpeg" bgcolor="#FFFFFF" width="384" height="384" align="left" valign="top"><!--[if (gte mso 9)|(IE)]><v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:384px; height:384px;" src="http://target.scene7.com/is/image/Target/47091_0247091-191019_1571512161280?scl=1&qlt=100&fmt=pjpeg" /><v:rect fill="true" stroke="false" style="position:absolute; width:384px; height:384px;"><v:fill opacity="0%"/><![endif]--><div><table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top">
+<a  href="https://click.em.target.com/?qs=d2dea319983cf8d85c8f691ce85fb5888584423606da7796780f45046aba92e2d4c1b7b9f30940969a243b45b4f05464f98f7edeea189360e6a71fce2db10329" style="text-decoration:none; display:block;"><img src="http://scene7.targetimg1.com/is/image/Target/invisibleLinkimage_upload-170201_1485979046054?fmt=gif-alpha&scl=1&qlt=100" style="border:none; display:block;" alt="plus size" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr>
+<td height="40" bgcolor="#3a5352" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=d2dea319983cf8d85c8f691ce85fb5888584423606da7796780f45046aba92e2d4c1b7b9f30940969a243b45b4f05464f98f7edeea189360e6a71fce2db10329" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">plus size</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div><!--[if (gte mso 9)|(IE)]></v:fill></v:rect></v:image><![endif]--></td><!-- 384x384 Background Image Template * END --></tr></table><!-- Left Column * END --><!--[if mso]></td><td><![endif]--><!-- Right Column * START -->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><!-- 384x384 Background Image Template * START --><td style="background-size:384px 384px;" background="http://target.scene7.com/is/image/Target/47091_0147091-191010_1570739613197?scl=1&qlt=100&fmt=pjpeg" bgcolor="#FFFFFF" width="384" height="384" align="left" valign="top"><!--[if (gte mso 9)|(IE)]><v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:384px; height:384px;" src="http://target.scene7.com/is/image/Target/47091_0147091-191010_1570739613197?scl=1&qlt=100&fmt=pjpeg" /><v:rect fill="true" stroke="false" style="position:absolute; width:384px; height:384px;"><v:fill opacity="0%"/><![endif]--><div>
+<table border="0" cellpadding="0" cellspacing="0" style="width:384px;" role="presentation"><tr><td valign="top"><a  href="https://click.em.target.com/?qs=d2dea319983cf8d8d430117f9d6c1eaeff70cdc08f21fdd0fde055a20fd8d7efc9ae6b06f301637c2889c39910aa1718a0f60dcc6aab75d939eacf55cc539606" style="text-decoration:none; display:block;"><img src="http://scene7.targetimg1.com/is/image/Target/invisibleLinkimage_upload-170201_1485979046054?fmt=gif-alpha&scl=1&qlt=100" style="border:none; display:block;" alt="women's" width="384" height="324"></a></td></tr><tr><td height="60" style="height:60px;" valign="top" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation"><tr>
+<td height="40" bgcolor="#3a5352" style="width:240px; height:40px; border-radius: 4px 4px 4px 4px;" align="center" valign="middle"><a  href="https://click.em.target.com/?qs=d2dea319983cf8d8d430117f9d6c1eaeff70cdc08f21fdd0fde055a20fd8d7efc9ae6b06f301637c2889c39910aa1718a0f60dcc6aab75d939eacf55cc539606" style="text-decoration:none; display:block;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF; mso-line-height-rule:exactly; line-height:100%; text-transform:uppercase;">women&#8217;s</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></div><!--[if (gte mso 9)|(IE)]></v:fill></v:rect></v:image><![endif]--></td><!-- 384x384 Background Image Template * END --></tr></table><!-- Right Column * END --></td></tr></table><!-- 0009 Component Container * END -->
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+
+
+
+<table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- Cartwheel_Recommendations START -->
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td valign="top">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td class="px384" style="width:768px; height:34px; padding:15px 15px 15px 15px;" valign="middle" height="34" bgcolor="#560000" align="center">
+            <h1 class="fs15 lh17" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:19px; line-height:21px; font-weight:normal; text-align:center; margin:0; mso-line-height-rule:exactly;">We picked these offers just for you.</h1>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384" width="768" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td>
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td style="border-bottom:2px solid #720000" valign="top" bgcolor="#ffffff">
+                  <img src="https://target.scene7.com/is/image/Target/Circle_rec_finalimage_upload-191004_1570198311615?scl=1" style="border:none; display:block;" alt="Circle Offers" width="384" height="190">
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+          <!--[if mso]></td><td><![endif]-->
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="blc6F" style="border-left:1px solid #ffffff; border-bottom:2px solid #dddddd" valign="top" bgcolor="#ffffff">
+                <!-- START CartwheelRecs -->
+                  <a href="https://click.em.target.com/?qs=d2dea319983cf8d8ad2aa9a439333ca33c40b8e0f06a65610dec2fcefb93415d4162e29255603b0593de31713241a68ac8770552b0ef60f91194ca4b372f6238" style="text-decoration:none; display:block;">
+                      <img src="https://api.target.com/email_recommendations/v1/cartwheel/image?visId=98560615047080142986&context=placementId,email_offers&min=5&lid=0&ref=tgt_email_HP910301MT&emseq=7320209406138888&key=d55999d969fd4858a4ab0a2822750109f98e1b85" style="border:none; display:block;" alt="Cartwheel Recs 1" width="383" height="190">
+                  </a>
+                <!-- END CartwheelRecs -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384" width="768" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td>
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="brc6F" style="border-right:1px solid #dddddd; border-bottom:2px solid #dddddd" valign="top" bgcolor="#ffffff">
+                <!-- START CartwheelRecs -->
+                  <a href="https://click.em.target.com/?qs=d2dea319983cf8d826a4ec1848e16f1e8e7a41395cb746d401093a8534ead7abd99a874b55194fc6156ccc5b93d599c175aecc63d0e7a28353bd8376c58af943" style="text-decoration:none; display:block;">
+                    <img src="https://api.target.com/email_recommendations/v1/cartwheel/image?visId=98560615047080142986&context=placementId,email_offers&min=5&lid=1&ref=tgt_email_HP910301MT&emseq=7320209406138888&key=d55999d969fd4858a4ab0a2822750109f98e1b85" style="border:none; display:block;" alt="Cartwheel Recs 2" width="383" height="190">
+                  </a>
+                <!-- END CartwheelRecs -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+          <!--[if mso]></td><td><![endif]-->
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="blc6F" style="border-left:1px solid #dddddd; border-bottom:2px solid #dddddd" valign="top" bgcolor="#ffffff">
+                <!-- START CartwheelRecs -->
+                  <a href="https://click.em.target.com/?qs=d2dea319983cf8d8377b7fb476cf902b9c9a2bbcc45beaee749565f17341e3ab4bdc1c3a4dab015dbd30f1cd00f83dfff03b9a9e56e304375998bacc545e8559" style="text-decoration:none; display:block;">
+                    <img src="https://api.target.com/email_recommendations/v1/cartwheel/image?visId=98560615047080142986&context=placementId,email_offers&min=5&lid=2&ref=tgt_email_HP910301MT&emseq=7320209406138888&key=d55999d969fd4858a4ab0a2822750109f98e1b85" style="border:none; display:block;" alt="Cartwheel Recs 3" width="383" height="190">
+                  </a>
+                <!-- END CartwheelRecs -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384" width="768" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td>
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="brc6F" style="border-right:1px solid #dddddd; border-bottom:2px solid #dddddd" valign="top" bgcolor="#ffffff">
+                <!-- START CartwheelRecs -->
+                  <a href="https://click.em.target.com/?qs=d2dea319983cf8d8d0e48fdc6684bb8a1b7a0175610ce873c04799dcd0fccb20c2bb7bdaf37953c867e0152d025946ff732a88e23dc3a4bc2024186c413e4d6a" style="text-decoration:none; display:block;">
+                    <img src="https://api.target.com/email_recommendations/v1/cartwheel/image?visId=98560615047080142986&context=placementId,email_offers&min=5&lid=3&ref=tgt_email_HP910301MT&emseq=7320209406138888&key=d55999d969fd4858a4ab0a2822750109f98e1b85" style="border:none; display:block;" alt="Cartwheel Recs 4" width="383" height="190">
+                  </a>
+                <!-- END CartwheelRecs -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+          <!--[if mso]></td><td><![endif]-->
+      <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+          <td width="384" valign="top" height="192">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="blc6F" style="border-left:1px solid #dddddd; border-bottom:2px solid #dddddd" valign="top" bgcolor="#ffffff">
+                <!-- START CartwheelRecs -->
+                  <a href="https://click.em.target.com/?qs=d2dea319983cf8d829c4a94109851b5f8810328d818ac078146684facbf55ced544ad19c8ed1f4a98063620701654a4cf617e721161340dde92c2cc79a82a62e" style="text-decoration:none; display:block;">
+                    <img src="https://api.target.com/email_recommendations/v1/cartwheel/image?visId=98560615047080142986&context=placementId,email_offers&min=5&lid=4&ref=tgt_email_HP910301MT&emseq=7320209406138888&key=d55999d969fd4858a4ab0a2822750109f98e1b85" style="border:none; display:block;" alt="Cartwheel Recs 5" width="383" height="190">
+                  </a>
+                <!-- END CartwheelRecs -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- Cartwheel_Recommendations END -->
+</td></tr></table> 
+</td></tr></table>
+
+
+
+
+
+
+
+<div data-marker="wrapper" class="stylingblock-content-wrapper"></div>
+
+
+
+
+
+
+ 
+<table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- 0015 Component Container * START -->
+<div data="EMAIL-15" style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;visibility:hidden;"></div>
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" bgcolor="#cc0000" align="center">
+  <tr>
+    <td>
+      <table class="px384" style="width:768px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="right">
+        <tr>
+          <td class="pr0 tc" style="height:50px; padding:0 10px 0 0;" valign="middle" height="50" align="right">
+            <h1 class="fs14" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; line-height:18px; mso-ansi-font-size:16px; mso-line-height-rule:exactly;">
+              <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="color:#ffffff; display:block; text-decoration:none;">
+                <span style="font-weight: bold;">*See full details of all deals. </span><span class="db"></span>Some restrictions apply.
+              </a>
+            </h1>
+          </td>
+          <td class="px135" style="height:50px; width:148px;" height="50">
+            <table style="border-collapse:separate;" role="presentation" cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td class="db" style="border:solid 2px #ffffff; border-radius:4px; padding:5px 14px 5px 14px;" valign="middle" align="center">
+                  <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="text-decoration:none; display:block;">
+                    <span class="fs14" style="font-size:18px; font-family:Arial, Helvetica, sans-serif; color: #ffffff; mso-line-height-rule:exactly; line-height:20px;">Offer Details</span>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+  <tr>
+    <td class="bgWhite" style="background-color:#f7f7f7;" align="center">
+      <table style="margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td class="px384" style="width:768px; height:34px;" valign="middle" height="34" align="center">
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="ftrPad" style="padding:17px 3px 17px 0;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0cd071485ee27d8a476657342d1022221e966ee9076835a84ddeccdcdda5e0ffb1b13623c0f2dec28b42d249c41a86aaa34cb2981d522e3f2" style="color:#666666; text-decoration:none; display:block;">Clothing</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 11px 17px 0;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c073a623e9dc0979a1058cd54544dc90bd80c9e66c91b096b4fa20816737134d1f96e62c266759c0f894eee11b5783662034e9a7c78a4bb0" style="color:#666666; text-decoration:none; display:block;">Shoes</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 15px 17px 0;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee01c0b0138869268cf18045c30ad6aec7413c1ae30110e4f3c6df94b61a50f8d4273fbab3a36fc831b9b0ee6d95ff6d893befc233c4b03e81b" style="color:#666666; text-decoration:none; display:block;">Home</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 0 17px 5px;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee015a5e5ba9e68580b884903796b5b3921e2cfb6fb5038c3585952424769d826071c282d1873d47994358b83603b8325a34d0a1c687088f431" style="color:#666666; text-decoration:none; display:block;">Electronics</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 0 17px 20px;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0a0cf5a1da50bb1dae7f720073c6aef8fd162e7bfd3de35c176ddf7545ede8d9c5fa1c82a32d14b46ccd35cad1ecc5fed03b0bd8622b0618c" style="color:#666666; text-decoration:none; display:block;">Toys</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 0 17px 20px;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=892256c1cd84857d4c076d3e3219e280642d2684c7e83a52d14dfd552a809837e6046f978227e5ea8d6a8ef91f9a4967aef2a3a49b5b9532ccacbefbcaaecb9c" style="color:#666666; text-decoration:none; display:block;">Grocery</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bt ftrPad" style="padding:17px 0 17px 20px;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=892256c1cd84857dc8103d30c49f6e1b830399da35ca2242e330ac2079270b3b08690477a7ce805138172c00395d7612a371af82a0e5cb83" style="color:#666666; text-decoration:none; display:block;">Help</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--[if mso]></td><td><![endif]-->
+            <table class="px384" style="width:96px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                      <td class="bb bt ftrPad" style="padding:17px 0 17px 0;" valign="top">
+                        <p style="font-family:Arial, sans-serif; font-size:14px; font-weight:normal; line-height:16px; mso-line-height-rule:exactly; Margin:0; margin:0; text-align:center;">
+                          <a  href="https://click.em.target.com/?qs=892256c1cd84857d6dfb17057a06b9e899052361f6cec251188c26833382d3451d8c9fcb063f575ad4c24acba838fd47a1cfa924a0624e633cd6d5f2c4e126c2" style="color:#666666; text-decoration:none; display:block;">Privacy</a>
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td style="background-color:#ffffff;" valign="top">
+      <table class="px364" style="width:728px; margin:0 auto;" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td style="padding:25px 0 15px 0;" valign="top">
+                  <h2 style="color:#666666; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:normal; line-height:20px; Margin:0; margin:0; mso-ansi-font-size:16px; mso-line-height-rule:exactly; padding:0; text-align:left;">Okay, so here's the fine print:</h2>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td style="background-color:#ffffff;" valign="top">
+      <table class="px364" style="width:728px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td style="padding:0 0 12px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;">Promotions valid Sunday&#8211;Saturday unless otherwise stated. Pricing, promotions, and availability may vary by location and online. Descriptive, typographic and photographic errors are subject to correction and Target shall have no liability for such errors.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 5px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;"><span style="font-size:16px;">&#185;</span><span style="font-weight:bold;">Target Circle</span>&#8482;: Restrictions apply. See <a  href="https://click.em.target.com/?qs=892256c1cd84857d08dbd74ec1f399b92d508e813eb2feae948aef3fbd80755268a326d58a082478eb38c210b22569db82023a950f46baa0bcc03ccd8c893dfc" style="text-decoration:none; color:#0069ff;">Target.com/circle</a> for program rules.<a  href="https://click.em.target.com/?qs=892256c1cd84857d08dbd74ec1f399b92d508e813eb2feae948aef3fbd80755268a326d58a082478eb38c210b22569db82023a950f46baa0bcc03ccd8c893dfc" style="text-decoration:none; color:#0069ff;">Target.com/circle</a> for details</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 5px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;">1% Earnings: Terms and restrictions apply to the 1% reward. See <a  href="https://click.em.target.com/?qs=892256c1cd84857d08dbd74ec1f399b92d508e813eb2feae948aef3fbd80755268a326d58a082478eb38c210b22569db82023a950f46baa0bcc03ccd8c893dfc" style="text-decoration:none; color:#0069ff;">Target.com/circle</a> for details.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 12px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;">Community Support: Earn votes to help direct where Target gives in your community. See <a  href="https://click.em.target.com/?qs=892256c1cd84857d08dbd74ec1f399b92d508e813eb2feae948aef3fbd80755268a326d58a082478eb38c210b22569db82023a950f46baa0bcc03ccd8c893dfc" style="text-decoration:none; color:#0069ff;">Target.com/circle</a> for details.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 5px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;"><span style="font-size:16px;">&#178;</span><span style="font-weight:bold;">RedCard</span>&#8482;: Some restrictions apply. See program rules in store or on <a  href="https://click.em.target.com/?qs=892256c1cd84857d03a22ce41e15deebc8dd4fb502a1c478afb2ef0e6b36edf4b35cdc3f9fe95b2cb938b6e6d7fcacfd938cdfd6ba74171c477ca0a82c6f9619" style="text-decoration:none; color:#0069ff;">Target.com/RedCard</a> for details</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 12px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;">RedCard&#8482;: Target Debit Card, Target Credit Card, and Target&#8482; MasterCard&#169;. Subject to application approval (Target MasterCard not available to new applicants). The RedCard credit cards (Target Credit Card and Target MasterCard) are issued by TD Bank USA, N.A.  The RedCard debit card is issued by Target Corporation. MasterCard is a registered trademark of MasterCard International, Inc. Pat 7,562,048 and 8,117,118.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="px364" style="width:728px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td valign="top">
+            <table style="margin:0 auto;" cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td style="padding:0 0 12px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;"><a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="text-decoration:none; color:#777777;">For messages containing promotional codes: Discount applied at checkout with valid promotion code. Discount not applicable to gift wrap, tax or shipping and handling charges. May not be applied to previous orders. Exclusions may apply.&nbsp;</a><a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="text-decoration:none; color:#0069ff;">Offer details</a>.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 12px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0;"><a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="text-decoration:none; color:#777777;">For messages containing gift card offers: Gift card on&nbsp;select&nbsp;items with purchase. Terms and conditions apply to gift cards.</a> <a  href="https://click.em.target.com/?qs=224f7dcada5a6ee0c15c8aa66abc66555497c24c60eb02ccd9e2009b8633e42bf4dc2279c0717744b867e19742f0bc292bef6d7d9123b60267235ca6ad024c44" style="text-decoration:none; color:#0069ff;">Offer details</a>.</p>
+                </td>
+              </tr>
+            </table>
+            <table class="px364" style="width:728px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+              <tr>
+                <td valign="top">
+                  <table style="margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                    <tr>
+                      <td valign="top">
+
+                      </td><td style="padding:0 0 25px 0;">
+                        <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0; text-align:left;">&#169;2019 Target.com. Target and the Bullseye Design are registered trademarks of Target Brands, Inc.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table class="px384 iPadMini" style="width:768px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td style="background-color:#ffffff;" valign="top">
+      <table class="px364" style="width:728px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td valign="top">
+                  <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                    <tr>
+                      <td style="padding:0 0 15px 0;">
+                        <h2 style="color:#666666; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:normal; line-height:20px; Margin:0; margin:0; mso-ansi-font-size:16px; mso-line-height-rule:exactly; padding:0; text-align:left;">My Preferences:</h2>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <!--My Preferences-->
+              <tr>
+                <td valign="top">
+                  <table class="px364" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                    <tr>
+                      <td valign="top">
+                        <!--Unsubscribe-->
+                        <table style="width:245px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                          <tr>
+                            <td style="padding:0 0 3px 0;" valign="top">
+                              <a  href="https://pages.em.target.com/page.aspx?qs=38dfbe491fab00ea7cc5e0e39ed74f24df2fcce52521f09d3f124a6f8f9919c7ff10a0c6eef4311aac09606ac71dab2baaf4bd48c32d9b81e5e2f5053ddf8fad987f49137ee87d82c22065a56df7372867f697bf1e45547df1a58ba42bd7ce593a6aae61a4ca330924927cc6fb6be11a7564b08fc2516777f639ec720b07ae468e99af5700ee96f085d05635b4241eea&elnk=traditional|email||||Footer|2019_Simplified_Footer" style="text-decoration:none; display:block;">
+                                <span style="font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#0069ff;">Unsubscribe</span>
+                              </a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="pb14" style="padding:0 45px 25px 0;" valign="top">
+                              <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0; text-align:left;">If you no longer wish to receive our commercial email advertisements, simply unsubscribe.</p>
+                            </td>
+                          </tr>
+                        </table>
+                        <!--[if mso]></td><td><![endif]-->
+                        <!--Subscribe-->
+                        <table style="width:245px;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                          <tr>
+                            <td style="padding:0 0 3px 0;" valign="top">
+                              <a  href="https://click.em.target.com/?qs=892256c1cd84857d6cb4ebc8bf3ddf850af04135f9dd604dfaa912c34e92ea379746aabe9396a03e2e85e207465748af06ba14de232bc8b0c8228712eca191d5" style="text-decoration:none; display:block;">
+                                <span style="font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#0069ff;">Subscribe</span>
+                              </a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:0 45px 25px 0;" valign="top">
+                              <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:14px; Margin:0; margin:0; text-align:left;">Was this email forwarded to you? sign up to get them straight from the source.</p>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <table class="px364" style="width:728px; margin:0 auto;" role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+          <td valign="top">
+            <table cellspacing="0" cellpadding="0" border="0" align="left">
+              <tr>
+                <td style="padding:0 0 15px 0;">
+                  <h2 style="color:#666666; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:normal; line-height:20px; Margin:0; margin:0; mso-ansi-font-size:16px; mso-line-height-rule:exactly; padding:0; text-align:left;">Contact Us:</h2>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#777777; mso-line-height-rule:exactly; line-height:15px; margin:0;">We can't respond to emails sent to this address, but you can get in touch through our <a  href="https://click.em.target.com/?qs=d2dea319983cf8d819d50cf533dea5f0b70f70e625cb19c0d96b0b560b48eac7c2377145c5b16251f4705f3ea08d8dab694ff267556eff5ad3d907cb3577b227" style="text-decoration:none; color:#0069ff;">contact us</a> page or by writing to:</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding:0 0 20px 0;">
+                  <p style="font-family:Helvetica, Arial, sans-serif; font-size:11px; color:#303030; mso-line-height-rule:exactly; line-height:15px; margin:0;">Target Guest Relations, Mail Stop NCB-0310, P.O. Box 9350, Minneapolis, MN 55440-9350.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- 0015 Component Container * END -->
+</body></html></td></tr></table>
+
+
+
+
+
+
+
+
+
+--f8W7eDOBThMr=_?:--
+

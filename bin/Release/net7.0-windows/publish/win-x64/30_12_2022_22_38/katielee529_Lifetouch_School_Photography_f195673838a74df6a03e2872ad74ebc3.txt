@@ -1,0 +1,1018 @@
+Return-Path: bounce-21_HTML-211842782-247743-515001114-391589@bounce.m.lifetouch.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md13.aqua.sync.lan with LMTP; Fri, 15 Apr 2022 10:43:11 -0400 (EDT)
+Return-Path: <bounce-21_HTML-211842782-247743-515001114-391589@bounce.m.lifetouch.com>
+X-Received-HELO: from [13.111.104.205] (helo=go205.mta.exacttarget.com)
+Authentication-Results: mx05.aqua.bos.sync.lan smtp.mail=bounce-21_HTML-211842782-247743-515001114-391589@bounce.m.lifetouch.com; spf=permerror
+Authentication-Results: mx05.aqua.bos.sync.lan header.DKIM-Signature=orders@m.lifetouch.com; dkim=pass
+Received-SPF: permerror (mx05.aqua.bos.sync.lan: 13.111.104.205 is neither permitted nor denied by domain of bounce.m.lifetouch.com)
+Received: from [13.111.104.205] ([13.111.104.205:39120] helo=go205.mta.exacttarget.com)
+	by mx.windstream.net (envelope-from <bounce-21_HTML-211842782-247743-515001114-391589@bounce.m.lifetouch.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id E8/99-04068-E7489526; Fri, 15 Apr 2022 10:43:11 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=10dkim1; d=m.lifetouch.com;
+ h=From:To:Subject:Date:List-Help:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type:Content-Transfer-Encoding;
+ i=orders@m.lifetouch.com;
+ bh=EqvwRLqVuiMTpcUJN0i7dHw41izAkOVsT9QoLfHapEg=;
+ b=qRJaB1D8n6HeTPMGRn8FR4senpfTec+jD/1YNce4gGURDwqaSC/ey1w6KrYzRGuCOqIij0zezho2
+   0nieJDGDFDVL8nQyxrKwrj74ODhfMJKZE2ZYWwXFmmz3seidpeEzF9qts/SPcg2adSnos0Xzkv3Y
+   s82NERQmVhOzrdc9d/6gDHTLzgBdFNhE77Sqpo9v/ia7iTK5uYS3kex6MhZYu0a0rg0Zz+20sBVG
+   kTuFc91VFaNRkRH1L/y0Jxf9eI6l2mK/3HmdSJZN30suwKsXeAkfkAcOYo9PACC7FFaIFsBL5PQr
+   ytC74voDyMleIVDivhT489zqEKu1Ea/pPqoBTQ==
+Received: by go205.mta.exacttarget.com id hb627s2fmd4n for <katielee529@windstream.net>; Fri, 15 Apr 2022 14:43:09 +0000 (envelope-from <bounce-21_HTML-211842782-247743-515001114-391589@bounce.m.lifetouch.com>)
+From: "Lifetouch School Photography" <orders@m.lifetouch.com>
+To: <katielee529@windstream.net>
+Subject: Thank you for your order!
+Date: Fri, 15 Apr 2022 08:43:09 -0600
+List-Help: <https://click.m.lifetouch.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MTUwMDExMTQiLCJzIjoiMjExODQyNzgyIiwibGlkIjoiMjEiLCJqIjoiMjQ3NzQzIiwiamIiOiIzOTE1ODkiLCJkIjoiMTAwMTYzIn0.VnNWDmYz_i2GAH81NCsvSAXnJ3ulRU77TtSPUp-1j8Q>
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Lifetouch School Photography" <reply-fec416747263007e-21_HTML-211842782-515001114-391589@m.lifetouch.com>
+List-ID: <100009663.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 10
+x-job: 515001114_247743
+Message-ID: <03bbf7fa-ae9e-4ca7-a2c2-ba07a47d1a4d@dfw1s10mta193.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Vade-Verdict: clean
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddrudelhedgkeduucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdphgfkpfffuffvtffgtefopdfgpfggqdghkffpfffuvfftgfetofen
+X-Vade-Analysis-3: uceurghilhhouhhtmecufedtudenucenucfjughrpefhvffuffefgghrjefktgfgsehhkeertddttdej
+X-Vade-Analysis-4: necuhfhrohhmpedfnfhifhgvthhouhgthhcuufgthhhoohhlucfrhhhothhoghhrrghphhihfdcuoeho
+X-Vade-Analysis-5: rhguvghrshesmhdrlhhifhgvthhouhgthhdrtghomheqnecuggftrfgrthhtvghrnhepffevjeevfeei
+X-Vade-Analysis-6: leejteeltedtjedttdelveffgfehvdeluefgiefghedutddvkeffnecuffhomhgrihhnpehlihhfvght
+X-Vade-Analysis-7: ohhutghhrdgtohhmnecukfhppedufedrudduuddruddtgedrvddtheenucevlhhushhtvghrufhiiigv
+X-Vade-Analysis-8: pedtnecurfgrrhgrmhepihhnvghtpedufedrudduuddruddtgedrvddthedphhgvlhhopehgohdvtdeh
+X-Vade-Analysis-9: rdhmthgrrdgvgigrtghtthgrrhhgvghtrdgtohhmpdhmrghilhhfrhhomhepsghouhhntggvqddvudgp
+X-Vade-Analysis-10: jffvoffnqddvuddukeegvdejkedvqddvgeejjeegfedqheduhedttdduuddugedqfeeludehkeelsegs
+X-Vade-Analysis-11: ohhunhgtvgdrmhdrlhhifhgvthhouhgthhdrtghomhdprhgtphhtthhopehkrghtihgvlhgvvgehvdel
+X-Vade-Analysis-12: seifihhnughsthhrvggrmhdrnhgvthdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshihnhgt
+X-Vade-Analysis-13: rdhlrghnpdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepphgrshhspdhnsggprhgtphhtthhopedu
+X-Vade-Client: AQUA
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Untitled 3</title>
+</head>
+
+<body><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Review details and important information about your order.</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES */
+
+
+
+
+
+body {
+ width: 100% !important;
+ -webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;
+ margin: 0;
+ padding: 0;
+} /* Prevent WebKit and Windows mobile changing default text sizes + Margin Reset */
+.ReadMsgBody {
+ width: 100%;
+}
+.ExternalClass {
+ width: 100%;
+} /* Force Hotmail to display emails at full width */
+.ExternalClass * {
+ line-height: 100%
+} /* Force Hotmail/Outlook to display normal line spacing */
+#outlook a {
+ padding: 0;
+} /* Force Outlook to provide a "view in browser" message */
+table, td {
+ mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;
+} /* Remove spacing between tables in Outlook 2007 and up */
+img {
+ outline: none;
+ text-decoration: none;
+ -ms-interpolation-mode: bicubic;
+} /* Allow smoother rendering of resized image in Internet Explorer */
+/* RESET STYLES */
+
+img {
+ border: 0;
+ line-height: 100%;
+ outline: none;
+ text-decoration: none;
+}
+table {
+ border-collapse: collapse !important;
+}
+body {
+ height: 100% !important;
+ margin: 0;
+ padding: 0;
+ width: 100% !important;
+}
+a:link, v:link {
+ color: #ffffff;
+} /*Link Color for IOS */
+ @media only screen and (max-width:480px) {
+*[class*=resizetofull] {
+ width: 100% !important;
+ height: auto !important;
+ margin: 0 auto !important;
+}/*Place this on main table hosting email - Makes it fluid*/
+*[class*=colstack] {
+ display: block;
+ width: 100%;
+ padding: 0 !important
+}
+*[class*=mobile-hide] {
+ display: none !important;
+} /*Hide images from mobile - but keeps it in desktop */
+*[class*=mobile-show] {
+ display: block !important;
+ overflow : visible !important;
+ height: auto !important;
+ max-height: inherit !important;
+} /*Hides elements in desktop but displays them in Mobile */
+*[class*=removepadding] {
+ padding: 0 !important;
+} /* removes padding from Desktop view */
+*[class*=mobilepadding] {
+ padding: 10px !important;
+} /* Mobile padding */
+*[class*=PLR10] {
+ padding-left: 10px !important;
+ padding-right: 10px !important;
+}
+*[class*=padTop10] {
+ padding-top: 10px !important;
+} /* Mobile padding top*/
+*[class*=padLeft10] {
+ padding-left: 10px !important;
+} /* Mobile padding left*/
+*[class*=padRight10] {
+ padding-Right: 10px !important;
+} /* Mobile padding right*/
+*[class*=padBottom10] {
+ padding-Bottom: 10px !important;
+} /* Mobile padding left*/
+*[class*=fourteen] {
+ font-size: 14px !important;
+} 
+*[class*=twentytwo] {
+ font-size: 22px !important;
+}
+*[class*=twentysix] {
+ font-size: 26px !important;
+}/* Mobile font size */
+*[class*=heightAuto] {
+ height:auto !important;
+}
+*[class~=mobile-block] {
+ width: 100% !important;
+} /* unhide image element from desktop*/
+.leftcol {
+ display: table-footer-group;
+}
+.rightcol {
+ display: table-header-group;
+}
+*[class*="center"] {
+ text-align: center !important;
+} /* center */
+}
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" style="background-color:#ffffff; margin:0; padding:0;-webkit-font-smoothing: antialiased;width:100% !important;-webkit-text-size-adjust:none; font-family:Arial, Helvetica, sans-serif;" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+  <tr>
+    <td bgcolor="#ffffff" align="center"><div align="center"> 
+        <!-- CONTENT HERE -->
+        <table width="570" border="0" cellspacing="0" cellpadding="0" class="resizetofull" style="background-color:#ffffff;">
+          <!-- View as webpage -->
+          <tr>
+            <td valign="middle" align="right" bgcolor="#ffffff" height="25" class="resizetofull padRight10" style="padding-right:5px;">
+   <a  href="https://view.m.lifetouch.com/?qs=42c3ed5c4aab1761bb7a52c376e82b4658db58d071075a2d7182026656c1e4176b4e1a5496334525ee570e60468ae52856a5cb2825174aff88778a51c44cf587abb9af34a04f877e5ca94d2d8d7cb794" target="_blank" style="color:#58595b; font-weight:normal; text-decoration:none; font-size:11px; font-family:Arial, Helvetica, sans-serif;">View 
+   in Browser</a></td>
+          </tr>
+          <!-- Spacer row -->
+          <!-- Logo -->
+          <tr>
+            <td valign="middle" align="center" class="PLR10">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="resizetofull" bgcolor="#ffffff">
+                <tr>
+                  <td align="left" bgcolor="#ffffff">
+                  </td>
+                </tr>
+              </table></td>
+          </tr>
+          
+        
+          <!-- Hero Image -->
+          <tr>
+            <td valign="top" align="left" class="PLR10">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="resizetofull" bgcolor="#ffffff">
+                <tr>
+                  <td valign="middle" align="left" bgcolor="#ffffff" class="resizetofull"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+ <tr>
+  <td align="center">
+   <!-- <a href="https://my.lifetouch.com/mylifetouch/accessCredentials/%%portrait_id%%/%%access_code%%" target="_blank" alias="logo"> -->
+    <img src="https://image.m.lifetouch.com/lib/fe3d11717064047c741574/m/2/96ed21f5-8d42-4f12-b272-201c5335d082.png" alt="Lifetouch" style="display:block;max-width:600px;width:100%;height:auto;" width="600">
+   <!-- </a> -->
+  </td>
+ </tr>
+</table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div class="center" align="center">
+  <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/0d622f5b-ca86-4430-95b8-ee95eb790d2f.jpg" alt="Thank you for your order!" style="display:block;" border="0">
+</div></td></tr></table></td>
+                </tr>
+              </table>
+              </td>
+          </tr>
+          <!-- Offers 1 and 2-->
+          
+          <!-- Offer 3 -->
+          
+
+          <!-- CTA Buttons -->
+          <tr>
+            <td valign="top" align="center" class="PLR10"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<!-- BODY -->
+<!--[if (gte mso 15)|(IE)]> <tablestyle="width:570px;min-width:570px" style="border-spacing:0;" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#830052"> <![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" align="center" style="width:570px;min-width:570px">
+ <tr>
+  <td style="text-align:center;background-color:#830052;margin:0 auto;vertical-align:middle;" width="100%" valign="middle" align="center">
+   <p style="font-family:'Open Sans',Avenir Next,Arial;text-align:center;margin:20px 10px;font-size:14px;line-height:18px;font-weight:500; color:#ffffff;">We are currently experiencing delays in order processing,<br> including both digital and printed products.<br> <strong>We cannot guarantee a delivery date at this time.</strong>  
+  </p></td>
+ </tr>
+</table>
+<!-- /BODY -->
+<!--[if (gte mso 15)|(IE)]> </table> <![endif]--></td></tr></table><table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr><td style="padding:20px" align="center">
+<span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 42px; ">Order Details:</span><br>
+</td></tr></table>
+
+
+    <table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+         <td style="border-top: thin #000000 solid; padding: 10px;"><span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 18px; font-weight:bold">
+   Blake's School Picture Order</span><br><br>
+        <span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 16px; font-weight:bold"> Order Number:</span> 
+   <span style="font-family: Arial, sans-serif; color: #0000000; font-size: 16px; font-weight:bold">55&#8203;32891214</span><br><br>
+         
+        <span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px; ">School: </span><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">Mt. Washington MS</span><br>
+         
+       
+<span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px;"> Portrait ID:</span> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">BJ62-N9DS</span><br>
+<span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px;"> Access Code:</span> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">HJX2</span>
+
+</td>
+       </tr>
+
+         
+         
+       
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+<tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <table style="width: 100%" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding-bottom:7px; width: 50px;">
+  <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/4231a7ac-4095-4531-9c17-b5d337ca3de1.jpg"></td>
+     <td>
+  <span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; ">&nbsp;Your 
+  order will be shipped to your address.</span></td>
+    </tr>
+   </table> 
+  </td>
+      </tr>
+
+
+<tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <table style="width: 100%">
+    <tr>
+     <td><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; font-weight:bold">Deluxe</span></td>
+     <td align="right"><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; font-weight:bold">$21.00</span></td>
+    </tr>
+   </table>
+  </td>
+      </tr>
+
+
+    
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(1) 8x10</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(2) 5x7</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(4) 3x5</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(8) 2x3 Wallets</span></td>
+      </tr>
+
+  
+              
+
+
+
+
+
+
+
+<tr><td style="border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+ <table style="width: 90%" align="center">
+  <tr>
+   <td style=" border-bottom:thin #cdcdcd solid">&nbsp;</td>
+  </tr>
+ </table>
+      </td></tr>
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+ <tr>
+         <td style="border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   &nbsp;</td>
+      </tr>
+
+
+ <tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;" align="right">
+   <table style="width: 100%">
+   <tr>
+    <td><span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 16px; font-weight:bold">BLAKE'S ORDER TOTAL:</span></td>
+    <td align="right"><span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; font-weight:bold">$21.00</span></td>
+   </tr>
+   </table>
+  </td>
+      </tr>
+
+ <tr>
+         <td style="padding: 0px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;border-bottom: thin #ffffff solid;">
+</td>
+      </tr>
+
+      </table>
+
+    <table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+         <td style="border-top: thin #000000 solid; padding: 10px;"><span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 18px; font-weight:bold">
+   Shelbi's School Picture Order</span><br><br>
+        <span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 16px; font-weight:bold"> Order Number:</span> 
+   <span style="font-family: Arial, sans-serif; color: #0000000; font-size: 16px; font-weight:bold">55&#8203;32891222</span><br><br>
+         
+        <span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px; ">School: </span><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">Old Mill Elementary School</span><br>
+         
+       
+<span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px;"> Portrait ID:</span> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">NF8R-Q87K</span><br>
+<span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 14px;"> Access Code:</span> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; ">PVJ3</span>
+
+</td>
+       </tr>
+
+         
+         
+       
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+<tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <table style="width: 100%" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding-bottom:7px; width: 50px;">
+  <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/4231a7ac-4095-4531-9c17-b5d337ca3de1.jpg"></td>
+     <td>
+  <span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; ">&nbsp;Your 
+  order will be shipped to your address.</span></td>
+    </tr>
+   </table> 
+  </td>
+      </tr>
+
+
+<tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <table style="width: 100%">
+    <tr>
+     <td><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; font-weight:bold">Deluxe</span></td>
+     <td align="right"><span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; font-weight:bold">$21.00</span></td>
+    </tr>
+   </table>
+  </td>
+      </tr>
+
+
+    
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(1) 8x10</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(2) 5x7</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(4) 3x5</span></td>
+      </tr>
+
+  
+              
+
+<tr>
+         <td style="padding: 0px 10px 0px 30px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px;">(8) 2x3 Wallets</span></td>
+      </tr>
+
+  
+              
+
+
+
+
+
+
+
+<tr><td style="border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+ <table style="width: 90%" align="center">
+  <tr>
+   <td style=" border-bottom:thin #cdcdcd solid">&nbsp;</td>
+  </tr>
+ </table>
+      </td></tr>
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+    
+
+
+              
+
+
+              
+
+
+              
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+ <tr>
+         <td style="border-left: thin #ffffff solid; border-right: thin #ffffff solid;">
+   &nbsp;</td>
+      </tr>
+
+
+ <tr>
+         <td style="padding: 10px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;" align="right">
+   <table style="width: 100%">
+   <tr>
+    <td><span style="font-family: Arial, sans-serif; color: #2992d3; font-size: 16px; font-weight:bold">SHELBI'S ORDER TOTAL:</span></td>
+    <td align="right"><span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; font-weight:bold">$21.00</span></td>
+   </tr>
+   </table>
+  </td>
+      </tr>
+
+ <tr>
+         <td style="padding: 0px; border-left: thin #ffffff solid; border-right: thin #ffffff solid;border-bottom: thin #ffffff solid;">
+</td>
+      </tr>
+
+      </table>
+
+
+</td>
+          </tr>
+          <!-- Offer 4 -->
+          <tr>
+            <td valign="top" align="center" class="PLR10">
+
+
+<table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+         <td align="right" style="padding:10px; border-top:thin #000000 solid">
+   <table style="width: 250px" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="width: 250px" align="left">
+           <span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; ">
+     Subtotal:</span>
+     </td>
+     <td align="right"> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; ">$42.00</span></td>
+    </tr>
+    
+     
+
+   <tr>
+     <td style="width: 250px" align="left">
+           <span style="font-family: Arial, sans-serif; color: #00000; font-size: 16px;"> Shipping &#38; Handling:</span></td>
+     <td align="right"> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 16px; ">$6.99</span></td>
+    </tr>
+    
+  
+          
+    <tr>
+     <td style="width: 250px" align="left">
+            &nbsp;</td>
+     <td align="right"> &nbsp;</td>
+    </tr>
+    
+    <tr>
+     <td style="border-top: thin black solid;width: 220px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px;" align="left">
+           <span style="font-family: Arial, sans-serif; color: #000000; font-size: 18px; ">
+     TOTAL:</span>
+     </td>
+     <td align="right" style="border-top: thin black solid; padding-top: 5px; padding-bottom: 5px;"> <span style="font-family: Arial, sans-serif; color: #000000; font-size: 18px; ">$48.99</span></td>
+    </tr>
+   </table>
+   </td>
+       </tr>
+</table>
+
+</td>
+          </tr>
+                    <tr>
+            <td valign="top" align="center" class="PLR10"><br>
+
+<table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding:10px;border-top: thin black solid;">
+ </td>
+    </tr>
+   </table>
+  
+
+<table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding:10px">
+           <span style="font-family: Arial, sans-serif; color: #2c92d6; font-size: 14px; font-weight:bold">
+    Payment Information:</span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+           <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+ Cardholder Name:  </span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+    <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+                 Payment Method: MasterCard - XXXX XXXX XXXX 3945</span></td>
+    </tr>
+   </table>
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+<table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding:10px">
+           <span style="font-family: Arial, sans-serif; color: #2c92d6; font-size: 14px; font-weight:bold">
+     Billing Information:</span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+           <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+ </span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+            <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">135 Stoney Ln<br>
+     </span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+    <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+                  Taylorsville, KY 40071-7947 USA</span></td>
+    </tr>
+   </table>
+
+
+
+
+
+
+ 
+
+
+
+<table align="center" style="width:550px;min-width:550px" cellpadding="0" cellspacing="0">
+    <tr>
+     <td style="padding:10px">
+           <span style="font-family: Arial, sans-serif; color: #2c92d6; font-size: 14px; font-weight:bold">
+     Shipping Information:</span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+           <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+ Kathy Vires</span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+            <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">135 Stoney Ln<br>
+     </span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+    <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+                  Taylorsville, KY 40071-7947 USA</span></td>
+    </tr>
+    <tr>
+     <td style="padding-left: 30px;">
+    <span style="font-family: Arial, sans-serif; color: #000000; font-size: 14px; line-height: 22px;">
+                  (502) 538-6306</span>
+     </td>
+    </tr>
+   </table>
+
+
+</td>
+          </tr>
+
+          <tr>
+            <td valign="top" align="center" class="PLR10"></td>
+          </tr>
+                    <tr>
+            <td valign="top" align="center" class="PLR10"></td>
+          </tr>
+
+          <tr>
+            <td valign="top" align="center" class="PLR10">
+                  <table style="width: 100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td style="background-color:#ffffff">
+                        <table style="width: 285px;min-width:285px ;" cellpadding="0" cellspacing="0" align="center">
+                          <tr>
+                            <td>
+                              <a href="https://click.m.lifetouch.com/?qs=8245dfeb723727e60fa63a31ecd71f585144b27201b9154775512ec0a92c6f959188a11d5a52168fabaa437b0aeca88a503aa32c72c99318e27f806815f86b45" style="color:##60a75b">
+                                <img src="https://image.m.lifetouch.com/lib/fe3d11717064047c741574/m/1/60290628-1ef7-4742-9ebe-0aaf8ba77ddc.jpg" style="display:block" border="0">
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td style="background-color:#ffffff;">
+                        <table style="width: 285px;min-width:285px ;" cellpadding="0" cellspacing="0" align="center">
+                          <tr>
+                            <td>
+                              <a href="https://click.m.lifetouch.com/?qs=0a00cfe88efcc6b5dc8f81b4ac21232ee08394d69c0a079dd61b4502cc07d43374182a6436dee3cefaf47931f88a6cee045941d890288c0b0001887e49991dad" style="color:##60a75b">
+                                <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/a45bc6ca-52d0-4e43-8178-b1e807b459a0.jpg" style="display:block" border="0">
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <table style="width: 570px;min-width:570px ;" cellpadding="0" cellspacing="0" align="center">
+                    <tr>
+                      <td align="center"><span style="font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#000000">*And register for a chance to win a $100 gift card. 
+  <br>Official sweepstakes </span><a href="https://click.m.lifetouch.com/?qs=1e4a4f3b2f78868f44173cc6ee4dbf2f76ff2d0f23ccfa41c1cb9974cee5556c0472cff695aa06dd9e60600c15dad43aacf2c13e01e69fcb7db2f5f05f34fea6" style="font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#000000">rules.</a>
+                      </td>
+                    </tr>
+                  </table> <table style="width: 570px;min-width:570px ;" cellpadding="0" cellspacing="0" align="center">
+                    <tr>
+                      <td>
+                        <a href="https://click.m.lifetouch.com/?qs=ad9b922c68e83b5db83091fe6cedf1a4e393e22eb8725c5178286dafa25ea8276eee7fae81aaa0847c91579540d24fbf8e6c776faa4c1d1f0fbb67dce4ae057e">
+                          <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/6339fba0-baaf-4d47-b07c-a36278ea0302.jpg" border="0" style="display:block" alt="Want more? Visit mylifetouch.com for prints, products and more!">
+                        </a>
+                      </td>
+                    </tr>
+                  </table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div class="center" align="center">
+  <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/890a90b2-883e-4c1d-9ffd-1806d327530f.jpg" alt="Thank you for your order!" style="display:block;" border="0">
+</div></td></tr></table></td>
+          </tr>
+
+          <tr>
+            <td valign="top" align="center" class="PLR10"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" border="0" align="center" style="width:570px;min-width:570px">
+    <tr>
+        <td align="center" valign="middle" style="vertical-align:middle;" bgcolor="#e1e1e1" width="34%">
+            <img src="https://image.m.lifetouch.com/lib/fe3d11717064047c741574/m/2/72fbb7f9-0e14-4aa5-b9ba-aa65e63b79dc.jpg" alt="truck icon" style="max-width:200px;width:100%;height:auto;" width="187">
+        </td>
+
+        <td align="center" valign="middle" style="vertical-align:middle;" width="66%">
+            <p style="color:#009bdb;font-size:16px;line-height:20px;margin:10px 34px 10px;font-family:'Open Sans',Avenir Next,Arial;">Order shipments will take approximately 5â7 business days, once processed, to arrive at your home or school. Your order may arrive in several separate shipments.</p>
+        </td>
+    </tr>
+</table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><div class="center" align="center">
+  <img src="http://image.e.lifetouch.com/lib/fe3d11717064047c741574/m/1/890a90b2-883e-4c1d-9ffd-1806d327530f.jpg" alt="Thank you for your order!" style="display:block;" border="0">
+</div></td></tr></table></td>
+          </tr>
+
+          <!-- Nav -->
+          <tr>
+            <td valign="top" align="left" bgcolor="#f2f3f3"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f2f3f3">
+                <tr>
+                  <td valign="top" bgcolor="#ffffff" class="resizetofull" style="padding-top:10px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; border-top: 2px solid #808080; border-right: 0px; border-bottom: 2px solid #808080; border-left: 0px; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><table class="socialshare-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><table cellspacing="0" cellpadding="0" align="center"><tr><td align="center"><!--[if mso]><table border="0" cellspacing="0" cellpadding="0"><tr><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px">
+<a href="https://click.m.lifetouch.com/?qs=854ee787795ff2d0f5c3aedb2bc451a4c2ed036d491ec28e15d4b71ed132a84d6f26ddcda78a6fbca5bfd3f2e37e9b2eedb2dcf16672c26f6758cbe917e08d99" ><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/1a560d12-c8d7-40cb-9e90-9df36933fdfa.png" alt="Facebook" style="display: block;; width: 24px !important; height: 24px !important" width="24" height="24"></a></td></tr></table><!--[if mso]></td><td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a href="https://click.m.lifetouch.com/?qs=dbebedd983dd73e74cae9fbcd98140ba6e9bcbe73f279aa4305ff64ddbe73aa69a9fadabebf2bff1d4e23af1a76f2de57fb9772e4e55b5fc1bdd948932ebc263" ><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/a3b47106-a80a-401f-8435-6b6398001c4f.png" alt="Twitter" style="display: block;; width: 24px !important; height: 24px !important" width="24" height="24"></a></td></tr>
+</table><!--[if mso]></td>
+<td style="padding-right:10px;"><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a href="https://click.m.lifetouch.com/?qs=80e318a7820104927d5eed7b4632816dbef42dc5ffac6c8f34aeb2a08c29ec04ad46dfd034f4a3a8270ca7e06636745e61531ad942882af2e5205c1f681d9bef" ><img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/0e6fddf1-c205-4752-ad42-e9dc03c83dea.png" alt="Instagram" style="display: block;; width: 24px !important; height: 24px !important" width="24" height="24"></a></td></tr></table><!--[if mso]></td><td><![endif]--><table class="socialshare-innertable" style="display: inline-block"><tr><td style="padding:5px 10px"><a href="https://click.m.lifetouch.com/?qs=f14a27d500e8463d2db3ba0eb9667eaf758fddbcdec554cd09411b7bf39c5765cd96bee28dc6bee54934d4c93f42b92a47b5f56e6aa78530ca9d43dcd203b888" >
+<img src="https://image.s4.exct.net/lib/fe911573736c007d7d/m/2/8481a609-e71f-4aae-9e00-44f0a2fbd89f.png" alt="Pinterest" style="display: block;; width: 24px !important; height: 24px !important" width="24" height="24"></a></td></tr></table><!--[if mso]></td></tr></table><![endif]--></td></tr></table></td></tr></table></td></tr></table></td>
+                </tr>
+                <tr>
+                  <td valign="top" bgcolor="#ffffff" class="resizetofull"></td>
+                </tr>
+
+              </table></td>
+          </tr>
+          <!-- Disclaimer -->
+<tr>
+            <td valign="top" align="left" bgcolor="#ffffff" height="10" style="font-size:11px; font-family:Arial; color:#808080; padding-top:10px; padding-bottom:20px; padding-left:15px; padding-right:10px;" class="resizetofull">
+               <table align="left" style="width: 50px;">
+  
+
+     </table>
+<br/>
+   Â© 2022 Shutterfly Lifetouch, LLC. All rights reserved.<br/><br/>
+   This email was sent by: Shutterfly Lifetouch, LLC. | 11000 Viking Dr., Suite 200 | Eden Prairie, MN, 55344, USA<br/> <br/>
+   <a href="https://click.m.lifetouch.com/profile_center.aspx?qs=96010f0f5d632d710e032d7f34046da6960600f399abaa5469e50ce99d2da92608a2f6ecba0aa7dc9ef194e65bc8413f07576ec4f1c2ec61efeeb45eee5b63d3e2ee4a1c56bf1cfb" style="color:#808080">Update your preferences ,</a>or <a href="https://click.m.lifetouch.com/unsub_center.aspx?qs=96010f0f5d632d71e32eb3804e041dd2a2d5914b7757387f065d4c541a20f5eee29224c4b8e38537d2e19c5b54a022351d48706bd4cb2663bf115da04758c6540d9481a69fa35d37" style="color:#808080" >Unsubscribe</a> if you do not wish to receive further emails.
+</td>
+  
+          </tr>
+
+<tr>
+            <td valign="top" align="left" bgcolor="#ffffff" height="10" class="resizetofull">
+   </td>
+          </tr>
+        </table>
+        
+        <!-- END CONTENT HERE --> 
+      </div></td>
+  </tr>
+</table>
+<img src="https://click.m.lifetouch.com/open.aspx?ffcb10-fec416747263007e-fe2a16767d65007e761777-fe3d11717064047c741574-ff9c1671-fe2c1671746c007f721c72-febc177974610c74&d=100163&bmt=0" width="1" height="1" alt="">
+</body>
+</html>

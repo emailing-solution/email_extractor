@@ -1,0 +1,1352 @@
+Return-Path: bounce-447_HTML-31256573-268872-7000841-168030@bounce.e.progressive.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md23.aqua.sync.lan with LMTP; Tue, 27 Feb 2018 02:47:50 -0500 (EST)
+Return-Path: <bounce-447_HTML-31256573-268872-7000841-168030@bounce.e.progressive.com>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=RfzSMBlv c=1 sm=1 tr=0 b=1 a=gHS+WbsQ7yUjO/0L4PKmag==:117 a=gHS+WbsQ7yUjO/0L4PKmag==:17 a=6giede-wJD4A:10 a=Op4juWPpsa0A:10 a=r77TgQKjGQsHNAKrUKIA:9 a=s7aQ5rYFAAAA:8 a=Gwm6Est8AAAA:8 a=rQEDx_4_RCdZy-5S8vkA:9 a=FWd6E6zf-XX0eFVZ:21 a=UUBX32hZ8a_v_i2x:21 a=CjuIK1q_8ugA:10 a=x0it6ZlWcx0A:10 a=OpsedOX58twA:10 a=3g80flMcAAAA:8 a=qa19LUyGAAAA:8 a=GAn-aSadAAAA:8 a=3IeLnGJ6AAAA:8 a=SSmOFEACAAAA:8 a=UqCG9HQmAAAA:8 a=D4aJaPXQwDbFpUFEJMMA:9 a=7rfXJYquszhHsmKL:21 a=Eg2LLjpmbMlAUvKh:21 a=fJuiK2MxHp5ntvwU:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=FUfK_0NjciIA:10 a=DG4mMPWojK8A:10 a=rQe4NYV14Q28uia88xa1:22 a=ojTgGb5AF2DIQA9uJ6-s:22 a=eFtqLLS_DQ-QWSBo5JiN:22 a=UM1xAY0NvW3136_APDCo:22 a=CIX2fKDqIAj4SMstqDkk:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [68.232.206.139] (helo=mta4.e.progressive.com)
+Received: from [68.232.206.139] ([68.232.206.139:45211] helo=mta4.e.progressive.com)
+	by mx.windstream.net (envelope-from <bounce-447_HTML-31256573-268872-7000841-168030@bounce.e.progressive.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id 1F/79-05155-52D059A5; Tue, 27 Feb 2018 02:47:50 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=e.progressive.com;
+ h=From:To:Subject:Date:MIME-Version:List-ID:Reply-To:Message-ID:Content-Type; i=customerservice@e.progressive.com;
+ bh=552F8iE3L3oHo/PfTfuMOXSPjzY=;
+ b=UqTW+M1vt6Wk9elHZX63nPnvw68HRu1+BswWEpSMYh4eVLWHMBjK6bsFGd7T+wz7j3sApPLMbH9y
+   UTZ0Kg1yBuS7r3byKFKv/BomTxvIQ2qXsoWPVo2kbFMQpj1KR8brSB4dl3Jlyz/Myg32OyjVaSo7
+   RNScJ4L7w+jTRr2f4+M=
+Received: by mta4.e.progressive.com id hik6ic163hs6 for <dmg5901@windstream.net>; Tue, 27 Feb 2018 01:47:49 -0600 (envelope-from <bounce-447_HTML-31256573-268872-7000841-168030@bounce.e.progressive.com>)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=e.progressive.com;
+ h=From:To:Subject:Date:MIME-Version:List-ID:Reply-To:Message-ID:Content-Type; i=customerservice@e.progressive.com;
+ bh=552F8iE3L3oHo/PfTfuMOXSPjzY=;
+ b=UqTW+M1vt6Wk9elHZX63nPnvw68HRu1+BswWEpSMYh4eVLWHMBjK6bsFGd7T+wz7j3sApPLMbH9y
+   UTZ0Kg1yBuS7r3byKFKv/BomTxvIQ2qXsoWPVo2kbFMQpj1KR8brSB4dl3Jlyz/Myg32OyjVaSo7
+   RNScJ4L7w+jTRr2f4+M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=e.progressive.com;
+ b=GhwyiRi8kx/h+4x+vBbTs36AM0Bo31+tJTgoxZrBex+u+1bs3C6Xf6zRNfzkW3C7g/wp9uuf5TIA
+   GHeoGbYU1D4TFBY8h6sd9lsZPbdTElWnY0SCTsPUVjX/npQR+Xy4vm0e6EdYqe7aKB0a4tL3AxZs
+   dlN8VL5RfY/HlkZBw9A=;
+Received: by xtinp2mta105.xt.local id hik6ia163hs0 for <dmg5901@windstream.net>; Tue, 27 Feb 2018 01:47:49 -0600 (envelope-from <bounce-447_HTML-31256573-268872-7000841-168030@bounce.e.progressive.com>)
+From: "Progressive" <customerservice@e.progressive.com>
+To: <dmg5901@windstream.net>
+Subject: Your Progressive policy renewal notice
+Date: Tue, 27 Feb 2018 01:47:43 -0600
+MIME-Version: 1.0
+List-ID: <7000841_268872.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7000841_268872
+Reply-To: "Progressive" <reply-febe16767d6c037f-447_HTML-31256573-7000841-168030@e.progressive.com>
+Message-ID: <7184a68c-7dd6-463e-af0f-0f454bd15b4e@xtinp2mta105.xt.local>
+Content-Type: multipart/alternative;
+	boundary="S3tt68JHZkSA=_?:"
+
+This is a multi-part message in MIME format.
+
+--S3tt68JHZkSA=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for being a valued customer. Your 12-month Travel Trailer policy is now ready to renew. If you've already made or scheduled your payment, we appreciate your business and please disregard this reminder.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+It's time to renew your travel trailer policy
+
+
+ 
+
+http://click.e.progressive.com/?qs=5d0c1af241ef11f2572f1242f8a3e0c09c92ba4f1895b435534cbb9f83ea341ac516088c8770a0693a442be47caf3781520d96be4a516f401b5589b8883a4e1b 
+Renew Now 
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for being a valued customer.We really appreciate your business.Please renew your travel trailer policy by 05/12/2018 at 12:01.a.m.
+
+
+
+Check out your loyalty rewards
+When you renew your policy, you'll keep your Gold membership status in our 
+http://click.e.progressive.com/?qs=06ec3f04ce9060e959a0a5d3084182c43387cd0ce9c63b44a5cf80faa31aa7b8a8fefbddbfe5e949d8428c85e0e3423de56db47a31721bacfbbe4d5437a68b37 
+Loyalty Rewards Program .
+
+
+
+
+
+
+
+
+
+
+Renewal Payment Options
+
+ 
+
+http://click.e.progressive.com/?qs=5d0c1af241ef11f2572f1242f8a3e0c09c92ba4f1895b435534cbb9f83ea341ac516088c8770a0693a442be47caf3781520d96be4a516f401b5589b8883a4e1b 
+Pay in Full
+$480.50
+
+Including savings of $28.50
+
+
+
+ 
+
+
+ 
+
+
+http://click.e.progressive.com/?qs=5d0c1af241ef11f2572f1242f8a3e0c09c92ba4f1895b435534cbb9f83ea341ac516088c8770a0693a442be47caf3781520d96be4a516f401b5589b8883a4e1b 
+Billed Installments
+$515.00
+
+Pay $127.25 now, then 3 installments of $129.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The total premium for your next term excluding installment fees and payment option discounts is $509.00.
+
+
+
+
+
+
+
+
+If you have any questions, please give us a call 
+at 
+tel:1-800-876-5581 
+1-800-876-5581 or contact your local agent or broker.
+
+
+
+
+
+
+Don't Forget The Following
+
+Your renewal documents and ID cards are ready
+
+http://click.e.progressive.com/?qs=0cb5f53d5293a04b4ba6e1cbe710e602bf7212c4943e051e7ecae11ed4f8f76382d0e78f4f790d0366b6ba6d173a597867ab426a33a7008beb78eb1da044caca 
+Get Your ID Cards 
+
+ 
+
+
+
+
+ Temporary Login Information
+
+User ID
+13198747
+
+Password
+WIDE + first 5 digits of your SSN 
+
+(ex: WIDE12345)
+
+
+
+
+
+
+Temporary Login Information
+
+User ID
+13198747
+
+Password
+For security purposes we do not display your password. If you do not know your password, 
+http://click.e.progressive.com/?qs=71f3abe9677455c104049a75e8caa7210879522c4bc8c31086453f6c3c5d3a81c53138d09d4d8b7a02757326e41fb1fe0db4aa403918b1f069f35da4847f7087 
+create a new one .
+
+
+ 
+
+
+
+
+ 
+
+
+
+Your travel trailer renewal is all set
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for being a valued customer.We really appreciate your business.
+
+
+
+
+
+For your convenience, we'll automatically process your payment on 05/12/2018 and apply it to your policy.
+
+
+
+
+
+Check out your loyalty rewards
+When you renew your policy, you'll keep your Gold membership status in our 
+http://click.e.progressive.com/?qs=06ec3f04ce9060e959a0a5d3084182c43387cd0ce9c63b44a5cf80faa31aa7b8a8fefbddbfe5e949d8428c85e0e3423de56db47a31721bacfbbe4d5437a68b37 
+Loyalty Rewards Program .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your renewal documents and ID cards are ready
+
+Log in and get them right now.
+You can even save your ID cards to your mobile device through our 
+http://click.e.progressive.com/?qs=df1495669630ca3ac71f277c43ec9679a0e068613955f4ad7dfa6b726bc884b2e05b924da8fe3df4908b2652c33a8b1e782fe6b672e5ed45bc5482137f0002b4 
+Progressive App (r)
+
+
+
+
+
+
+
+http://click.e.progressive.com/?qs=5d0c1af241ef11f2572f1242f8a3e0c09c92ba4f1895b435534cbb9f83ea341ac516088c8770a0693a442be47caf3781520d96be4a516f401b5589b8883a4e1b 
+Get Your ID Cards 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+Download the Progressive App from the App Store 
+(r) or Google Play 
+&#8482; 
+
+
+
+
+
+
+Your Agent
+ Whitt Insurance Agency mailto:whittinsurance@qx.net 
+whittinsurance@qx.net 
+ tel:%%=Format(@AgencyDisplayPhoneNumber, 
+859-278-0124 
+ 
+
+
+ 
+Your Policy
+
+STANLEY GROSS
+
+http://click.e.progressive.com/?qs=43bd17423729cbdd9f58a771395e274f31f6d3e6001bf5c1afd9d4380a7c4fa5e7ece68a8fcef575fd34aaa8add6fcc7231a596b8f6c75f356f46289338b87b7 
+Kentucky Travel Trailer 13198747
+
+
+
+
+
+
+ 
+
+http://click.e.progressive.com/?qs=3ff1f05525929f0ca68a8fd14a17069ca7cfe48408a013e273d26a8322ecca671704d2ae7804705deb4a850482bf1434ab91c3e7c159d7329f07f7eae2bae012 
+Contact 
+http://click.e.progressive.com/?qs=924ee8b8109264417e9ff55e4857a2abc7df14709ae8c15e116dda86753420ab65ce965a2666236f39d8cf80ea9dcec6d9b12244bc894d622c8ca67a867f29a2 
+Privacy 
+http://click.e.progressive.com/?qs=8364ab0efd327918d5c12412d805fb6271cf750ed3949a3ac7ee14b26fc25fd4e53dc90cbabfad3650a1ac180bfcee1f3441ffceba5021366f256b6ff5a6e2da 
+Terms 
+http://click.e.progressive.com/?qs=f51aab819e6a0d360704b7c87f74e514a206ca1ebe3089326ad698f0aaa8ffb5fbebf364bf15bff4c531e712963305da9b2b5d7dfac90183a2725637152d252d 
+Unsubscribe 
+
+
+
+
+
+
+
+View this email 
+http://view.e.progressive.com/?qs=10a8e8cfd099984a946bdb72fda9914f74ce3d75b589a17a21f94c77ef949f000c62c593dc23cab57fe0eb3a55d79110d108875ca3297789071acd02f38335fdfd9025ac6d4d9f4d0f653388fc9f51b7 
+online 
+
+
+Policy underwritten by Progressive Casualty Insurance Company
+
+
+Progressive Casualty Insurance Company
+
+6300 Wilson Mills Rd,&#8203; Mayfield Village,&#8203; OH 44143
+
+
+Not all states accept self-printed and&#47;or electronic proof of insurance.   Contact us or talk to your local agent if you have any questions about your proof of insurance.  Loyalty Rewards are not available in all states or situations and may differ by product.
+
+
+
+Renewal_Quote_10.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+--S3tt68JHZkSA=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300,300italic,400italic,600italic,700italic,800italic' rel='stylesheet' type='text/css' />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="email=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="format-detection" content="telephone=no" />
+<title></title>
+<style type=text/css>
+	a:link {color: ;}	/* unvisited link */
+	a:visited {color: ;}	/* visited link */
+	a:hover {color: ;}	/* mouse over link */
+	a:active {color: ;}	/* selected link */
+        div.preheader {
+        font-size: 1px;
+        color: #ffffff !important;
+        display: none !important;
+}
+</style>
+
+</head><body bgcolor="#f4f4f4" class="bodyCopy" id="body" style="background-color: #f4f4f4">
+<style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;"></div>
+
+
+
+
+
+
+
+
+
+
+<!-- 
+   This is called from My Templates\PolicyHolder templates to enable preheader email text      
+-->
+
+
+
+<div class="preheader" style="display:none !important; font-size:1px;">Thank you for being a valued customer. Your 12-month  policy is now ready to renew. If you've already made or scheduled your payment, we appreciate your business and please disregard this reminder.</div>
+
+
+ 
+
+
+
+
+<!--[if (gte mso 9)|(IE)]>
+<style type="text/css">
+
+body, table, td, h1, h2, h3, p, a, span, center {
+    font-family: Arial, Helvetica, sans-serif !important;
+}    
+
+.bodyCopy {
+        font-family: Arial, Helvetica, sans-serif !important;
+        word-break:keep-all;
+    }
+
+    /**This is to overwrite Outlook.com's Embedded CSS************/
+    table {border-collapse:separate;}
+    a, a:link, a:visited {text-decoration: none; color: #00788a} 
+    a:hover {text-decoration: underline;}
+    h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color:#000 !important}
+    .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%}
+    /**This is to center your email in Outlook.com************/
+    .ExternalClass {width: 100%;}
+
+    table.wrapper {
+     /*   padding: 10px 0px;  */
+    }
+
+   table.inlineContent {
+        padding: 22px 0px;
+    }
+    div.preheader {font-size: 1px; color: #ffffff; display: none;}
+
+        
+</style>
+<![endif]-->
+    
+<!--[if lte IE 8]>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Lato:900' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Crimson+Text:400' rel='stylesheet' type='text/css'>
+<![endif]-->
+
+<style type="text/css">
+
+.ReadMsgBody {
+    width: 100%;
+}
+#outlook a {
+    padding: 0;
+}
+
+
+
+
+<!--[if gte mso 9]>
+<style type="text/css">
+
+		body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; line-height: 1%;}
+        
+</style>
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Raleway:700' rel='stylesheet' type='text/css'>
+<!--[if lte IE 8]>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
+<![endif]-->
+
+
+<style type=text/css>
+
+		/* Client-specific Styles */
+		.ReadMsgBody {width: 100%;}
+		#outlook a {padding: 0;} 
+		/* Force Outlook to provide a "view in browser" menu link. */
+		body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; background-color:#ffffff;}
+		/* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+		.ExternalClass {width:100%;} 
+		/* Force Hotmail to display emails at full width */
+		.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} 
+		/* Force Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */
+		div.preheader {font-size: 1px; color: #ffffff; display: none;}
+		table[class="wrapper"] {width: 100% !important; max-width: 650px !important;}
+        table[class="wrapper1"] {width: 100% !important; max-width: 600px !important;}
+		*[class=cell3UpLeft]{border-top: 4px solid #ffffff; border-right: 2px solid #ffffff;}
+		*[class=cell3UpMiddle]{border-top: 4px solid #ffffff; border-left: 2px solid #ffffff; border-right: 2px solid #ffffff;}
+		*[class=cell3UpRight]{border-top: 4px solid #ffffff; border-left: 2px solid #ffffff;}
+		*[class=mobilewrapper]{width:520px!important; height:auto!important;}
+		*[class=cell2UpLeft]{border-top: 4px solid #ffffff; border-right: 2px solid #ffffff; text-align: left;}
+		*[class=cell2UpRight]{border-top: 4px solid #ffffff; border-left: 2px solid #ffffff; text-align: left;}
+		*[class=cell2UpLeftNoBorder]{border-top: 4px solid #ffffff; text-align: left;}
+		*[class=cell2UpRightNoBorder]{border-top: 4px solid #ffffff; text-align: left;}
+		*[class=cell300to100]{width:260px !important; height:auto!important;}
+
+
+@media only screen and (max-width: 480px){
+
+		*[class*="mobile-hidden"] {display:none;}
+		*[class*="content-headline"] {font-size: 24px !important;}
+		img[class="hero"] {width: 100% !important; height: auto !important;}
+		td[class="paddingreset-content-body"] {padding-top: 15px !important; padding-bottom: 15px !important; padding-right: 10px !important; padding-left: 10px !important;}
+		td[class="paymenttable-widthreset"] {width: 100% !important;}
+		td[class="paddingreset-subcampaign"] {padding-left: 10px !important; padding-bottom: 15px !important;}
+		td[class="paymenttable-widthreset"] {width: 100% !important;}
+
+
+
+		@media screen and (max-device-width: 600px), screen and (max-width: 600px) {
+
+		*[class=mobilewrapper]{width:100%!important; height:auto!important;}
+		*[class=colsplit]{width:320px!important; float:left!important; display:block !important;}
+		*[class=mobilewrapper]{width:100%!important; height:auto!important;}
+		*[class=table600to100]{width:100%!important; height:auto!important;}
+		*[class=cell200to100]{width:100%!important; height:auto!important;}
+		*[class=cell3UpLeft]{border-right: 0;}
+		*[class=cell3UpMiddle]{border-left: 0; border-right: 0;}
+		*[class=cell3UpRight]{border-left: 0;}
+		}
+		
+		 @media screen and (max-device-width: 520px), screen and (max-width: 520px) {
+
+*[class=mobilewrapper]{width:100%!important; height:auto!important;}
+*[class=table600to100]{width:100%!important; height:auto!important;}
+*[class=cell200to100]{width:100%!important; height:auto!important;}
+*[class=cell3UpLeft]{border-right: 0;}
+*[class=cell3UpMiddle]{border-left: 0; border-right: 0;}
+*[class=cell3UpRight]{border-left: 0;}
+*[class=cell400to100]{width:100%!important; height:auto!important;}
+*[class=cell2UpLeft]{border-right: 0; text-align: center;}
+*[class=cell2UpRight]{border-left: 0; text-align: center;}
+*[class=cell300to100]{width:100%!important; height:auto!important;}
+*[class=cell2UpLeftNoBorder]{text-align: center;}
+*[class=cell2UpRightNoBorder]{border-top: 0; text-align: center;}
+
+}
+
+
+@media only screen and (min-width: 480px) { 
+    *[class="desktop-reset"] {
+padding: 0px 40px 60px 40px !important;
+height:auto!important;
+}
+}    
+
+		/* Alert_NSF */
+		td[class="alertnsf_paymenttable-widthreset-leftcolumn"] {width: 140px !important;}
+		td[class="alertnsf_paymenttable-widthreset-rightcolumn"] {width: auto !important;}
+		
+		/* Survey_NPS */
+		td[class="alertnsf_paymenttable-widthreset-leftcolumn"] {width: 140px !important;}
+		*[class*="content-headline_nps"] {font-size: 22px !important;}
+		
+		/* Marketing_Mobile_App_Snapshot */
+		
+                table[class="widthreset-tile-table"] {width: 100% !important;}
+                img[class="tilereset"] {width: 100% !important; height: auto !important;}       
+		
+		/* Banners */
+		td[class="paddingreset-banner-divider"] {padding-top: 0px !important; padding-right: 10px !important; padding-left: 10px !important; padding-bottom: 0px !important;}
+		td[class="paddingreset-marketing-container"] {padding-top: 15px !important; padding-right: 10px !important; padding-left: 10px !important; padding-bottom: 0px !important;}
+		td[class="paddingreset-marketing-content"] {padding-top: 0px !important; padding-right: 5px !important; padding-left: 5px !important; padding-bottom: 15px !important;}
+		td[class="paddingreset-servicing-content"] {padding-top: 15px !important; padding-bottom: 15px !important; padding-right: 10px !important; padding-left: 10px !important;}
+		
+		/* Snapshot | UBI_Quote_Offer */
+		a[class="cta"]{font-size:16px !important;}
+}
+
+@media only screen and (min-width: 600px){
+table[class="wrapper"] {width: 650px !important;}
+table[class="wrapper1"] {width: 600px !important;}
+}
+
+
+</style>
+<!--[if (gte mso 9)|(IE)]>
+<table width="600" bgcolor="#f4f4f4" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td>
+<![endif]-->
+		<table bgcolor="#f4f4f4" border="0" align="center" cellpadding="0" cellspacing="0" class="wrapper">
+			<tr width="100%">
+				<td width="100%">
+				
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper" bgcolor="#f4f4f4" height="10">
+  <tr>
+    <td align="center" bgcolor="#f4f4f4" style="font: 9px Open Sans, Arial, sans-serif; line-height: 24px; width:600px;">&nbsp;</td>
+  </tr>
+</table>
+				</td>
+			</tr>
+		</table>
+
+		<table align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4f4f4" class="wrapper" >
+			<tr>
+				<td>
+					<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td align="center" width="100%">
+                            	<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                             		<tr>
+                               		  <td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="wrapper" bgcolor="#f4f4f4">
+  <tbody>
+    <tr>
+      <td width="100%" style="padding-left:18px; padding-right:18px;" align="center">
+
+        <table width="600px" border="0" cellpadding="0" cellspacing="0" bgcolor="#2480FE" class="wrapper1">      
+          <tr>
+
+	    <td align="center" bgcolor="#2480FE" width="600px" style="padding: 18px 0px 18px 0px; max-width:600px; line-height: normal; width:600px;">
+            
+
+		<img alt="Progressive" src="http://image.e.progressive.com/lib/fe8d12717267057a7c/m/1/logo_progressive_responsive.png" border="0" style="display: block; max-width: 175px; overflow: hidden;" width="175">
+		 
+		</td>
+	</tr>
+</table>
+		</td>
+	</tr>
+</table></td>
+                               		 </tr>
+                            	</table>
+
+
+                            	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f4f4f4">
+                             		<tr>
+                                		<td width="100%">
+                                        
+                                        
+                                        
+                                        
+                                        
+
+<Style>
+@media screen and (min-width: 660px) { 
+.MACD {width: 50% !important; height: 140px !important; text-align:left !important;} 
+.MACR {width: 50% !important; height: 140px !important; padding-top:25px !important;} 
+.FIRE {background-color: #f4f4f4}
+.FACD {width: 33% !important; height: 120px !important; text-align:center !important; padding: 25px 5px !important;} 
+.FACR {width: 66% !important; height: 120px !important; padding-top:25px !important; margin-top: 0px !important; margin-left: 5px !important; text-align:center !important; padding: 25px 0px !important;} 
+.FACV {width: 33% !important; height: 120px !important; text-align:center !important;} 
+.FACS {width: 66% !important; height: 120px !important; padding-top:25px !important; margin-top: 0px !important; margin-left: 5px !important; text-align:center !important;} 
+.DSKLEFT {text-align:left !important; padding-left: 25px !important;}
+}
+</Style>
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="wrapper" bgcolor="#f4f4f4">
+  <tbody>
+    <tr>
+      <td width="100%" style="padding-left:18px; padding-right:18px;font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;" align="center">
+
+        <table width="600px" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="wrapper1">      
+          <tr>
+            <td width="600px" class="paddingreset-content-body" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;; padding: 40px;">
+              <span style="font-family: Raleway, Arial, sans-serif; font-size: 36px; color: #405E7C; line-height: 44px; font-weight:bold;">
+
+
+                     <!--[if mso]><font face="Arial"><![endif] -->
+
+
+                      It's time to renew your travel trailer policy
+
+
+                     <!-- [if mso]></font><![endif] -->
+
+
+              </span>
+
+
+        <!--[if mso]>
+        <p>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br><br>
+        <!--<![endif]-->
+
+        <!--[if mso]><div><br />
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://onlineservice3.progressive.com/SelfService.Web/SelfService.aspx?Page=Login.AuthenticateUser&cntgrp=A&QueryStringSetKey=SessionGateway&OfferingID=SelfService&SessionStart=TRUE&FD=makeapayment&BC=09&AC=&PN=13198747&utm_source=progressive&utm_medium=email&utm_campaign=Renewal_Quote&utm_content=makeapayment"                                           
+           style="height:53px;v-text-anchor:middle;width:226px;" arcsize="5%" strokecolor=#2480FE fillcolor=#2480FE>
+          <w:anchorlock/>
+          <center style="color:#ffffff;font-family: Arial, sans-serif; font-size:18px;">Renew Now</center>
+          </v:roundrect></div>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+          <a  href="http://click.e.progressive.com/?qs=00b0ae92464f1db12efc5c7cdc0421f527211116d7edbeb95e2f64532c5f626b59c4aa07e313d22d4c8ff793d7e66b1909f5be8250b200c7a74f28c71b7f5b91" style="background-color:#2480FE; border:1px solid #2480FE; border-radius:40px; color:#ffffff; display:inline-block; font-family: Open Sans, Arial, sans-serif; font-size:18px;font-weight:600;line-height:48px;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;mso-hide:all;; 
+           white-space:nowrap; padding-left:40px; padding-right:40px;">Renew Now</a>
+        <!--<![endif]-->
+
+
+
+
+
+        
+
+
+        <!--[if mso]>
+        <p>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br><br>
+        <!--<![endif]-->
+
+        Thank you for being a valued customer.  We really appreciate your business.  Please renew your travel trailer policy <span style="font-weight: bold;">by 05/12/2018 at <span style="white-space: nowrap">12:01<span style="color: #ffffff">.</span>a.m.</span></span>
+
+        <br />
+
+
+        <!--[if mso]>
+        <br>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br>
+        <!--<![endif]-->
+
+        <span style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #405E7C; line-height: 22px; font-weight:bold;">Check out your loyalty rewards</span><br/>
+        When you renew your policy, you'll keep your <span style="font-weight: bold;">Gold</span> membership status in our <a href="http://click.e.progressive.com/?qs=51538052af5df3cfbf8e9434af99c69538b51b6cbbc7d55671d2bee7bfcf5a2a003930086a2629cc1301c9c3a69ec9135b82ffe4e873ec83e7423e33fc6897b9" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #2480FE; line-height: 28px; font-weight:300; display: inline-block; text-decoration: none;"  target="_blank">Loyalty Rewards Program</a>.
+
+        <br />
+
+        
+        
+        
+        
+
+        <!--[if mso]>
+        <br><br>
+        <![endif]-->
+
+
+        <!--[if !mso]><!-- -->
+        <br>
+        <!--<![endif]-->
+
+		<table align="left" bgcolor="e0e1e2" border="0" cellpadding="10px" cellspacing="0" style="width: 100%;">
+			<tbody>
+				<tr>
+					<td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;font-weight:bold; text-align:center; line-height:normal; mso-padding-alt: 10px 0px">Renewal Payment Options</td>
+				</tr>
+			</tbody>
+		</table>
+
+               <p style="line-height: 1px"></p> 
+
+        <table align="left" border="0" cellpadding="0" cellspacing="0" style="margin-top:5px; width: 100%;">
+			<tbody>
+				<tr>
+					<td bgcolor="f1f1f1" style="text-align:center; padding-top:25px; padding-bottom:25px; line-height:normal;">
+						<a href="http://click.e.progressive.com/?qs=7c64e9e17a04da143b87af06f165c8575eff05619cfa57ae95b18e6fd45e9bb2eed652c6df749164dbef1acdd0c9bb5b2d9432a0d684cad5dc968e853958fb85" style="text-decoration:none;">
+							<div>  
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;font-weight:bold;">Pay in Full</span><br />
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 28px; color: #405E7C; line-height: 36px; font-weight:300;">$480.50</span><br />
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;">Including savings of $28.50</span>
+								
+							</div>
+						</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+               <p style="line-height: 1px"></p> 
+
+	
+                                                   <!--[if mso]>
+<div style="line-height:20%"><hr style="color:#FFF; width:100%;"></div>
+                                                    <![endif]-->
+	<table align="left" border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tr><td>
+
+
+        <table align="left" border="0" cellpadding="25" cellspacing="0" style="margin-top:5px; width: 100%;">
+			<tbody>
+				<tr>
+					<td bgcolor="f1f1f1" style="text-align:center;  line-height: normal;"><!-- padding-top:25px; padding-bottom:25px; -->
+						<a href="http://click.e.progressive.com/?qs=7c64e9e17a04da143b87af06f165c8575eff05619cfa57ae95b18e6fd45e9bb2eed652c6df749164dbef1acdd0c9bb5b2d9432a0d684cad5dc968e853958fb85" style="text-decoration:none;">
+							<div>  
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;font-weight:bold;">Billed Installments</span><br />
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 28px; color: #405E7C; line-height: 36px; font-weight:300;">$515.00</span><br />
+								<span style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;">
+								  Pay $127.25 now, then 3 installments of $129.25
+                                                                  
+                                                                </span>
+							</div>
+						</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+
+
+	
+	</td></tr></table>
+
+        
+
+<div style="clear:both; line-height:10%;text-align: left;"><p>&nbsp;</p></div>
+
+
+        <!--[if mso]>
+        <br>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br>
+        
+        <!--<![endif]-->
+
+        The total premium for your next term excluding installment fees and payment option discounts is $509.00.  
+
+        <!--[if mso]>
+        <br><br>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br><br>
+        <!--<![endif]-->
+
+        
+
+
+If you have any questions, please give us a call 
+at <a tabIndex="-1" href="tel:1-800-876-5581" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #2480FE; line-height: 28px; font-weight:300; display: inline-block; text-decoration: none;">1-800-876-5581</a>&nbsp;or contact your local agent or broker.
+
+
+
+
+        <!--[if mso]>
+        <br><br><br>
+        <![endif]-->
+
+        <!--[if !mso]><!-- -->
+        <br><br>
+        <!--<![endif]-->
+
+		<table align="left" bgcolor="e0e1e2" border="0" cellpadding="10px" cellspacing="0" style="width: 100%; margin-bottom:5px;">
+			<tbody>
+				<tr>
+					<td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;font-weight:bold; text-align:center; line-height: normal; mso-padding-alt: 10px 0">Don't Forget The Following</td>
+				</tr>
+			</tbody>
+		</table>
+
+               <p style="line-height: 1px"></p> 
+
+
+        <!--[if mso]>
+
+
+               <div align="left">
+	            <table border="0" width="520" id="table1" cellspacing="0" cellpadding="0" align="left" bgcolor="#F1F1F1">
+		         <tr>
+			        <td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; mso-padding-alt: 35px 25px 35px 25px; padding: 35px 25px 35px 25px" align="left" width="260"><br />Your renewal documents and ID cards are ready<br /><br /></td>
+			        <td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; mso-padding-alt: 25px 25px 35px 25px; padding: 25px 25px 35px 25px" align="left" width="260" valign="middle">
+
+
+                                            <div><br />
+                                             <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" 
+                                             href="https://onlineservice3.progressive.com/SelfService.Web/SelfService.aspx?Page=Login.AuthenticateUser&cntgrp=A&QueryStringSetKey=SessionGateway&OfferingID=SelfService&SessionStart=TRUE&FD=pproreqdoc&BC=09&AC=&PN=13198747&utm_source=progressive&utm_medium=email&utm_campaign=Renewal_Quote&utm_content=pproreqdoc"                                           
+                                             style="height:53px;v-text-anchor:middle;width:226px;" arcsize="5%" strokecolor=#405e7c fillcolor=#405e7c>
+                                             <w:anchorlock/>
+                                             <center style="color:#ffffff;font-family:Open Sans,Arial,sans-serif;font-size:18px; line-height: normal;">Get Your ID Cards</center>
+                                             </v:roundrect>
+		                             <br /><br /></div>
+                                            
+
+
+
+                                 </td>
+		         </tr>
+	            </table>
+               </div>
+
+
+
+        <![endif]-->
+
+
+
+
+
+
+        <!--[if !mso]><!-- -->
+
+
+
+
+                <table border="0" cellpadding="0" cellspacing="0" class="FIRE" width="100%" align="left">
+                    <tr>
+                        <td>
+
+		<table align="left" cellpadding="0" cellspacing="0" style="width: 100%;">
+			<tr>
+				<td>
+				<table bgcolor="f1f1f1" cellpadding="0" cellspacing="0" style="width: 100%; text-align: center;" align="left">
+					<tr>
+						<td valign="middle" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; padding: 25px 25px 25px 25px">Your renewal documents and ID cards are ready</td>
+					</tr>
+				</table>
+
+                                <p style="line-height: 1px"></p>
+
+				<table bgcolor="f1f1f1" cellpadding="0" cellspacing="0" style="width: 100%" align="left"><!-- padding-bottom:25px; -->
+					<tr>
+						<td align="center" valign="middle" style="padding-bottom:25px; vertical-align: middle">
+
+
+                                                    
+                                                    <a  href="http://click.e.progressive.com/?qs=a332e6c59f0be5d2316ee8ae1b9aa396d0f5bc91071b4cbd169ea71f346e60abb355dc84a060c80880becdb868fdc91f9be0a5d2de910e39728097a5044bd791" style="background-color:#405e7c; border:1px solid #405e7c; border-radius:40px; color:#ffffff; display:inline-block; font-family: Open Sans, Arial, sans-serif; font-size:15px;font-weight:600;line-height:38px;text-align:center;text-decoration:none;-webkit-text-size-adjust:none;mso-hide:all;; 
+                                                    white-space:nowrap; padding-left:40px; padding-right:40px;">Get Your ID Cards</a>
+                                                  
+
+
+                                                </td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+                                </td>
+                        </tr>
+                </table>
+
+
+
+        <!--<![endif]-->
+
+
+<!--[if !mso]><!-- -->
+<div style="clear:both; line-height:70%;text-align: left;"><p>&nbsp;<br /><br /></p></div>
+<!--<![endif]-->
+
+
+       <Style>
+@media screen and (min-width: 660px) { 
+.ID {min-width: 160px !important; width: 130px !important; height: 131px !important; text-align:left !important; margin-right: 5px !important; padding: 0px 0px 23px 0px !important;} 
+.ID2 {min-width: 160px !important; width: 130px !important; height: 175px !important; text-align:left !important; margin-right: 5px !important; padding: 5px 10px 45px 10px !important;} 
+.PW {min-width: 160px !important; width: 355px !important; height: 131px !important; text-align:left !important; padding: 5px 0px 0px 0px !important;}
+.PW2 {min-width: 160px !important; width: 355px !important; height: 175px !important; text-align:left !important; padding: 5px 0px 0px 0px !important;}
+.DSKTXT {text-align:left !important;}
+}
+</Style> 
+
+
+ 
+
+
+<!--[if !mso]><! -->
+<table align="left" bgcolor="#e0e1e2" border="0" cellpadding="6px" cellspacing="0" style="margin-bottom: 5px; min-width: 100%;" width="100%">
+	    <tbody>
+	        <tr>
+	            <td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; font-weight: bold; text-align: center; width: 100%;" width="100%">Temporary Login Information</td>
+	        </tr>
+	    </tbody>
+	</table>
+
+ <p style="line-height: 1px"></p> 
+ <table align="left" bgcolor="#f1f1f1" border="0" cellpadding="25px" cellspacing="0" style="padding: 10px 20px; margin-bottom: 5px; min-width: 100%;">
+	    <tbody>
+	        <tr>
+	            <td valign="top" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; font-weight:bold; text-align:center; width: 100%;" width="100%">
+                                     <span style="font: bold 14px Open Sans, Arial, sans-serif; color: #555555; line-height: 35px">User ID</span>
+                                    <br />
+                                    <span style="font-family: Open Sans, Arial, sans-serif; font-size: 17px; color: #405e7c; line-height: 27px; font-weight:300; font-size: 25pt">13198747</span></td>
+	        </tr>
+	    </tbody>
+	</table>      
+
+<p style="line-height: 1px"></p>
+
+    <table align="left" bgcolor="#f1f1f1" border="0" cellpadding="25px" cellspacing="0" style="margin-bottom: 5px; padding: 10px; min-width: 100%;">
+	    <tbody>
+	        <tr>
+	            <td valign="top" style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300; font-weight: bold; line-height: normal; text-align: center; width: 100%;" width="100%"><span style="font: bold 14px Open Sans, Arial, sans-serif; color: #555555;">Password</span>
+                                    <br />
+                                    <span style="font-family: Open Sans, Arial, sans-serif; font-size: 17px; color: #405e7c; line-height: 27px; font-weight:300;">WIDE + first 5 digits of your SSN <br />
+(ex: WIDE12345)</span></td>
+	        </tr>
+	    </tbody>
+        </table>
+<!--<![endif]-->
+ 
+<!--[if mso]>
+<div>
+    <br />
+    <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td>
+                <table align="center" bgcolor="e0e1e2" border="0" cellpadding="10px" cellspacing="0" style="color: #555555; font: bold 14px Arial, Helvetica, sans-serif; line-height: 28px; text-align: center;" width="520">
+                    <tr>
+                        <td style="font-family: Open Sans, Arial, sans-serif; font-size: 16px; color: #555555; line-height: 28px; font-weight:300;font-weight:bold; text-align:center; line-height: normal; mso-padding-alt: 10px 0">Temporary Login Information</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <div style="line-height:20%;">
+        <hr style="color:#ffffff; height: 5px; width:100%;">
+        </div>
+
+        <table align="left" border="0" cellpadding="0" cellspacing="0" style="margin-top:0px;" width="100%">
+            <tr>
+                <td>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td style="width: 40%;">
+                                <table align="left" border="0" cellpadding="25" cellspacing="0" width="160">
+                                    <tr>
+                                        <td align="left" bgcolor="#f1f1f1" height="80" style="line-height:16px;" valign="top" width="160">
+                                            <span style="font: bold 14px Arial, Helvetica, sans-serif; color: #555555;">User ID</span>
+                                    <br />
+                                    <span style="font-family: Open Sans, Arial, sans-serif; font-size: 17px; color: #405e7c; line-height: 27px; font-weight:300;">13198747</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="width: 60%; margin-left: 5px;">
+                                <table align="left" border="0" cellpadding="25" cellspacing="0" width="355">
+                                    <tr>
+                                        <td align="left" style="line-height:16px;" width="355" height="80" bgcolor="#f1f1f1" valign="top">
+                                            <span style="font: bold 14px Arial, Helvetica, sans-serif; color: #555555;">Password</span>
+                                    <br />
+                                    <span style="font-family: Open Sans, Arial, sans-serif; font-size: 17px; color: #405e7c; line-height: 27px; font-weight:300;">WIDE + first 5 digits of your SSN <br />
+(ex: WIDE12345)</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td> 
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    <div style="line-height:20%;">
+        <hr style="color:#ffffff; height: 5px; width:100%;">
+        </div>
+
+        </div>
+    <![endif]-->
+
+
+
+  
+
+
+
+
+
+       <p>&nbsp;<br /></p>
+
+
+
+<!--- CLOSE TOP 2 TABLES ---------------------------------------------------------------------------------------->
+						</td>
+					</tr>
+				
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+                                        
+                                        
+                                        
+                                        </td>
+                              		</tr>
+                            	</table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#f4f4f4">
+                             		<tr>
+                                		<td>
+                                        
+                                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="wrapper" bgcolor="#f4f4f4">
+  <tbody>
+    <tr>
+      <td width="100%" style="padding-top: 5px; padding-left:18px; padding-right:18px;" align="center">
+
+        <table width="600px" border="0" cellpadding="0" cellspacing="0" class="wrapper1" bgcolor="#FFFFFF">      
+          <tr>
+            <td align="center" bgcolor="#FFFFFF" width="600px" style="max-width:600px; line-height: normal; width:600px;">
+
+<table align="center" border="0" bgcolor="#ffffff" id="promo" style="background-color: #ffffff; margin: 0px auto; margin-top: 5px; min-height: 55px; max-width: 600px; padding: 20px 0px 20px 0px; width: 100%; text-align: center;" width="100%">
+               <tr>
+                  <td bgcolor="#ffffff" width="5%" style="line-height: 28px; background-color: #ffffff;">&nbsp;</td>
+                  <td width="10%" style="line-height: 28px;"><img src="http://image.e.progressive.com/lib/fe9b137075640c7974/m/1/native_app_logo_10.0.gif" alt="Download the Progressive App" style="display: block; text-align: right;"/></td>
+                  <td align="left" width="80%" style="line-height: 28px;"><span style="font: 13px 'Open Sans', 'Arial', sans-serif; color:#666666; font-weight:300;">Download the Progressive App from the <a  style="font: 13px 'Open Sans', 'Arial', sans-serif; color:#2480FE; font-weight:300; line-height: auto; display: inline-block; text-decoration: none;"  href="http://click.e.progressive.com/?qs=a0d387552fb79356c110edbc82051fc1c2ecb3465f11df123ca2507ad1b112dc7caf176baf96c337c16435722b36229e442b77c915f5f94a7be139e9d053da20" target="_blank">App Store<sup style="font-size: 60%; line-height: 0px; position: relative; vertical-align: baseline; top: -0.5em;">&#174;</sup></a> or 
+<a  style="font: 13px 'Open Sans', 'Arial', sans-serif; color:#2480FE; font-weight:300; line-height: auto; display: inline-block; text-decoration: none;"  href="http://click.e.progressive.com/?qs=21d71432783ff0bcc0c3d2c83afcb28bf789e23f6baf9d0ed88348eed53533831aaf77b4ac432a72c52f3b5f5f2b77f646301a6dc737d31e3dfb1208fde2f776" target="_blank">Google Play
+<sup style="font-size: 60%; line-height: 0px; position: relative; vertical-align: baseline; top: -0.5em;">&#8482;</sup></a></span></td>
+                  <td width="5%" style="line-height: 28px;">&nbsp;</td>
+                </tr>
+            </table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+                                        </td>
+                              		</tr>
+                            	</table>
+                            	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                             		<tr>
+                                		<td>
+                                        
+                                        <!--[if (gte mso 9)|(IE)]>
+<p>&nbsp;</p>
+
+<![endif]-->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" class="inlineContent" style="margin: 0 auto; margin-top: 30px; margin-bottom: 30px; width: 100%;" width="100%">
+  <tr>
+    <td align="center" style="font: 12px 'Open Sans', 'Arial', sans-serif; color:#555555; line-height: 14px; padding-right: 25px; padding-left: 25px;">
+
+				<span style="font: 14px 'Open Sans', 'Arial', sans-serif; color:#555555; line-height: 16px; font-weight: bold;">
+Your Agent</span><br /> Whitt Insurance Agency <br /> <a alias="Footer | Agent Email" href="mailto:whittinsurance@qx.net" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">whittinsurance@qx.net</a><br /> <a alias="Footer | Agent Phone" href="tel:859-278-0124" style="color: #555555; text-decoration: none">859-278-0124</a>
+               <br /><br />
+               
+                <span style="font: 14px 'Open Sans', 'Arial', sans-serif; color:#555555; line-height: auto; font-weight: bold;">Your Policy</span>
+                <br />
+				STANLEY GROSS<br />
+			<a  href="http://click.e.progressive.com/?qs=7c2f714e144e496ce09920a0356ff916dacbe883d46e95e66e3e608eabbc92c255bb485cc9bade8a24addf6a306122b3ac6ed3dc47eaa117a6bea435a5eb89fc" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">Kentucky&nbsp;Travel Trailer&nbsp;13198747
+		</td>
+                </tr>
+            </table>
+
+<!--[if (gte mso 9)|(IE)]>
+<p>&nbsp;</p>
+
+<![endif]-->
+
+
+                                        </td>
+                              		</tr>
+                            	</table>
+				<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="wrapper" bgcolor="#f4f4f4">
+					<tr>
+						<td>
+						
+						<table align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="#f4f4f4" align="center" style="margin: 0 auto; max-width: 600px; line-height: 1px; padding: 0; width: 90%;" width="90%">
+                <tr>
+                    <td cellpadding="10" height="1" style="background:none; border: solid 1px #d1dae2; border-width:1px 0 0 0; font-size: 1px; height:1px; line-height: 1px; width:90%; margin:0px 0px 0px 0px; padding: 0px;">&nbsp;</td>
+                </tr>
+            </table><!-- rule -->
+
+
+ <table align="center" width="80%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f4f4f4" style="margin: 0 auto; max-width: 80%; min-height: 55px; padding-top: 20px;">
+                <tbody>
+                    <tr>
+                        <td align="left" style="font-family: 'Open Sans', 'Arial', sans-serif; font-size: 10px; color: #2480FE; line-height: 18px; text-decoration: none; text-align: left;" width="120">
+                            <a  href="http://click.e.progressive.com/?qs=b1ce48034dee0a84b50245c1a6e8f962961753045b29e178a09661100ba352c4d1571eb142d2996cc4271d67740749a1889db135a692996a467a998705e2681a" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">Contact</a>
+                        </td>
+                        <td align="center" style="font-family: 'Open Sans', 'Arial', sans-serif; font-size: 10px; line-height: 18px; text-decoration: none; text-align: center;" width="120">
+                            <a  href="http://click.e.progressive.com/?qs=b410eacda1fe219547a329914d8390aab9e5062fb0813b0c9e6f3e0fdce335905057366122a74b2e1a0c291512b6a2ccb56b4b238ed1fa7d64226901bc05dc78" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">Privacy</a>
+                        </td>
+                        <td align="center" style="font-family: 'Open Sans', 'Arial', sans-serif; font-size: 10px; line-height: 18px;  text-decoration: none; text-align: center;" width="120">
+                            <a  href="http://click.e.progressive.com/?qs=752b125950e2aa06a1568eeb9fd8778d8ea9a7bbaff4dd77f14b73a65c6299d91de5e07b062896135b24a410e7461fb3c0a6d4e20babeebe61ba287da2c87bbc" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">Terms</a>
+                        </td>
+                        <td align="right" style="font-family: 'Open Sans', 'Arial', sans-serif; font-size: 10px; line-height: 18px; text-decoration: none; text-align: right;" width="120">
+                            <a  href="http://click.e.progressive.com/?qs=002d0f2ed80dde2c3f66158cebc91d3a2b9ea884130dc73b3502b22f3537ed82911eb63d9b87c1f711ea9a0bf166382ab30701719e1e40dea09ee0ae9729f854" target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">Unsubscribe</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table><!-- Footer Links -->
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper" bgcolor="#f4f4f4" align="center" style="max-width: 600px;">
+                  <tr>
+                      <td align="center" style="font: 10px 'Open Sans', 'Arial', sans-serif; color: #666666; line-height: 14px; max-width: 600px;">
+        <br />
+
+        
+
+        <br />
+        <p>View this email <a href="http://view.e.progressive.com/?qs=10a8e8cfd099984a946bdb72fda9914f74ce3d75b589a17a21f94c77ef949f000c62c593dc23cab57fe0eb3a55d79110d108875ca3297789071acd02f38335fd64082a42cb157cfbe450f5b6cf15d351"  target="_blank" style="font-family: Open Sans, Arial, sans-serif; font-size: 10px; color: #2480FE; line-height: 14px; display: inline-block; text-decoration: none;">online</a></p>
+
+        Policy underwritten by Progressive Casualty Insurance Company
+        <br />
+        Progressive Casualty Insurance Company<br />
+        <!-- 6300 Wilson Mills Rd,&#8203; Mayfield Village,&#8203; OH 44143 -->
+        6300 Wilson Mills Rd,&#8203; Mayfield Village,&#8203; OH 44143
+        <br /><br /><br />
+        
+	
+	<!--[if mso]>
+	<div>
+	    <table border="0" cellspacing="0" cellpadding="0" style="width: 540px;">
+	        <tr>
+	            <td style="font: 10px Open Sans, Arial, sans-serif; font-weight:300; color: #666666; line-height: 14px;"><center>Not all states accept self-printed and&#47;or electronic proof of insurance.   Contact us or talk to your local agent if you have any questions about your proof of insurance.  Loyalty Rewards are not available in all states or situations and may differ by product.
+	                    </center></td>
+	        </tr>
+	    </table>
+	</div>
+	<![endif]-->
+
+
+        <!--[if !mso]><!-- -->                      
+  		<div style="font: 10px Open Sans, Arial, sans-serif; font-weight:300; color: #666666; padding-top: 10px; line-height: 14px; padding-left:25px; padding-right:25px; max-width:525px !important;"><center>Not all states accept self-printed and&#47;or electronic proof of insurance.   Contact us or talk to your local agent if you have any questions about your proof of insurance.  Loyalty Rewards are not available in all states or situations and may differ by product.</center></div>
+        <!--<![endif]-->
+
+</td>
+                </tr>
+            </table><!-- Underwritten By -->
+		                
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wrapper" bgcolor="f4f4f4">
+	<tr>
+		<td align="left" class="paddingreset-content-footer" style="font: 10px Verdana, Geneva, sans-serif; color:#666666; padding: 15px 25px 15px 25px; line-height: 14px;">
+        <em>Renewal_Quote_10.0</em>
+		</td>
+	</tr>
+</table>
+						</td>
+					</tr>
+				</table>                                                                   
+						  </td>
+						</tr>
+					</table>
+
+        	</td>
+			</tr>
+		</table>
+<!--[if (gte mso 9)|(IE)]>
+</td></tr></table>
+<![endif]-->
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<style>@media print{#_t { background-image: url('https://cxgbiken.emltrk.com/cxgbiken?p&amp;d=13198747');}} div.OutlookMessageHeader {background-image:url('https://cxgbiken.emltrk.com/cxgbiken?f&amp;d=13198747')} table.moz-email-headers-table {background-image:url('https://cxgbiken.emltrk.com/cxgbiken?f&amp;d=13198747')} blockquote #_t 
+{background-image:url('https://cxgbiken.emltrk.com/cxgbiken?f&amp;d=13198747')} #MailContainerBody #_t {background-image:url('https://cxgbiken.emltrk.com/cxgbiken?f&amp;d=13198747')}</style><div id="_t"></div><img src="https://cxgbiken.emltrk.com/cxgbiken?d=13198747" width="1" height="1" border="0" />
+	
+	
+		
+	
+	
+		<img src="http://pixel.inbox.exacttarget.com/pixel.gif?r=02b5335cf4e0b4059fa08306c528e6a30b973c4d&amp;s=13198747&amp;c=Renewal_Quote&amp;b=09" width="1" height="1" />
+	
+    
+		
+<img src="http://click.e.progressive.com/open.aspx?ffcb10-febe16767d6c037f-fe5317727d67037a7c11-fe9b137075640c7974-ff60107472-fe5f1771776102787217-fecd15767d64077d" width="1" height="1">
+
+               </div>
+
+</body>
+</html>
+
+--S3tt68JHZkSA=_?:--
+

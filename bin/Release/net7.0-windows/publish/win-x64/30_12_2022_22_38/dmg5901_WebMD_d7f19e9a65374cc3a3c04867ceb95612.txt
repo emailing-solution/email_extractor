@@ -1,0 +1,1045 @@
+Return-Path: bounce-58_HTML-23994858-1566095-7000612-216@bounce.messages.webmd.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md23.aqua.sync.lan with LMTP; Thu, 22 Feb 2018 18:14:31 -0500 (EST)
+Return-Path: <bounce-58_HTML-23994858-1566095-7000612-216@bounce.messages.webmd.com>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=IthcS/3g c=1 sm=1 tr=0 b=1 a=77LCejc/q+Im3+c5lN4Tzw==:117 a=77LCejc/q+Im3+c5lN4Tzw==:17 a=6giede-wJD4A:10 a=Op4juWPpsa0A:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=HjUfK0oVAAAA:8 a=o2QoyYduAAAA:8 a=q8q4GQnvES_HgDBQx9gA:9 a=QEXdDO2ut3YA:10 a=VmzILCxf1hoA:10 a=jGbTFksKtBMA:10 a=T5VGfpN9ab0A:10 a=6rUaTXj4y5YA:10 a=SSmOFEACAAAA:8 a=w5qy-3kq7njX-TgxKsoA:9 a=Ff9buJb_QARzNZk4:21 a=frz4AuCg-hUA:10 a=Gr1OEchI5Z0A:10 a=S50rnUa8yRbNnh2hyxzf:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [198.245.83.91] (helo=mta5.messages.webmd.com)
+Received: from [198.245.83.91] ([198.245.83.91:50923] helo=mta5.messages.webmd.com)
+	by mx.windstream.net (envelope-from <bounce-58_HTML-23994858-1566095-7000612-216@bounce.messages.webmd.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id 4C/8D-10756-7DE4F8A5; Thu, 22 Feb 2018 18:14:31 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=messages.webmd.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=health@messages.webmd.com;
+ bh=SHiMWL1hicZBCX/pyQtioDWIUbo=;
+ b=k+TXtggQYMNjjzqhIGXAWfvelS0EQtmONTVs+anX46yTeGTyTkDBY6ZrzYYQ37IPSCh2h1nC53Ep
+   PrzQDCbeIA4k14WjVb0L2LYQvi0sL7F8BHr3f+RR/TAHFfw+1w167M9NcyUbZkOcmsmNFVl2nrqn
+   ScT6qqmpZ+aT0hIKE6s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=messages.webmd.com;
+ b=hU/pVjUqOWrjh9ybXSpG/vYSBbvqRyVi10u3MkQsvOFFeLRC/NlQYvtoUqMqqDPQaSjVE0MA6Hc2
+   RulM6YlfHPCvjvDUQYiMfUNZTxKc4Hzu6kuy+UnZmnH4817pgI849vcDIiYt6Nk/YS59jT/NfPbF
+   DyMlbdABAGFJjsYpC3M=;
+Received: by mta5.messages.webmd.com id hht7de163hsg for <dmg5901@windstream.net>; Thu, 22 Feb 2018 23:14:30 +0000 (envelope-from <bounce-58_HTML-23994858-1566095-7000612-216@bounce.messages.webmd.com>)
+From: "WebMD" <health@messages.webmd.com>
+To: <dmg5901@windstream.net>
+Subject: Signs You Need More (or Less) Zinc
+Date: Thu, 22 Feb 2018 17:14:30 -0600
+List-Unsubscribe: <mailto:leave-fd7e11781a3c402029-fe4f16737c6d0075701c-fe8f15757362047470-fe9f13707564027c77-ff66167173@leave.messages.webmd.com>
+MIME-Version: 1.0
+Reply-To: "WebMD" <reply-fe8f15757362047470-58_HTML-23994858-7000612-216@messages.webmd.com>
+List-ID: <7000131.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7000612_1566095
+Message-ID: <eca99d23-a8d5-4907-9017-9afac4f5bfa1@ind1s06mta971.xt.local>
+Content-Type: multipart/alternative;
+	boundary="YjvksDVBcxPB=_?:"
+
+This is a multi-part message in MIME format.
+
+--YjvksDVBcxPB=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+http://view.messages.webmd.com/?qs=536ae9c23e9bee246c6d0f8cd0621a5eaf3084ddb33a3e16baa0e7e6d6c967c532fb03f2caba7b3a4fe6db7e90c59aeb1fa56eb00da6d517071a854e54a474f1ba10348a7af920db0d9fb9feaa2ff1a0
+ </body> 
+WebMD Newsletters
+
+Trouble viewing this email? 
+http://view.messages.webmd.com/?qs=536ae9c23e9bee246c6d0f8cd0621a5eaf3084ddb33a3e16baa0e7e6d6c967c532fb03f2caba7b3a4fe6db7e90c59aeb1fa56eb00da6d517071a854e54a474f1ba10348a7af920db0d9fb9feaa2ff1a0 
+View as a Webpage Thursday, February 22, 2018
+
+
+
+mailto:?subject=I want you to see this article from WebMD&body=I thought you may be interested in this recent WebMD Newsletter I received.Check it out here: http%3a%2f%2fview.messages.webmd.com%2f%3fqs%3d536ae9c23e9bee246c6d0f8cd0621a5eaf3084ddb33a3e16baa0e7e6d6c967c532fb03f2caba7b3a4fe6db7e90c59aeb6854ab43c1b7da25 %0D%0A%0D%0AAnd if you are interested in other topics like this one, WebMD has quite a few newsletters:https://member.webmd.com/subscribe 
+
+http://pages.messages.webmd.com/Publish.aspx?qs=71b8883ce06d4a85c4ce864c7f61ed30ed0328087fb3803820dad37731f08941a136853aa8996a843d7d41b780616c0a0551f404fc07395ca4f9946f0a1a135659f8ad4c3e7c2b328ef89d5c04d5301d3f4b9ca572fb0e86f0fa30852bca7382130be27ee8330817 
+
+http://pages.messages.webmd.com/Publish.aspx?qs=71b8883ce06d4a85c4ce864c7f61ed30ed0328087fb3803831fbca21d2b4a7351e0669507829338d57364771e1f4a9f2ad7746b33aaa8f51513bf363def98ffbc30420faaae694481ef0b11ab474d381e266a44961f16fe24f0d8cade2db48dc9e70754ccf601fd0 
+
+Special 
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8e6cf2e49269e93e6d358c03421691fe1d1a71a948993f4665db1cebea0626296214db3f5ce48f25644c9f2178d23a2f382ff1610f8871caa 
+Slideshow
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c828bf40b4d44eb3547d2b513fb49133af4d6e1857248f696c1e2e94641b594d8addeb3e689256b51e65b8e5c7f359c2879c1b9bd0c7502920 
+Signs You Need More (or Less) Zinc 
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8287685fcf2a6a743fd5d269902d8ef38f5e6782a1a4c8152eecda762f0f47c4cfb8eab84107409509a1d4318ce3b0f8148b0a7edb27e4062 
+It's key to your immune system and your senses of smell and taste. See what happens if you don't get enough, and which foods are good sources. 
+
+ Quiz
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012cc7b30a7a425b14e9b33b50eb524a7804f2f20875662b8932a742ae01774b25f8334f5cb6c5cbf31223a559b0a9dd35b88e8af05be8d71dc 
+What's the Germiest Thing in Your House? 
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012d8dad117634f953b6acc9868f3a62415b0bc69b7cba0746f134f13b1bbd7d0d57c88bea010b269d40b8cec6922bb383535acc056e61b1f8b 
+How long does it take to wash your hands correctly? And how often should you scrub the kitchen sink? 
+
+
+Slideshow
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea01204170cea0d8713da333f8c896d6c2f74df795a6a5235ec6293afc2616964eacbf52c72c737999d72d93052ac991552690613b5e0adc54989 
+Exercise Tips for Blood Pressure 
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012868eacf29e1f18ddd098e6a75649934360ebb4405642a75f6d33200515f484900f7a4ae0f1d03645e5e8f8013a0bfcdf6c7427eb1a30bd8b 
+If your BP is high, these fun workouts can help you get your numbers down. 
+
+
+Slideshow
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012bc33c52d6259f610c00180c24b76808b84979991c433bacb07c41c6158ca4af10756daa668352a57b4ee7f21e2d3259f4cb60e861de0e6be 
+11 No-Nos When You Have Adult ADHD 
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea01234bf7af40ae0692997a7f50fa3c9c34320e3cced26e49a5a2d4f13700d1fe4e7c85b4cad21940a654cccf7caa648af16585cee9a96b6b062 
+Could your screen time or eating habits be making your symptoms worse? 
+
+
+Slideshow
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012335e7a11c410e5d7ce962a1ec758f40fb3fdbf4b70f0570d625bfa486b33c95c036396432546e773a8c567a05f6cdcba7f20b002ecd1ee4c 
+Protein-Rich Vegetables 
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea01227500f81932b75121048154f353697cf861b5565226208ad81942105be5f697e7e6c9e4024a6f5fec24486c5f559033c43eec76ef6071521 
+Lentils, mushrooms, and these other veggies pack a protein punch. 
+
+
+
+ 
+
+
+Quiz
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012640d49a5719faa91ef23ef66434e578e44e40e033abb10a981bbdcfd522c6485cf5ab409e8137972be2be9b548fdf5751bb78898c8d64d2c 
+The Truth About Tea 
+
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012c2217f12a42c487edf726c3887ccd4541703d4de5b3af0ec461bec0c2730c6344d64f1098625a407f9ad96efbb774c3a149f32e26908dbb7 
+Do herbal teas like chamomile have the same health benefits as green tea? 
+
+
+
+ 
+
+Top Picks
+
+-
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e954d5ffea45b2c64bac551281e46514b07d8b5f9e017bf18720dd3370804d6e723ad4734000a17db056c7e661952720373500d1d6d13580 
+When Is It Safe to Go Back to Work After the Flu? 
+
+-
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea0123a4d3840fd64a144739d21b41c19a9731955d65f05cc7d0ed4d800ed362c020e93aa99057a716418e2a872239975c7f74f513ca34832f546 
+How to Eat to Keep the Weight Off 
+
+
+-
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea0124757a84a7f6f04e89a473d4a020809119f03601692a55093cdd49a7905d38cb1d56044c7d832b394fa0c7972f3fc59fe1026ac0f3ecc771c 
+First Human Case of 'Eye Worms' 
+
+
+
+Trending Videos
+
+-
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012336d30111ca6cccc4ac81380ca46752278f3c45c04b4c6330af88fef6bcd27782a5b65cae2356126cadae609303064022aac32283ab03e6f 
+The Basics: Whooping Cough <img id="_x0000_i1026" src="http://img.webmd.com/nl/newsletter_video_icon.gif" border="0"/> 
+
+
+ 
+ -
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea01235de57eab20445e07b581687995c8ebf7ea63b9599ecef2136d63c1f0429562be2e049f6d83df9f5e919bdbad9e56c5c0a2c392afc0b9def 
+How to Ease Eczema's Itch <img id="_x0000_i1026" src="http://img.webmd.com/nl/newsletter_video_icon.gif" border="0"/> 
+
+
+
+
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8ef51085e544b0751cc037d1a7296fef7ef569fc770d3bcf24022c8690cbf26cc66a76102e3ae542d126d00dbe855f3c1c71b0208c0fac945 
+
+Slideshow
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8a1613a0b040c257630e0a69c0142c670a02efeae9802b0860605ee891a790ae915956b066755fb869af6e866724b392387ff669c4db4308c 
+How You're Wrecking Your Hair 
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c86e109fed973f881f00357df83e57480dd9ef8b8b60df38ef041cc5f7faf0141edeefd7f510ac59a6b50b1461ac9eda02efaf1e08588b1622 
+See which habits can leave you with a flaky scalp or dull, frizzy tresses. 
+
+ADVERTISEMENT
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c85a038ae7676b3276c596ee3790d4d9be5fd2f498e1f3e8f8b440d288aa1ecea4ab68c0ad12c8d1eca205d2576cc273761c57b293a33d7009 
+
+ 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8b33b048b79092c34cfbb62d0ca4447d50d285eb5c667d641a57f610f4c857a5aa398865ea723fd13a939da83839fdc71ccf938d6542234a8 
+
+ADVERTISEMENT
+
+ 
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c830206fb91b3b11558416a3d9c34fc5ffb8265066dcacb03d6bb7a3d7f3b3a788257a1ec8c9b754201d41b6380fa1698a1a4fd10bae1b3d50 
+ 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c810ee0a238a8abd48aa7b37494a150612ef0c4bd731bc8465065d835dccf3d5c26653d62ce9b0fd645eb65cc4b66caee8380ee3bd34a94426 
+ 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c881836bcf446a4eaa503f4f1754328ee18d254ba941e90611fe7fab11ac0ce8b13d03541c6e3fddbfc760c745ce9dce12a8e7219a6a20b514 
+ 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c83b7a6d49ac9c9451c88f34963d28f197ecf7c447ccf0d347a2c60ef8cd8498443842f76c9fb392d0e6b5b9b6d5b118d263c56871e7db8304 
+ 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8f10cfdd256c600b36368c4e10df3cd3a66a341201abdfdc39ea1aa2a9bc0c70687a0da99f23c1c84efe6c1b39b6b325c41c49e3c45352ba5 
+
+ 
+
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8ad48abb40fc10046f22f313e698d447a56fe43d5ec0ccc3d7988f6cc19e724277a57b29a5665523ef58d9a7bbacf5ca43b4108b24f134e07 
+WebMD.com|
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8b76d9cb05cdf62f6f93861c4345b0d994ba327452a1c57c94bb73ae5077f9e5424ca8216c61314c4858635eee7bf69f07edad498c67e892f 
+Mobile Apps| 
+http://click.messages.webmd.com/?qs=5c396a3cf609d4c8513e42784656006a5ae1f3be9554fe23f064929efaa97b477e324915d12bf05942b882f2d9540e3c36da93b92b9d2cf032145ca964c5cff6 
+Newsletters 
+
+You are receiving this message because you registered with WebMD as dmg5901@windstream.net. If you did not register for WebMD please contact our 
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea01297614c900ae00a661755b70daa296fc5764946d4ebb435e25aa0974bc0670bd1100a5e246f26846fb190bf05132f7186f206beb1bd0b6cc5 
+Customer Care Team 
+
+ http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e3efed8c4b70f2486a7af5c2af92365960a3dc209ac3a9db1378792b467b0189efcaa4a35af0c7639af1145b815977adb5d703997c3e3a2d 
+WebMD Privacy Policy|
+http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e2dd7defcb777276b1fb5bb7d4053db2708978c432664f8d3586270116adba1d3088e4dfa2f754cf0c2f5b2a3863cd09a35851b827acea70 
+Unsubscribe 
+ 
+
+(c) 2018 WebMD, LLC. All rights reserved.
+
+WebMD Office of Privacy | 1201 Peachtree Street, NE | Atlanta, GA 30361
+
+ 
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+----------------------------------------
+	
+	This email was sent by:
+	WebMD Health Corp.
+	111 8th Ave. 7th Floor
+	New York, NY, 10011, United States
+	
+	We respect your right to privacy - visit the following URL to view our policy.
+	( http://click.messages.webmd.com/?qs=e5bbe0263b1ea01226ad05ed8640e849fc1b9cc0c0008957007b65731be68a58ae93dfbae5a735271d586e54032cea5e6f8e470c545a4844 )
+	
+	----------------------------------------
+	
+	Visit the following URL to manage your subscriptions.
+	( http://click.messages.webmd.com/subscription_center.aspx?qs=dca6a769fd8f8c5dc52c8817fc48f7fefa7c5225effc567d0bd2c9df2b2965719a30a277bbd0805ace845b1fd872f4631cf2a7b987f762042a28150bcdf5f649 )
+	
+	Visit the following URL to update your profile.
+	( http://click.messages.webmd.com/profile_center.aspx?qs=dca6a769fd8f8c5d305108af0665d935703b43929d32a7f31dc1b8bdc19014e184cdccf0084ab89b15fa2cbaca568da9a74fe5e3c7c0b0a5ddd0a5f1c9f74b66 )
+	
+	Visit the following URL to unsubscribe.
+	( http://click.messages.webmd.com/unsub_center.aspx?qs=dca6a769fd8f8c5dc52c8817fc48f7fefa7c5225effc567d0bd2c9df2b296571dd4efe2e4024b5d9f3b42acb87fa203e658addf09f42ac2dccbf930c2ec8d55eb13e92a73141e4c0 )
+	
+
+--YjvksDVBcxPB=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html>
+<!-- RegionStart[ socialslot:"WbmdSocial", title:"Signs You Need More (or Less) Zinc", description:"Signs You Need More (or Less) Zinc", csskey:"wbmd-soc-temp-d"] -->
+ </body> 
+<head>
+<meta name="viewport" content="width=width-device, initial-scale=1.0" />
+<meta property="og:image" content="http://img.webmd.com/dtmcms/live/webmd/http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/why_you_need_zinc_and_how_to_get_it_slideshow/156x150_why_you_need_zinc_and_how_to_get_it_slideshow.jpg" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+	body{background-color:#f5f9fa;}
+	.ReadMsgBody{width: 100%;} /* Forces Hotmail to display emails at full width */
+    .ExternalClass {width: 100%;} /*Hotmail table centering fix*/
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}  /* Forces Hotmail to display normal line spacing*/
+    p {margin: 1em 0;} /*Yahoo paragraph fix*/
+    table td {border-collapse: collapse;}  /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+    /*This resolves the issue when iphone puts links on dates, etc.*/
+    .applelinks a {color:#b1b1b1; text-decoration:none;}
+    
+    @-ms-viewport{width: device-width;p{margin:0 !important; padding:0 !important;}
+	.main{border-collapse:collapse;table-layout:fixed;margin:0 auto;} /*Overwrites left justification in Yahoo Mail*/
+	.body{margin:0 auto !important;} /*Center Justifies Mailing in Yahoo*/
+	</style>
+   <style type="text/css">
+    /* Media query triggers alternate styles when the file is displayed on a device with a maximum width lower than the assigned pixel dimension. The default max width setting for max-width should be 480px to trigger on mobile devices. */
+@media only screen and (max-width:480px) {
+	body {background: #f5f9fa !important;}	/*width: 320px !important;*/
+
+.main {width: 310px !important;padding: 0 !important;margin:0 auto !important;}
+.main-container {width: 310px !important;padding: 0 !important;margin:0 auto !important;}
+.spacer {width: 310px !important;padding: 0 !important;height: 5px !important;}
+.topsubtitle {width: 310px !important;padding: 0 !important;}
+.topsubtitle-left {display: none !important;}
+.unsuscribe {width: 160px !important;padding: 0 !important;}
+.header {width: 310px !important;padding: 0 !important;}
+.header-space {width: 180px !important;background-color: #f6f9fa !important;display:none !important;}
+
+.date {width: 50% !important;background-color: #f6f9fa !important;text-align: right;}
+.title {width: 310px !important;}
+.articles {padding: 0px !important;margin: 0px auto !important;width: 310px !important;display:block !important;}
+.articles {width: 310px !important;padding:10px !important;}
+.articles2 {width: 300px !important;}
+.artfooter {width: 310px !important;background-color: #fff !important;height: 116px !important;}
+.spacer-art1 {display: none !important;}
+.card {width: 310px !important;border: #EDEFEE solid 1px;display:block !important;margin: 0 auto 10px !important;}
+.last-card {width: 310px !important;border: #EDEFEE solid 1px;display:block !important;margin: 0 auto !important;}
+
+.inner-lead-image {width:99px !important;}
+.inner-lead-image img {width:89px !important; height:85px !important;}
+
+img.promo1 {margin: 10px 10px !important;padding-top: 0px !important;}
+.promo2 {width: 200px !important;border: #d3d3d3 solid 1px;}
+img.promo2 {margin: 10px 10px !important;}
+.promo3 {width: 200px !important;border: #d3d3d3 solid 1px;}
+img.promo3 {margin: 10px 10px !important;}
+.promo4 {width: 200px !important;border: #d3d3d3 solid 1px;}
+img.promo4 {margin: 10px 10px !important;}
+
+td.promo5 {width: 200px !important;border: #d3d3d3 solid 1px;}
+img.promo5 {margin: 10px 10px !important;padding-bottom: 0px !important;}
+.divider, .divider, .line {border: none !important;border-collapse: collapse !important;background-color: #f6f9fa !important;height:4px !important;}
+.title-promo {width: 300px !important;}
+.ad-space, .ad-space {display: none;}
+.adsection {width: 320px !important;}
+.app {width: 320px !important;display: block !important;position: relative !important;}
+.apppromo {width: 100% !important;display: inline !important;}
+.app {width: 310px !important;height: 87px !important;float: left !important;padding:5px !important;}
+.ad {width: 320px !important;display: inline-block !important;padding-top: 15px !important;}
+.ad img {width: 320px !important;text-align: center !important;}
+.advertisement {display: none !important;}
+.container {display: block !important;width: 315px !important;margin:0 auto !important;}
+.apppromo {display: block !important;width: 100% !important;}
+.imagecell {width: 320px !important;}
+.tableimage {float: left !important;display: block !important;width: 90px !important;}
+.imgapp {width: 90px !important;height: 76px !important;display: block !important;text-align: left !important;}
+.imgapp img {display: block !important;width: 80px !important;height: 76px !important;padding: 5px 0 0 5px !important;}
+
+.tabletext {float: right !important;display: block !important;width: 218px !important;padding: 5px 0 0 0 !important;}
+.textarticles {font-weight: normal !important;font-size: 13px !important;}
+.caption {width: 320px !important;}
+.captionspace {width: 91px !important;}
+.titlealergy {padding-top: 8px;}
+.top-header{width:315px !important; display:block !important;}
+.top-logo{width:315px !important; display:block !important;margin:0 auto !important;}
+.hide{display:none !important;}
+
+.drop {width:100% !important;display:block !important;text-align:left !important;}
+.card-row {}
+.container{background:#f5f9fa !important;border:none !important;}
+.inner-card{width:100% !important;margin:0 0 10px 0 !important;}
+.card-container{width:300px !important; margin:0 auto !important;display:block !important;}
+.card-image{width:85px !important;float:left !important;}
+.card-text{display:block !important; width:210px !important;margin:0 !important;float:right !important;}
+.bullet-container{display:block !important; width:300px !important; margin:0 auto !important;padding-left:8px !important;}
+.bullet-table{width:100% !important;}
+.bull{display:none !important;}
+.bullets{width:100% !important;}
+.footer{font-size:12px !important;}
+.drop {width:315px !important;display:block !important;text-align:left !important;}
+.card-row {width:315px !important; display:block !important;}
+.inner-card{width:315px !important;margin:0 0 10px 0 !important;height:auto !important;}
+.promo{display:block !important;}
+.promo-container{width:315px !important;display:inline-block !important;}
+.ad-container{width:308px !important;display:block !important;}
+.ad-card{width:300px !important; margin:0 auto 10px !important;display:block !important;background:none !important; border:0px !important}
+.info{font-size:12px !important;}
+.divider{width:100% !important; display:block !important;background:#f5f9fa !important;}
+.table{background:#ffffff !important;}
+.sponsor{display:block !important; margin-top:10px !important;}
+.share{display:inline-block !important;text-align:right !important;width: 165px !important;padding-right:5px !important;}
+.logo{display:inline-block !important;text-align:left !important;width:128px !important;}
+
+}
+
+
+
+</style>
+
+
+
+
+
+<title>WebMD Newsletters</title>
+</head><body  bgcolor="#f5f9fa" style="background-color:#f5f9fa; margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">It's key to your immune system and your senses of smell and taste. See what happens if you don't get enough, and which foods are good sources.</div>
+
+
+<table class="main-container" width="615" border="0" align="center" cellpadding="0" cellspacing="0" style="table-layout:fixed;width:615px;">
+	<tr>
+    	<td align="center">
+        	<table class="main" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr valign="middle">
+    <td class="hide" height="40" width="615" style="width:615px;" >
+    <!-- TOP HEADER -->
+                
+                <table class="top-header" cellpadding="0" cellspacing="0" border="0" width="100%">
+                    <tr><td class="hide" width="50%" height="40" style="font-family:Arial;font-size:12px;color:#000000;" align="left">Trouble viewing this email? <a href="http://view.messages.webmd.com/?qs=536ae9c23e9bee246c6d0f8cd0621a5eaf3084ddb33a3e16baa0e7e6d6c967c532fb03f2caba7b3a4fe6db7e90c59aeb1fa56eb00da6d517071a854e54a474f1ba10348a7af920db0d9fb9feaa2ff1a0" style="color:#0f88b8;text-decoration:none;">View as a Webpage</a></td>
+                    	<td class="hide" width="50%" style="font-family:Arial;font-size:12px;color:#000000;" align="right">Thursday, February 22, 2018</td>
+                    </tr>
+                </table>
+                
+                <!-- END TOP HEADER -->
+  </td>
+  </tr>
+  
+  <!--Header -->
+  <tr>
+    <td>
+    	<table class="header" width="100%" border="0" cellspacing="0" cellpadding="0">
+        	<tr>
+          		<td width="116" height="29" align="left" valign="middle" class="logo" style="width:116px;" ><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/logo_blue-bg.jpg" width="128" alt="webmd logo" height="29"  /></td>
+          		<td width="368" height="29" class="header-space" style="width:368px;"></td>
+          		<td class="share" width="206" height="29" align="right" style="font: 12px Arial, Helvetica, sans-serif;color: #000000;width:206px;">
+                	<table class="social-share" width="110" height="31" align="right" cellpadding="0" cellspacing="0" border="0">
+                                                                <tr valign="middle">
+                                                                    <td width="30" style="width:30px;"><a href="mailto:?subject=I want you to see this article from WebMD&body=I thought you may be interested in this recent WebMD Newsletter I received.  Check it out here: http%3a%2f%2fview.messages.webmd.com%2f%3fqs%3d536ae9c23e9bee246c6d0f8cd0621a5eaf3084ddb33a3e16baa0e7e6d6c967c532fb03f2caba7b3a4fe6db7e90c59aeb6854ab43c1b7da25 %0D%0A%0D%0AAnd if you are interested in other topics like this one, WebMD has quite a few newsletters:  https://member.webmd.com/subscribe"><img alt="E" src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/webmd_email_icon_30x29.png" width="30" height="29" border="0" style="display:block;" align="center"></a></td>
+                                                                    <td class="spacing" width="10" style="width:10px;"></td>
+                                                                    <td width="30" style="width:30px;"><a href="http://pages.messages.webmd.com/Publish.aspx?qs=71b8883ce06d4a85c4ce864c7f61ed30ed0328087fb3803820dad37731f08941a136853aa8996a843d7d41b780616c0a0551f404fc07395ca4f9946f0a1a135659f8ad4c3e7c2b328ef89d5c04d5301d3f4b9ca572fb0e86b9266b62c8317e072024e55a2308679d"  title="Share on Facebook"><img alt="F" src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/fb-icon.jpg" width="30" height="29" border="0" style="display:block;" align="center"></a></td>
+                                                                     <td class="spacing" width="10" style="width:10px;"></td>
+                                                                     <td width="30" style="width:30px;"><a href="http://pages.messages.webmd.com/Publish.aspx?qs=71b8883ce06d4a85c4ce864c7f61ed30ed0328087fb3803831fbca21d2b4a7351e0669507829338d57364771e1f4a9f2ad7746b33aaa8f51513bf363def98ffbc30420faaae694481ef0b11ab474d381e266a44961f16fe2679af062d4dc33ab96b71171b0ed3e11"  title="Share on Twitter"><img alt="T" src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/twitter-icon.jpg" width="30" height="29" border="0" style="display: block;"></a></td>
+                                                                     
+                                                                </tr>
+                           </table>
+                </td>
+        	</tr>
+            <tr><td colspan="3" height="15" style="height:15px;"></td></tr>
+      	</table>
+     </td>
+  </tr>
+  
+  <!--Title -->
+  
+  <tr>
+    <td width="100%" height="48" bgcolor="#2196cb" style="font: 20px Arial, Helvetica, sans-serif;color: #ffffff; font-weight:bold; padding-left:10px;" class="title" >Special </td>
+  </tr>
+  
+  <tr><td height="10" style="height:10px;"></td></tr>
+  </table>
+  <!--Articles -->
+
+    	<table class="container" bgcolor="#ffffff" width="100%" style="border:#edefee solid 1px;" cellpadding="0" cellspacing="0" border="0">
+        <!-- Lead Story -->
+        <tr>
+        	<td class="card">
+            	<table bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                	<tr>
+        	<td class="hide" width="15"></td>
+          	<td width="602" class="promo1" style="width:602px;">
+          		<table width="100%" class="articles" cellpadding="0" cellspacing="0">
+              				<tr><td class="hide" height="10"></td></tr>	
+                            		
+             		<tr valign="top">
+                    	<td class="inner-lead-image" rowspan="3" width="166" align="left" valign="top" style="width:166px;"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8e6cf2e49269e93e6d358c03421691fe1d1a71a948993f4665db1cebea0626296214db3f5ce48f25644c9f2178d23a2f382ff1610f8871caa"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/why_you_need_zinc_and_how_to_get_it_slideshow/156x150_why_you_need_zinc_and_how_to_get_it_slideshow.jpg" alt="Missing Images!" width="156" height="150" border="0" /></a></td>
+                		<td class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;">Slideshow</td>
+             		 </tr>
+              		<tr>
+              			
+                        <td height="28" valign="top"  style="height:28px;"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c828bf40b4d44eb3547d2b513fb49133af4d6e1857248f696c1e2e94641b594d8addeb3e689256b51e65b8e5c7f359c2879c1b9bd0c7502920" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">Signs You Need More (or Less) Zinc</a></td>
+                        
+              		</tr>
+             		 <tr>
+                     	 
+               			 <td valign="top"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8287685fcf2a6a743fd5d269902d8ef38f5e6782a1a4c8152eecda762f0f47c4cfb8eab84107409509a1d4318ce3b0f8148b0a7edb27e4062" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">It's key to your immune system and your senses of smell and taste. See what happens if you don't get enough, and which foods are good sources.</a></td>
+             		 </tr>
+                     
+           	 	</table>
+          </td>
+          			</tr>
+                </table>
+            </td>
+        </tr>
+       <!--Divider-->
+            <tr>
+              <td width="612" class="divider" ><table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" class="divider" >
+                  <tr>
+                    <td height="15" style="border-bottom:1px solid #eee;" class="line" ></td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <!-- Article 1 -->
+            <tr>
+                <td class="card">
+                    <table class="table" bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                <td class="hide" width="15"></td>
+                <td width="602" class="promo1">
+                    <table width="100%" class="articles" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="521" class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;width:521px;">Quiz</td>
+                        </tr>
+                        <tr>
+                            <td height="17"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012cc7b30a7a425b14e9b33b50eb524a7804f2f20875662b8932a742ae01774b25f8334f5cb6c5cbf31223a559b0a9dd35b88e8af05be8d71dc" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">What's the Germiest Thing in Your House?</a></td>
+                         </tr>
+                        
+                         <tr>
+                             <td valign="middle"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012d8dad117634f953b6acc9868f3a62415b0bc69b7cba0746f134f13b1bbd7d0d57c88bea010b269d40b8cec6922bb383535acc056e61b1f8b" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">How long does it take to wash your hands correctly? And how often should you scrub the kitchen sink?</a></td>
+                         </tr>
+                    </table>
+              </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!--Divider -->
+            <tr>
+              <td width="607" class="divider" ><table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" class="divider" >
+                  <tr>
+                    <td height="15" style="border-bottom:1px solid #eee;" class="line" ></td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <!--Art 2 -->
+            <tr>
+                <td class="card">
+                    <table bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                <td class="hide" width="15"></td>
+                <td width="602" class="promo1">
+                    <table width="100%" class="articles" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="521" class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;width:521px;">Slideshow</td>
+                        </tr>			
+                        <tr>
+                            <td height="17"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea01204170cea0d8713da333f8c896d6c2f74df795a6a5235ec6293afc2616964eacbf52c72c737999d72d93052ac991552690613b5e0adc54989" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">Exercise Tips for Blood Pressure</a></td>
+                         </tr>
+                        
+                         <tr>
+                             <td valign="middle"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012868eacf29e1f18ddd098e6a75649934360ebb4405642a75f6d33200515f484900f7a4ae0f1d03645e5e8f8013a0bfcdf6c7427eb1a30bd8b" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">If your BP is high, these fun workouts can help you get your numbers down.</a></td>
+                         </tr>
+                    </table>
+              </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!--Divider -->
+            <tr>
+              <td width="612" class="divider" >
+                <table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" class="divider" >
+                  <tr>
+                    <td height="15" style="border-bottom:1px solid #eee;" class="line" ></td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!--Art 3 -->
+            <tr>
+                <td class="card">
+                    <table bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                <td class="hide" width="15"></td>
+                <td width="602" class="promo1">
+                    <table width="100%" class="articles" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="521" class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;width:521px;">Slideshow</td>
+                        </tr>		
+                        <tr>
+                            <td height="17"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012bc33c52d6259f610c00180c24b76808b84979991c433bacb07c41c6158ca4af10756daa668352a57b4ee7f21e2d3259f4cb60e861de0e6be" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">11 No-Nos When You Have Adult ADHD</a></td>
+                         </tr>
+                        
+                         <tr>
+                             <td valign="middle"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea01234bf7af40ae0692997a7f50fa3c9c34320e3cced26e49a5a2d4f13700d1fe4e7c85b4cad21940a654cccf7caa648af16585cee9a96b6b062" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">Could your screen time or eating habits be making your symptoms worse?</a></td>
+                         </tr>
+                    </table>
+              </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!--Divider -->
+            <tr>
+              <td width="612" class="divider" ><table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" class="divider" >
+                  <tr>
+                    <td height="15" style="border-bottom:1px solid #eee;" class="line" ></td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table></td>
+            </tr>
+            
+            <!--Art 4 -->
+            <tr>
+                <td class="last-card">
+                    <table bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                <td class="hide" width="15"></td>
+                <td width="602" class="promo1">
+                    <table width="100%" class="articles" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="521" class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;width:521px;">Slideshow</td>
+                        </tr>		
+                        <tr>
+                            <td height="17"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012335e7a11c410e5d7ce962a1ec758f40fb3fdbf4b70f0570d625bfa486b33c95c036396432546e773a8c567a05f6cdcba7f20b002ecd1ee4c" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">Protein-Rich Vegetables</a></td>
+                         </tr>
+                        
+                         <tr>
+                             <td valign="middle"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea01227500f81932b75121048154f353697cf861b5565226208ad81942105be5f697e7e6c9e4024a6f5fec24486c5f559033c43eec76ef6071521" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">Lentils, mushrooms, and these other veggies pack a protein punch.</a></td>
+                         </tr>
+                        
+                            
+                         
+                    </table>
+              </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!--Divider -->
+            <tr>
+              <td width="612" class="divider" ><table width="95%" cellpadding="0" cellspacing="0" border="0" align="center" class="divider" >
+                  <tr>
+                    <td height="15" style="border-bottom:1px solid #eee;" class="line" ></td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table></td>
+            </tr>
+            <!--Art 5 -->
+            <tr>
+                <td class="last-card">
+                    <table bgcolor="#ffffff" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                <td class="hide" width="15"></td>
+                <td width="602" class="promo1">
+                    <table width="100%" class="articles" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="521" class="title-promo" height="20" valign="middle" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:uppercase;color:#676767;width:521px;">Quiz</td>
+                        </tr>			
+                        <tr>
+                            <td height="17"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012640d49a5719faa91ef23ef66434e578e44e40e033abb10a981bbdcfd522c6485cf5ab409e8137972be2be9b548fdf5751bb78898c8d64d2c" class="sub-header" style="font-family:Helvetica,Arial,sans-serif;font-size:18px;color:#222;font-weight:bold;text-decoration:none;">The Truth About Tea</a></td>
+                         </tr>
+                        
+                         <tr>
+                             <td valign="middle"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012c2217f12a42c487edf726c3887ccd4541703d4de5b3af0ec461bec0c2730c6344d64f1098625a407f9ad96efbb774c3a149f32e26908dbb7" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">Do herbal teas like chamomile have the same health benefits as green tea?</a></td>
+                         </tr>
+                         <tr><td class="hide" height="20"></td></tr>	
+                         
+                    </table>
+              </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            
+             
+        
+      </table>
+  <!--Ad space -->
+  
+  <!-- SPONSOR ROW -->
+  <table class="card-row sponsor" width="100%" cellpadding="0" cellspacing="0" border="0">
+             <tr><td class="hide" colspan="2" height="15"></td></tr>
+                	<tr>
+                    	 <td class="drop" width="100%" valign="top">
+                        	
+                            	<table class="inner-card" width="100%" cellpadding="0" cellspacing="0" border="0" align="right" style="background:#ffffff;border:1px solid #edefee;">
+                                	<tr><td class="" colspan="3" height="10"></td></tr>
+                                	<tr>
+                                    <td class="hide" width="18" style="width:18px;"></td>
+                                    <td class="bullet-container" width="570" valign="top">
+                                    <div class="">
+                					<div class="">
+                                    	<table class="bullet-table" width="280" cellpadding="0" cellspacing="0" border="0" align="left" style="display:block; margin:0 auto;width:280px;">
+                                        	<tr>
+                                            	<td style="font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;color:#88a906;">
+                                        			Top Picks
+                                                </td>
+                                            </tr>
+                                            <tr><td class="" height="10"></td></tr>
+                                            <tr><td style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;">
+                                            	<table class="bullets" width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;font-size:14px;color:#667;">
+                                                	<tr valign="top">
+                                                    	<td class="bull" width="5%" valign="top" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">&bull;</td>
+                                                        <td class="bullets" width="95%"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e954d5ffea45b2c64bac551281e46514b07d8b5f9e017bf18720dd3370804d6e723ad4734000a17db056c7e661952720373500d1d6d13580" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">When Is It Safe to Go Back to Work After the Flu?</a></td>
+                                                    </tr>
+                                                    <tr><td colspan="2" height="10"></td></tr>
+                                                    <tr valign="top">
+                                                    	<td class="bull" width="5%" valign="top"  style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">&bull;</td>
+                                                        <td class="bullets" width="95%"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea0123a4d3840fd64a144739d21b41c19a9731955d65f05cc7d0ed4d800ed362c020e93aa99057a716418e2a872239975c7f74f513ca34832f546" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">How to Eat to Keep the Weight Off</a></td>
+                                                    </tr>
+                                                    
+														<tr><td colspan="2" height="10"></td></tr>
+                                                    <tr valign="top">
+                                                    	<td class="bull" width="5%" valign="top"  style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">&bull;</td>
+                                                        <td class="bullets" width="95%"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea0124757a84a7f6f04e89a473d4a020809119f03601692a55093cdd49a7905d38cb1d56044c7d832b394fa0c7972f3fc59fe1026ac0f3ecc771c" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">First Human Case of 'Eye Worms'</a></td>
+                                                    </tr>
+                                                    
+                                                    <tr><td class="table-break" colspan="2" height="10"></td></tr>
+                                                    
+                                                </table>
+                                            
+                                            </td></tr>
+                                           
+                                            
+                                    	</table>
+                                        </div>
+                                        </div>
+                                        
+                                        <div class="">
+                						<div class="">
+                                        <table class="bullet-table" width="280" cellpadding="0" cellspacing="0" border="0" align="right" style="display:block; margin:0 auto;width:280px;">
+                                        	<tr>
+                                            	<td style="font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;color:#ff6633;">
+                                        			Trending Videos
+                                                </td>
+                                            </tr>
+                                            <tr><td class="" height="10"></td></tr>
+                                            <tr><td class="bullets" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;">
+                                            	<table class="bullet-table" width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;font-size:14px;color:#667;">
+                                                	<tr valign="top">
+                                                    	<td class="bull" width="5%" valign="top"  style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">&bull;</td>
+                                                        <td class="bullets" width="95%"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012336d30111ca6cccc4ac81380ca46752278f3c45c04b4c6330af88fef6bcd27782a5b65cae2356126cadae609303064022aac32283ab03e6f" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">The Basics: Whooping Cough <img id="_x0000_i1026" src="http://img.webmd.com/nl/newsletter_video_icon.gif" border="0"/></a></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td colspan="2" height="10"></td></tr>
+                                                      
+                                                     
+                                                     <tr valign="top">
+                                                    	<td class="bull" width="5%" valign="top"  style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">&bull;</td>
+                                                        <td class="bullets" width="95%"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea01235de57eab20445e07b581687995c8ebf7ea63b9599ecef2136d63c1f0429562be2e049f6d83df9f5e919bdbad9e56c5c0a2c392afc0b9def" style="font-family:Helvetica,Arial,sans-serif;font-size:12px;text-transform:none;color:#676767;text-decoration:none;">How to Ease Eczema's Itch <img id="_x0000_i1026" src="http://img.webmd.com/nl/newsletter_video_icon.gif" border="0"/></a></td>
+                                                    </tr>
+                                                   	 
+                                                    
+                                                </table>
+                                            
+                                            </td></tr>
+                                            
+                                            
+                                    	</table>
+                                        </div>
+                                        </div>	
+                                    </td>
+                                    <td class="hide" width="18"></td>
+                                    </tr>
+                                    <tr><td class="" colspan="3" height="10"></td></tr>
+                                </table>
+                            
+                        </td>
+                    </tr>
+                </table>
+                
+  <!-- END SPONSOR ROW -->
+  
+  <!--Ad -->
+  <table class="card-row" width="100%" cellpadding="0" cellspacing="0" border="0">
+                	<tr><td class="hide" colspan="2" height="15"></td></tr>
+                	<tr valign="top">
+                		<td valign="top">
+                        	<div class="drop">
+                			<div class="promo-container">
+                            	<table class="inner-card" width="300" height="250" cellpadding="0" cellspacing="0" border="0" align="left" style="background:#ffffff;border:1px solid #edefee;">
+                                	<tr><td class="" colspan="3" height="10"></td></tr>
+                                	<tr>
+                                    <td class="hide" width="45" style="width:45px;"></td>
+                                    <td width="220" valign="top" style="width:220px;">
+                                    	<table class="promo" width="220" cellpadding="0" cellspacing="0" border="0" style="display:block; margin:0 auto;width:220px;">
+                                        	<tr>
+                                            	<td>
+                                        			<a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8ef51085e544b0751cc037d1a7296fef7ef569fc770d3bcf24022c8690cbf26cc66a76102e3ae542d126d00dbe855f3c1c71b0208c0fac945"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/how_you_wreck_your_hair_slideshow/210x130_how_you_wreck_your_hair_slideshow.jpg" width="210" height="130" border="0" alt="Missing Images!" /></a>
+                                                </td>
+                                            </tr>
+                                            <tr><td class="" height="10"></td></tr>
+                                            <tr><td class="info" style="font-family:Helvetica,Arial,sans-serif;font-size:13px;text-transform:uppercase;color:#676767;">Slideshow</td></tr>
+                                    	
+                                        	<tr valign="top"><td class="" height="20"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8a1613a0b040c257630e0a69c0142c670a02efeae9802b0860605ee891a790ae915956b066755fb869af6e866724b392387ff669c4db4308c" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:bold;text-decoration:none;">How You're Wrecking Your Hair</a></td></tr>
+                                            <tr><td class="" height="10"></td></tr>
+                                            <tr valign="top"><td class="" height="20"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c86e109fed973f881f00357df83e57480dd9ef8b8b60df38ef041cc5f7faf0141edeefd7f510ac59a6b50b1461ac9eda02efaf1e08588b1622" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#222;font-weight:normal; text-decoration:none;">See which habits can leave you with a flaky scalp or dull, frizzy tresses.</a></td></tr>
+                                        </table>	
+                                    </td>
+                                    <td class="hide" width="35" style="width:35px;"></td>
+                                    </tr>
+                                    
+                                    <tr><td class="" colspan="3" height="10"></td></tr>
+                                </table>
+                            </div>
+                            </div>
+
+                        	
+                        	<div class="drop">
+                			<div class="ad-container">
+                         <!-- Live Intent Ad Serving -->
+
+                            	
+<table class="ad-card" width="300" height="250" cellpadding="0" cellspacing="0" border="0" align="left" style="width:300px;">
+
+<tr>
+    <td align="center" style="font:8px Arial, Helvetica, sans-serif;">ADVERTISEMENT</td>
+  </tr>
+                                	
+                                	<tr><td>
+                                    	<table border="0" cellpadding="0" cellspacing="0" ><tr><td colspan="2"><a style="display: block; width: 300px; height: 250px;" href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8809ab32445e78051de0438cd71d20befe292eb84c7d700cc800415c42892eb1b012f6b28e73a833c2a1737348ab249f39cf39015b72d7b78" rel="nofollow"><img src="http://li.webmd.com/imp?s=222567&sz=300x250&li=&e=dmg5901@windstream.net&p=1566095&env=1&SubscriberKey=11jXlCF1tql8VxQ6dNh2C%40HnVev1imbCY3j10LY%2fU7s%3d&dma=&state=&adhdadult=&adhdpeds=&aidshiv=&allergies=&alzheimers=&afib=&bingeeating=&birthcontrol=&breastcancer=&cancer=&coldflu=&deepveinthrombosis=&dental=&diabetes=&diabetestype1=&diabetestype2=&hepc=&impotence=&ibs=&migraines=&multiplesclerosis=&psoriasis=&psoriaticarthritis=&rheumatoidarthritis=&schizophrenia=&job=" border="0" width="300" height="250"/></a></td></tr><tr><td>&nbsp;</td><td align="right">
+<a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8d49105ae08c48768d0e17da8ce54fbeb7d0162b0c97a4095a02df7cd86cab0348f97dc5a22d7b93d03e903fac59bdc268f41c65bc2978e91" rel="nofollow"><img src="http://li.webmd.com/imp?s=199583&sz=69x15&li=&e=dmg5901@windstream.net&p=1566095" border="0"/></a></td></tr><tr style="display:block; height:1px; line-height:1px;"><td><img src="http://li.webmd.com/imp?s=222568&sz=1x1&li=&e=dmg5901@windstream.net&p=1566095" height="1" width="10" /></td><td><img src="http://li.webmd.com/imp?s=222569&sz=1x1&li=&e=dmg5901@windstream.net&p=1566095" height="1" width="10" /></td></tr></table>
+                                        	
+                                    </td></tr>
+                                    <tr>
+    <td align="center" style="font:8px Arial, Helvetica, sans-serif;">ADVERTISEMENT</td>
+  </tr>
+                                  
+                                </table>
+
+                         <!-- Live Intent Ad Serving -->
+                               
+                            </div>
+                            </div>
+                        </td>
+                    </tr>
+                   
+                </table>
+  
+  <!--Space -->
+
+ 
+  
+<!-- SPONSOR ROW -->
+
+
+                
+
+                <!-- END SPONSOR ROW -->
+  
+  
+  <!--Space -->
+  <table class="card-row" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td height="30"></td>
+  </tr>
+  </table>
+  <!--Caption -->
+  
+  			<table class="footer" width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+                    <td align="center" colspan="3" style="padding: 0px 0px 20px;">
+                        
+                        <div align="center">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="shell">
+  <tr>
+    <td width="15" class="spc">&nbsp;</td>
+    <td align="left">
+<table width="240px" border="0" cellspacing="0" cellpadding="0" class="socialfoot" >
+  <tr>
+    <td width="40"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c830206fb91b3b11558416a3d9c34fc5ffb8265066dcacb03d6bb7a3d7f3b3a788257a1ec8c9b754201d41b6380fa1698a1a4fd10bae1b3d50" target="_blank" style="text-decoration:none;border:none;"><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/Facebook.png" width="30" alt="Missing image" /></a></td>
+    <td width="10">&nbsp;</td>
+    <td width="40"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c810ee0a238a8abd48aa7b37494a150612ef0c4bd731bc8465065d835dccf3d5c26653d62ce9b0fd645eb65cc4b66caee8380ee3bd34a94426" target="_blank" style="text-decoration:none;border:none;"><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/Google_Plus.png" width="30" alt="Missing image"  /></a></td>
+   
+    <td width="10">&nbsp;</td>
+    <td width="40"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c881836bcf446a4eaa503f4f1754328ee18d254ba941e90611fe7fab11ac0ce8b13d03541c6e3fddbfc760c745ce9dce12a8e7219a6a20b514" target="_blank" style="text-decoration:none;border:none;"><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/Pinterest.png" width="30" alt="Missing image"  /></a></td>
+    <td width="10">&nbsp;</td>
+    <td width="40"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c83b7a6d49ac9c9451c88f34963d28f197ecf7c447ccf0d347a2c60ef8cd8498443842f76c9fb392d0e6b5b9b6d5b118d263c56871e7db8304" target="_blank" style="text-decoration:none;border:none;"><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/Twitter.png" width="30" alt="Missing image"  /></a></td>
+    <td width="10">&nbsp;</td>
+    <td width="40"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8f10cfdd256c600b36368c4e10df3cd3a66a341201abdfdc39ea1aa2a9bc0c70687a0da99f23c1c84efe6c1b39b6b325c41c49e3c45352ba5" target="_blank" style="text-decoration:none;border:none;"><img src="http://image.messages.webmd.com/lib/fe9f13707564027c77/m/1/Youtube.png" width="30" alt="Missing image"  /></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="font-family:'Helvetica',Arial,sans-serif;font-size:12px;font-weight:bold;color:#626367"><a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8ad48abb40fc10046f22f313e698d447a56fe43d5ec0ccc3d7988f6cc19e724277a57b29a5665523ef58d9a7bbacf5ca43b4108b24f134e07" style="color:#226EBF;text-decoration:none;" >WebMD.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8b76d9cb05cdf62f6f93861c4345b0d994ba327452a1c57c94bb73ae5077f9e5424ca8216c61314c4858635eee7bf69f07edad498c67e892f" style="color:#226EBF;text-decoration:none;" >Mobile Apps</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://click.messages.webmd.com/?qs=5c396a3cf609d4c8513e42784656006a5ae1f3be9554fe23f064929efaa97b477e324915d12bf05942b882f2d9540e3c36da93b92b9d2cf032145ca964c5cff6" style="color:#226EBF;text-decoration:none;" >Newsletters</a></td>
+  </tr>
+  <tr>
+  <td height="10">&nbsp; </td>
+  </tr>
+  <tr>
+  <td style="font-family:'Helvetica',Arial,sans-serif;font-size:12px;color:#626367;line-height:18px;">You are receiving this message because you registered with WebMD as dmg5901@windstream.net.<br/> If you did not register for WebMD please contact our <a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea01297614c900ae00a661755b70daa296fc5764946d4ebb435e25aa0974bc0670bd1100a5e246f26846fb190bf05132f7186f206beb1bd0b6cc5" target="_blank" style="color:#006699;text-decoration:none;">Customer Care Team</a></td>
+  </tr>
+  <tr>
+  <td height="10"></td>
+  </tr>
+  <tr>
+   <td  align="left" valign="top" style="font-family: 'Helvetica',Arial,sans-serif;font-size:12px;"><a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e3efed8c4b70f2486a7af5c2af92365960a3dc209ac3a9db1378792b467b0189efcaa4a35af0c7639af1145b815977adb5d703997c3e3a2d" style="text-decoration: none;color: #226EBF;">WebMD Privacy Policy </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://click.messages.webmd.com/?qs=e5bbe0263b1ea012e2dd7defcb777276b1fb5bb7d4053db2708978c432664f8d3586270116adba1d3088e4dfa2f754cf0c2f5b2a3863cd09a35851b827acea70" style="font-family:'Helvetica',Arial,sans-serif;text-decoration:none;color:#226EBF;font-size:12px;">Unsubscribe</a>&nbsp;&nbsp;</td>
+   
+</tr>
+<tr>
+  <td height="10">&nbsp; </td>
+  </tr>
+  <tr>
+  <td style="font-family: 'Helvetica',Arial,sans-serif;font-size:12px;color:#626367;line-height:19px;">&copy; 2018 WebMD, LLC. All rights reserved.<br />
+                  WebMD Office of Privacy <span class="mobile-hidden">|</span> 1201 Peachtree Street, NE <span class="mobile-hidden">|</span> Atlanta, GA 30361  </td>
+  </tr>
+</table>
+</td>
+    <td width="15" class="spc">&nbsp;</td>
+  </tr>
+  
+</table>
+                        </div>
+                       
+                    </td>
+                </tr>
+			</table>
+</td>
+</tr>
+</table>
+
+<!-- Live Intent Required Coding -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6"><tbody><tr><td>
+ 
+ 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728900&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728901&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728902&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728903&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728904&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728905&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728906&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728907&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728908&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728909&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728910&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728911&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728912&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728913&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728914&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728915&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728916&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728917&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728918&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+
+  
+    <img src="http://li.webmd.com/imp?s=124728919&sz=2x1&li=99999&e=dmg5901@windstream.net&p=1566095" width="2" height="6" border="0" /> 
+ 
+   
+	</td>
+    </tr></tbody></table>
+
+<!-- Live Intent Required Coding contact Danny Tran for issues -->
+
+<img src="http://std.o.webmd.com/b/ss/webmdp1global/1/H.23.8/s20180222?pe=lnk_o&pageName=wnl-spr-022218_nsl-imp&c1=cns&c2=ooc&c3=nl&c20=wnl-spr-022218_nsl-imp&c50=webmdcorenl" border="0" width="1" height="1" />
+<img src="http://regimg.webmd.com/1x1.gif?mb=11jXlCF1tql8VxQ6dNh2C%40HnVev1imbCY3j10LY%2fU7s%3d" width="1" height="1">
+<!-- RegionEnd[ socialslot:"WbmdSocial"] -->
+
+</body>
+<img src="http://click.messages.webmd.com/open.aspx?ffcb10-fe8f15757362047470-fe5e1c71776106757412-fe9f13707564027c77-ff921178-fe4f16737c6d0075701c-ff66167173" width="1" height="1"><br></html>
+
+--YjvksDVBcxPB=_?:--
+

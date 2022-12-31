@@ -1,0 +1,1112 @@
+Return-Path: bkvir208@gmail.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md13.aqua.sync.lan with LMTP; Wed, 16 Feb 2022 17:14:47 -0500 (EST)
+Return-Path: <bkvir208@gmail.com>
+X-Received-HELO: from [209.85.219.41] (helo=mail-qv1-f41.google.com)
+Authentication-Results: mx02.aqua.bos.sync.lan smtp.mail=bkvir208@gmail.com; spf=pass
+Authentication-Results: mx02.aqua.bos.sync.lan header.DKIM-Signature=@gmail.com; dkim=pass
+Authentication-Results:  mx02.aqua.bos.sync.lan x-tls.subject="/CN=smtp.gmail.com"; auth=fail (cipher=AES128-GCM-SHA256)
+Received-SPF: pass (mx02.aqua.bos.sync.lan: domain gmail.com designates 209.85.219.41 as permitted sender)
+Received: from [209.85.219.41] ([209.85.219.41:44774] helo=mail-qv1-f41.google.com)
+	by mx.windstream.net (envelope-from <bkvir208@gmail.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=AES128-GCM-SHA256
+	subject="/CN=smtp.gmail.com") 
+	id B4/74-08888-7577D026; Wed, 16 Feb 2022 17:14:47 -0500
+Received: by mail-qv1-f41.google.com with SMTP id p7so4688402qvk.11
+        for <katielee529@windstream.net>; Wed, 16 Feb 2022 14:14:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :references:to;
+        bh=+eJoBNM9EC6WwAUebo2bmdZDwny5RFtr7bY0WM0IU0A=;
+        b=TjekHk4snpJtLMDtTIFPZo2eN8EMUFLQtBk9wZ4hTyB1D6FnE2Ayi3c0JnfJIq4hrX
+         WA+RjTobwMuhxxE+Irng6ba8KgW1nBXMmiEt+ju/Xnm2Cy3nmMt5Aa5BOv84q2V2b1ky
+         4fh0dfAZRab0PaWHAbE4m7m1VEH+K4o2fTyd+WGq2Dna2QUcxWFzSakRpYIPZfy6HUXl
+         h2sKX8Fi5BAd0W0qc/du05la2ylRkYUbFByMi1eQCzgM3SgU5HONS3uOpt6dr3+UeqrH
+         +M6UV0jS1pOKdhzelycrpmyrdOsyjG6r9SaS9F7K3bFUYjPVLiucLDZIe+Ut+T8B0gQL
+         n3Bg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:references:to;
+        bh=+eJoBNM9EC6WwAUebo2bmdZDwny5RFtr7bY0WM0IU0A=;
+        b=NlcRV3lL5LfUfqHMpHXcpsKPNMfKV4/SHfDubXr4C4amCd3YRrfLTOojE+VUjAb9Ey
+         1JypcoX1p+IAQtHJL2FqRaH+PZYmaV1n1PnBd1Tfjys9LYRP6WVeeVMpuwZNfaBX9SEa
+         kyYRAwv075af01BycT1jT2eJpN2Q76+MgLvAxeXQIetCbXCmSHrijTAxzPU5RO7jcmm1
+         NhXL4vIdpcMmYpOVqRlr0PtNGvAnPNsL9YTiFZF9knGEunO9Z0cepx3JRDvH9dMh2uNw
+         i3XX51of3fK7hITK7GjO3Q3n22Racc5pD38tpnJrYXO0rtzKsHLoqmMqX90pu2aAwmsp
+         1OHQ==
+X-Gm-Message-State: AOAM531HDxNcbiapjEuf/7j8TPlHDEje+uBjP1LEOn1klRnIm9sjMInw
+	4Mw7fuHDh7zPfboM/QAZWZRcBjhouMks+sRq
+X-Google-Smtp-Source: ABdhPJy2PtI0s2O4Wf5dNyVk23Nz41E6PZmaZT3Who/B7znkuHtjXrtoA5cbkK+Ud5DUSpoJLsYAZA==
+X-Received: by 2002:a05:622a:1a19:b0:2d1:fa0d:8fe0 with SMTP id f25-20020a05622a1a1900b002d1fa0d8fe0mr18575qtb.371.1645049686645;
+        Wed, 16 Feb 2022 14:14:46 -0800 (PST)
+Received: from smtpclient.apple (h136.223.141.67.dynamic.ip.windstream.net. [67.141.223.136])
+        by smtp.gmail.com with ESMTPSA id v12sm19600691qkl.74.2022.02.16.14.14.46
+        for <katielee529@windstream.net>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Wed, 16 Feb 2022 14:14:46 -0800 (PST)
+Content-Type: multipart/alternative; boundary=Apple-Mail-727F059C-CFA5-42BA-B9C3-81385ABF60D1
+Content-Transfer-Encoding: 7bit
+From: Brian Vires <bkvir208@gmail.com>
+Mime-Version: 1.0 (1.0)
+Date: Wed, 16 Feb 2022 17:14:45 -0500
+Subject: Fwd: Order confirmation for UA 11228210219081000206
+Message-Id: <3692C3CC-438C-43AE-BD38-A239F7693F45@gmail.com>
+References: <2cb47688-5b32-4042-ac70-0cda2e9998ce@atl1s07mta1512.xt.local>
+To: Kathy Vires <katielee529@windstream.net>
+X-Mailer: iPhone Mail (19C63)
+X-Vade-Verdict: clean
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddrjeeigdduheejucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdphgfkpfffuffvtffgtefopdfgpfggqdghkffpfffuvfftgfetofen
+X-Vade-Analysis-3: uceurghilhhouhhtmecufedtudenucenucfjughrpegtgffhggffuffkfhfvofesrgejmherhhdtjeen
+X-Vade-Analysis-4: ucfhrhhomhepuehrihgrnhcugghirhgvshcuoegskhhvihhrvddtkeesghhmrghilhdrtghomheqnecu
+X-Vade-Analysis-5: ggftrfgrthhtvghrnhepjeevfefggeffteeuudehudeljeetgffggeelleetveeuueefueeuheelgefh
+X-Vade-Analysis-6: hedvnecuffhomhgrihhnpehunhguvghrrghrmhhouhhrrdgtohhmnecukfhppedvtdelrdekhedrvddu
+X-Vade-Analysis-7: ledrgedupdeijedrudeguddrvddvfedrudefieenucevlhhushhtvghrufhiiigvpedtnecurfgrrhgr
+X-Vade-Analysis-8: mhepihhnvghtpedvtdelrdekhedrvdduledrgedupdhhvghlohepmhgrihhlqdhqvhduqdhfgedurdhg
+X-Vade-Analysis-9: ohhoghhlvgdrtghomhdpmhgrihhlfhhrohhmpegskhhvihhrvddtkeesghhmrghilhdrtghomhdprhgt
+X-Vade-Analysis-10: phhtthhopehkrghtihgvlhgvvgehvdelseifihhnughsthhrvggrmhdrnhgvthdpmhhtrghhohhsthep
+X-Vade-Analysis-11: mhigrdgrqhhurgdrsghoshdrshihnhgtrdhlrghnpdhsphhfpehprghsshdpughkihhmpehprghsshdp
+X-Vade-Analysis-12: nhgspghrtghpthhtohepud
+X-Vade-Client: AQUA
+
+
+--Apple-Mail-727F059C-CFA5-42BA-B9C3-81385ABF60D1
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+> From: noreply@underarmour.com
+> Date: December 28, 2021 at 12:51:31 PM EST
+> To: bkvir208@gmail.com
+> Subject: Order confirmation for UA 11228210219081000206
+> Reply-To: Under Armour <reply-fecc167270660c7d-18_HTML-199792613-7290999-1=
+68837@emails.underarmour.com>
+>=20
+> =EF=BB=BF=20
+> =20
+> YOUR ORDER RECEIPT
+> 11228210219081000206
+>=20
+> We got your order, Brian! Your new gear will be on its way soon. We'll sen=
+d you an update as soon as it ships.
+>=20
+> Expected Arrival: Fri, 12/31 - Fri, 12/31
+> Heads up! Orders with multiple items may ship in multiple packages that ar=
+rive on different dates=E2=80=94but everything will be delivered by the date=
+ listed above.
+> =20
+> GET INSTANT ORDER UPDATES
+> You'll get that and more with the UA App.=20
+> Don't have it? Download it now >
+> =20
+> YOUR SHIPPING ITEMS
+>=20
+>  =09
+> UA AF Printed Hoodie
+> 1366751-406-YXL
+> Photon Blue-Royal (406), YXL
+> $16.99 x 1.0
+>  =09
+> AF PANT
+> 1360701-012-MD
+> Pitch Gray Light Heather (012), MD
+> $19.99 x 1.0
+> Subtotal (2 items)
+> $36.98
+> Discount Applied
+> -$3.70
+> Tax
+> $2.00
+> Shipping
+> $0.0
+> Total
+> $35.28
+> =09
+> MasterCard *3945 will be billed as items ship.
+> Ship To:
+> Brian Vires
+> 200 Twin Eagles Pkwy
+> Mount Washington,KY40047-6253
+> US
+>=20
+> HERE=E2=80=99S MORE GEAR YOU MIGHT LIKE
+>  		 =09
+>  		 =09
+>=20
+> HAVE A QUESTION?
+> Let's connect.
+> VISIT HELP CENTER
+> Or just call us at 1-888-727-6687.
+> =09
+> Under Armour=C2=AE, Inc. 1020 Hull St, Baltimore, MD 21230
+> Privacy Policy	|	Terms & Conditions	|	View in Bro=
+wser
+> =C2=A9 2021 Under Armour=C2=AE, Inc. All Rights Reserved.
+
+--Apple-Mail-727F059C-CFA5-42BA-B9C3-81385ABF60D1
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><br><br><div dir=3D"ltr">Sent from my iPhon=
+e</div><div dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquot=
+e type=3D"cite"><div dir=3D"ltr"><b>From:</b> noreply@underarmour.com<br><b>=
+Date:</b> December 28, 2021 at 12:51:31 PM EST<br><b>To:</b> bkvir208@gmail.=
+com<br><b>Subject:</b> <b>Order confirmation for UA 11228210219081000206</b>=
+<br><b>Reply-To:</b> Under Armour &lt;reply-fecc167270660c7d-18_HTML-1997926=
+13-7290999-168837@emails.underarmour.com&gt;<br><br></div></blockquote><bloc=
+kquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF
+<img src=3D"https://click.emails.underarmour.com/open.aspx?ffcb10-fecc167270=
+660c7d-fe24167177630c7b701375-fe8213727c640d747c-ff961578-fe2015797c630d7f73=
+1573-febe15767d6c077a&amp;d=3D70166&amp;bmt=3D0" width=3D"1" height=3D"1" al=
+t=3D"" data-unique-identifier=3D"">
+
+
+ =20
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <!--<![endif]-->
+    <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:Pi=
+xelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif=
+]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <meta name=3D"ROBOTS" content=3D"NOINDEX, NOFOLLOW">
+      <meta name=3D"format-detection" content=3D"telephone=3Dno, date=3Dno, a=
+ddress=3Dno, email=3Dno">
+      <meta name=3D"x-apple-disable-message-reformatting">
+      <meta name=3D"color-scheme" content=3D"light dark">
+      <meta name=3D"supported-color-schemes" content=3D"light dark">
+      <title>Congrats, Brian! You Just Scored Gear Built To Make You Better.=
+</title>
+     =20
+      <style>
+        .imgWidth{
+          width:40px !important;
+        }
+      </style>
+     =20
+     =20
+     =20
+      <!-- DESKTOP OUTLOOK STYLES -->
+      <!--[if mso]> <style type=3D"text/css"> body { margin: 0 !important; p=
+adding: 0 !important; font-family: Arial, sans-serif !important;} body, tabl=
+e, td, a, span, p, h1, h2, h3, h4 { font-family: Arial, sans-serif !importan=
+t;} a {text-decoration: none;} </style> <![endif]-->
+      <!--[if (gte mso 9)|(IE)]> <style type=3D"text/css"> table { border-co=
+llapse: collapse !important; border-spacing: 0; mso-line-height-rule: exactl=
+y; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;} </style> <![endif]-->
+     =20
+   =20
+<div class=3D"preheader" style=3D"font-size: 1px; display: none !important;"=
+>Congrats, Brian! You Just Scored Gear Built To Make You Better.</div>
+      <center style=3D"width: 100%; -webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; ">
+        <table aria-label=3D"Email from Under Armour" lang=3D"en" class=3D"f=
+ull-wrap" width=3D"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"border: 0; width: 100%;" role=3D"Presentation">
+          <tbody><tr>
+            <td align=3D"center">
+              <div class=3D"gmail" style=3D"max-width: 600px; margin-top: 0;=
+ margin-bottom: 0; margin-right: auto; margin-left: auto;">
+                <!--[if (gte mso 9)|(IE)]> <table width=3D"600" align=3D"cen=
+ter" cellpadding=3D"0" cellspacing=3D"0" style=3D"border: 0; width: 600px;" r=
+ole=3D"Presentation"> <tr> <td> <![endif]-->
+                <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"Margin: 0 auto; width: 100%; max-width: 600px;" role=3D"Presentation=
+">
+                  <!-- START CENTERED LOGO -->
+               =20
+                  </table><table width=3D"600" class=3D"container" border=3D=
+"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-famil=
+y:Helvetica, Arial, sans-serif;">
+                    <!-- desktop hero content                      -->
+                    <tbody><tr>
+                      <td class=3D"padb30m" align=3D"center" style=3D"paddin=
+g-top: 29px; padding-right: 10px; padding-bottom: 26px; padding-left: 10px; f=
+ont-size: 12px; color: #000000; font-family:  Arial, sans-serif;">
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255ebdd7a60d304c613fa653b487fc77972a3f41e17bce7f30c1c09a8072685fa=
+17164599a1f33452b8974c6a3b6325dd844411f99585e56a0ef8" style=3D"color: #1d1d1=
+d; text-decoration: none;">
+                          <!-- START LIGHT MODE LOGO -->
+                          <!--[if !mso]><!--><img class=3D"light-img imgWidt=
+h" src=3D"https://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/a=
+2ced3e7-35d3-4425-896f-e4cdb2d1d976.png" style=3D"height:auto; border: 0;" a=
+lt=3D"Under Armour" data-unique-identifier=3D"">   <!----><!--[endif]---->
+                          <!--[if gte mso 9]> <img class=3D"light-img imgWid=
+th" src=3D"https://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/=
+a2ced3e7-35d3-4425-896f-e4cdb2d1d976.png" style=3D"width:40px;height:auto; b=
+order: 0;" alt=3D"Under Armour" width=3D"40"/> <![endif]-->
+                          <!-- END LIGHT MODE LOGO -->
+                          <!-- START DARK MODE LOGO - HIDDEN FROM OUTLOOK --=
+>
+                          <!--[if !mso]><!-->
+                          <img class=3D"dark-img" src=3D"https://image.email=
+s.underarmour.com/lib/fe8213727c640d747c/m/18/8a5359b5-c491-46be-8168-457068=
+7913a1.png" width=3D"40" style=3D"width: 40px; height: auto; border: 0; disp=
+lay: none; overflow: hidden; font-size: 0; line-height: 0;" alt=3D"Under Arm=
+our" data-unique-identifier=3D"">
+                          <!----><!--[endif]---->
+                          <!-- END DARK MODE LOGO - HIDDEN FROM OUTLOOK -->
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- END CENTERED LOGO -->
+                    <!-- START BACKGROUND IMAGE WITH TEXT ONLY  -->
+                    <tr>
+                      <td align=3D"center" class=3D"mobile-order-img-only" w=
+idth=3D"600" background=3D"images/background_img.png" style=3D"background-im=
+age: url('https://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/5=
+db4ac32-8f70-4d25-ab61-8e77dc2bb766.png');background-size: cover; background=
+-position: center; background-repeat: no-repeat; background-color: #000000;"=
+>
+                        <!-- START OUTLOOK-ONLY VML BACKGROUND IMAGE CODE - I=
+F YOU WANT TO CHANGE IT, MAKE SURE YOU CHANGE THE HEIGHT IN BOTH PLACES BELO=
+W - VERY IMPORTANT -->
+                        <!--[if gte mso 9]> <v:image xmlns:v=3D"urn:schemas-=
+microsoft-com:vml" style=3D"width:600px; height:246px;" src=3D"https://image=
+.emails.underarmour.com/lib/fe8213727c640d747c/m/18/5db4ac32-8f70-4d25-ab61-=
+8e77dc2bb766.png" /> <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D=
+"false" stroke=3D"false" style=3D"position: relative; width:600px; height: 2=
+46px; top: 0;"> <v:textbox inset=3D"0,0,0,0"> <![endif]-->
+                        <div align=3D"center" style=3D"text-align: center; w=
+idth: 100%;">
+                          <table align=3D"center" border=3D"0" width=3D"100%=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100%; text-align: cent=
+er;">
+                            <tbody><tr>
+                              <td class=3D"padtb25m pads32m padss10m" style=3D=
+"padding-top: 59px; padding-right: 0px; padding-bottom: 58px; padding-left: 0=
+px;">
+                                <!-- START HEADLINE -->
+                                <h1 class=3D"mars0m font28m mobile-headline"=
+ style=3D"padding: 0; margin: 0; margin-right: 10px; margin-bottom: 10px; ma=
+rgin-left: 10px; font-family: NeuePlakUA-CondensedBold,Arial,Helvitica; colo=
+r: #FFFFFF; text-align: center; font-size: 38px; line-height: 34px; font-wei=
+ght: bold; letter-spacing: -1px;">YOUR ORDER RECEIPT</h1>
+                                <!-- END HEADLINE -->
+                                <p class=3D"mars0m mobilefont17 mobilepaddin=
+gtop" style=3D"padding: 0; margin: 0; margin-right: 10px; margin-bottom: 11p=
+x; margin-left: 10px; text-align: center; font-family: Arial, sans-serif; co=
+lor: #FFFFFF; font-size: 14px; line-height: 18px; font-weight: bold;">112282=
+10219081000206</p>
+                                <p class=3D"mars50 mars0m mobilefont17 mobil=
+epaddingaroundlarge" style=3D"padding: 0; margin: 0; margin-bottom: 11px; ma=
+rgin-right: 113px; margin-left: 113px; text-align: center; font-family: Aria=
+l, sans-serif; color: #FFFFFF; font-size: 14px; line-height: 1.29;">We got y=
+our order, Brian! Your new gear will be on its way soon. We'll send you an u=
+pdate as soon as it ships.</p>
+                              </td>
+                            </tr>
+                          </tbody></table>
+                        </div>
+                        <!--[if gte mso 9]> </v:textbox> </v:rect> <![endif]=
+-->
+                      </td>
+                    </tr>
+                    <!-- END BACKGROUND IMAGE WITH TEXT ONLY -->
+             <!-- START ESTIMATED ARRIVAL SHIPPING-->
+                   =20
+                    <tr>
+                      <td class=3D"arrival pads32m padss10m " align=3D"cente=
+r" style=3D"padding-top: 36px; padding-bottom: 38px; background-color: #f7f7=
+f7;">
+                        <p class=3D"mobilefont17" style=3D"padding-bottom: 4=
+px; margin: 0; font-size: 14px; line-height: 19px; color: #1d1d1d; font-fami=
+ly: Arial, sans-serif; font-weight: bold;">Expected Arrival: Fri, 12/31 - Fri=
+, 12/31</p>
+                        <p class=3D"mobilefont17" style=3D"padding: 0; margi=
+n: 0; font-size: 13px; line-height: 19px; margin-right: 70px; margin-left: 7=
+0px; color: #1d1d1d; font-family: Arial, sans-serif; font-weight: normal;">H=
+eads up! Orders with multiple items may ship in multiple packages that arriv=
+e on different dates=E2=80=94but everything will be delivered by the date li=
+sted above.</p>
+                      </td>
+                    </tr>
+                   =20
+                   =20
+                   =20
+                   =20
+                    <!-- END ESTIMATED ARRIVAL SHIPPING-->
+                    <!-- START HOW IT WORKS -->
+                   =20
+  <!-- START TRACKING SECTION -->=20
+                    =20
+
+                    <!-- START PICK UP IN STORE SECTION -->
+                   =20
+                <!-- END PICK UP IN STORE SECTION -->
+
+                  <!-- START ORDER UPDAES SECTION -->
+                   =20
+                   =20
+                    <tr>
+                      <td align=3D"center" class=3D"padt40m padb50m pads32m p=
+adss10m" style=3D"color: #1d1d1d; font-family: Arial, sans-serif; font-size:=
+ 14px; padding-top: 38px; padding-right: 10px; padding-bottom: 38px; padding=
+-left: 10px; border-bottom: 1px solid #e9e9e9;">
+                        <!-- START ICON -->
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255eb3055a354c6d1e25d23660a976f593414b80ab149be732e056e138e65d1eb=
+9a43d9409c697c05a96a859306a742a2ed4b9e046519dacd9f7e" target=3D"_blank" styl=
+e=3D"text-decoration:none;">
+                          <!--[if !mso]><!--><img class=3D"imgWidth" src=3D"=
+https://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/3cec2f78-82=
+c8-470e-9da1-833c58c7f5ca.png" width=3D"40" style=3D"width: 40px; height: au=
+to; border: 0;" alt=3D"UA App" data-unique-identifier=3D"">   <!----><!--[en=
+dif]---->
+                          <!--[if gte mso 9]> <img class=3D"imgWidth msocode=
+" src=3D"https://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/3c=
+ec2f78-82c8-470e-9da1-833c58c7f5ca.png"  width=3D"40" style=3D"width: 50px; h=
+eight: auto; border: 0;display:none;" alt=3D"UA App" /> <![endif]-->
+                          <!-- END ICON -->
+                          <p class=3D"font14m mobilefont17" style=3D"padding=
+: 0; margin: 0; margin-top: 14px; color: #1f1f1f; font-family: Arial, sans-s=
+erif; font-size: 13px; line-height: 18px; font-weight: bold; letter-spacing:=
+ 0.22px;">GET INSTANT ORDER UPDATES
+                          </p>
+                          <p class=3D"font14m lh18m mobilefont17" style=3D"p=
+adding: 0; margin: 0; margin-top: 2px; color: #707070; font-family: Arial, s=
+ans-serif; font-size: 13px; line-height: 17px; letter-spacing: 0.22px;">You'=
+ll get that and more with the UA App.
+                            <br>Don't have it? Download it now &gt;
+                          </p></a>
+                      </td>
+                    </tr>
+                   =20
+               =20
+                    <!-- END ORDER UPDATES SECTION -->
+               =20
+               =20
+               =20
+               =20
+                <!-- START CONTACTS -->
+               =20
+               =20
+               =20
+                <!-- END SECOND CONTACT -->
+                <!-- END CONTACTS -->
+               =20
+                <!-- START ESTIMATED ARRIVAL SPLIT-->
+                   =20
+                  <!-- END ESTIMATED ARRIVAL SPLIT-->
+
+             =20
+         =20
+                <!-- START CENTERED 63% BORDER -->
+                <tr>
+                  <td align=3D"center">
+                    <table width=3D"375" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"Margin: 0 auto; width: 100%; max-width: 375px;" ro=
+le=3D"Presentation">
+                      <tbody><tr>
+                        <td style=3D"font-size: 1px; line-height:0px; border=
+-top: 0px solid #1d1d1d;">&nbsp;
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+                <!-- END CENTERED 63% BORDER -->=20
+               =20
+               =20
+                <!-- START ORDER SUMMARY -->
+                <tr>
+                  <td align=3D"center" class=3D"padt55m pads32m padb50m cccc=
+" style=3D"padding-top: 36px; padding-right: 40px;  padding-left: 144px;">
+                    <p class=3D"font14m mobilefont17" style=3D"padding: 0; m=
+argin: 0; margin-bottom: 42px; font-weight: bold; font-size: 13px; line-heig=
+ht: 18px; letter-spacing: 0.22px; text-align: left; color: #1f1f1f;">
+                     =20
+                       YOUR SHIPPING ITEMS=20
+
+                    </p>
+                   =20
+             =20
+                    <p></p><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"border: 0; width: 100%;" role=3D"Presentation">
+                      <!-- START ITEM ONE -->
+                     =20
+                      <tbody><tr>
+                        <td valign=3D"top" align=3D"center" width=3D"130" st=
+yle=3D"width: 130px;padding-bottom:23px;">
+                          <a href=3D"https://click.emails.underarmour.com/?q=
+s=3D677b5e759159c89333652e3f452288ca3d3d7912a5fc90d865caa580aebc246cbad93442=
+5ec951b31efd081edef30e93a63b8b8c70672bd29213d4dcc46f4926" style=3D"color: #1=
+d1d1d; text-decoration: none;">
+                            <!-- START ITEM IMAGE -->
+                            <img src=3D"https://underarmour.scene7.com/is/im=
+age/Underarmour/1366751-406_LA" width=3D"130" style=3D"width: 100%; max-widt=
+h: 130px; height: auto; border: 0;" alt=3D"Under Armour" data-unique-identif=
+ier=3D"">
+                            <!-- END ITEM IMAGE -->
+                          </a>
+                        </td>
+                        <td valign=3D"top" align=3D"center" style=3D"padding=
+-left: 23px;">
+                          <p class=3D"font14m mobilefont17" style=3D"padding=
+: 0; margin: 0; margin-bottom: 5px;text-align: left; font-size: 13px; line-h=
+eight: 18px; font-weight: bold; font-family: Arial, sans-serif; letter-spaci=
+ng: -0.19px; color: #1d1d1d;">UA AF Printed Hoodie</p>
+                          <p class=3D"font14m mobilefont17" style=3D"padding=
+: 0; margin: 0; text-align: left; font-size: 13px; line-height: 19px; font-f=
+amily: Arial, sans-serif; letter-spacing: 0.22px; color: #707070; text-align=
+: left;">
+                            1366751-406-YXL<br>
+                            Photon Blue-Royal (406), YXL<br>
+                            $16.99  x 1.0
+                          </p>
+                        </td>
+                      </tr>
+                      <!-- END ITEM ONE -->
+                     =20
+                      <tr>
+                        <td valign=3D"top" align=3D"center" width=3D"130" st=
+yle=3D"width: 130px;padding-bottom:23px;">
+                          <a href=3D"https://click.emails.underarmour.com/?q=
+s=3D677b5e759159c89333652e3f452288ca3d3d7912a5fc90d865caa580aebc246cbad93442=
+5ec951b31efd081edef30e93a63b8b8c70672bd29213d4dcc46f4926" style=3D"color: #1=
+d1d1d; text-decoration: none;">
+                            <!-- START ITEM IMAGE -->
+                            <img src=3D"https://underarmour.scene7.com/is/im=
+age/Underarmour/1360701-012_LA" width=3D"130" style=3D"width: 100%; max-widt=
+h: 130px; height: auto; border: 0;" alt=3D"Under Armour" data-unique-identif=
+ier=3D"">
+                            <!-- END ITEM IMAGE -->
+                          </a>
+                        </td>
+                        <td valign=3D"top" align=3D"center" style=3D"padding=
+-left: 23px;">
+                          <p class=3D"font14m mobilefont17" style=3D"padding=
+: 0; margin: 0; margin-bottom: 5px;text-align: left; font-size: 13px; line-h=
+eight: 18px; font-weight: bold; font-family: Arial, sans-serif; letter-spaci=
+ng: -0.19px; color: #1d1d1d;">AF PANT</p>
+                          <p class=3D"font14m mobilefont17" style=3D"padding=
+: 0; margin: 0; text-align: left; font-size: 13px; line-height: 19px; font-f=
+amily: Arial, sans-serif; letter-spacing: 0.22px; color: #707070; text-align=
+: left;">
+                            1360701-012-MD<br>
+                            Pitch Gray Light Heather (012), MD<br>
+                            $19.99  x 1.0
+                          </p>
+                        </td>
+                      </tr>
+                      <!-- END ITEM ONE -->
+                     =20
+                    </tbody></table>
+                <!-- START CONTACTS -->
+               =20
+               =20
+              =20
+                  </td>
+                </tr>
+                <!-- END ORDER SUMMARY -->
+               =20
+                <!-- loop shipping products start -->
+                <!-- display products for email type -->
+               =20
+                <!-- end email gift card products -->
+                                 =20
+               =20
+                <!-- START SHIPPING INFO -->
+               =20
+          <!-- END SHIPPING INFO -->
+
+               =20
+                <!-- START BILLING INFO -->
+                <tr>
+                  <td class=3D"billing pads32m padss10m" align=3D"center" st=
+yle=3D"padding-top: 36px; padding-right: 142px; padding-bottom: 40px; paddin=
+g-left: 102px; border-top: 1px solid #e9e9e9; border-bottom: 1px solid #e9e9=
+e9; background-color: #fcfcfc;">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"border: 0; width: 100%;" role=3D"Presentation">
+                      <tbody><tr>
+                        <td align=3D"center">
+                          <table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border: 0; width: 100%;" role=3D"Presentation">
+                            <!-- START LINE ONE -->
+                            <tbody><tr>
+                              <td valign=3D"top" align=3D"center" width=3D"2=
+38" style=3D"width: 238px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: left; font-size: 13px; l=
+ine-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d=
+1d; ">Subtotal (2 items)</p>
+                              </td>
+                              <td valign=3D"top" align=3D"center" style=3D"p=
+adding-left: 10px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: right; font-size: 13px;=
+ line-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d=
+1d1d;">$36.98 </p>
+                              </td>
+                            </tr>
+                            <!-- END LINE ONE -->
+                            <!-- START LINE TWO -->
+                           =20
+                            <tr>
+                              <td valign=3D"top" align=3D"center" width=3D"2=
+38" style=3D"width: 238px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: left; font-size: 13px; l=
+ine-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d=
+1d; ">Discount Applied</p>
+                              </td>
+                              <td valign=3D"top" align=3D"center" style=3D"p=
+adding-left: 10px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: right; font-size: 13px;=
+ line-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d=
+1d1d;">-$3.70 </p>
+                              </td>
+                            </tr>
+                           =20
+                            <!-- END LINE TWO -->
+                            <!-- START LINE THREE -->
+                           =20
+                            <tr>
+                              <td valign=3D"top" align=3D"center" width=3D"2=
+38" style=3D"width: 238px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: left; font-size: 13px; l=
+ine-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d=
+1d; ">Tax</p>
+                              </td>
+                              <td valign=3D"top" align=3D"center" style=3D"p=
+adding-left: 10px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: right; font-size: 13px;=
+ line-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d=
+1d1d;">$2.00 </p>
+                              </td>
+                            </tr>
+                           =20
+                            <!-- END LINE THREE -->
+                            <!-- START LINE FOUR -->
+                            =20
+                           =20
+                           =20
+                           =20
+                            <tr>
+                              <td valign=3D"top" align=3D"center" width=3D"2=
+38" style=3D"width: 238px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: left; font-size: 13px; l=
+ine-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d=
+1d; ">Shipping</p>
+                              </td>
+                              <td valign=3D"top" align=3D"center" style=3D"p=
+adding-left: 10px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: right; font-size: 13px;=
+ line-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d=
+1d1d;">$0.0 </p>
+                              </td>
+                            </tr>
+                           =20
+                            <!-- END LINE FOUR -->
+                            <!-- START LINE FIVE -->
+                           =20
+                           =20
+                           =20
+                           =20
+                            <!-- END LINE FIVE -->
+                            <!-- START TOTAL LINE -->
+                            <tr>
+                              <td class=3D"padt25m" valign=3D"top" align=3D"=
+center" width=3D"238" style=3D"width: 238px; padding-top: 22px; padding-bott=
+tom: 42px;">
+                                <p class=3D"font14m mobilefont15 mobilelineH=
+eight85" style=3D"padding: 0; margin: 0; text-align: left; font-size: 13px; l=
+ine-height: 24px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d=
+1d; font-weight: bold;">Total</p>
+                              </td>
+                              <td class=3D"padt25m" valign=3D"top" align=3D"=
+center" style=3D"padding-left: 10px; padding-top: 22px; padding-botttom: 42p=
+x;">
+                                <p class=3D"font16m mobilelineHeight85" styl=
+e=3D"padding: 0; margin: 0; text-align: right; font-size: 16px; line-height:=
+ 22px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d1d; font-we=
+ight: bold;">$35.28 </p>
+                              </td>
+                            </tr>
+                            <!-- END TOTAL LINE -->
+                          </tbody></table>
+                        </td>
+                      </tr>
+                      <!-- START PAYMENT LINE -->
+                     =20
+                     =20
+
+                      <tr>
+                        <td align=3D"center" style=3D"padding-top: 39px;">
+                          <table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border: 0; width: 100%;" role=3D"Presentation">
+                            <tbody><tr>
+                              <td align=3D"center" width=3D"60" style=3D"wid=
+th: 60px; font-family: 'NeuePlakUA', Arial, sans-serif; color: #1d1d1d; font=
+-size: 13px;">
+                                <img src=3D"http://image.emails.underarmour.=
+com/lib/fe8213727c640d747c/m/8/07e625f5-7bd8-4d0a-b1af-733597200408.png" wid=
+th=3D"60" style=3D"width: 60px; height: auto; display: block; border: 0;" al=
+t=3D"Under Armour" data-unique-identifier=3D"">
+                              </td>
+                              <td align=3D"center" style=3D"padding-left: 16=
+px; padding-right: 74px;">
+                                <p class=3D"font14m lh18m paymentCardFont" s=
+tyle=3D"padding: 0; margin: 0; font-family: 'NeuePlakUA', Arial, sans-serif;=
+ font-size: 11px; line-height: 15px; color: #1d1d1d; text-align: left;">Mast=
+erCard *3945 will be billed as items ship.</p>
+                              </td>
+                            </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                     =20
+                     =20
+                      <!-- END PAYMENT LINE -->
+                    </tbody></table>
+                  </td>
+                </tr>
+                <!-- END BILLING INFO -->
+     =20
+      <!-- START SHIPPING INFO -->
+               =20
+                <tr>
+                 =20
+                  <td align=3D"center" class=3D"pads32m padt55m borderb0m pa=
+dss10m " style=3D"padding-top: 33px; padding-right: 186px; padding-bottom: 4=
+0px; padding-left: 105px; border-bottom: 1px solid #e9e9e9;">
+                    <p class=3D"font14m mobilefont17" style=3D"padding: 0; m=
+argin: 0; font-weight: bold; font-size: 13px; line-height: 1.69 !important; l=
+etter-spacing: -0.15px; text-align: left; color: #1f1f1f">Ship To:</p>
+                    <p class=3D"font14m lh18m" style=3D"padding: 0; margin: 0=
+; font-family:  Arial, sans-serif; font-size: 13px; line-height: 19px; margi=
+n-bottom:16px;letter-spacing: 0.22px; color: #707070; text-align: left;">
+                    </p><div class=3D"mobilefont17 mobilelineHeight69" style=
+=3D"text-align:left;font-family: Arial;font-size: 13px;font-weight: normal; =
+                                                                        font=
+-stretch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px=
+;color: #707070;"></div>
+                    <div class=3D"mobilefont17 mobilelineHeight69" style=3D"=
+text-align:left;font-family: Arial;font-size: 13px;font-weight: normal;     =
+                                                                    font-str=
+etch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px;col=
+or: #707070;"> Brian Vires</div>
+                    <div class=3D"mobilefont17 mobilelineHeight69" style=3D"=
+text-align:left;font-family: Arial;font-size: 13px;font-weight: normal;     =
+                                                                    font-str=
+etch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px;col=
+or: #707070;"> 200 Twin Eagles Pkwy</div>
+                    <div class=3D"mobilefont17 mobilelineHeight69" style=3D"=
+text-align:left;font-family: Arial;font-size: 13px;font-weight: normal;     =
+                                                                    font-str=
+etch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px;col=
+or: #707070;"></div>
+                    <div class=3D"mobilefont17 mobilelineHeight69" style=3D"=
+text-align:left;font-family: Arial;font-size: 13px;font-weight: normal;     =
+                                                                    font-str=
+etch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px;col=
+or: #707070;">Mount Washington,KY40047-6253</div>
+                    <div class=3D"mobilefont17 mobilelineHeight69" style=3D"=
+text-align:left;font-family: Arial;font-size: 13px;font-weight: normal;     =
+                                                                    font-str=
+etch: normal;font-style: normal;line-height: 1.46;letter-spacing: 0.22px;col=
+or: #707070;"> US</div>
+                <p></p>
+                </td>
+             =20
+          </tr>
+         =20
+          <!-- END SHIPPING INFO -->
+
+     =20
+     =20
+                          <!-- Einstein_Upsell_Rec_Zone section - path email=
+\content areas\Einstein_Upsell_Rec_Zone  Update ID after resolving issue -->=
+
+            <tr>
+            <td align=3D"center" style=3D"padding-bottom: 30px; padding-top:=
+ 20px;" class=3D"noTopPad"><table style=3D"min-width: 100%; " class=3D"styli=
+ngblock-content-wrapper" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=
+<tbody><tr><td class=3D"stylingblock-content-wrapper camarker-inner"><style>=
+=20
+   @media screen and (max-width: 480px) {=20
+     .mobilesize19{=20
+       font-size:19px !important;=20
+     }=20
+   }=20
+   @media screen and (max-width: 362px) {=20
+     .mobilesize19{=20
+       font-size:19px !important;=20
+     }=20
+   }=20
+=20
+ </style>
+<!-- START EINSTEIN PRODUCT GRID US VERSION -->
+<table style=3D"min-width: 600px; max-width: 600px;" class=3D"container mobM=
+ax" width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td class=3D"pad20" align=3D"center">
+      <table class=3D"container" style=3D"border: solid 0px #e9e9e9; " width=
+=3D"600" cellspacing=3D"0" cellpadding=3D"0">
+        <tbody><tr>
+          <td class=3D"chatPad" style=3D"padding-top: 64px; padding-bottom: 1=
+5px;" align=3D"center">
+     <!-- START LIGHT MODE LOGO -->
+            <!--[if !mso]><!-->
+     <img class=3D"light-img" src=3D"http://image.emails.underarmour.com/lib=
+/fe8213727c640d747c/m/16/590b32ca-fb69-43d0-834c-fc818ca41605.png" alt=3D"TR=
+ENDING NOW" style=3D"display: block; height: auto;" width=3D"57" border=3D"0=
+" data-unique-identifier=3D"">
+     <!----><!--[endif]---->
+     <!--[if gte mso 9]> <img  src=3D"http://image.emails.underarmour.com/li=
+b/fe8213727c640d747c/m/16/590b32ca-fb69-43d0-834c-fc818ca41605.png" alt=3D"T=
+RENDING NOW" style=3D"display: block; height: auto;" width=3D"57" border=3D"=
+0"> <![endif]-->
+               <!-- END LIGHT MODE LOGO -->
+                  <!-- START DARK MODE LOGO - HIDDEN FROM OUTLOOK -->
+                  <!--[if !mso]><!-->
+     <img class=3D"dark-img" src=3D"https://image.emails.underarmour.com/lib=
+/fe8213727c640d747c/m/18/3ecfc2d5-51fb-4b2c-9d36-e3296f38a10e.png" alt=3D"TR=
+ENDING NOW" style=3D"height: auto; border: 0; display: none; overflow: hidde=
+n; font-size: 0; line-height: 0;" width=3D"57" border=3D"0" data-unique-iden=
+tifier=3D"">
+     <!----><!--[endif]---->
+              <!-- END DARK MODE LOGO - HIDDEN FROM OUTLOOK -->
+          </td>
+        </tr>
+        <tr>
+   <td class=3D"questionHeadline mobilesize19" style=3D"font-family: 'undera=
+rmour', Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; fo=
+nt-style: normal; font-stretch: normal; line-height: 1.38; letter-spacing: 0=
+.22px; text-align: center; color:#1f1f1f; padding-bottom: 15px;" align=3D"ce=
+nter"><p style=3D"padding: 0; margin: 0;">HERE=E2=80=99S MORE GEAR YOU MIGHT=
+ LIKE</p>
+           </td>
+        </tr>
+        <tr>
+          <td align=3D"center">
+            <table style=3D"width:100%;" class=3D"full-width" width=3D"600" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0">=20
+              <tbody><tr>
+                <td style=3D"padding-top:20px;" valign=3D"top" align=3D"cent=
+er">
+                  <table width=3D"" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0">
+                    <tbody><tr>
+                      <td class=3D"mobile-hide" width=3D"22" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                      <td valign=3D"top" align=3D"left">
+                        <!-- START PRODUCT --> =20
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255ebcfae72b63e02a463f17b197ea3137a63580a5da7238396a741b61b0c51f6=
+3cf40ae8b1299972fa7fde60ef062007ec54d32751a95c5a180a" target=3D"_blank">
+                          <img src=3D"https://7290999.recs.igodigital.com/rr=
+/v2/5dcdbd9f68492f003416fa83/i/1/bkvir208@gmail.com" style=3D"display:block;=
+ max-width:200px;" alt=3D"Product 1" border=3D"0" data-unique-identifier=3D"=
+">
+                        </a>
+                        <!-- END PRODUCT -->=20
+                      </td>
+                      <td class=3D"mobile-hide" width=3D"40" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                      <td valign=3D"top" align=3D"center">
+                        <!-- START PRODUCT --> =20
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255eb331dedc022f4b6a40da55bfec21ea36cbbbb1b5179658770fe4bef225136=
+0648d59bbd9210fdc6cdf2378e35ebd1fc56493a52d8765cdabf" target=3D"_blank">
+                          <img src=3D"https://7290999.recs.igodigital.com/rr=
+/v2/5dcdbd9f68492f003416fa83/i/2/bkvir208@gmail.com" style=3D"display:block;=
+ max-width:200px;" alt=3D"Product 2" border=3D"0" data-unique-identifier=3D"=
+">
+                        </a>
+                        <!-- END PRODUCT -->=20
+                      </td>
+                      <td class=3D"mobile-hide" width=3D"22" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr>
+                <td style=3D"padding-top:25px;" valign=3D"top" align=3D"cent=
+er">
+                  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                    <tbody><tr>
+                      <td class=3D"mobile-hide" width=3D"22" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                      <td valign=3D"top" align=3D"left">
+                        <!-- START PRODUCT --> =20
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255eb63389c23790c888617a66968bbbd565a644938e4518284da2292574cbffc=
+1b6f936226696919fe2ba8fa8d95af2d21709a3b0972e2e14c1a" target=3D"_blank">
+                          <img src=3D"https://7290999.recs.igodigital.com/rr=
+/v2/5dcdbd9f68492f003416fa83/i/3/bkvir208@gmail.com" style=3D"display:block;=
+ max-width:200px;" alt=3D"Product 3" border=3D"0" data-unique-identifier=3D"=
+">
+                        </a>
+                        <!-- END PRODUCT -->=20
+                      </td>
+                      <td class=3D"mobile-hide" width=3D"40" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                      <td valign=3D"top" align=3D"left">
+                        <!-- START PRODUCT --> =20
+                        <a href=3D"https://click.emails.underarmour.com/?qs=3D=
+cbe6d579af7255ebb8051914fdd42be13c17e412992a889d1c7c0e6162d2c0016bcab8f91b51=
+1741693bb4768d65ca029f3381bbe0e8cfbddeb3707030250508" target=3D"_blank">
+                          <img src=3D"https://7290999.recs.igodigital.com/rr=
+/v2/5dcdbd9f68492f003416fa83/i/4/bkvir208@gmail.com" style=3D"display:block;=
+ max-width:200px;" alt=3D"Product 4" border=3D"0" data-unique-identifier=3D"=
+">
+                        </a>
+                        <!-- END PRODUCT -->=20
+                      </td>
+                      <td class=3D"mobile-hide" width=3D"22" valign=3D"top" a=
+lign=3D"left">
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+=20
+<!-- END EINSTEIN PRODUCT GRID --></td></tr></tbody></table> </td>
+          </tr>=20
+          <!-- end Einstein_Upsell_Rec_Zone section -->
+          <!-- help center section - path email\content areas\question help s=
+ection -->
+          <tr>
+            <td align=3D"center" style=3D"padding-bottom: 30px; padding-top:=
+ 20px;" class=3D"noTopPad"><table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" role=3D"presentation" style=3D"min-width: 100%; " class=3D"stylingblo=
+ck-content-wrapper"><tbody><tr><td class=3D"stylingblock-content-wrapper cam=
+arker-inner"><table style=3D"min-width: 600px; max-width: 600px;" class=3D"c=
+ontainer mobMax" width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff">
+  <tbody><tr>
+    <td class=3D"pad20" align=3D"center">
+      <table class=3D"container" style=3D"border: solid 1px #e9e9e9; backgro=
+und-color: #fcfcfc;" width=3D"600" cellspacing=3D"0" cellpadding=3D"0">
+        <tbody><tr>
+          <td class=3D"chatPad" style=3D"padding-top: 64px; padding-bottom: 2=
+5px;" align=3D"center">
+            <img src=3D"http://image.emails.underarmour.com/lib/fe8213727c64=
+0d747c/m/8/9fcc69c8-f7e4-4938-9548-15471871e8b9.png" alt=3D"Chat Bubbles" st=
+yle=3D"display: block; height: auto;" width=3D"57" border=3D"0" data-unique-=
+identifier=3D"">
+          </td>
+        </tr>
+        <tr>
+          <td class=3D"questionHeadline" style=3D"font-family: 'underarmour'=
+, Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; font-sty=
+le: normal; font-stretch: normal; line-height: normal; letter-spacing: -0.6p=
+x; text-align: center; color:#1f1f1f; padding-bottom: 15px;" align=3D"center=
+">HAVE A QUESTION?</td>
+        </tr>
+        <tr>
+          <td class=3D"pad29" style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-size: 12px; font-weight: normal; font-style: normal; font-stretch=
+: normal; line-height: 1.25; letter-spacing: 0.2px; text-align: center; colo=
+r:#707070; padding-bottom: 32px;" align=3D"center">Let's connect.</td>
+        </tr>
+        <tr>
+          <td style=3D"padding-bottom: 25px;" class=3D"pad29" align=3D"cente=
+r">
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td align=3D"center">
+                  <table style=3D"border-spacing:0;" width=3D"100%">
+                    <tbody><tr>
+                      <td style=3D"padding:0;" align=3D"center">
+                        <!--[if (gte mso 9)|(IE)]> <table width=3D"100%"> <t=
+r> <td valign=3D"top" style=3D"padding:0;"> <![endif]-->
+                        <table style=3D"Margin:0;border-spacing:0;max-width:=
+100%;" width=3D"100%">
+                          <tbody><tr>
+                            <td class=3D"height54 pad32 helpCTA" style=3D"fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold;=
+ font-style: normal; font-stretch: normal; letter-spacing: 0.6px; text-align=
+: center; color: #1d1d1d; vertical-align:middle; padding-left: 48px; padding=
+-right: 48px; border-radius: 4px; border: solid 2px #1d1d1d" width=3D"100%" h=
+eight=3D"60">
+                              <a href=3D"https://click.emails.underarmour.co=
+m/?qs=3Dcbe6d579af7255eb7de03698a72adbfbbb3e24fb96cc19ae3072d9018abde153b01a=
+027376317b2a5154b961e2e5c243f3e9840cd3c1361bd6f7a3df128e6a1e" style=3D"text-=
+decoration:none;color:#1d1d1d;display:block;cursor:pointer; line-height: 60p=
+x;" class=3D"height54">VISIT HELP CENTER</a>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                        <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![e=
+ndif]-->
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td class=3D"pad37" style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-size: 12px; font-weight: normal; font-style: normal; font-stretch=
+: normal; line-height: 1.58; letter-spacing: 0.2px; text-align: center; colo=
+r:#707070; padding-bottom: 62px;" align=3D"center">Or just call us at=20
+            <span style=3D"color: #707070; text-decoration: none; display: i=
+nline-block;" class=3D"phoneNumber">1-888-727-6687</span>.
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table></td></tr></tbody></table></td>
+          </tr>
+          <!-- end help center section -->
+          <!-- footer start - path: emails\content areas\transactional foote=
+r -->
+          <tr>
+            <td align=3D"left" bgcolor=3D"#1d1d1d" style=3D"padding-bottom: 6=
+0px; padding-left: 64px;" class=3D"padLeft33 padTop36 padBot28"><table cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D=
+"min-width: 100%; " class=3D"stylingblock-content-wrapper"><tbody><tr><td cl=
+ass=3D"stylingblock-content-wrapper camarker-inner">
+<!-- start footer section -->
+<table class=3D"container" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" bgcolor=3D"#1d1d1d">
+  <tbody><tr>
+    <td align=3D"left">
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+         =20
+          <td class=3D"noTopPad" style=3D"padding-top: 58px; padding-bottom:=
+ 30px; padding-right: 10px;" align=3D"center">
+            <a href=3D"https://click.emails.underarmour.com/?qs=3Dcbe6d579af=
+7255eb6337cdc74ee589341c5bec3acde960533c08d5d33bad0e40c6586da8b4de9526bed1f1=
+30167d8278da6cda8b9841bc00b4d84ff4a46c328f" target=3D"_blank"><img src=3D"ht=
+tps://image.emails.underarmour.com/lib/fe8213727c640d747c/m/18/8648fff9-2168=
+-4b2f-af53-8cd1c65bbc52.png" alt=3D"UA Shop-app" style=3D"display: block; he=
+ight: auto;" width=3D"39" border=3D"0" data-unique-identifier=3D""></a>
+          </td>
+         =20
+         <td class=3D"noTopPad" style=3D"padding-top: 58px; padding-bottom: 3=
+0px;" align=3D"center">
+            <a href=3D"https://click.emails.underarmour.com/?qs=3D677b5e7591=
+59c8930942ed49cb2ada1d64f104f272aee41bb2acb8e4981fac82bf5c323720f5af746fc882=
+3c423fc678352b55464b8cf5b7b32b5387eb2dd1fa" target=3D"_blank"><img src=3D"ht=
+tp://image.emails.underarmour.com/lib/fe8213727c640d747c/m/8/674f40d8-b9b0-4=
+652-ab43-a5a60366ce41.png" alt=3D"UA Fitness" style=3D"display: block; heigh=
+t: auto;" width=3D"39" border=3D"0" data-unique-identifier=3D""></a>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td class=3D"footerText" style=3D"font-family: Arial, Helvetica, sans-se=
+rif; font-size: 12px; font-weight: normal; font-style: normal; font-stretch:=
+ normal; line-height: 180%; letter-spacing: normal; text-align: left; color:=
+#ffffff; padding-bottom: 5px;" align=3D"left">
+      <span class=3D"appleLinksWhite" style=3D"color:#ffffff; text-decoratio=
+n: none;"><a style=3D"color: #ffffff; text-decoration: none; cursor: text;">=
+Under Armour=C2=AE, Inc. 1020 Hull St, Baltimore, MD 21230</a></span>
+    </td>
+  </tr>
+  <tr>
+    <td align=3D"left">
+      <table cellspacing=3D"0" border=3D"0">
+        <tbody><tr>
+          <td class=3D"footerText" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 12px; font-weight: normal; font-style: normal; font-st=
+retch: normal; line-height: 180%; letter-spacing: normal; text-align: left; c=
+olor:#959595; padding-bottom: 6px; padding-right: 10px;" align=3D"left">
+            <a href=3D"https://click.emails.underarmour.com/?qs=3D677b5e7591=
+59c893be0c2a8babb661b82a8762f28008d088da7912ae10c9b8a901d44e4adc521103e71fb4=
+5cbf35942576ffdaa722a29875673d809f1ff032a8" target=3D"_blank" style=3D"color=
+: #959595; text-decoration: underline;">Privacy Policy</a>
+          </td>
+          <td class=3D"footerText" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 12px; font-weight: normal; font-style: normal; font-st=
+retch: normal; line-height: 180%; letter-spacing: normal; text-align: left; c=
+olor:#959595; padding-bottom: 6px; padding-right: 10px;" align=3D"left">|
+          </td>
+          <td class=3D"footerText" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 12px; font-weight: normal; font-style: normal; font-st=
+retch: normal; line-height: 180%; letter-spacing: normal; text-align: left; c=
+olor:#959595; padding-bottom: 6px; padding-right: 10px;" align=3D"left">
+            <a href=3D"https://click.emails.underarmour.com/?qs=3D677b5e7591=
+59c8930da4341b4bc4aed30a0a04e598aa4c1fdb86401c64ca238a1e4113618a1af374d6b80f=
+0629e52a5c7670993ab71f6c91ac87aa568a859cbb" target=3D"_blank" style=3D"color=
+: #959595; text-decoration: underline;">Terms &amp; Conditions</a>
+          </td>
+          <td class=3D"mobile-hidden footerText" style=3D"font-family: Arial=
+, Helvetica, sans-serif; font-size: 12px; font-weight: normal; font-style: n=
+ormal; font-stretch: normal; line-height: 180%; letter-spacing: normal; text=
+-align: left; color:#959595; padding-bottom: 6px; padding-right: 10px;" alig=
+n=3D"left">|
+          </td>
+          <td class=3D"mobile-hidden footerText" style=3D"font-family: Arial=
+, Helvetica, sans-serif; font-size: 12px; font-weight: normal; font-style: n=
+ormal; font-stretch: normal; line-height: 180%; letter-spacing: normal; text=
+-align: left; color:#959595; padding-bottom: 6px; padding-right: 10px;" alig=
+n=3D"left">
+            <a href=3D"https://view.emails.underarmour.com/?qs=3D8feed3a6f00=
+a74203faab78f934eb0aaa333beab64101841495aca8a31042c1b486cd2893b3900380cadb77=
+8c3b30c4f78a578afa6bda47efed1a02dcc38d92a45d910989d87552d6eec22a205e2eb51" t=
+arget=3D"_blank" style=3D"color: #959595; text-decoration: underline;">View i=
+n Browser</a>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td class=3D"footerText" style=3D"font-family: Arial, Helvetica, sans-se=
+rif; font-size: 12px; font-weight: normal; font-style: normal; font-stretch:=
+ normal; line-height: 180%; letter-spacing: normal; text-align: left; color:=
+#ffffff; padding-bottom: 10px;" align=3D"left">=C2=A9 2021 Under Armour=C2=AE=
+, Inc. All Rights Reserved.</td>
+  </tr>
+</tbody></table>
+<!-- end footer section -->
+</td></tr></tbody></table></td>
+          </tr>
+          <!-- end footer -->=20
+        </tbody></table>
+        <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]-->
+        </div>
+      </td>
+    </tr>
+  </tbody></table>
+</center>
+
+
+
+
+</div></blockquote></body></html>=
+
+--Apple-Mail-727F059C-CFA5-42BA-B9C3-81385ABF60D1--

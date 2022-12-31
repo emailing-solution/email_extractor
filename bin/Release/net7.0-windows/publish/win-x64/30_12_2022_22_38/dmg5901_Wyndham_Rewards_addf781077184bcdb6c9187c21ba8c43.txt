@@ -1,0 +1,1580 @@
+Return-Path: bounce-1581_HTML-34685627-1432849-6146994-61@bounce.e-mails.wyndhamrewards.com
+Received: from md20.aqua.bos.sync.lan (LHLO md20.aqua.sync.lan)
+ (10.80.42.120) by md23.aqua.sync.lan with LMTP; Mon, 1 Jan 2018 10:24:44
+ -0500 (EST)
+Return-Path: bounce-1581_HTML-34685627-1432849-6146994-61@bounce.e-mails.wyndhamrewards.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md20.aqua.sync.lan with LMTP; Mon, 1 Jan 2018 10:24:44 -0500 (EST)
+Return-Path: <bounce-1581_HTML-34685627-1432849-6146994-61@bounce.e-mails.wyndhamrewards.com>
+X-Forwarded-For: DMG5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=OajaNVbY c=1 sm=1 tr=0 b=1 a=RSnP0w+UtECJ4Qkn2VXvow==:117 a=RSnP0w+UtECJ4Qkn2VXvow==:17 a=6giede-wJD4A:10 a=RgaUWeydRksA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=0AMNhzM3AAAA:8 a=xu0As-KtX-5TGMl7514A:9 a=QEXdDO2ut3YA:10 a=SSmOFEACAAAA:8 a=3g80flMcAAAA:8 a=UqCG9HQmAAAA:8 a=C_HLdjY7AAAA:8 a=yNMsbbMkAAAA:8 a=zbP-uFkuAAAA:8 a=3IeLnGJ6AAAA:8 a=8UEV-LYRAAAA:8 a=ourwtbwTAAAA:8 a=4TfFZDrrDUDbCnj6fJUA:9 a=Y9W-kListKjiWTkE:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=J65LEqnKibQA:10 a=oUCISkJof7o7a-37xU4A:9 a=y3QUbPicGrR6J8d-k-dw:22 a=WfI-XsPPCJGdZbPkroms:22 a=vAc46Hyi45RjnboRxQFS:22 a=Hd4WxSHkd2HWhqEutTug:22 a=CIX2fKDqIAj4SMstqDkk:22 a=VQ2JQ4pOynkHRowHV3RP:22 a=GPGTFODxu7c639Y_KHuF:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [199.122.125.159] (helo=mta.e-mails.wyndhamrewards.com)
+Received: from [199.122.125.159] ([199.122.125.159:57242] helo=mta.e-mails.wyndhamrewards.com)
+	by mx.windstream.net (envelope-from <bounce-1581_HTML-34685627-1432849-6146994-61@bounce.e-mails.wyndhamrewards.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id 4A/4D-25812-BB25A4A5; Mon, 01 Jan 2018 10:24:43 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=e-mails.wyndhamrewards.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=wyndhamrewards@e-mails.wyndhamrewards.com;
+ bh=HC1wGnBqwS7NJ/g2ZZAKkCLVaQ8=;
+ b=ZiZjk1qliwF9L99bjWLJwyqZx67ii23yrtgV1aNxO5whz8EnQdeEIYYqph1mzy1eTjLNcrBtCV9J
+   p7pqBsC27QtuJ3RCinzzCXFsv/sdXAoQHstsNKI9m55fA2iPmmbFb34r46YdYToR1mbDMXryq83H
+   G7lCOnNMjFHwIliQRbI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=e-mails.wyndhamrewards.com;
+ b=rLur/76xoWYaselhQmDIxACtyIEIEjwI0dWa6f78L5doEGiuac0gpKAknise6F74iIvoq5oNS/4Y
+   HRM2zKj64vhWr30Lfc9QIp7VjC742YNDCAACY9FU+B/gZq0mtmGOD/DcBnM/QuhUjfkrR8d4a0/p
+   ZpIj+Y0LBygudTuq6XE=;
+Received: by mta.e-mails.wyndhamrewards.com id h999bm163hsc for <DMG5901@WINDSTREAM.NET>; Mon, 1 Jan 2018 09:24:43 -0600 (envelope-from <bounce-1581_HTML-34685627-1432849-6146994-61@bounce.e-mails.wyndhamrewards.com>)
+From: "Wyndham Rewards" <wyndhamrewards@e-mails.wyndhamrewards.com>
+To: <DMG5901@WINDSTREAM.NET>
+Subject: Thelma, Happy Anniversary!
+Date: Mon, 01 Jan 2018 09:24:42 -0600
+List-Unsubscribe: <mailto:leave-fd1c15757d656b2531492c-fe561774736c017b7713-fe90157476660c797c-fe88127171620d7471-ff981271@leave.emails.wyndhamhotelgroup.com>
+MIME-Version: 1.0
+Reply-To: "Wyndham Rewards" <reply-fe90157476660c797c-1581_HTML-34685627-6146994-61@e-mails.wyndhamrewards.com>
+List-ID: <6146994_1432849.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 6146994_1432849
+Message-ID: <08154ebd-c903-4af8-b2e1-767c9b67c4b6@xtinp2mta4222.xt.local>
+Content-Type: multipart/alternative;
+	boundary="h8snb1JxkJwI=_?:"
+
+This is a multi-part message in MIME format.
+
+--h8snb1JxkJwI=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+Wyndham Rewards
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4dba365d4a1f2c045455e77d4b8d9fd2bbb39908032d10202f63871a1a5c1c6a6828b5d11db7361098c63fe0065a21243c 
+
+<span style="text-decoration:underline;">Happy 9<sup style="font-size: 9px !important; line-height: 9px !important; vertical-align: top;">th</sup> anniversary</span>!
+ 
+
+
+http://view.emails.wyndhamhotelgroup.com/?qs=1451d529014765380b5f5eacef4d915717bb8c2821d3a1f9fa2e98459c1f515e087aaaa770558b77c5507befae86938eefbfba368a08dacf1fe7ed638565f1738d53d0fbe8d96597 
+View on Web 
+
+
+
+
+
+
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4d5051e31e1fb05f8958c3e573df48a29be49b460926a721a3a0c043d79c5cd5705941c80cfcae74c360d994cafab7eaba 
+
+
+
+Hello, Thelma
+
+Member # 118229601H
+
+BLUE Member <span class="hide" style="color: #6d6e71;"> &#124; </span> <span class="mlPoints stack">0&nbsp;<span style="color: #6d6e71;">points</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+It&rsquo;s been magical
+Thank you for making memories with us for 9 years. We truly value loyal members like you, and hope that you&rsquo;ve enjoyed countless getaways with us. Ready for another?
+
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4d558a170c5dda39bbebe7bcc5d38bc8007d833587c121571742aad180ee04ea383963fb6b0edebc5368c89b2112252e3e 
+
+Make more memories
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4d465ab087f8b8735c6d32ce388c1a8bfa1d3f8eb8df4ad0976a41e635dfee5097f32bda60efc0517047086b3bf6a300ee 
+Earn
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4dbd79d6d1613cc9e0abe2fc6092309acfaa31f5ea830fda169e1f4af8640c72a40f162d2bb3746c2a2d87f0abc9a79a86 
+Redeem
+http://click.emails.wyndhamhotelgroup.com/?qs=5273395242c3df4d6b20a2e975a5576e0a6ad93605d60322568c535988b8aeb635b3abbf873273b6be43bc0d9d7157c6a8f941b178d5d7dc 
+Book
+
+
+
+
+
+Follow us on
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9cd1bfed0eaa25d79477d42a49a5b8188cb9a9fd043caba4c899a9bff03e6ff86109134166b6f7e8f90a8954eda4686968 
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c988f849adf0e7a0c43e7b09738380d7512bece160cebabd459a90e04e0402adc7958a671f59f59ed37ae1ba8e4d34a1a 
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c8c79ac0f9fb447e51dffb01b7bdc128987e376164648ce7b4db85979deb8e38564caa2b078bcec601835e19b1595feb2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c55f4501091822832c81a835a86ef43588af4b7754daaa6bac5eb8b785ee1b65701f43bd87f4455eca8664b5168ce2d06 
+
+
+HOTELS
+
+
+DISTINCTIVE
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c969d8844315a0a1861455e3580a09e8878b5c0f6d3e9fccf243ba3b17371133833564bdd1c88d10f79b1b4ec362cff99 
+
+
+UPSCALE
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c36decec36d73ebd95a8895ce62730388b4da0a3a01a335a964e9f2a2e6165b0df8ed3b3e107878cf39bc6340c36bd33c 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c86f4755ac92bb392f82f4430f25a0e5495bf60093bbc6a7b9be9d4c1a07e6628551e328a8ff79f5398e94fd27faf6b75 
+
+
+LIFESTYLE
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c4ed4c88a4f55bda88d6b1fc6219ba903ee22997faf3b9bf3f6311895aa93e32ca551e85f7b20d9b5d23acbb746a5d01e 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c6604a667f2a54e730980abd93c65fe13f1b8841c4bd67d2431883cab703f7912cd179cebe60ed7189189d81c14a1a410 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9cc73e5e055689b21814758835c09f7bb1c90513c71445b3f27893054eecdc0fa53292ab88b5300a4c523eef8b04d8baf6 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb170d37e8176fd827bacf9a5ab4cd8c9b6986e956c8520b7780097b09906a45e8e298d951d1af065da012f1439199177499 
+
+
+MIDSCALE
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17303309a7c5b3158b734a4c04372ec397a25e766c634e95a41fa9bd55e6ffed4dcab8aa144dcfc57d0c5a6c182f3848df 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb1713a59830a4a05c6d2a4e9eb32422c0ac5b2e276297fda86091773c768ed22d18c8b517c51fe26547d7c8a73295facb4a 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb173e500bf052d9bec551b7666fe1b2ff6c0ce6252730c7a10fc4490f792fc15c5943b7fc8594cdbd47ffc5cf522f82b844 
+
+
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17f3a82d4f6f155b37a605ed9adb12afb621154a81e5fc8c19111e1a17901d73c950ada62a95d3cbfa0c22855a5a22407c 
+
+
+VALUE
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17c29796501f58c7ed689f430462709c36e462c13e5dbb0d9abe459c7fe63e0fa639a3a2ed116b3ea6a008eea339c9f173 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb177d38809e1b1d388f574cec27f83f55d9448b5a992840129391cd52d406ffa769abde79ca1b2ddaa57251742162a0bac3 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb176c64e0f2c089d357c89c8b4eda00cd40208921026ec404d7ad310cfafd401da23cc72583dcf2da6c7946f90d0a7de8e4 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17367ef8497090ff0ff2308b9d4ed3288cf48b6a37afc4796692deadca46d2e386f15741c306b50db68ab732ab67eb0d0a 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17716b9dfe7225fe9948efbf1324a8829a06024a3ab51bdb54f9815253a5875b29fce4f7379571a0b824c31d70ed93a81e 
+
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009f83a5b371707f7bcde6234fe18577bca62203f9abb1ad32ef1ddaa128b2b25d4d3fee415f87fc05017cc05462c9f995df 
+
+
+EXTENDED STAY
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009ffe9aa706a631073d5659e4982a7164be294e879e6ddeca2ba6d5dba6a10cc4d35a6f8b2504dd1cb8e195c235ba832d3f 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c969d8844315a0a1861455e3580a09e8878b5c0f6d3e9fccf243ba3b17371133833564bdd1c88d10f79b1b4ec362cff99 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c36decec36d73ebd95a8895ce62730388b4da0a3a01a335a964e9f2a2e6165b0df8ed3b3e107878cf39bc6340c36bd33c 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c6604a667f2a54e730980abd93c65fe13f1b8841c4bd67d2431883cab703f7912cd179cebe60ed7189189d81c14a1a410 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9cc73e5e055689b21814758835c09f7bb1c90513c71445b3f27893054eecdc0fa53292ab88b5300a4c523eef8b04d8baf6 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c86f4755ac92bb392f82f4430f25a0e5495bf60093bbc6a7b9be9d4c1a07e6628551e328a8ff79f5398e94fd27faf6b75 
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=fc7897a874fbcb9c4ed4c88a4f55bda88d6b1fc6219ba903ee22997faf3b9bf3f6311895aa93e32ca551e85f7b20d9b5d23acbb746a5d01e 
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb170d37e8176fd827bacf9a5ab4cd8c9b6986e956c8520b7780097b09906a45e8e298d951d1af065da012f1439199177499 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17303309a7c5b3158b734a4c04372ec397a25e766c634e95a41fa9bd55e6ffed4dcab8aa144dcfc57d0c5a6c182f3848df 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb1713a59830a4a05c6d2a4e9eb32422c0ac5b2e276297fda86091773c768ed22d18c8b517c51fe26547d7c8a73295facb4a 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009ffe9aa706a631073d5659e4982a7164be294e879e6ddeca2ba6d5dba6a10cc4d35a6f8b2504dd1cb8e195c235ba832d3f 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb173e500bf052d9bec551b7666fe1b2ff6c0ce6252730c7a10fc4490f792fc15c5943b7fc8594cdbd47ffc5cf522f82b844 
+
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17f3a82d4f6f155b37a605ed9adb12afb621154a81e5fc8c19111e1a17901d73c950ada62a95d3cbfa0c22855a5a22407c 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17c29796501f58c7ed689f430462709c36e462c13e5dbb0d9abe459c7fe63e0fa639a3a2ed116b3ea6a008eea339c9f173 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb177d38809e1b1d388f574cec27f83f55d9448b5a992840129391cd52d406ffa769abde79ca1b2ddaa57251742162a0bac3 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb176c64e0f2c089d357c89c8b4eda00cd40208921026ec404d7ad310cfafd401da23cc72583dcf2da6c7946f90d0a7de8e4 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17367ef8497090ff0ff2308b9d4ed3288cf48b6a37afc4796692deadca46d2e386f15741c306b50db68ab732ab67eb0d0a 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=426708f36609bb17716b9dfe7225fe9948efbf1324a8829a06024a3ab51bdb54f9815253a5875b29fce4f7379571a0b824c31d70ed93a81e 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009f83a5b371707f7bcde6234fe18577bca62203f9abb1ad32ef1ddaa128b2b25d4d3fee415f87fc05017cc05462c9f995df 
+
+
+DESTINATIONS
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009fe2d628cba14a1f9d75315ffc40dbbfe4d6fd54ba59e31bc7a7aaaed9e877dfd83f042b00cc99801029db2e1fee968e5c 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009fe95e2c85ff67056b20dd19a2b8fbb599b9e2882fbebbe539609366742fa170dd8116eea62bc94b432a1929898f966e56 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009f37f3088348c15792dbe25064ef453ad0bab3ea14ccfe4cbab42ba8a1c54ce3e0e5df53e90c64d4cd6faa4bd0ac7e0172 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009fed015c203b8c9c2ec8809ed7c8332abd2b617a9a54561fe77949acdab0474b4ada40874da9c54d5cc7d9c84e77d2d657 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009fe09f2a6152b34717c6c54fefe3e446b293f88dbc0492567189f6b600c1d6dac8e74d732260075658ad8c9ffefe27354a 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009fb14a430e3347a64f4fc264b923bffbbff847a281f6753e147709be548129b26b380f5609f336c5614a6f1f536780c025 
+
+
+CAESARS ENTERTAINMENT
+
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009f6b82a9e1f5a781c3c178eaa4ef93f9d97ccbee41b33e66bee023fc4afa9ee325820ee92cf2318b6da74325237d6f1fb0 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=0c66077a643e009f827beafad141e5828ce56edff40db2209aecba88095d8bb6d27e812a9e321c8aa69724ab28b7ce4ab757daecad050acd 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063af72428d9122059b72d6807e5c9b39e564c47919e1ff3bb63d2666246fca3dadb96c366dd189e989b1df1e6635d0a1d0fc 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063af1ef331d2cb0f08db7a29432d586345e2ef7d14afe880c0a2059b5a4604403240b168c240115a5f15712581225555982f 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063af11eec3a679cb3316c708afae930d7cb299a461a24fbadfb8607723b32bf20d3a2e11d8431a6bb1bebb8622d1818cfd4a 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063afb8bb19795b0e785528d72c2fc62b298befa98af996dd2b266a6dc35b966d43d638782d9c225d850a23021f1304e46e37 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063af0c9d355dcf16d6ea3cad3c003c05d8c3e39d5df5b80a5b5168d3c4c37d82b842c860198f438dee83c71684795682dfe8 
+
+ 
+ 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063aff0f68369c7109b4d57a6cc92ceeff98b6ca35287ea62c21815f5de4dbe8bc34b51a01e01d565a0eea865d41c4bfe46bd 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063aff596fce284dce8402d95d49ec71db37d048f251af600ea10c1afbf76225ec88c6cf69c702c679e39b9ed9c233f1d3418 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063afdc50c0848b062e9b3bd2e81179cf07f8c06560272db6dcf9400efe647b938fc443c505e0e588a1bdc226005805b61651 
+
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063affccb15e94e2f5c119237b3d5e8f3e12afea6aaa722b7582175439716ba89aca07c98bf72d4532b08a54e9e3a478054b2 
+
+
+
+
+
+
+
+
+
+
+Please do not reply to this message.
+
+
+
+You are receiving this communication as a member of the Wyndham Rewards program.
+
+
+This e-mail was sent by Wyndham Rewards, Inc.
+
+
+Wyndham Rewards values your online privacy. For more information, 
+http://click.emails.wyndhamhotelgroup.com/?qs=bf72d51cf3e063af705ce7cc61f20650df2395fa927ea5d241742ead22bab2b8f8811699c6e43b8656da8e0ec4ebd8585818cc4247ec9fb6 
+view our privacy notice .
+
+
+
+To contact us please fill out our customer inquiry form 
+http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c34f4d98a1353425c8cf527244fa79b52315f3bbafd7fbb89986b1b90cc2041dce1b7a129dceca2315e51ec21d62a80d02b 
+here .
+
+
+
+To unsubscribe please click 
+http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c347289a8289cb51f6ec5867da32c8d2afb29e0f9a70915d7854ddd0a90c76b3fcde7c8ca578511a513d4d9c810c9840101 
+here .
+
+
+
+If you prefer, you may send your unsubscribe request to:
+
+
+Wyndham Hotel Group, LLC
+
+
+22 Sylvan Way
+
+
+Parsippany, New Jersey 07054
+
+
+Attn: Privacy/Opt Out
+(c) 2018 Wyndham Rewards, Inc. All rights reserved. Most hotels are independently owned and operated. A limited number are managed and/or owned by an affiliate.
+
+
+
+
+
+
+
+
+
+
+
+
+--h8snb1JxkJwI=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<!-- /Outlook DPI Scaling To make VML and images scale properly -->
+<head>
+<ampscript style="font-size: 5px;">
+	
+</ampscript>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="x-apple-disable-message-reformatting" />
+<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,400italic,700,700italic,300italic,300,800,800italic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,600italic,600,400italic' rel='stylesheet' type='text/css'>
+<title>Wyndham Rewards</title>
+<style type="text/css">
+	/* import webfont */
+	@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700italic,700,400italic,800italic,800,300italic,300);
+
+	@media all{
+	    .merriweather { font-family: 'Merriweather Sans', 'Trebuchet MS', Helvetica, Arial, sans-serif !important; }
+	    .standardArabic { font-family: 'Arabic Transparent', 'Arabic Typesetting', 'Geeza Pro', sans-serif !important; }
+	    .standardChinese { font-family: å¾®è½¯éé», 'Microsoft Yahei', å®ä½, sans-serif !important; }
+	    .openSans { font-family: 'Open Sans', Verdana, Helvetica, Arial, sans-serif !important; }
+	}
+
+	/*RESET*/
+	.display-cell a { color: #6d6e71; text-decoration: none; }
+	/* Chrome fix for a border being drawn around the movable ink tracking pixel with the src is empty. */
+    img[src=''], img:not([src]) { opacity: 0; }
+
+	/* T&C's color is #999999. */
+	.appleLinksTerms a { color: #999999; text-decoration: none; }
+
+	body { margin: 0 !important; padding: 0; text-rendering: optimizeLegibility; width: 100%; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+	
+	/* Android 4.4 margin fix. */
+	div[style*="margin: 16px 0"] { margin:0 !important; }
+	/* End Android 4.4 margin fix. */
+
+	table { border-collapse: collapse !important; }
+	table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+	#outlook a { padding: 0; }
+	.ReadMsgBody, .ExternalClass { width: 100%; }
+	.ExternalClass .element * { }
+	img { border: 0; outline: none; -ms-interpolation-mode: bicubic; }
+	a img { border: none; text-decoration: none; }
+	#fix-gmailApp { display: none; mso-hide: all; }
+	@-ms-viewport { width: extend-to-zoom; zoom: 1.0; }
+
+	/* STANDARD MQ FOR ALL DEVICES */
+	@media all and (max-width: 500px), all and (max-device-width: 670px) {
+
+		/*OOCSS*/
+		#preHeader, #header, #hero, #promo, #social, #footer-tnc, #eNewsTracker,
+		#preHeader table, #header table, #hero table, #promo table, #social table, #footer-tnc table { float: none; }
+		.width-100 { width: 100% !important; }
+		.width-94  { margin: 0 auto; width: 94% !important; }
+		.width-90  { margin: 0 auto; width: 90% !important; }
+		.width-85  { margin: 0 auto; width: 85% !important; }
+		.width-80  { margin: 0 auto; width: 80% !important; }
+		.width-75  { margin: 0 auto; width: 75% !important; }
+		.width-70  { margin: 0 auto; width: 70% !important; }
+		.width-65  { margin: 0 auto; width: 65% !important; }
+		.width-60  { margin: 0 auto; width: 60% !important; }
+		.width-55  { margin: 0 auto; width: 55% !important; }
+		.width-50  { margin: 0 auto; width: 50% !important; }
+
+		.fontSize-11 td { font-size: 11px !important; line-height: 15px !important; }
+		.fontSize-12 td { font-size: 12px !important; line-height: 16px !important; }
+
+		.hide 				  { display: none !important; }
+		.stack  			  { display: block; }
+		.remove-padding 	  { padding: 0 !important; }
+		.remove-paddingTop    { padding-top: 0 !important; }
+		.remove-paddingBottom { padding-bottom: 0 !important; }
+		.remove-paddingLeft   { padding-left: 0 !important; }
+		.remove-paddingRight  { padding-right: 0 !important; }
+		.remove-border 	      { border: 0 !important; }
+		.remove-borderTop     { border-top: 0 !important; }
+		.remove-borderBottom  { border-bottom: 0 !important; }
+		.remove-borderLeft    { border-left: 0 !important; }
+		.remove-borderRight   { border-right: 0 !important; }
+
+		.container { width: 100% !important; float: left; }
+
+		td.removeBackground { background: none !important; height: auto; }
+
+		/*LOGO*/
+		table#logo-wyndham-wrap { background-color: #ffffff !important; }
+		table#logo-wyndham { margin: -38px auto 0 auto; }
+
+		/*PROFILE (SHOEBOX)*/
+		td#profile { background-color: #ffffff; display: block; padding-top: 0 !important; padding-bottom: 6px !important; text-align: left; }
+		td#profile td { text-align: left; }
+		td#profile-info { border-right: none !important; border-left: solid 6px #75d1f4; padding: 0 0 0 8px !important; position: relative; }
+		span#profile-points { position: absolute; top: 0; right: 6px; }
+		td#header-wrap { background: none !important; }
+
+		/*SOCIAL*/
+		table#social-links td { border-bottom: solid 2px #ffffff; font-size: 16px !important; width: 33.33333333%; }
+		td#social-links-last { border-right: none !important; }
+		table#social-follow { margin: 0 auto; }
+		td#social-follow-last { padding-right: 0 !important; }
+	}
+
+	/* some Android devices */
+	@media only screen and (device-width: 720px) and (device-height: 1280px) and (-webkit-min-device-pixel-ratio : 2) and (orientation: portrait), only screen and (device-width: 1080px) and (device-height: 1920px) and (-webkit-min-device-pixel-ratio : 3) and (orientation: portrait){
+		.androidBreak { display: block; }
+	}
+
+	/* MQ FOR CSS3 USE (animations by -webkit-) !watch out for Outlook.com! */
+	/* all iphones, outlook 2016, apple mail */
+	@media screen and (-webkit-min-device-pixel-ratio: 0) {
+		/*FOOTER TERMS AND CONDITIONS*/
+		table#footer-tnc { border: solid 1px #596264; display: block; margin: 20px 0 0 !important; position: relative; }
+		td#footer-tnc-firstChild { padding: 10px !important; }
+		label[for="footer-tnc-button"] div,
+		label[for="footer-tnc-button"] div span { color: #555d60 !important; cursor: pointer; display: block !important; font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 20px !important; max-height: none !important; overflow: visible !important; }
+
+		input#footer-tnc-button:checked ~ table div { max-height: 25000px; }
+
+		div#footer-terms-wrap { max-height: 0; overflow: hidden; -webkit-transition: max-height 0.2s ease-in-out; }
+		table#footer-terms td { padding-top: 10 !important; }
+		span#footer-tnc-arrow { background: no-repeat url('http://htmltest.denalimarketing.com/wyndham/1879304/images/icon-arrow.png') center center; background-size: 100% auto; display: block; height: 24px; position: absolute; top: 10px; right: 1.2%; width: 24px; -webkit-transform: rotate(0); -webkit-transition: -webkit-transform 0.2s ease-in-out; }
+		input#footer-tnc-button:checked ~ table label #footer-tnc-arrow { -webkit-transform: rotate(90deg); }
+		.can-spam { margin: 20px 0 0 0; position: absolute; top: 100%; }
+	}
+	/* View on Web link adjustments. Some languages are quite wordy so we need to move the Chevron to the left or right so the link is not covered up. */
+	.mobile_break_fr { visibility:hidden; display: none;}
+	@media all and (max-width: 500px), all and (max-device-width: 670px){
+		/* Move Chevron to the left. */
+	    
+
+		.mobile_break_fr { display:block !important; }
+	    .mobile_french_view_on_web_height_adj { line-height:17px !important; }
+	}
+</style>
+<!-- OUTLOOK STYLES -->
+	<!-- Outlook DPI Scaling To make VML and images scale properly -->
+	<!--[if gte mso 9]>
+	<xml>
+	<o:OfficeDocumentSettings>
+	<o:AllowPNG/>
+	<o:PixelsPerInch>96</o:PixelsPerInch>
+	</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<!-- /Outlook DPI Scaling To make VML and images scale properly -->
+<!-- /OUTLOOK STYLES -->
+</head><body class="body" yahoo="fix" style="background-color: #ffffff; height: 100%; margin: 0; padding: 0; width: 100%;">
+
+<div class="font-help" style="background-color: #ffffff; height: 100%; margin: 0; padding: 0; width: 100%;">
+	<!-- BACKGROUND -->
+	<!--[if gte mso 9]>
+		<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+		<v:fill type="tile" src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/9/WR_BackgroundGradient10k.jpg" color="#ffffff"/>
+		</v:background>
+	<![endif]-->
+	<!-- /BACKGROUND -->
+
+	<!-- FULL WRAP -->
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="height: 100%; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; width: 100%;">
+		<tr><!-- @bgGradient is set in the Global Variables file. -->
+			<td id="fullWrap" align="center" background="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/9/WR_BackgroundGradient10k.jpg" valign="top" style="height: 100%; padding-top: 14px;">
+                <table class="width-100" border="0" width="570" align="center" cellpadding="0" cellspacing="0" style="width: 570px; margin:0 auto;">
+                    <tr>
+                        <td align="center" valign="bottom">
+	                        
+								<!-- PREHEADER -->
+							<table id="preHeader" class="width-94" width="570" align="center" border="0" cellpadding="0" cellspacing="0" dir="ltr" style="width:570px; margin:0 auto; direction:ltr;">
+								<tr>
+									<td class="hide merriweather" dir="ltr" align="left" style="width: 75%; padding: 0 0 10px; direction: ltr; color: #6d6e71; font-family: Arial, Helvetica, sans-serif; font-size: 11px; mso-line-height-rule:exactly; line-height:15px; direction:ltr; text-align:left;">
+										
+										<a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c34888c1e317f5e524fc3cb55c6e972aea99b46fd5af3eef02be2ed82d7740727c89bcb701dc1ba3e769d24b667e614202a" target="_blank" style="text-decoration:none; color:#6d6e71;">
+												<span style="text-decoration:underline;">Happy 9<sup style="font-size: 9px !important; line-height: 9px !important; vertical-align: top;">th</sup> anniversary</span>!
+											</a>
+										
+									</td>
+									<td class="merriweather" dir="ltr" align="right" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; mso-line-height-rule:exactly; line-height:15px; color: #6d6e71; padding: 0 0 10px; direction:ltr; text-align:right;">
+										<a  href="http://view.emails.wyndhamhotelgroup.com/?qs=1451d529014765380b5f5eacef4d915717bb8c2821d3a1f9fa2e98459c1f515e087aaaa770558b77c5507befae86938eefbfba368a08dacf1fe7ed638565f173911b205168e8da7d" target="_blank" style="color: #6d6e71; text-decoration:underline;">View on Web</a>
+									</td>
+								</tr>
+							</table>
+							<!-- /PREHEADER -->
+							
+
+							<!-- HEADER -->
+							<table id="header" class="width-100" width="" align="center" border="0" cellpadding="0" cellspacing="0" style="width:px; margin:0 auto;">
+								<tr>
+									
+									<td class="removeBackground" background="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/8/wr-anniversary-bg.jpg" bgcolor="#ffffff" height="385" valign="top" width="570" style="background-position: 0 0; background-repeat: no-repeat; width:570px;">
+										
+										<!--[if gte mso 9]>
+											<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="background-position: 0 0; width:570px;height:385px;">
+											<v:fill type="frame" src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/8/wr-anniversary-bg.jpg" color="#ffffff" />
+											<v:textbox inset="0,0,0,0">
+										<![endif]-->
+										<table class="width-100" width="570" align="center" border="0" cellpadding="0" cellspacing="0" style="width:570px;">
+											<tr>
+												<td id="hero-inner" align="center" height="100" valign="top">
+													
+														<style type="text/css">
+    @media all and (max-width: 500px), all and (max-device-width: 670px){
+        
+            #preHeader td:last-child a { position: relative; width: 25%; display: block; float: right; padding: 2vw 2vw 0 0; }
+        
+
+        /* Shoebox 3.2 */
+        #fullWrap { padding:0 !important; position: relative; }
+        #header { background:#ffffff; }
+        #preHeader { position: absolute; top: 0; left: 0; width: 100% !important; background-color:#cfeffc; }
+        #shoebox { margin-bottom:5px !important; }
+        #shoebox .stack { clear:both !important; display:block !important; }
+        #shoebox .height_auto { height:auto !important; }
+        #shoebox .chevron { position:relative; z-index:1; margin:0 auto; clear:both; float:none !important; width: 45vw; height: auto; }
+        #shoebox .fl_left { float:left !important; }
+        #shoebox .fl_right { float:right !important; }
+        #shoebox .greeting { border-left: solid 8px #75d1f4; }
+        #shoebox .greeting.fl_left td { text-align:left !important; font-size:11px !important; line-height: 15px !important; padding:0 0 0 5px !important; }
+        #shoebox .greeting.fl_right td { text-align:right !important; font-size:11px !important; line-height: 15px !important; padding:0 5px 0 0 !important; }
+        #shoebox .statuspoints.fl_left td { text-align:left !important; font-size:11px !important; line-height: 15px !important; padding:0 0 0 10px !important; }
+        #shoebox .statuspoints.fl_right td { text-align:right !important; font-size:11px !important; line-height: 15px !important; padding:0 10px 0 0 !important; }
+        #shoebox .wr-app-link { padding: 1vw 2vw 2vw 0 !important; font-size:11px !important; line-height: 15px !important; }
+    }
+</style>
+
+
+
+<table id="shoebox" class="width-100" align="center" border="0" cellpadding="0" cellspacing="0" width="570" style="width:570px; margin:0 auto;">
+    <tr>
+        <td>
+            <table class="width-100" align="center" border="0" cellpadding="0" cellspacing="0" width="570" style="width:570px; margin:0 auto;">
+                <tr>
+                    <th class="stack width-100" align="right" width="195" style="padding:0; font-weight:normal; width:195px;">
+                        <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c3402a97c6c136664571d13b00b42eaec2db22856e053391f6d4b4f72dd512d70739bcb50fac1fe657e395fd615cffbbf44" target="_blank" title="Wyndham Rewards&#8480;" style="color: #0f7ec2; text-decoration: none;">
+                            <img class="chevron" src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/7/WRChevronLogo_USg.png" alt="Wyndham Rewards" border="0" height="100" width="164" style="display: block; float:right;" />
+                        </a>
+                    </th>
+                    <th class="stack width-100" align="right" width="375" valign="top" style="padding:0; font-weight:normal; width:375px; vertical-align:top;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td class="height_auto" height="85" valign="middle" style="height:85px;">
+                                    
+                                    <table class="remove-border" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-right:8px solid #75d1f4;">
+                                        <tr>
+                                            <td align="right">
+                                                <table class="width-50 greeting fl_left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td class="merriweather" align="right" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; mso-line-height-rule: exactly; line-height: 20px; color: #6d6e71; direction: ltr; padding-right:5px; text-align:right;">
+                                                            Hello, <span style="color: #1d7ec2;">Thelma</span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="merriweather" align="right" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; mso-line-height-rule: exactly; line-height: 20px; color: #6d6e71; direction: ltr; padding-right:5px; text-align:right;">
+                                                            Member <span style="color: #1d7ec2;"># <span style="direction:ltr;">118229601H</span></span>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class="width-50 statuspoints fl_right" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td class="points merriweather" align="right" dir="ltr" style="font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #1d7ec2; mso-line-height-rule: exactly; line-height: 20px; direction: ltr; padding-right:5px; text-align:right;">
+                                                            BLUE Member <span class="hide" style="color: #6d6e71;"> &#124; </span> <span class="mlPoints stack">0&nbsp;<span style="color: #6d6e71;">points</span></span>
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                    
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                </td>
+                            </tr>
+                        </table>
+                    </th>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    
+</table>
+													
+													<style>
+@media all and (max-width: 500px), all and (max-device-width: 670px){
+	.width-100 { width:100% !important; }
+	.wr-anniversary .width-94 { display:block; width:94% !important; margin:0 auto; padding-left:0 !important; padding-right:0 !important;}
+	.wr-anniversary .width-50 { width:50% !important; }
+	.wr-anniversary .remove-padding { padding:0 !important; }
+
+	.relative { position:relative; }
+	.absolute { position:absolute; top:0; left:0; width:100%; }
+
+	.absolute img {display: block; width: 47vw; height: auto; position: absolute; right: 3vw; top: 6vw; }
+
+	.hero-content {
+        background: no-repeat url('http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/8/wr-anniversary-bg_m.jpg');
+		-webkit-background-size: contain;
+		-moz-background-size: contain;
+		-o-background-size: contain;
+		background-size: contain;
+		background-position:100% 0;
+		height:93vw;
+		vertical-align: bottom;
+	}
+
+	.wr-anniversary {
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,fcfdff+40,f5fafc+100 */
+		background: #ffffff; /* Old browsers */
+		background: -moz-linear-gradient(top,  #ffffff 0%, #fcfdff 40%, #f5fafc 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top,  #ffffff 0%,#fcfdff 40%,#f5fafc 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom,  #ffffff 0%,#fcfdff 40%,#f5fafc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5fafc',GradientType=0 ); /* IE6-9 */
+	}
+
+	.wr-anniversary .headline { width:50% !important; font-size:9vw !important; line-height:10vw !important; padding:7vw 0 5vw 4vw !important; display:block; }
+	.wr-anniversary .message-copy {width: 55vw !important; display: block; padding:2vw 0 5vw 4vw !important; font-size: 4.5vw !important; line-height: 5.5vw !important; }
+	.wr-anniversary .hero-button { padding-bottom:6vw; }
+}
+</style>
+
+<!-- Hero -->
+<table class="wr-anniversary width-100 relative" width="570" style="width:570px;" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="hero-content relative" valign="top" align="left">
+			<table align="left" class="relative width-100" width="290" style="width:290px;" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td class="headline merriweather" align="left" style="color: #0f7ec2; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; font-size: 28px; mso-line-height-rule:exactly; line-height: 30px; padding: 30px 0 8px 20px; letter-spacing:-1px;">
+						<strong><span class="br">It&rsquo;s been</span> magical</strong>
+					</td>
+				</tr>
+				<tr>
+					<td class="remove-padding" align="left" style="color: #6d6e71; font-family:Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 15px; mso-line-height-rule:exactly; line-height: 20px; padding:0 20px 15px;">
+						<div class="message-copy">
+							<span>Thank you for making memories with us for 9 years. We truly value loyal members like you, and hope that you&rsquo;ve enjoyed countless getaways with us. Ready for another?</span>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="width-94 hero-button" align="left">
+                    	<!-- BUTTON -->
+                        <table class="width-100" align="left" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="hide" style="width:20px;"></td>
+                                <td class="merriweather" align="center" bgcolor="#75d1f4" valign="middle" style="font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; font-size: 14px; padding:11px 19px; mso-line-height-rule: exactly; line-height: 14px; color:#ffffff;">
+									<a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c34ab00042fbde00f010d15d5680b89dcb2ce25cec6d1939d47092b73a48847af9f0ea3b31da83457ff96d3ba1af3c3974b" target="_blank" style="text-decoration:none; display:block; color:#ffffff;" title="Make more memories">
+										Make more memories
+									</a>
+								</td>
+                            </tr>
+                        </table>
+                    	<!-- /BUTTON -->
+                    </td>
+				</tr>
+			</table>
+		</td>
+		<td class="absolute" align="left">
+			<img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/8/wr-anniversary-yr9.png" width="266" height="285" border="0" style="display:block;" alt="" />
+		</td>
+	</tr>
+</table>
+<!-- /Hero --> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td bgcolor="#f0f1f2" align="center" valign="top" style="padding: 0; font-size:7px; mso-line-height-rule: exactly; line-height:7px;">&nbsp;</td>
+    </tr>
+</table>
+												</td>
+											</tr>
+										</table>
+										<!--[if gte mso 9]>
+											</v:textbox>
+											</v:rect>
+										<![endif]-->
+									</td>
+									
+								</tr>
+							</table>
+							<!-- /HEADER -->
+
+							<!-- eNEWS TRACKER -->
+			                
+			                	<!-- don't display the eNews Tracker if it's not used. -->
+			                
+							<!-- /eNEWS TRACKER -->
+
+							<!-- HERO, -->
+			                
+			                	<!-- don't display Clickable Hero if it's not used (this fixes an issue with Outlook 2013 where empty tables create unwanted whitespace. -->
+			                
+							<!-- /HERO -->
+
+							<!-- PROMO -->
+			                
+			                	<!-- don't display Promo if it's not used (this fixes an issue with Outlook 2013 where empty tables create unwated whitespace. -->
+			                
+							<!-- /PROMO -->
+
+							<!-- CC BANNER -->
+			                
+			                	<!-- don't display this module if it's not used (this fixes an issue with Outlook 2013 where empty tables create unwated whitespace.) -->
+			                
+							<!-- /CC BANNER -->
+
+							<!-- US NEWS AWARD -->
+			                
+			                	<!-- don't display this module if it's not used (this fixes an issue with Outlook 2013 where empty tables create unwated whitespace.) -->
+			                
+							<!-- /US NEWS AWARD -->
+
+			                
+			                	<!-- don't display the spacer if the banners are off. -->
+			                
+
+							<!-- SOCIAL BAR -->
+			                
+								
+									
+
+                            <style type="text/css">
+                                #social div, #social button { display:block !important; margin:0 !important; }
+                            </style>
+                            
+                            <!-- SOCIAL -->
+                            <table id="social" class="width-100" width="570" align="center" border="0" cellpadding="0" cellspacing="0" style="width:570px;">
+                                <tr>
+                                    <td bgcolor="#0f7ec2">
+                                        <!-- LINKS --> 
+                                        <table id="social-links" class="width-100" align="left" bgcolor="#75d1f4" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                            <tr>
+                                                <td class="merriweather"  align="center" bgcolor="#75d1f4" height="50" valign="middle" width="96" style="width:96px; height:50px; border-right: solid 2px #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; mso-line-height-rule:exactly; line-height:20px;">
+                                                    <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c346074b4240f213072df1ee4c4e189f0352e5efbb48cf3503417236348ae367fea130722e2637d3823e7defd0cb28ca78e" target="_blank" style="color:#ffffff; display: block; text-decoration: none;"><strong>Earn</strong></a>
+                                                </td>
+                                                <td class="merriweather"  align="center" bgcolor="#75d1f4" height="50" valign="middle" width="96" style="width:96px; height:50px; border-right: solid 2px #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; mso-line-height-rule:exactly; line-height:20px;">
+                                                    <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c3478dccf5a8447d3473069b2a8047ec24631eb97de79a019e451bcf3ea2b729f536fd72e341d76554a0fafd8fcb83596d2" target="_blank" style="color:#ffffff; display: block; text-decoration: none;"><strong>Redeem</strong></a>
+                                                </td>
+                                                <td id="social-links-last" class="merriweather"  align="center" bgcolor="#75d1f4" height="50" valign="middle" width="96" style="width:96px; height:50px; border-right: solid 2px #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; mso-line-height-rule:exactly; line-height:20px;">
+                                                    <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c34b8b3a1e1ae6bde600172921c55940abdcb1287d3776a262d88dc5ea2e2994666d7453031b75d16efe89120e17ebbbe4f" target="_blank" style="color:#ffffff; display: block; text-decoration: none;"><strong>Book</strong></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!-- /LINKS --> 
+
+                                        <!--[if gte mso 9]>
+                                        </td>
+                                        <td align="right" bgcolor="#0f7ec2" valign="middle" width="246" style="width:246px;">
+                                        <![endif]-->
+                                        
+
+                                        <!-- FOLLOW and ICONS -->
+                                        <table id="social-follow" align="right" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                            <tr>
+                                                <td class="merriweather"  align="center" valign="middle" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 18px; padding-right: 22px;">
+                                                
+                                                <strong >Follow us on</strong>
+                                                </td>
+                                                <td style="padding-right: 12px;">
+                                                    <a href="http://click.emails.wyndhamhotelgroup.com/?qs=ef7821551c124c34ef13a41e18746de87f68390ae6ad088d0e7a246109ea831dd80f489fb34ef8a4edc71555e23f55395397534776a4b13e"  target="_blank" title="Instagram" style="color:#ffffff; text-decoration:none;">
+                                                        <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/8/icon-instagram-01.png" alt="Instagram" border="0" height="50" width="26" style="display: block;" />
+                                                    </a>
+                                                </td>
+                                                
+                                                <td style="padding-right: 12px;">
+                                                    <a href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57e81e3442c38fca6ef4dbf3d33beb26548f921b0f8b315560ae55d286ad5bb204d521e792750374d0be7fe9d5c2b459fa"  target="_blank" title="Facebook" style="color:#ffffff; text-decoration:none;">
+                                                        <img src="http://htmltest.denalimarketing.com/wyndham/1879304/images/icon-facebook.gif" alt="Facebook" border="0" height="50" width="27" style="display:block;" />
+                                                    </a>
+                                                </td>
+                                                
+                                                <td id="social-follow-last" style="padding-right: 12px;">
+                                                    <a href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57bd4d96c1eb999385138c44cb59bfa7cae740ec3f8c501b0728272cbe994e36323f9cf0cdd48c18e1f71b85f6c0159cc8"  target="_blank" title="Twitter" style="color:#ffffff; text-decoration:none;">
+                                                        <img src="http://htmltest.denalimarketing.com/wyndham/1879304/images/icon-twitter.gif" alt="Twitter" border="0" height="50" width="22" style="display:block;" />
+                                                    </a>
+                                                
+                                                
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!-- /FOLLOW and ICONS -->
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- /SOCIAL -->
+								
+							
+							<!-- /SOCIAL BAR -->
+
+							<!-- BRAND BAR -->
+							
+								
+
+<style type="text/css">
+.merriweather, [style*="Merriweather Sans"] { font-family: 'Merriweather Sans', 'Trebuchet MS', Helvetica, Arial, sans-serif !important; }
+.wr_brandbar .row { display:none !important; visibility: hidden; }
+.wr_brandbar .spacer { display:block !important; }
+.desktop_hide { display:none !important; }
+@media (max-width: 569px) {
+    .desktop_hide { display:table !important; }
+    .wr_brandbar { min-width:100% !important; width:100% !important;  }
+    .wr_brandbar .wr_brandbar_wrapper { width:92% !important; margin:0 auto; }
+    .wr_brandbar .width-100 { width:100% !important; }
+    .wr_brandbar .remove-padding { padding:0 !important; }
+    .wr_brandbar .height-auto { height:auto !important; }
+    .wr_brandbar .hide { display:none !important; opacity: 0; }
+    .wr_brandbar img { position: relative; height:auto !important; }
+
+    .wr_brandbar .bbwrlogo { padding:12% 0 5% !important; border-bottom:1px solid #a7a9ac; }
+    .wr_brandbar .bbwrlogo img { width:28%; height:auto !important; }
+
+    /* HOTELS */
+    .wr_brandbar .bbhotel .headline { border: none !important; font-size: 2vw !important; padding: 5% 0 6% !important; }
+    .wr_brandbar .bbhotel .iconwrapper { padding:0 !important; }
+    .wr_brandbar .bbhotel .iconwrapper img { display: inline-block !important; max-height: none !important; }
+    .wr_brandbar .bbhotel .iconwrapper .row { display:table !important; table-layout: fixed; visibility: visible; }
+    .wr_brandbar .bbhotel .iconwrapper .row a { display:table-cell; vertical-align: middle; }
+    .wr_brandbar .bbhotel .iconwrapper .row a:first-child { text-align:left; }
+    .wr_brandbar .bbhotel .iconwrapper .row a:last-child { text-align:right; }
+
+    .wr_brandbar .bbhotel .iconwrapper .row1 { margin-bottom:4.5%; }
+    .wr_brandbar .bbhotel .iconwrapper .row1 img { width:72%; }
+    .wr_brandbar .bbhotel .iconwrapper .row1 .bblogo.dx img { left: -16%; }
+    .wr_brandbar .bbhotel .iconwrapper .row1 .bblogo.es img { left: -7%; }
+    .wr_brandbar .bbhotel .iconwrapper .row1 .bblogo.dz img { left: -4%; }
+    
+    .wr_brandbar .bbhotel .iconwrapper .row2 { margin-bottom:3%; }
+    .wr_brandbar .bbhotel .iconwrapper .row2 img { width:61%; }
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.tq img { left:4%; }
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.wg img { left:11%; }
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.wdgarden img { left:16%; }
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.bh img { left:12%; }
+
+    .wr_brandbar.LATAM .bbhotel .iconwrapper .row2 .bblogo.ra img,
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.ra.intl img,
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.wdgarden img,
+    .wr_brandbar .bbhotel .iconwrapper .row2 .bblogo.bh img { left:20%; }
+
+    .wr_brandbar .bbhotel .iconwrapper .row3 { margin-bottom:5.5%; }
+    .wr_brandbar .bbhotel .iconwrapper .row3 img { width:66%; }
+    .wr_brandbar .bbhotel .iconwrapper .row3 .bblogo.mt img { left:-18%; }
+    .wr_brandbar .bbhotel .iconwrapper .row3 .bblogo.di img { left:-15%; }
+    .wr_brandbar .bbhotel .iconwrapper .row3 .bblogo.hj img { left:5%; }
+
+    /* DESTINATIONS */
+    .wr_brandbar .bbdestinations { padding:5% 0 5.5% !important; }
+    .wr_brandbar .bbdestinations .headline { padding:0 0 4% !important; font-size: 2vw !important;  }
+    .wr_brandbar .bbdestinations .iconwrapper { width:100%; table-layout: fixed; }
+    .wr_brandbar .bbdestinations .iconwrapper td:first-child { text-align:left; }
+    .wr_brandbar .bbdestinations .iconwrapper td:last-child { text-align:right; }
+    .wr_brandbar .bbdestinations .iconwrapper a { display:inline-block !important; padding:5% 0; }
+    .wr_brandbar .bbdestinations .bblogo.cw img  { width: 86%; }
+    .wr_brandbar .bbdestinations .bblogo.svc img { width: 50%; margin:0 auto; }
+    .wr_brandbar .bbdestinations .bblogo.mvc img { width: 72%; left: 20%; }
+    .wr_brandbar .bbdestinations .bblogo.cot img { width: 82%; left:31%; }
+    .wr_brandbar .bbdestinations .bblogo.lan img { width: 34%; left:52%; }
+    .wr_brandbar .bbdestinations .bblogo.wvr img { width: 75%; float:right; }
+
+    /* CAESARS ENTERTAINMENT */
+    .wr_brandbar .bbcaesarsent { padding:5% 0 !important; }
+    .wr_brandbar .bbcaesarsent .headline { border: none !important; font-size: 2vw !important; padding: 0 0 5% !important; }
+    .wr_brandbar .bbcaesarsent .iconwrapper { text-align:center; }
+    .wr_brandbar .bbcaesarsent .iconwrapper table { display:inline-block !important; float:none; clear:both; width:15.25% !important; }
+    .wr_brandbar .bbcaesarsent .iconwrapper table.hide { display:none !important; }
+    .wr_brandbar .bbcaesarsent .iconwrapper table td { padding:0 !important; height:auto !important; }
+    .wr_brandbar .bbcaesarsent .bblogo { padding:5% 0; }
+    .wr_brandbar .bbcaesarsent .bblogo.row2 { padding:10% 0; }
+    .wr_brandbar .bbcaesarsent .bblogo.caesars img   { width:72%; }
+    .wr_brandbar .bbcaesarsent .bblogo.harrahs img   { width:55%; left:20%; }
+    .wr_brandbar .bbcaesarsent .bblogo.horseshoe img { width:80%; left:19%; }
+    .wr_brandbar .bbcaesarsent .bblogo.cromwell img  { width:74%; left:44%; }
+    .wr_brandbar .bbcaesarsent .bblogo.balleys img   { width:46%; left:59%; }
+    .wr_brandbar .bbcaesarsent .bblogo.flamingo img  { width:51%; float:right; }
+    .wr_brandbar .bbcaesarsent .bblogo.linq img      { width:55%; left:12%; }
+    .wr_brandbar .bbcaesarsent .bblogo.nobu img      { width:100%; left:14%; }
+    .wr_brandbar .bbcaesarsent .bblogo.paris img     { width:32%; left:57%; }
+    .wr_brandbar .bbcaesarsent .bblogo.planet img    { width:73%; left:32%; }
+    .wr_brandbar .bbcaesarsent .bblogo.rio img       { width:42%; left:46%; }
+
+}
+</style>
+<table class="wr_brandbar " bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" width="570" style="min-width:570px; width:570px; font-size:0px;">
+    <tr>
+        <td>
+            <table class="wr_brandbar_wrapper" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                    <td class="bbwrlogo" valign="top" align="center" style="padding:45px 0 24px;">
+                        <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b5744608e4824728b30ed80fddede8008679304b6a972f6fe16a67988118d10ba5d3b6a81dcd0ac29e8b80856c1256c55ba" target="_blank" title="Wyndham Rewards" style="text-decoration: none; display:block;">
+                            <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe85127171620d757d/m/13/logo_brandbar_WR.png" alt="Wyndham Rewards" border="0" width="107" style="display: block; height:inherit;" />
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="bbhotel" align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td class="merriweather headline" align="center" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; padding:0 0 10px; border-bottom:1px solid #a7a9ac; text-align:center;">
+                                    HOTELS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="iconwrapper" align="center" style="padding:8px 0 26px;">
+                                    <table class="hide" border="0" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="91" style="width:91px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding=" font-size:0;0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        DISTINCTIVE
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57b9c2170f55f71ad6b88f31610f5039ba66ce31c694beee9ba5fa4673cda8685f8409fc24c61dcd7e242090c4b6d9d896" target="_blank" title="Wyndham Grand" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WDGRAND.png" width="71" border="0" style="display:block;height:inherit;" alt="Wyndham Grand" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="97" style="width:97px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="99%" style="border-left:1px solid #a7a9ac; font-size:0;">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        UPSCALE
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b5708d60fd4900771da808e8db03f5b57d70038541984f51aa107211a29eec1d90338fe35402cefcae022aea385401dc530" target="_blank" title="Dolce Hotels and Resorts" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_DX.png" width="43" border="0" style="display:block;height:inherit;" alt="Dolce Hotels and Resorts" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57712016206f8c894585f32f71c6c7860b5bc13b0a192d7f7f8b33cae203da0183eb8fa9ea5f81fae0eb3552da38b2ae02" target="_blank" title="Wyndham" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WD.png" width="43" border="0" style="display:block;height:inherit;" alt="Wyndham" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="98" style="width:98px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="99%" style="border-left:1px solid #a7a9ac; font-size:0;">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        LIFESTYLE
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="top" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b578f8dfe89d55cfad6e90c55738c05b3e6517b407869253a3568f2317617357f639f888eec47619b2cf9f290e06e0df80b" target="_blank" title="TRYP by Wyndham" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WT.png" width="24" border="0" style="display:block;height:inherit;" alt="TRYP by Wyndham" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b572d6161ace71533619b964c252ceddd9797b06785414f4cd7bde4d52246719994922c7326fbb8966d5ee3a4ee920553a7" target="_blank" title="Esplendor Boutique Hotels" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_ES.png" width="69" border="0" style="display:block;height:inherit;" alt="Esplendor Boutique Hotels" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57a680a69c6fdd929c6e94d3d7b716543bbcdfe66398ea80125c856d85797e5d17d09c476c6d72692d82b96e7359cfb066" target="_blank" title="Dazzler Hotels" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_DZ.png" width="48" border="0" style="display:block;height:inherit;" alt="Dazzler Hotels" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b574bed8b1a047e4341c2421c9573c31d3a21ce512b0b0e45ab6b68b492daa833d456625682e4fc42527346a4f9beb70d29" target="_blank" title="Trademark Hotel Collections" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_TQ.png" width="44" border="0" style="display:block;height:inherit;" alt="Trademark Hotel Collections" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="97" style="width:97px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="99%" style="border-left:1px solid #a7a9ac; font-size:0;">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        MIDSCALE
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="top" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0d933456ea50b9842da83429036c5f984e243c59a366b9ba9c74db1705c13eb71d95a1d8ae2b5d3281cb49e5a5ae1ef17" target="_blank" title="Wingate by Wyndham" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WG.png" width="38" border="0" style="display:block;height:inherit;" alt="Wingate by Wyndham" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d01f5b6be3383ff63c23b69112bd4a3065dcd88822919b4696ea99faa90c7e783007fbf2a83c179c382b37d9217086589e" target="_blank" title="Wyndham Garden" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WDGARDEN.png" width="43" border="0" style="display:block;height:inherit;" alt="Wyndham Garden" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0a76d7eee1c836b89381deac2708dfdb5035e7a11c5b715fac0ccf414aa0f0d11d077a75b59ea000f72ac92ed7127859e" target="_blank" title="Ramada Worldwide" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_RA.png" width="43" border="0" style="display:block;height:inherit;" alt="Ramada Worldwide" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d06f727b6dd71041fa3b3c4897b123fd4cd2c9c39ea2cae5fbf2a1367fdb5b29c1e377fa5c2df742efaba0b054405ae05e" target="_blank" title="Baymont Inn & Suites" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_BU.png" width="45" border="0" style="display:block;height:inherit;" alt="Baymont Inn & Suites" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="97" style="width:97px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="99%" style="border-left:1px solid #a7a9ac; font-size:0;">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        VALUE
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="top" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d00f932378e4e4caf452319a38416c5742a0458c7e4b52a41880793589eaa321c3e0738b6965c2b1cc2d29425609529042" target="_blank" title="Microtel by Wyndham" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_MT.png" width="38" border="0" style="display:block;height:inherit;" alt="Microtel by Wyndham" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d07283485aa309441be059d57e0630c23e1cf59c8ca2c51038fd753a187c66d1d3ad19f6d355bfc4a9811f1a6f2645464b" target="_blank" title="Days Inn" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_DI.png" width="35" border="0" style="display:block;height:inherit;" alt="Days Inn" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0287f3250c59241220c7e963adec6370570c25b1b63773b60e356243bc09053856f42e44d7645de4d1e99ed2634b51023" target="_blank" title="Super 8" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_SE.png" width="17" border="0" style="display:block;height:inherit;" alt="Super 8" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0414a4c77bac0dee19d344908066143166cc873cf8c20432c328477dfd7f8d3e644bf9f08451a0131f5a8460f8c449b46" target="_blank" title="Howard Johnson" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_HJ.png" width="52" border="0" style="display:block;height:inherit;" alt="Howard Johnson" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d02da5b567782964769e7751b59676708989ee0c264120168b7366b7e6c00502c74caf557c92d1d61909d6d0f0c30aac3f" target="_blank" title="Travelodge" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_TL.png" width="45" border="0" style="display:block;height:inherit;" alt="Travelodge" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr><td align="center" valign="top" style="padding: 0; font-size: 5px; mso-line-height-rule: exactly; line-height: 5px;">&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="middle" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e71d3b98eabcb184a070dd2caeeccc28b0b6be9c14e563e52eacff84f469c413add0a11f54403b857ce436d46b268c5cd" target="_blank" title="Knights Inn" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_KI.png" width="23" border="0" style="display:block;height:inherit;" alt="Knights Inn" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="90" style="width:90px;">
+                                                    <tr>
+                                                        <td height="30" valign="top" style="height:30px;">
+                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="99%" style="border-left:1px solid #a7a9ac; font-size:0;">
+                                                                <tr>
+                                                                    <td class="merriweather" align="center" valign="top" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; text-align:center;">
+                                                                        EXTENDED STAY
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" height="26" valign="top" style="height:26px;">
+                                                            <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e3bbb92d687d43a08e7f9e28105df4a16f3608d693b5c205321f2352faee1bc8c7c14f104f35b3290b8bc7cf8c478b481" target="_blank" title="Hawthorn Suites by Wyndham" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_BH.png" width="49" border="0" style="display:block;height:inherit;" alt="Hawthorn Suites by Wyndham" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!--[if !mso]><!-->
+                                    <table class="desktop_hide" align="center" border="0" cellpadding="0" cellspacing="0" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;">
+                                        <tr>
+                                            <td>
+                                                <div class="row row1">
+                                                    <a class="bblogo wdgrand"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57b9c2170f55f71ad6b88f31610f5039ba66ce31c694beee9ba5fa4673cda8685f8409fc24c61dcd7e242090c4b6d9d896" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WDGRAND.png" alt="Wyndham Grand" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo dx"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b5708d60fd4900771da808e8db03f5b57d70038541984f51aa107211a29eec1d90338fe35402cefcae022aea385401dc530" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_DX.png" alt="Dolce Hotels and Resorts" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo es"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b572d6161ace71533619b964c252ceddd9797b06785414f4cd7bde4d52246719994922c7326fbb8966d5ee3a4ee920553a7" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_ES.png" alt="Esplendor Boutique Hotels" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo dz"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57a680a69c6fdd929c6e94d3d7b716543bbcdfe66398ea80125c856d85797e5d17d09c476c6d72692d82b96e7359cfb066" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_DZ.png" alt="Dazzler Hotels" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo wd"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b57712016206f8c894585f32f71c6c7860b5bc13b0a192d7f7f8b33cae203da0183eb8fa9ea5f81fae0eb3552da38b2ae02" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WD.png" alt="Wyndham" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    
+                                                </div>
+                                                <div class="row row2">
+                                                    <a class="bblogo wt"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b578f8dfe89d55cfad6e90c55738c05b3e6517b407869253a3568f2317617357f639f888eec47619b2cf9f290e06e0df80b" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WT.png" alt="TRYP by Wyndham" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    
+                                                    <a class="bblogo tq"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c69289a967a73b574bed8b1a047e4341c2421c9573c31d3a21ce512b0b0e45ab6b68b492daa833d456625682e4fc42527346a4f9beb70d29" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_TQ.png" alt="Trademark Hotel Collections" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo wg"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0d933456ea50b9842da83429036c5f984e243c59a366b9ba9c74db1705c13eb71d95a1d8ae2b5d3281cb49e5a5ae1ef17" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WG.png" alt="Wingate by Wyndham" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo wdgarden"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d01f5b6be3383ff63c23b69112bd4a3065dcd88822919b4696ea99faa90c7e783007fbf2a83c179c382b37d9217086589e" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_WDGARDEN.png" alt="Wyndham Garden" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo bh"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e3bbb92d687d43a08e7f9e28105df4a16f3608d693b5c205321f2352faee1bc8c7c14f104f35b3290b8bc7cf8c478b481" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_BH.png" alt="Hawthorn Suites by Wyndham" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo ra"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0a76d7eee1c836b89381deac2708dfdb5035e7a11c5b715fac0ccf414aa0f0d11d077a75b59ea000f72ac92ed7127859e" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_RA.png" alt="Ramada Worldwide" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    
+                                                </div>
+                                                <div class="row row3">
+                                                    <a class="bblogo bu"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d06f727b6dd71041fa3b3c4897b123fd4cd2c9c39ea2cae5fbf2a1367fdb5b29c1e377fa5c2df742efaba0b054405ae05e" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_BU.png" alt="Baymont Inn & Suites" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo mt"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d00f932378e4e4caf452319a38416c5742a0458c7e4b52a41880793589eaa321c3e0738b6965c2b1cc2d29425609529042" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_MT.png" alt="Microtel by Wyndham" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo di"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d07283485aa309441be059d57e0630c23e1cf59c8ca2c51038fd753a187c66d1d3ad19f6d355bfc4a9811f1a6f2645464b" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Hotel_DI.png" alt="Days Inn" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo se"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0287f3250c59241220c7e963adec6370570c25b1b63773b60e356243bc09053856f42e44d7645de4d1e99ed2634b51023" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_SE.png" alt="Super 8" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo hj"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d0414a4c77bac0dee19d344908066143166cc873cf8c20432c328477dfd7f8d3e644bf9f08451a0131f5a8460f8c449b46" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_HJ.png" alt="Howard Johnson" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo tl"  href="http://click.emails.wyndhamhotelgroup.com/?qs=c5275d1491c465d02da5b567782964769e7751b59676708989ee0c264120168b7366b7e6c00502c74caf557c92d1d61909d6d0f0c30aac3f" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_TL.png" alt="Travelodge" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                    <a class="bblogo ki"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e71d3b98eabcb184a070dd2caeeccc28b0b6be9c14e563e52eacff84f469c413add0a11f54403b857ce436d46b268c5cd" target="_blank"><img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/12/BB_Hotel_KI.png" alt="Knights Inn" style="display: none; font-size: 0; max-height: 0; line-height: 0; mso-hide:all;" /></a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!--<![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="bbdestinations" align="center" style="border-top:1px solid #a7a9ac; padding:23px 0 32px;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td class="merriweather headline" align="center" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; padding:0 0 15px; text-align:center;">
+                                    DESTINATIONS
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <table class="iconwrapper" border="0" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td align="left" valign="middle">
+                                                <a class="bblogo cw"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0ebd61ba502cc4203f60b13ab8e724e2c05fc8c3d90ddfd1239a4857bf2f72153a32d79ac608dd5f80eb73cd9a26a34c1c" target="_blank" title="Club Wyndham" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_CW.png" width="55" border="0" style="display:block;height:inherit;" alt="Club Wyndham" />
+                                                </a>
+                                            </td>
+                                            <td class="remove-padding" align="left" valign="middle" style="padding-left:20px;">
+                                                <a class="bblogo svc"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e8730f2e1286f6f09c981214aa1ad3b3b85c5651816da48e97d88eb767b3036dab2deec388f4c8d86859116dacd379e58" target="_blank" title="Shell Vacations Club" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_SVC.png" width="40" border="0" style="display:block;height:inherit;" alt="Shell Vacations Club" />
+                                                </a>
+                                            </td>
+                                            <td class="remove-padding" align="left" valign="middle" style="padding-left:20px;">
+                                                <a class="bblogo mvc"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e474445862611073d91e182d20308f64f0be880ffa2b5a7ba165d5a99d6dd7f76b02245518a45e14ac8ffd5ff853de220" target="_blank" title="Margaritaville Vacation Club" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_MVC.png" width="47" border="0" style="display:block;height:inherit;" alt="Margaritaville Vacation Club" />
+                                                </a>
+                                            </td>
+                                            <td class="remove-padding" align="left" valign="middle" style="padding-left:20px;">
+                                                <a class="bblogo cot"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e0a7d925a11ee2f5a9582f020acffd17da972038426056dda532d7619f3d618d932752aa18e590141915c375d423d6a08" target="_blank" title="Cottages.com" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_COT.png" width="54" border="0" style="display:block;height:inherit;" alt="Cottages.com" />
+                                                </a>
+                                            </td>
+                                            <td class="remove-padding" align="left" valign="middle" style="padding-left:20px;">
+                                                <a class="bblogo lan"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e3adc283722f960e0ff90701c2fbf26ce5c14a208855edc1bea1b3134ed77eca3850371d0ea5ca016c8962d9fdc0c33ae" target="_blank" title="Landal" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_LAN.png" width="23" border="0" style="display:block;height:inherit;" alt="Landal" />
+                                                </a>
+                                            </td>
+                                            <td class="remove-padding" align="left" valign="middle" style="padding-left:20px;">
+                                                <a class="bblogo wvr"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e4904ebb7581ce23221bfdd213ed3494e057983b94f85bcfcf210ab2af2fee7127a2d715f1db6ad920a007a70942cd133" target="_blank" title="Wyndham Vacation Rentals" style="display:block;">
+                                                    <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_Dest_WVR.png" width="49" border="0" style="display:block;height:inherit;" alt="Wyndham Vacation Rentals" />
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="bbcaesarsent" align="center" style="border-top:1px solid #a7a9ac; padding:20px 0;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td class="merriweather headline" align="center" style="font-size:8px; mso-line-height-rule:exactly; line-height:12px; color:#404041; font-family: Arial, 'Helvetica Neue', Helvetica, 'Merriweather Sans', sans-serif; padding:0 0 14px; text-align:center;">
+                                    CAESARS ENTERTAINMENT
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+                                        <tr>
+                                            <td class="iconwrapper" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="height:30px;">
+                                                            <a class="bblogo caesars"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0e2f72434f6dfce8ca19b4c86412903399d6d735a2c4dca2066fc3b99ebdf783628d23cbd86240ff303594973fb21739af" target="_blank" title="Caesars" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Caesars.png" width="48" border="0" style="display:block;height:inherit;" alt="Caesars" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:27px; height:30px;">
+                                                            <a class="bblogo harrahs"  href="http://click.emails.wyndhamhotelgroup.com/?qs=742b8ff7c6821b0eb9719b5f75018e7a63af15966a5497c7044d307cec82117a012021b6b23432cd2815aaa873ddab6a67125acd75d545d4" target="_blank" title="Harrah's" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Harrah.png" width="36" border="0" style="display:block;height:inherit;" alt="Harrah's" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:21px; height:30px;">
+                                                            <a class="bblogo horseshoe"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f84218212f937b3f0f1147cfabd4ec5be18185a09849ccb0f7fc97376f67728a777852abe0de97166b8224b9cc96525b645ca7cf" target="_blank" title="Horseshoe" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Horseshoe.png" width="51" border="0" style="display:block;height:inherit;" alt="Horseshoe" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:20px; height:30px;">
+                                                            <a class="bblogo cromwell"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f842182166049a504a7a68d4c893cd33b42f54a3edba5cfe07af827e8836edeb416b62703335accd2bb3423bd677793f700956d1" target="_blank" title="The Cromwell" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Cromwell.png" width="49" border="0" style="display:block;height:inherit;" alt="The Cromwell" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:22px; height:30px;">
+                                                            <a class="bblogo balleys"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f842182146efa2d778f0c69b696891d35e4584895b8b103646beebada1771113891ac7237cb1b673fda9d0494b11db0e4b9abbda" target="_blank" title="Bally's" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Balleys.png" width="31" border="0" style="display:block;height:inherit;" alt="Bally's" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:23px; height:30px;">
+                                                            <a class="bblogo flamingo"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821503195ea8f232423f9eb2d8462465bd33bcdd517390f2dfd706148ce1c742908e3fb3bcb7b8cbb81c9c5bce23565f5c5" target="_blank" title="Flamingo" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Flamingo.png" width="36" border="0" style="display:block;height:inherit;" alt="Flamingo" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:18px; height:30px;">
+                                                            <a class="bblogo linq"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821afde92e86a17a39554f44a92c2026a21fce8e8b0b5b49fe6fc45536b87c3a0bbf4d73fef226e1d9c1a8e65bb4c4b0576" target="_blank" title="The Linq" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Linq.png" width="33" border="0" style="display:block;height:inherit;" alt="The Linq" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class="hide spacer" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size:0; clear:both; float:none;"><tr><td>&nbsp;</td></tr></table>
+                                            <!--[if gte mso 9]>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+                                        <tr>
+                                            <td valign="top">
+                                            <![endif]-->
+                                                <!--[if !mso]><!--  -->
+                                                <table class="hide" align="left" border="0" cellpadding="0" cellspacing="0" width="100" style="width:100px;"><tr><td style="font-size:1px; mso-line-height-rule:exactly; line-height:1px;">&nbsp;</td></tr></table>
+                                                <!--<![endif]-->
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="right" valign="middle" height="30" style="height:30px;">
+                                                            <a class="bblogo nobu row2"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f842182139f24a201e36841cf2688f8d74787d9baedbca1a653083d4c18eeeb5dd8d1fd42304120ff1fe5f2009c828d2eda5fcd1" target="_blank" title="Nobu Hotel" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Nobu.png" width="64" border="0" style="display:block;height:inherit;" alt="Nobu Hotel" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:26px; height:30px;">
+                                                            <a class="bblogo paris row2"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821cf9fc3311da3682053138f8a0932b5db6df03891ccbbb24f9a92fb00c692611e8657ff7eba6d4c5bde266bd282dee281" target="_blank" title="Paris" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Paris.png" width="20" border="0" style="display:block;height:inherit;" alt="Paris" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:30px; height:30px;">
+                                                            <a class="bblogo planet row2"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821d1c3f985c0b29f2fe35b1e18364cb2985aa4806da4ca2bef3f1a02f463f628412792e0a794a7c955eca232c7b91bedd2" target="_blank" title="planet hollywood" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Planet.png" width="48" border="0" style="display:block;height:inherit;" alt="planet hollywood" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td align="left" valign="middle" height="30" style="padding-left:34px; height:30px;">
+                                                            <a class="bblogo rio row2"  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821f1368e44a9d109c59142845e6b9f60bec572295596c3747d6a39a5553548d88d86fcf107c8b0c935a857bcaae765a4df" target="_blank" title="Rio" style="display:block;">
+                                                                <img src="http://image.emails.wyndhamhotelgroup.com/lib/fe88127171620d7471/m/11/BB_CaeEnt_Rio.png" width="25" border="0" style="display:block;height:inherit;" alt="Rio" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+							
+							<!-- /BRAND BAR -->
+
+							
+
+							
+
+							<!-- STANDARD FOOTER -->
+							<table id="footer" class="width-100" width="570" align="center" border="0" cellpadding="0" cellspacing="0" style="width:570px; margin:0 auto;">
+								<tr>
+									<td>
+										<table class="width-94" width="100%" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td align="left" class="PadTermsConditions appleLinksTerms" style="color: #999999; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px; padding: 10px 0;">
+													
+														<span class="appleLinksTerms">
+Please do not reply to this message.
+<br /><br />
+You are receiving this communication as a member of the Wyndham Rewards program.
+<br />
+This e-mail was sent by Wyndham Rewards, Inc.
+<br />
+Wyndham Rewards values your online privacy. For more information, <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=60e2b730f8421821644090050c52ef9d19d92a4e438b5bce46838f91317ba815677cfe2dd72b06e1aa139220fd6c1ba2b8c0859cbadb0ab8" style="color:#999999; text-decoration: underline;">view our privacy notice</a>.
+<br /><br />
+To contact us please fill out our customer inquiry form <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=0cf4a94f79a635a6a675b225a2655f8848652ff4b508a04bfa9ef2938d5187bbeb274491d23e1d20896d38158c8233895bfeac9ae1469484" style="color:#999999; text-decoration:underline;" target="_blank">here</a>.
+<br /><br />
+To unsubscribe please click <a  href="http://click.emails.wyndhamhotelgroup.com/?qs=0cf4a94f79a635a6eb1e869fbd50bb33b1ef1cd2ded0d618e561422eee6d04ab673ab67adac55404a3a2e6a2e6f991dea1d5f77307286c44" style="color:#999999; text-decoration: underline;">here</a>.
+<br /><br />
+If you prefer, you may send your unsubscribe request to:
+<br />
+Wyndham Hotel Group, LLC
+<br />
+22 Sylvan Way
+<br />
+Parsippany, New Jersey 07054
+<br />
+Attn: Privacy/Opt Out
+<br /><br />
+&copy; 2018 Wyndham Rewards, Inc. All rights reserved. Most hotels are independently owned and operated. A limited number are managed and/or owned by an affiliate.
+
+</span>
+													
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- /STANDARD FOOTER -->
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END FULL WRAP -->
+
+	<!-- Tracking tags. -->
+	<table class="width-100" width="570" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td>
+				<!-- Litmus Tracker -->
+				
+				<!-- Standard ET Tracker -->
+				<img src="http://click.emails.wyndhamhotelgroup.com/open.aspx?ffcb10-fe90157476660c797c-fe4d1d797d65077f7c1d-fe88127171620d7471-ff3015757d65-fe561774736c017b7713-ff981271" width="1" height="1">
+				<!-- REWARDS:  Tracking pixel for ET.  Helps us track which email clients are being used. -->
+				<img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=0e9a6d0e08238bc2cad8e906e7c5d7a88f3a3a14" width="1" height="1" />
+				<!-- REWARDS: Engagement and Location Pixel -->
+				<img src="https://pixel.app.returnpath.net/pixel.gif?r=0e9a6d0e08238bc2cad8e906e7c5d7a88f3a3a14" width="1" height="1" />
+				
+
+				<!-- Movable Ink Tracking Pixel -->
+				<img src="http://mi.wyndhamhotels.com/p/up/c6a6d68750300bd5319b2e3b73700d9d/o.gif?mi_u=&mi_ecmp=_Anniversary_Trigger_" width="1" height="1" />
+				
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body></html>
+
+--h8snb1JxkJwI=_?:--
+
+

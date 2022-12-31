@@ -1,0 +1,1176 @@
+Return-Path: firelovinemt@gmail.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md13.aqua.sync.lan with LMTP; Fri, 15 Oct 2021 11:13:34 -0400 (EDT)
+Return-Path: <firelovinemt@gmail.com>
+X-Received-HELO: from [209.85.160.181] (helo=mail-qt1-f181.google.com)
+Authentication-Results: mx05.aqua.bos.sync.lan smtp.mail=firelovinemt@gmail.com; spf=pass
+Authentication-Results: mx05.aqua.bos.sync.lan header.DKIM-Signature=@gmail.com; dkim=pass
+Authentication-Results:  mx05.aqua.bos.sync.lan x-tls.subject="/C=US/ST=California/L=Mountain View/O=Google LLC/CN=smtp.gmail.com"; auth=fail (cipher=AES128-GCM-SHA256)
+Received-SPF: pass (mx05.aqua.bos.sync.lan: domain gmail.com designates 209.85.160.181 as permitted sender)
+Received: from [209.85.160.181] ([209.85.160.181:44708] helo=mail-qt1-f181.google.com)
+	by mx.windstream.net (envelope-from <firelovinemt@gmail.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=AES128-GCM-SHA256
+	subject="/C=US/ST=California/L=Mountain View/O=Google LLC/CN=smtp.gmail.com") 
+	id 4F/78-26989-D9A99616; Fri, 15 Oct 2021 11:13:33 -0400
+Received: by mail-qt1-f181.google.com with SMTP id c28so9027335qtv.11
+        for <katielee529@windstream.net>; Fri, 15 Oct 2021 08:13:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :references:to;
+        bh=yt4DU1ouiGoNf4qNHKJsOsnnBECSNlfiPIMXgJ5TpoM=;
+        b=Oki1/GPfLNLanscdwxp2uPRKD40OE+o1xJaPMC0YaMgRTFCNLAI46+KVNujFcpxzqm
+         XbBQr+BCtQDNcNnZVdpSlJzaVitdQwfC5+dRw+C41LCOjhOIuJas84UqroR+PK07Gnxh
+         cKr9lX6O19jLmKGETPwxPAav/Ln25YApWDfYivJ3DJtUJx0L6uFYvqdrUQBnDGadAtvY
+         wfq6RRBrixJqrZrGWG3x9Hs0GirLLHrC9rZFBPLzaQ33Pjs4DHCXO3L1ZbYj9gmIpsaL
+         2dNySTJ4qKhB4Mw0+PW2hh3ETOFnWyrK7yj7hYP3UkicRcqLxHHNohkSyLDy0z8BydtY
+         MD+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:references:to;
+        bh=yt4DU1ouiGoNf4qNHKJsOsnnBECSNlfiPIMXgJ5TpoM=;
+        b=1oenSk7j/4w7itrzkRnb1ZOrWzPCU8vWdX0TboaytmLsxFmT0gzDjiaGT1S297PRv7
+         GnRmMpAuuh+Y6tsqNeI1aTZ9VjBLNa6AgMcHyGuDH6ciqvwiCuNMiq4b6GAhKV4FwchW
+         7uzDXCJU+fV/Bn5v2Q5dfUDjTUUf77N5+9IiJ2iSkCXK9DUubIKzzOHx/EBRZtiteJcC
+         CCmOh4SY9LpZrQPxycz++wBul0EGq5QWKgp6SgY6aF5yfhuBqNKpXOVymuEdUdLedtsI
+         lXyb7avdQogfzdFVNJ0xPY0UKM4Tv6IgR+HNsJO302/B9O9tCdMc4upGsL/qQewfpZCE
+         rhjw==
+X-Gm-Message-State: AOAM530Bxe/ftvu446WDG2rhWkJS4JvrkMF0jxHexIzO0lLm82pEm7RN
+	ie6hvIlkFbNuxsKcXI7TyTrJlrvNeZI=
+X-Google-Smtp-Source: ABdhPJzNaTpevUfhPyFVEgOvCWkfBLFeJ800l8FrGSMxh+pXt+IS2IqMxQe7PzKWP6gtPJwux4nZRw==
+X-Received: by 2002:a05:622a:3d3:: with SMTP id k19mr14093660qtx.177.1634310466072;
+        Fri, 15 Oct 2021 08:07:46 -0700 (PDT)
+Received: from smtpclient.apple (h15.72.23.98.dynamic.ip.windstream.net. [98.23.72.15])
+        by smtp.gmail.com with ESMTPSA id f15sm2801934qtm.37.2021.10.15.08.07.45
+        for <katielee529@windstream.net>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 15 Oct 2021 08:07:45 -0700 (PDT)
+Content-Type: multipart/alternative; boundary=Apple-Mail-F0E741B8-44DD-4030-BAFC-58D70B4A259B
+Content-Transfer-Encoding: 7bit
+From: sfowler0206 <firelovinemt@gmail.com>
+Mime-Version: 1.0 (1.0)
+Date: Fri, 15 Oct 2021 11:07:45 -0400
+Subject: =?utf-8?Q?Fwd:_Your_Lifetouch_image_is_now_on_Shutterfly?=
+ =?utf-8?Q?=E2=80=94your_account_includes_unlimited_free_storage.?=
+Message-Id: <D9D78294-C957-411C-8758-41CD3B97429C@gmail.com>
+References: <214b5d75-14ae-43e0-9d47-defdb1de4501@dfw1s10mta189.xt.local>
+To: Kathys email <katielee529@windstream.net>
+X-Mailer: iPhone Mail (18H17)
+X-Vade-Verdict: clean
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvtddrvddugedgkeehucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdpgffpggdqhgfkpfffuffvtffgtefonecuuegrihhlohhuthemucef
+X-Vade-Analysis-3: tddunecuogfuuhhsphgvtghtkfhmghffohhmrghinhculdeftddmnecujfgurheptgfghfggfffukfhf
+X-Vade-Analysis-4: vffosegrjehmrehhtdejnecuhfhrohhmpehsfhhofihlvghrtddvtdeiuceofhhirhgvlhhovhhinhgv
+X-Vade-Analysis-5: mhhtsehgmhgrihhlrdgtohhmqeenucggtffrrghtthgvrhhnpefgffejiedukeduffffvedtleehjeei
+X-Vade-Analysis-6: tdeugeetudfhueeuhfelheejfeekueejtdenucffohhmrghinhepshhhuhhtthgvrhhflhihrdgtohhm
+X-Vade-Analysis-7: necukfhppedvtdelrdekhedrudeitddrudekuddpleekrddvfedrjedvrdduheenucevlhhushhtvghr
+X-Vade-Analysis-8: ufhiiigvpedtnecurfgrrhgrmhepihhnvghtpedvtdelrdekhedrudeitddrudekuddphhgvlhhopehm
+X-Vade-Analysis-9: rghilhdqqhhtuddqfhdukedurdhgohhoghhlvgdrtghomhdpmhgrihhlfhhrohhmpehfihhrvghlohhv
+X-Vade-Analysis-10: ihhnvghmthesghhmrghilhdrtghomhdprhgtphhtthhopehkrghtihgvlhgvvgehvdelseifihhnughs
+X-Vade-Analysis-11: thhrvggrmhdrnhgvthdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshihnhgtrdhlrghnpdhs
+X-Vade-Analysis-12: phhfpehprghsshdpughkihhmpehprghsshdpnhgspghrtghpthhtohepud
+X-Vade-Client: AQUA
+
+
+--Apple-Mail-F0E741B8-44DD-4030-BAFC-58D70B4A259B
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+> From: Lifetouch + Shutterfly <Shutterfly@em.shutterfly.com>
+> Date: October 15, 2021 at 3:19:24 AM EDT
+> To: firelovinemt@gmail.com
+> Subject: Your Lifetouch image is now on Shutterfly=E2=80=94your account in=
+cludes unlimited free storage.
+> Reply-To: Shutterfly <reply-fecd1672746c0478-21_HTML-191269605-100009900-1=
+0011@em.shutterfly.com>
+>=20
+> =EF=BB=BF
+>=20
+> Let us help you capture, preserve and share life's special moments >
+> =20
+>=20
+> 	 	 =09
+>=20
+>=20
+> 				=09
+>=20
+>=20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+> =20
+>=20
+> =09
+> =09
+> =09
+> =09
+> =09
+> =09
+> 		=09
+>=20
+>=20
+> Privacy Statement: At Shutterfly, we respect your privacy. We want to assu=
+re you that this email was auto-generated by Shutterfly, and these pictures h=
+ave only been sent to you.
+>=20
+> This offer is exclusively for the account of firelovinemt@gmail.com.
+>=20
+> Terms of Use | Privacy | Help | My preferences | Unsubscribe | Safelist us=
+
+>=20
+> Shutterfly, LLC. is located at 2800 Bridge Parkway, Redwood City, CA 94065=
+.
+> =C2=A9 1999-2021 Shutterfly, LLC. All rights reserved. Shutterfly and the S=
+hutterfly logo are service marks and trademarks of Shutterfly, LLC. Any righ=
+ts not expressly granted herein are reserved.
+>=20
+>                                                     =20
+>=20
+>=20
+> 004075517073 | LT_EM1_DAY2_001_20170101_TRIGGER_LT_DDWEL_001 | 20170101_TR=
+IGGER_LT_DDWEL_001
+>=20
+>     =20
+
+--Apple-Mail-F0E741B8-44DD-4030-BAFC-58D70B4A259B
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><br><br><div dir=3D"ltr">Sent from my iPhon=
+e</div><div dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquot=
+e type=3D"cite"><div dir=3D"ltr"><b>From:</b> Lifetouch + Shutterfly &lt;Shu=
+tterfly@em.shutterfly.com&gt;<br><b>Date:</b> October 15, 2021 at 3:19:24 AM=
+ EDT<br><b>To:</b> firelovinemt@gmail.com<br><b>Subject:</b> <b>Your Lifetou=
+ch image is now on Shutterfly=E2=80=94your account includes unlimited free s=
+torage.</b><br><b>Reply-To:</b> Shutterfly &lt;reply-fecd1672746c0478-21_HTM=
+L-191269605-100009900-10011@em.shutterfly.com&gt;<br><br></div></blockquote>=
+<blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF
+
+<meta name=3D"HandheldFriendly" content=3D"true">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D0.6=
+66667, maximum-scale=3D0.666667, user-scalable=3D0">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+
+<title></title>
+
+
+
+
+ <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"min-width: 100%; " class=3D"stylingblock-content-wrapper"><tbo=
+dy><tr><td class=3D"stylingblock-content-wrapper camarker-inner">
+
+
+   =20
+        <meta charset=3D"UTF-8">
+        <meta name=3D"HandheldFriendly" content=3D"true">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sca=
+le=3D0.666667, maximum-scale=3D0.666667, user-scalable=3D0">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+
+        <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation" style=3D"min-width: 100%;" class=3D"stylingblock-content-wrapper=
+">
+            <tbody><tr>
+                <td class=3D"stylingblock-content-wrapper camarker-inner">
+                   =20
+                </td>
+            </tr>
+        </tbody></table>
+
+        <title></title>
+       =20
+
+        <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation" style=3D"min-width: 100%;" class=3D"stylingblock-content-wrapper=
+">
+            <tbody><tr>
+                <td class=3D"stylingblock-content-wrapper camarker-inner">
+                    <!-- component version 1.0.6 -->
+                    =20
+                </td>
+            </tr>
+        </tbody></table>
+   =20
+
+   =20
+        <div style=3D"font-size: 0; line-height: 0;">
+            <img src=3D"https://click.em.shutterfly.com/open.aspx?ffcb10-fec=
+d1672746c0478-fe291674776d027d721371-fe3c1570756404747c1470-ff9c1671-fe28157=
+974660274731475-ff0c1570756505&amp;d=3D100154&amp;bmt=3D0" width=3D"1" heigh=
+t=3D"1" alt=3D"" data-unique-identifier=3D"">
+            <img src=3D"https://beacon.krxd.net/1x1_usermatch.gif?partner=3D=
+LlRi0Gw2_sfmc_100009900_sha256&amp;partner_uid=3Dc68339510fa0b5a2349d47692eb=
+cdc8787ec56bbd502ce8628ba100d14f1028d" width=3D"0" height=3D"0" style=3D"dis=
+play:none" data-unique-identifier=3D"">=20
+<img src=3D"https://beacon.krxd.net/1x1_usermatch.gif?partner=3DLlRi0Gw2_sfm=
+c_100009900_subid&amp;partner_uid=3D191269605" width=3D"0" height=3D"0" styl=
+e=3D"display:none" data-unique-identifier=3D"">=20
+<img src=3D"https://beacon.krxd.net/1x1_ad_impression.gif?confid=3Dsk8yu77br=
+&amp;advertiserid=3D100009900&amp;campaignid=3D!Master_Template_SFLY_TRG" wi=
+dth=3D"0" height=3D"0" style=3D"display:none;" data-unique-identifier=3D"">
+        </div>
+
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">
+            <tbody><tr>
+                <td align=3D"center" valign=3D"top">
+                   =20
+                </td>
+            </tr>
+        </tbody></table>
+
+        <!-- BEGIN EMAIL CONTENT -->
+        <table width=3D"500" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center">
+            <tbody><tr>
+                <td>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <table width=3D"500" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center">
+                                    <tbody><tr>
+                                        <td valign=3D"top" align=3D"center" c=
+olspan=3D"4">
+                                            <a style=3D"font-family: Arial, V=
+erdana, Geneva, sans-serif; font-size: 15px; color: #181512; text-decoration=
+: none;" href=3D"https://click.em.shutterfly.com/u/?qs=3Dda1266ce293902658be=
+8b4442550aaf144f00697822c53b5fb7908d19c2abe6cdf961a24400ab40c6dee5134218eb7a=
+545e3b74ae7cf7c01d6e7d72005456f9e" rilt=3D"Preheader_SFLY_HOME">
+                                                <span id=3D"CREATIVE_PREHEAD=
+ER"><div>Let us help you capture, preserve and share life's special moments &=
+gt;</div></span>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"top" height=3D"8" cols=
+pan=3D"4" style=3D"line-height: 8px; height: 8px;">
+                                            <img style=3D"display: block;" s=
+rc=3D"https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" width=3D"=
+1" height=3D"8" border=3D"0" alt=3D"" data-unique-identifier=3D"">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"top" height=3D"2" cols=
+pan=3D"4" bgcolor=3D"#f05323" style=3D"line-height: 2px; height: 2px;">
+                                            <img style=3D"display: block;" s=
+rc=3D"https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" width=3D"=
+1" height=3D"2" border=3D"0" alt=3D"" data-unique-identifier=3D"">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"top" rowspan=3D"2" hei=
+ght=3D"1" width=3D"17"><img style=3D"display: block;" src=3D"https://cdn.sta=
+ticsfly.com/i/sfly/evergreen/template/sp.gif" height=3D"1" width=3D"17" bord=
+er=3D"0" alt=3D"" data-unique-identifier=3D""></td>
+                                        <td valign=3D"top" height=3D"41" wid=
+th=3D"122" rowspan=3D"2">
+                                            <a href=3D"https://click.em.shut=
+terfly.com/?qs=3D216703f6d1844459f3799cf7a04bf098faf0b999ffa8837110020ac8f89=
+dce6a027c47b385fa84397ed553efd96c8f30be67151c29465f34763719a98ace2d41" rilt=3D=
+"Logo_HOME_">
+                                                <img style=3D"display: block=
+;" src=3D"https://cdn.staticsfly.com/i/sfly/evergreen/template/P18519_sflylo=
+go.gif" width=3D"122" height=3D"41" border=3D"0" alt=3D"Shutterfly/" data-un=
+ique-identifier=3D"">
+                                            </a>
+                                        </td>
+                                        <td valign=3D"bottom" height=3D"35" w=
+idth=3D"345" align=3D"right" style=3D"font-family: Arial, Verdana, Geneva, s=
+ans-serif; color: #181512; font-size: 14px; line-height: 16px; min-width: 34=
+5px;">
+                                            <span style=3D"text-transform: u=
+ppercase; color: #ef5222; font-weight: bold;">&nbsp;</span><span></span>
+                                        </td>
+                                        <td valign=3D"top" width=3D"16" heig=
+ht=3D"1" rowspan=3D"2"><img style=3D"display: block;" src=3D"https://cdn.sta=
+ticsfly.com/i/sfly/evergreen/template/sp.gif" width=3D"16" height=3D"1" bord=
+er=3D"0" alt=3D"" data-unique-identifier=3D""></td>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"top" style=3D"line-hei=
+ght: 6px; height: 6px;" height=3D"6">
+                                            <img style=3D"display: block;" s=
+rc=3D"https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" width=3D"=
+1" height=3D"6" border=3D"0" alt=3D"" data-unique-identifier=3D"">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign=3D"top" colspan=3D"4"><im=
+g style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/evergre=
+en/template/sp.gif" width=3D"1" height=3D"37" border=3D"0" alt=3D"" data-uni=
+que-identifier=3D""></td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                   =20
+
+
+	<title></title>
+
+
+
+	<table width=3D"500" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"center">
+		<tbody><tr>
+
+			<!-- <td height=3D"8" style=3D"line-height: 8px;"><=
+img style=3D"display: block;"      src=3D"https://cdn.staticsfly.com/i/sfly/=
+evergreen/template/sp.gif" width=3D"17" height=3D"0" border=3D"0"      alt=3D=
+""></td> -->
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D216703f6d1844459b2f515ddc88ca15d2f436078210725=
+cf5eeb9a16959b303cbbc809fea7811c771b08ac02585951c8f0687b37acad7a37b3898a4104=
+f89932" rilt=3D"ASSET_SCTN_PB_thumb"><img style=3D"display: block;" src=3D"h=
+ttps://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVER=
+GREEN_HEADER_1_PHOTO_BOOKS.jpg" alt=3D"Photo Books" width=3D"122" height=3D"=
+20" border=3D"0" data-unique-identifier=3D""></a></td>
+		=09
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D216703f6d1844459b21c7a64108c586b09bce3b192e0e0=
+46c361a85a80492ae14c820d6f60f21a53ef8f965ace3e73d140edd32cdc1f93d5f975aacece=
+0801a4" rilt=3D"ASSET_SCTN_CS_cat"><img style=3D"display: block;" src=3D"htt=
+ps://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVERGR=
+EEN_HEADER_2_CARDS.jpg" alt=3D"Cards" width=3D"70" height=3D"20" border=3D"0=
+" data-unique-identifier=3D""></a></td>
+		=09
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D216703f6d18444597ae68d57709db0c5923da831ca4cf6=
+fd9cb62300e709a207a32306e05bf8d631fffd21ce6a4611e41adac25e26301161f94cfb62bd=
+cbe362" rilt=3D"ASSET_SCTN_PZG_cat"><img style=3D"display: block;" src=3D"ht=
+tps://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVERG=
+REEN_HEADER_3_GIFTS.jpg" alt=3D"Gifts" width=3D"62" height=3D"20" border=3D"=
+0" data-unique-identifier=3D""></a></td>
+
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D90962ef5b6684b54c40f81e20bdaf170cf6ae9886a9539=
+9762ccaf2bb80fab7aedba5b75158eb7cd40d8ff360cd3695a006e266b79efc65613d0323fa2=
+d5b14c" rilt=3D"ASSET_SCTN_HD_cat"><img style=3D"display: block;" src=3D"htt=
+ps://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVERGR=
+EEN_HEADER_4_DECOR.jpg" alt=3D"Home Decor" width=3D"70" height=3D"20" border=
+=3D"0" data-unique-identifier=3D""></a></td>
+		=09
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D90962ef5b6684b540b6b57046bc5758442ad814c15ec18=
+c9abb77d0d3be331f706331d2a63a5fadf8fa6540dec7a300ed81b0239becaa5208ae67e1846=
+03d03d" rilt=3D"ASSET_SCTN_CAL_cat"><img style=3D"display: block;" src=3D"ht=
+tps://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVERG=
+REEN_HEADER_5_CALENDARS.jpg" alt=3D"Calendars" width=3D"102" height=3D"20" b=
+order=3D"0" data-unique-identifier=3D""></a></td>
+
+			<td valign=3D"top" height=3D"8"><a href=3D"https://=
+click.em.shutterfly.com/?qs=3D90962ef5b6684b5445a2da67a555bf23742b353b44724f=
+a0e5c4fb18273ced3a0916bdcf89049a8188b91a89469563f9fad377c76c3479d8ea71c41b16=
+61a7c0" rilt=3D"ASSET_SCTN_SO_0"><img style=3D"display: block;" src=3D"https=
+://cdn-image.staticsfly.com/i/sfly/evergreen/2021/P308003_SY_CRM_SY_EVERGREE=
+N_HEADER_6_DEALS.jpg" alt=3D"Deals" width=3D"74" height=3D"20" border=3D"0" d=
+ata-unique-identifier=3D""></a></td>
+		</tr>
+		<tr>
+			<td colspan=3D"6" style=3D"line-height: 14px;"><img=
+ style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/evergree=
+n/template/sp.gif" width=3D"500" height=3D"3" border=3D"0" alt=3D"" data-uni=
+que-identifier=3D""></td>
+		</tr>
+		<tr>
+			<td valign=3D"top" height=3D"1" colspan=3D"6" bgcol=
+or=3D"#918f8f" style=3D"font-size: 1px; line-height: 1px;"><img style=3D"dis=
+play: block;" src=3D"https://cdn.staticsfly.com/i/sfly/evergreen/template/sp=
+.gif" width=3D"500" height=3D"1" border=3D"0" alt=3D"" data-unique-identifie=
+r=3D""></td>
+		</tr>
+	</tbody></table>
+
+
+
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <table width=3D"500" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center">
+                                    <tbody><tr>
+                                        <td valign=3D"top" align=3D"center">=
+
+                                            <a href=3D"https://click.em.shut=
+terfly.com/u/?qs=3D90962ef5b6684b54d2ba33c32c2bffcf01ee3db2833048bac3259292b=
+d4494c72caa0c6e99a63791d7ef747d21d81804eb8d7262a1181b591d0be9c8570de64d" ril=
+t=3D"SMB_HEAD_SFLY_HOME">
+                                                <img style=3D"display: block=
+;" width=3D"500" height=3D"auto" border=3D"0" src=3D"https://cdn-image.stati=
+csfly.com//i/sfly/y/2021/P302703_EM1_SY_SMB_IMG.jpg?impolicy=3Dresize&amp;wi=
+dth=3D500" alt=3D"LIFETOUCH + SHUTTERFLY - CAPTURE, PRESERVE AND SHARE" data=
+-unique-identifier=3D"">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"background-color: transparent; min-width: 1=
+00%;" class=3D"stylingblock-content-wrapper">
+                        <tbody><tr>
+                            <td style=3D"padding: 0px;" class=3D"stylingbloc=
+k-content-wrapper camarker-inner">
+                                <table cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"width: 100%;">
+                                    <tbody><tr>
+                                        <td>
+                                            <table cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"width: 100%;">
+                                                <tbody><tr>
+                                                    <td valign=3D"top" class=
+=3D"responsive-td" style=3D"width: 50%; padding-right: 0px;">
+                                                        <table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"min-widt=
+h: 100%;" class=3D"stylingblock-content-wrapper">
+                                                            <tbody><tr>
+                                                                <td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+                                                                    <!-- com=
+ponent version 1.0.6 -->
+                                                                    <table w=
+idth=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r">
+                                                                        <tbo=
+dy><tr>
+                                                                            <=
+td valign=3D"top" align=3D"center">
+                                                                            =
+    <a href=3D"https://click.em.shutterfly.com/u/?qs=3Dc3289a2016311b0be0218=
+09d1a26367751e447d032696c51f6afbf671aece6d302d4e1150cb7334c150d0713fdd0b45c4=
+cba859b46ae733a22f816d814c53e2c" rilt=3D"Primary_SCTN_LP_cstm">
+<img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D"0" sr=
+c=3D"https://uniim1.shutterfly.com/services/render/14ZQbwPv0JOTj_bD_Dt2r8CP9=
+jSU8IgdsXhkoaaeh27fJUBWcU1y3yvPX2IM_wuxC_O7Tk0KSQ1erRPD5cgXbT-DJF5yv5BX593dQ=
+s4GZuA-CQyjg38joJTe1v5xwGn7-cVzPRy5FIAHErs-2qrqDGs9eXrY1eByswZ4UxopCO2AQzFrM=
+oCH015k3tktmfVCG" impolicy=3D"resize&amp;width=3D&quot;250&quot;" alt=3D"" d=
+ata-unique-identifier=3D""></a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+<td valign=3D"top" class=3D"responsive-td" style=3D"width: 50%; padding-left=
+: 0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentati=
+on" style=3D"min-width: 100%;" class=3D"stylingblock-content-wrapper"><tbody=
+><tr>
+<td class=3D"stylingblock-content-wrapper camarker-inner">
+<!-- component version 1.0.6 -->
+<table width=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"center"><tbody><tr>
+<td valign=3D"top" align=3D"center">
+<a href=3D"https://click.em.shutterfly.com/u/?qs=3Dc3289a2016311b0be021809d1=
+a26367751e447d032696c51f6afbf671aece6d302d4e1150cb7334c150d0713fdd0b45c4cba8=
+59b46ae733a22f816d814c53e2c" rilt=3D"Secondary_1_HEAD_LP_cstm">
+<img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D"0" sr=
+c=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_LT_SY_T1_PM=
+_CTA.jpg?impolicy=3Dresize&amp;width=3D250" alt=3D"HERE'S WHAT YOU CAN ENJOY=
+ NOW THAT YOUR PHOTO IS ON SHUTTERFLY" data-unique-identifier=3D"">
+                                                                            =
+    </a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentati=
+on" style=3D"min-width: 100%;" class=3D"stylingblock-content-wrapper">
+<tbody><tr>
+<td class=3D"stylingblock-content-wrapper camarker-inner">
+                                <!-- component version 1.0.6 -->
+<table width=3D"500" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"center">
+<tbody><tr>
+<td valign=3D"top" align=3D"center">
+<a href=3D"https://click.em.shutterfly.com/u/?qs=3Dc3289a2016311b0be021809d1=
+a26367751e447d032696c51f6afbf671aece6d302d4e1150cb7334c150d0713fdd0b45c4cba8=
+59b46ae733a22f816d814c53e2c" rilt=3D"Secondary_1_HEAD_LP_cstm">
+<img style=3D"display: block;" width=3D"500" height=3D"auto" border=3D"0" sr=
+c=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_SY_HEAD1_v2=
+.jpg?impolicy=3Dresize&amp;width=3D500" alt=3D"UNLIMITED FREE STORAGE" data-=
+unique-identifier=3D"">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <table width=3D"500" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center">
+                                    <tbody><tr>
+                                        <td valign=3D"top" align=3D"center">=
+
+                                            <a href=3D"https://click.em.shut=
+terfly.com/?qs=3Dda1266ce29390265e2b33115718c2063ba89d76a87759bbe739d25d684d=
+5683946c539dde2471ce35761fb38f3d950a00ddb4a98b0b0857963b2a14d46ef1853" rilt=3D=
+"Secondary_2_SCTN_LP_cstm">
+                                                <img style=3D"display: block=
+;" width=3D"500" height=3D"auto" border=3D"0" src=3D"https://cdn-image.stati=
+csfly.com//i/sfly/y/2021/P302703_EM1_LT_SY_SM1_IMG.jpg?impolicy=3Dresize&amp=
+;width=3D500" alt=3D"ADD LIFETOUCH SCHOOL PHOTOS TO YOUR SHUTTERFLY ACCOUNT"=
+ data-unique-identifier=3D"">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"background-color: transparent; min-width: 1=
+00%;" class=3D"stylingblock-content-wrapper">
+                        <tbody><tr>
+                            <td style=3D"padding: 0px;" class=3D"stylingbloc=
+k-content-wrapper camarker-inner">
+                                <table cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"width: 100%;">
+                                    <tbody><tr>
+                                        <td>
+                                            <table cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"width: 100%;">
+                                                <tbody><tr>
+                                                    <td valign=3D"top" class=
+=3D"responsive-td" style=3D"width: 50%; padding-right: 0px;">
+                                                        <table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"min-widt=
+h: 100%;" class=3D"stylingblock-content-wrapper">
+                                                            <tbody><tr>
+                                                                <td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+                                                                    <!-- com=
+ponent version 1.0.6 -->
+                                                                    <table w=
+idth=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r">
+                                                                        <tbo=
+dy><tr>
+                                                                            <=
+td valign=3D"top" align=3D"center">
+                                                                            =
+    <a href=3D"https://click.em.shutterfly.com/u/?qs=3Dda1266ce2939026527d5f=
+c831f81ed2e9c622aea3eb0280cd7551557158b46a3b401efc829d1279da0f0b2592b7175f6c=
+cedf93ea1f278a0878e366cb9c06503" rilt=3D"&amp;af_channel=3Demail&amp;is_reta=
+rgeting=3Dtrue&amp;c=3DRC_LT_DDWEL_CSI28230_DT20211015&amp;user_id=3D0040755=
+17073&amp;sub2=3DCSI28230_DT20211015&amp;rilt=3D">
+                                                                            =
+        <img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D=
+"0" src=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_SY_T1=
+_SM2A_CTA.jpg?impolicy=3Dresize&amp;width=3D250" alt=3D"MOBILE APPLICATION -=
+ USE AUTO UPLOAD" data-unique-identifier=3D"">
+                                                                            =
+    </a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                    <td valign=3D"top" class=
+=3D"responsive-td" style=3D"width: 50%; padding-left: 0px;">
+                                                        <table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"min-widt=
+h: 100%;" class=3D"stylingblock-content-wrapper">
+                                                            <tbody><tr>
+                                                                <td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+                                                                    <!-- com=
+ponent version 1.0.6 -->
+                                                                    <table w=
+idth=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r">
+                                                                        <tbo=
+dy><tr>
+                                                                            <=
+td valign=3D"top" align=3D"center">
+                                                                            =
+    <a href=3D"https://click.em.shutterfly.com/u/?qs=3Dda1266ce2939026527d5f=
+c831f81ed2e9c622aea3eb0280cd7551557158b46a3b401efc829d1279da0f0b2592b7175f6c=
+cedf93ea1f278a0878e366cb9c06503" rilt=3D"&amp;af_channel=3Demail&amp;is_reta=
+rgeting=3Dtrue&amp;c=3DRC_LT_DDWEL_CSI28230_DT20211015&amp;user_id=3D0040755=
+17073&amp;sub2=3DCSI28230_DT20211015&amp;rilt=3D">
+                                                                            =
+        <img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D=
+"0" src=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_SY_T1=
+_SM2B_IMG.jpg?impolicy=3Dresize&amp;width=3D250" alt=3D"MOBILE APPLICATION -=
+ USE AUTO UPLOAD" data-unique-identifier=3D"">
+                                                                            =
+    </a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"background-color: transparent; min-width: 1=
+00%;" class=3D"stylingblock-content-wrapper">
+                        <tbody><tr>
+                            <td style=3D"padding: 0px;" class=3D"stylingbloc=
+k-content-wrapper camarker-inner">
+                                <table cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"width: 100%;">
+                                    <tbody><tr>
+                                        <td>
+                                            <table cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"width: 100%;">
+                                                <tbody><tr>
+                                                    <td valign=3D"top" class=
+=3D"responsive-td" style=3D"width: 50%; padding-right: 0px;">
+                                                        <table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"min-widt=
+h: 100%;" class=3D"stylingblock-content-wrapper">
+                                                            <tbody><tr>
+                                                                <td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+                                                                    <!-- com=
+ponent version 1.0.6 -->
+                                                                    <table w=
+idth=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r">
+                                                                        <tbo=
+dy><tr>
+                                                                            <=
+td valign=3D"top" align=3D"center">
+                                                                            =
+    <a href=3D"https://click.em.shutterfly.com/u/?qs=3Dda1266ce2939026578b52=
+c77419f774c7d4c7df96b87555eb63ebe8bbe2d42a25b49e45832a9bd1d64f6517dfb03255b6=
+28b294180bc3a8b67d6ce608ba4469c" rilt=3D"Secondary_4_SCTN_SFLY_HOME">
+                                                                            =
+        <img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D=
+"0" src=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_LT_SY=
+_T1_SM3A_IMG.jpg?impolicy=3Dresize&amp;width=3D250" alt=3D"GIFTS AND KEEPSAK=
+ES IN MINUTES" data-unique-identifier=3D"">
+                                                                            =
+    </a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                    <td valign=3D"top" class=
+=3D"responsive-td" style=3D"width: 50%; padding-left: 0px;">
+                                                        <table cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"min-widt=
+h: 100%;" class=3D"stylingblock-content-wrapper">
+                                                            <tbody><tr>
+                                                                <td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+                                                                    <!-- com=
+ponent version 1.0.6 -->
+                                                                    <table w=
+idth=3D"250" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"cente=
+r">
+                                                                        <tbo=
+dy><tr>
+                                                                            <=
+td valign=3D"top" align=3D"center">
+                                                                            =
+    <a href=3D"https://click.em.shutterfly.com/u/?qs=3Dda1266ce2939026578b52=
+c77419f774c7d4c7df96b87555eb63ebe8bbe2d42a25b49e45832a9bd1d64f6517dfb03255b6=
+28b294180bc3a8b67d6ce608ba4469c" rilt=3D"Secondary_4_SCTN_SFLY_HOME">
+                                                                            =
+        <img style=3D"display: block;" width=3D"250" height=3D"auto" border=3D=
+"0" src=3D"https://cdn-image.staticsfly.com//i/sfly/y/2021/P302703_EM1_SY_T1=
+_SM3B_CTA.jpg?impolicy=3Dresize&amp;width=3D250" alt=3D"GIFTS AND KEEPSAKES I=
+N MINUTES" data-unique-identifier=3D"">
+                                                                            =
+    </a>
+                                                                            <=
+/td>
+                                                                        </tr=
+>
+                                                                    </tbody>=
+</table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <table width=3D"500" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center">
+                                    <tbody><tr>
+                                        <td valign=3D"top" align=3D"center">=
+
+                                            <a href=3D"https://click.em.shut=
+terfly.com/u/?qs=3Dda1266ce293902651ea858092f7abf6be116b30b664022763af20b887=
+4bb1c88149cbf525046858ec4c6fc62a6d7c2a14e09cf39b5c37b67373c8dbdcc1088ad" ril=
+t=3D"Secondary_5_CTA_Upload_cat">
+                                                <img style=3D"display: block=
+;" width=3D"500" height=3D"auto" border=3D"0" src=3D"https://cdn-image.stati=
+csfly.com//i/sfly/y/2021/P302703_EM1_SY_RM1_CTA.jpg?impolicy=3Dresize&amp;wi=
+dth=3D500" alt=3D"READY TO EXPERIENCE SHUTTERFLY? - UPLOAD PHOTOS" data-uniq=
+ue-identifier=3D"">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <table width=3D"500" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" align=3D"center">
+                                    <tbody><tr>
+                                        <td valign=3D"top" align=3D"center">=
+
+                                            <a href=3D"https://click.em.shut=
+terfly.com/u/?qs=3Dc7acf784d1636404b43121dbe015ec1327812b472b13a037f8238f6f1=
+7dbe7ae7c74a14272174b9aa39c6c3f57b4f55e98ac3343753cf26da67da770dac77ccb" ril=
+t=3D"Recovery_1_SCTN_CS_LP">
+                                                <img style=3D"display: block=
+;" width=3D"500" height=3D"auto" border=3D"0" src=3D"https://cdn-image.stati=
+csfly.com//i/sfly/y/2021/P302703_EM1_SY_RM2_CTA.jpg?impolicy=3Dresize&amp;wi=
+dth=3D500" alt=3D"NEED HELP? NO PROBLEM - VISIT OUR HELP CENTER" data-unique=
+-identifier=3D"">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table width=3D"500" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" align=3D"center">
+<tbody><tr>
+    <td colspan=3D"2" style=3D"line-height: 6px; height: 6px;"><img style=3D=
+"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/evergreen/templat=
+e/sp.gif" width=3D"500" height=3D"6" border=3D"0" alt=3D"" data-unique-ident=
+ifier=3D""></td>
+</tr>
+<tr>
+	<td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/u/?qs=
+=3D784616e8764fe5385531ddda94bd33730b7d2d1944cd17863b4e65f24a8fcd64cfd1d2d21=
+73ea74ef82c13c467c12c9e31fd7fbcc3ddfbc806135480b06a41c4" rilt=3D"FOOT_NAV_PB=
+_cat"><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfl=
+y/evergreen/template/P153720_btm_nav_pb.png" width=3D"250" height=3D"48" bor=
+der=3D"0" alt=3D"Photo Books" data-unique-identifier=3D""></a></td>
+    <td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/u/?qs=3D78=
+4616e8764fe538c66dd30f9ec1566939ccbdf757aa8554223ed6024e6e776678640e080c38a1=
+4429a39f67bb13987d8e34a37241dac85995dcf20077535d5c" rilt=3D"FOOT_NAV_CS_cat"=
+><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/eve=
+rgreen/template/P153720_btm_nav_cs.png" width=3D"250" height=3D"48" border=3D=
+"0" alt=3D"Cards &amp; Stationery" data-unique-identifier=3D""></a></td>  =20=
+
+</tr>   =20
+<tr>
+	<td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/?qs=3D=
+2055632745da2dad1d8db248e1143178652a7fa17ed15f7187a01530c3638aaef2a0bbe836c5=
+7cfe3cda079a866f5f426418dba2f43790b137fd3b1cd77aecde" rilt=3D"FOOT_NAV_PRNTS=
+_cat"><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfl=
+y/evergreen/template/P153720_btm_nav_prints.png" width=3D"250" height=3D"50"=
+ border=3D"0" alt=3D"Prints" data-unique-identifier=3D""></a></td>
+    <td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/u/?qs=3D20=
+55632745da2dadb0dc72cd07d55855550cd890719afe9a3dfe84075f9a0cb066c699d247e9b5=
+8122ae28e9690ca9b780bf57e588dee78527791b50d9d9372c" rilt=3D"FOOT_NAV_CAL_cat=
+"><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/ev=
+ergreen/template/P153720_btm_nav_cal.png" width=3D"250" height=3D"50" border=
+=3D"0" alt=3D"" data-unique-identifier=3D""></a></td>  =20
+</tr>=20
+<tr>
+	<td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/?qs=3D=
+2055632745da2dad7de8c4e456759391a2fa83e387e9b10cabca03de9cb079d1f5489c5ff287=
+ab65330f98e34de10ab52ce2cd896b78aefe5fa52ec686307984" rilt=3D"FOOT_NAV_PZG_c=
+at"><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/=
+evergreen/template/P153720_btm_nav_gifts.png" width=3D"250" height=3D"49" bo=
+rder=3D"0" alt=3D"Gifts" data-unique-identifier=3D""></a></td>
+    <td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/?qs=3D2055=
+632745da2dad52df2bc7493ff7ed75847df5627e142ff61f225b25a92d26b8f2eaddf71a14b6=
+b3ae0a90e28a3af70a579aee4897b6913ae7e164d722dd9a" rilt=3D"FOOT_NAV_HD_cat"><=
+img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/everg=
+reen/template/P153720_btm_nav_home.png" width=3D"250" height=3D"49" border=3D=
+"0" alt=3D"Home" data-unique-identifier=3D""></a></td>  =20
+</tr>
+<tr>
+	<td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.=
+em.shutterfly.com/u/?qs=3D2055632745da2dad84515f111d2f004441022a811986881d82=
+7a86b78988db5a8982d9dd7c24e44d4f5924c8a1276e235ee528131db3f0f3913a6fe0007a29=
+26" rilt=3D"FOOT_NAV_KID_cat"><img style=3D"display: block;" src=3D"https://=
+cdn.staticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_kids.png" width=
+=3D"250" height=3D"48" border=3D"0" alt=3D"Kids" data-unique-identifier=3D""=
+></a></td>
+    <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.sh=
+utterfly.com/u/?qs=3D2055632745da2dad0c9e88ee5a36377b9fabd6ce4fb0bec30318f54=
+1ba5f7cb418938579fb3ed7824c34414d03c4c9b7e3144f11be8a772e9c15e35d114696f5" r=
+ilt=3D"FOOT_NAV_PET_cat"><img style=3D"display: block;" src=3D"https://cdn.s=
+taticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_pets.png" width=3D"2=
+50" height=3D"48" border=3D"0" alt=3D"Pets" data-unique-identifier=3D""></a>=
+</td>  =20
+</tr>
+<tr>
+	<td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/u/?qs=
+=3D2055632745da2dad4a7731ffd415e0be2ba45cca726b9ddefc1dc9043e7d27b3a9e7b93ed=
+814d4d7389ef8e2c34b699a1fd26568c932397b3defad75aec916c3" rilt=3D"FOOT_NAV_TW=
+S_occsn"><img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/=
+sfly/evergreen/template/P153720_btm_nav_wedding.png" width=3D"250" height=3D=
+"48" border=3D"0" alt=3D"Wedding" data-unique-identifier=3D""></a></td>
+    <td valign=3D"top"><a href=3D"https://click.em.shutterfly.com/?qs=3D2055=
+632745da2dad9bd8ccb2c8a5b07a9636f92bc2f076a46cc5c78fe5c36fc7e637f396cca27940=
+e9b822f25a9b779b4ef018fac1d44b18ff781c380de36322" rilt=3D"FOOT_NAV_SO_cat"><=
+img style=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/everg=
+reen/template/P153720_btm_nav_so.png" width=3D"250" height=3D"48" border=3D"=
+0" alt=3D"Special Offers" data-unique-identifier=3D""></a></td>  =20
+</tr>=20
+<tr>
+	<td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.=
+em.shutterfly.com/u/?qs=3D2055632745da2dad59c1fdf8bf427220919387271d00aa9f39=
+6122e0604384a0e59956430aff20e3fef09bc7402ec231fa0fa67806fbfa66f1365448668f79=
+cf" rilt=3D"FOOT_NAV_SIGNIN_cat"><img style=3D"display: block;" src=3D"https=
+://cdn.staticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_up.png" widt=
+h=3D"250" height=3D"51" border=3D"0" alt=3D"Upload Photos" data-unique-ident=
+ifier=3D""></a></td>
+    <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.sh=
+utterfly.com/u/?qs=3D2055632745da2dad9c2976801fa1837d7c0dc24aa619a4a1643065b=
+59653ce089e98041379abd21455e2ee7c9c243a8b11e46b98d056cd167261fe7fb8181987" r=
+ilt=3D"FOOT_NAV_SEO_cat"><img style=3D"display: block;" src=3D"https://cdn.s=
+taticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_ii.png" width=3D"250=
+" height=3D"51" border=3D"0" alt=3D"Ideas &amp; Insipiration" data-unique-id=
+entifier=3D""></a></td>  =20
+</tr> =20
+</tbody></table>
+<table width=3D"500" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"center">
+<tbody><tr>
+ <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.shutt=
+erfly.com/u/?qs=3D45ce38257c6e43c9d1f362aafe9705a441aa8819b74840b4a12c84600e=
+2aa13bfc0e9b4c2aac4264670faf59ee925893c8fa7071c70f9ec946e9754f1551824f" rilt=
+=3D"FOOT_NAV_SHARE_cat"><img style=3D"display: block;" src=3D"https://cdn.st=
+aticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_mysfly.png" alt=3D"Sh=
+are favorite photos and memories with #MYSHUTTERFLY" width=3D"351" height=3D=
+"67" border=3D"0" data-unique-identifier=3D""></a></td>=20
+ <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.shutt=
+erfly.com/u/?qs=3D45ce38257c6e43c9b95dd30c8bfb0427e539ea4034713a74828531118e=
+77955a494a0d9569302ab9e3dd09ebca74a469103b45a8c9def35574485e25705f8dd8" rilt=
+=3D"FOOT_NAV_SOCIAL_cat"><img style=3D"display: block;" src=3D"https://cdn.s=
+taticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_fb.png" alt=3D"Faceb=
+ook" width=3D"50" height=3D"67" border=3D"0" data-unique-identifier=3D""></a=
+></td>=20
+ <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.shutt=
+erfly.com/u/?qs=3D45ce38257c6e43c9b55be618b85bc6bdc305209122347827595ceb024a=
+2e26e02f5a168750636ef5ad29a6851b62e7e598359655e7639718d06c332bb802db82" rilt=
+=3D"FOOT_NAV_SOCIAL_cat"><img style=3D"display: block;" src=3D"https://cdn.s=
+taticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_pin.png" alt=3D"Pint=
+erest" width=3D"36" height=3D"67" border=3D"0" data-unique-identifier=3D""><=
+/a></td>
+ <td valign=3D"top"><a mc-deep-link=3D"false" href=3D"https://click.em.shutt=
+erfly.com/u/?qs=3D45ce38257c6e43c971c957631f009d4d45343bc8f26e0f21228b3464d2=
+cfc09c9873d7543128ccae2a7cf1cb68d78d9cb770b2c7e665181551ef806b4a7d09b2" rilt=
+=3D"FOOT_NAV_SOCIAL_cat"><img style=3D"display: block;" src=3D"https://cdn.s=
+taticsfly.com/i/sfly/evergreen/template/P153720_btm_nav_insta.png" alt=3D"In=
+stagram" width=3D"63" height=3D"67" border=3D"0" data-unique-identifier=3D""=
+></a></td>  =20
+</tr>
+</tbody></table>
+<table width=3D"484" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"center">
+<tbody><tr>
+ <td valign=3D"top" align=3D"center" height=3D"1" bgcolor=3D"#918f8f" style=3D=
+"line-height: 1px;"><img style=3D"display: block;" src=3D"https://cdn.static=
+sfly.com/i/sfly/evergreen/template/sp.gif" width=3D"484" height=3D"1" border=
+=3D"0" alt=3D"" data-unique-identifier=3D""></td>
+</tr>
+<tr>
+    <td valign=3D"top" style=3D"line-height: 17px; height: 17px;"><img style=
+=3D"display: block;" src=3D"https://cdn.staticsfly.com/i/sfly/evergreen/temp=
+late/sp.gif" width=3D"1" height=3D"17" border=3D"0" alt=3D"" data-unique-ide=
+ntifier=3D""></td>
+</tr>
+</tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%;" class=3D"stylingblock-con=
+tent-wrapper">
+                        <tbody><tr>
+                            <td class=3D"stylingblock-content-wrapper camark=
+er-inner">
+                                <!-- component version 1.0.6 -->
+                                <div>
+                                    <style data-testid=3D"style">
+                                        .disclaimer-text a {
+                                            text-decoration: none !important=
+;
+                                            color: #181512 !important;
+                                        }
+                                        a:link,
+                                        span.MsoHyperlink {
+                                            mso-style-priority: 100 !importa=
+nt;
+                                            color: #181512 !important;
+                                            text-decoration: none !important=
+;
+                                        }
+                                    </style>
+                                    <table width=3D"486" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" align=3D"center">
+                                        <tbody><tr>
+                                            <td style=3D"text-align: justify=
+; font-family: Arial, Verdana, Geneva, sans-serif; font-size: 12px; line-hei=
+ght: 14.4px; letter-spacing: 0px;" class=3D"apple_link disclaimer-text" data=
+-testid=3D"content">
+                                                <div>Privacy Statement: At S=
+hutterfly, we respect your privacy. We want to assure you that this email wa=
+s auto-generated by Shutterfly, and these pictures have only been sent to yo=
+u.</div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign=3D"top" width=3D"1" s=
+tyle=3D"line-height: 22px;"><img src=3D"https://cdn.staticsfly.com/i/sfly/ev=
+ergreen/template/sp.gif" width=3D"1" height=3D"22" border=3D"0" alt=3D"" sty=
+le=3D"display: block;" data-unique-identifier=3D""></td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"min-width: 100%; " class=3D"stylingblock-co=
+ntent-wrapper"><tbody><tr><td class=3D"stylingblock-content-wrapper camarker=
+-inner"><table width=3D"500" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" align=3D"center">  =20
+    <tbody><tr>
+     <td align=3D"center" style=3D"font-size: 10px; font-family: Arial, sans=
+-serif; color: #666666; font-weight: bold; line-height: 13px;">This offer is=
+ exclusively for the account of <span class=3D"apple_link_footer">firelovine=
+mt@gmail.com</span>.</td>
+    </tr>
+    <tr>
+     <td style=3D"line-height: 10px;"><img style=3D"display: block;" src=3D"=
+https://cdn.staticsfly.com/i/e/z/sp.gif" width=3D"500" height=3D"10" border=3D=
+"0" alt=3D"" data-unique-identifier=3D""></td>
+    </tr>
+    <tr>
+   <td align=3D"center" style=3D"font-size: 10px; font-family: Arial, sans-s=
+erif; color: #666666; line-height: 13px;"><a rilt=3D"Footer_Trms_" style=3D"=
+color: #6666CC;" href=3D"https://click.em.shutterfly.com/u/?qs=3D2ac97f50966=
+1b64268dccb4f29d0dd271d91d4ef939524e9339c0427cbb6980b0589e025f0d01497aac0184=
+72ea230b2d562e99095f3f4ff19ea2e913f84b324">Terms of Use</a> | <a rilt=3D"Foo=
+ter_Prvcy_" style=3D"color: #6666CC;" href=3D"https://click.em.shutterfly.co=
+m/u/?qs=3D2ac97f509661b642580570cf9791de699de3213d2fbd083798a38e8058613bbeeb=
+9791837d52b7f846f3db279888df766128c3985572da404c82c2662f830820">Privacy</a> |=
+ <a rilt=3D"Footer_Help_" style=3D"color: #6666CC;" href=3D"https://click.em=
+.shutterfly.com/u/?qs=3D2ac97f509661b6423c850d1f51ca062b382e31fec0a561b7f7b2=
+4e7dedc8c453bad055bb45f316c7ce6ef77b6b5a39a3a5587c14ad1e2cb2fb7dace781ce149c=
+">Help</a> |=20
+<a rilt=3D"Footer_MyPref_" style=3D"color: #6666CC;" href=3D"https://click.e=
+m.shutterfly.com/u/?qs=3D2ac97f509661b6422d8150ab637eb5dd11b4cc6d04a95549c68=
+4e00b1ad04784cc9bc006d3e833541bc7146457a50c10fcb60146c1b6fc237a538dc3cf3e42f=
+6">My preferences</a> | <a rilt=3D"Footer_Unsub_Salesforce" style=3D"color: #=
+6666CC;" href=3D"https://click.em.shutterfly.com/profile_center.aspx?qs=3De4=
+cefc894b6bce9f0e132720b1ee89cdb27705a65b3751e9635993ab9d06c8ced30cb2af4f570c=
+9335de76c18cf02747ae41ec1537c3a4ca91dbcdb06c9b874b736066dd575a943f">Unsubscr=
+ibe</a> |=20
+<a rilt=3D"Footer_SafeLst_" style=3D"color: #6666CC;" href=3D"https://click.=
+em.shutterfly.com/u/?qs=3D718d5c447265feea7ffe24e81d5e5b4d10c8ea137160e660f6=
+bea5222336ba845b244ff3cb4fd0e4eab95dbf195157e21d0731179bca0f073d5c158ac58bba=
+84">Safelist us</a></td>   =20
+    </tr>
+    <tr>
+     <td style=3D"line-height: 10px;"><img style=3D"display: block;" src=3D"=
+https://cdn.staticsfly.com/i/e/z/sp.gif" width=3D"1" height=3D"10" border=3D=
+"0" alt=3D"" data-unique-identifier=3D""></td>
+    </tr>
+    <tr>
+     <td align=3D"center" width=3D"500" style=3D"font-size: 10px; font-famil=
+y: Arial, sans-serif; color: #666666;">Shutterfly, LLC. is located at <span c=
+lass=3D"apple_link_footer">2800 Bridge Parkway, Redwood City, CA 94065</span=
+>.<br>=C2=A9 <span class=3D"apple_link_footer" style=3D"color:#666666; text-=
+decoration: none;">1999-2021</span> Shutterfly, LLC. All rights reserved. Sh=
+utterfly and the Shutterfly logo are service marks and trademarks of Shutter=
+fly, LLC. Any rights not expressly granted herein are reserved.</td>
+    </tr>
+    <tr>
+     <td style=3D"line-height: 10px;"><img style=3D"display: block;" src=3D"=
+https://cdn.staticsfly.com/i/e/z/sp.gif" width=3D"500" height=3D"10" border=3D=
+"0" alt=3D"" data-unique-identifier=3D""></td>
+    </tr> =20
+</tbody></table>
+</td></tr></tbody></table>
+
+                    <div class=3D"gmailfix" style=3D"white-space: nowrap; fo=
+nt: 15px courier; line-height: 0;">
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- END EMAIL CONTENT -->
+   =20
+
+
+</td></tr></tbody></table> <br>
+<img src=3D"https://click.em.shutterfly.com/open.aspx?ffcb10-fecd1672746c047=
+8-fe291674776d027d721371-fe3c1570756404747c1470-ff9c1671-fe28157974660274731=
+475-ff0c1570756505&amp;d=3D100154&amp;bmt=3D0" width=3D"1" height=3D"1" alt=3D=
+"" data-unique-identifier=3D"">
+
+ =20
+<!-- RESPONSYS TRACKING - THIS SECTION OF CODE WAS PREVIOUSLY IN THE FOOTER.=
+ MOVED TO MASTER TEMPLATE -->
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"center">
+<tbody><tr>
+ <td align=3D"center" style=3D"font-size: 9px; font-family: Arial, Helvetica=
+, sans-serif; color:#ffffff;"><span class=3D"cust_id_footer">004075517073 | L=
+T_EM1_DAY2_001_20170101_TRIGGER_LT_DDWEL_001 | 20170101_TRIGGER_LT_DDWEL_001=
+</span></td>
+</tr>
+<tr>
+ <td style=3D"line-height: 10px;"><img src=3D"https://cdn.staticsfly.com/i/e=
+/z/sp.gif" width=3D"600" height=3D"10" border=3D"0" data-unique-identifier=3D=
+""></td>
+</tr>
+
+</tbody></table>
+
+<!-- Mediaplex pixel for display team requested by Christine Cuu -->
+<img src=3D"https://adfarm.mediaplex.com/ad/bn/17585-124500-29133-0?mpt=3D" w=
+idth=3D"1" height=3D"1" border=3D"0" data-unique-identifier=3D"">
+<!-- End Mediaplex -->
+
+<!-- @Return Path Mobile Tracking Pixels -->
+<img src=3D"https://pixel.monitor1.returnpath.net/pixel.gif?r=3Dc05f1946ef5f=
+2ef449429641c4c7f3da3b3822ea&amp;s=3D004075517073&amp;c=3D28230&amp;brand=3D=
+SFLY" width=3D"1" height=3D"1" data-unique-identifier=3D"">
+<img src=3D"https://pixel.app.returnpath.net/pixel.gif?r=3Dc05f1946ef5f2ef44=
+9429641c4c7f3da3b3822ea&amp;c=3D28230&amp;s=3D004075517073" width=3D"1" heig=
+ht=3D"1" data-unique-identifier=3D"">
+<!-- END @Return Path Mobile Tracking Pixels -->
+
+<!-- @Salesforce DMP open Tracking Pixels -->
+<img src=3D"https://beacon.krxd.net/1x1_usermatch.gif?partner=3DLlRi0Gw2_sfm=
+c_100009900_sha256&amp;partner_uid=3Dc68339510fa0b5a2349d47692ebcdc8787ec56b=
+bd502ce8628ba100d14f1028d" width=3D"0" height=3D"0" style=3D"display:none" d=
+ata-unique-identifier=3D"">
+
+<img src=3D"https://beacon.krxd.net/1x1_usermatch.gif?partner=3DLlRi0Gw2_sfm=
+c_100009900_subid&amp;partner_uid=3D191269605" width=3D"0" height=3D"0" styl=
+e=3D"display:none" data-unique-identifier=3D"">
+
+<img src=3D"https://beacon.krxd.net/1x1_ad_impression.gif?confid=3Dsk8yu77br=
+&amp;advertiserid=3DSFLY&amp;campaignid=3D20170101_TRIGGER_LT_DDWEL_001" dat=
+a-unique-identifier=3D"">
+ =20
+
+<!-- END @Salesforce DMP open Tracking Pixels -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></blockquote></body></html>=
+
+--Apple-Mail-F0E741B8-44DD-4030-BAFC-58D70B4A259B--

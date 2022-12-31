@@ -1,0 +1,669 @@
+Return-Path: bounce-188_HTML-93142002-1518363-7200428-491@bounce.e.krogermail.com
+Received: from md20.aqua.bos.sync.lan (LHLO md20.aqua.sync.lan)
+ (10.80.42.120) by md23.aqua.sync.lan with LMTP; Tue, 12 Dec 2017 13:12:31
+ -0500 (EST)
+Return-Path: bounce-188_HTML-93142002-1518363-7200428-491@bounce.e.krogermail.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md20.aqua.sync.lan with LMTP; Tue, 12 Dec 2017 13:12:31 -0500 (EST)
+Return-Path: <bounce-188_HTML-93142002-1518363-7200428-491@bounce.e.krogermail.com>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=R6JBIpZX c=1 sm=1 tr=0 b=1 a=JQM4jgaB3L4yoNyEm2ea0w==:117 a=JQM4jgaB3L4yoNyEm2ea0w==:17 a=6giede-wJD4A:10 a=ocR9PWop10UA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=FkuM3MoXAAAA:8 a=o2QoyYduAAAA:8 a=JsZ5J2cB7UT6lX5uWvsA:9 a=QEXdDO2ut3YA:10 a=oeTj7449atkA:10 a=x2mINcKBdqIA:10 a=SSmOFEACAAAA:8 a=UqCG9HQmAAAA:8 a=3IeLnGJ6AAAA:8 a=8UEV-LYRAAAA:8 a=Eut6PACB-LFUPiDX4WoA:9 a=-QSMkkAOPHQGbOTH:21 a=gKO2Hq4RSVkA:10 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=HZ8o3hNNNqsA:10 a=mFkPSeo121CSOhAB0Pyg:22 a=S50rnUa8yRbNnh2hyxzf:22 a=CIX2fKDqIAj4SMstqDkk:22 a=VQ2JQ4pOynkHRowHV3RP:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [136.147.130.131] (helo=mta7.e.krogermail.com)
+Received: from [136.147.130.131] ([136.147.130.131:39462] helo=mta7.e.krogermail.com)
+	by mx.windstream.net (envelope-from <bounce-188_HTML-93142002-1518363-7200428-491@bounce.e.krogermail.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id D4/8D-13238-9FB103A5; Tue, 12 Dec 2017 13:12:10 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=e.krogermail.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:List-ID:Reply-To:Message-ID:Content-Type; i=email@e.krogermail.com;
+ bh=+gOFdCXbBZBWLE7sSVEQtTAXMo8=;
+ b=rKxdhKxb/ycJMKK8ysiODFhJsulgGc83YcXSUvlka1QxQ3qpydnXW5EORODHwXEitGZ2jBLJjtNV
+   bQ2vI+OAHmbTzo0ZHAMY8W4ZnDCuGLWO26vY3D+OSayZDfzXIWyExBdA+Ho6ItmmBt6gq4kj3KoY
+   WCdIkilip6gQ8LjXimA=
+Received: by mta7.e.krogermail.com id h60dvi163hsu for <dmg5901@windstream.net>; Tue, 12 Dec 2017 18:09:18 +0000 (envelope-from <bounce-188_HTML-93142002-1518363-7200428-491@bounce.e.krogermail.com>)
+From: "Kroger Prep+Pared" <email@e.krogermail.com>
+To: <dmg5901@windstream.net>
+Subject: =?UTF-8?B?MSBEYXkgT25seTogQnV5IE9uZSBQcmVwK1BhcmVk4oSiIE1lYWwg?=
+ =?UTF-8?B?S2l0LCBHZXQgT25lIEZSRUUh?=
+Date: Tue, 12 Dec 2017 12:09:18 -0600
+List-Unsubscribe: <mailto:leave-fd4a15787d0b5c392848-fe6a1d737460067d7516-fe941575746c077b76-fe9813727564007f7d-ff61107974@leave.e.krogermail.com>
+MIME-Version: 1.0
+List-ID: <7200428_1518363.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7200428_1518363
+Reply-To: "Kroger Prep+Pared" <reply-fe941575746c077b76-188_HTML-93142002-7200428-491@e.krogermail.com>
+Message-ID: <addbaf19-85f6-4e9d-ac24-2afdd6252fb7@xtgap4s7mta404.xt.local>
+Content-Type: multipart/alternative;
+	boundary="3R6uKWDpiqav=_?:"
+
+This is a multi-part message in MIME format.
+
+--3R6uKWDpiqav=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+ 
+
+     
+
+
+Double up the savings on meal kits for dinner tonight!
+ 
+
+
+http://view.e.krogermail.com/?qs=874dd2a0117271a6ed9303e9eaef8d98db5ca673babbd8e8c410d1b4cbbf53e49a508dafedf20219bf982c69f997a7b3052ef874759c7a23b54b3d2b13b67f775ca18769754f96f9 
+View in your browser
+
+
+
+
+
+
+
+
+
+
+ 
+http://click.e.krogermail.com/?qs=f890fb0fd4505f325a179a805dbc62fba7cf5226aaa0896080b1290caf5297be839215da0158855939daf69e4482a9702934080a88d9ce96a736036cc3ee7402 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f325a179a805dbc62fba7cf5226aaa0896080b1290caf5297be839215da0158855939daf69e4482a9702934080a88d9ce96a736036cc3ee7402 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<strong>1 Day Only! Buy One Prep+Pared<sup style='font-size:0.8em;vertical-align:text-top;line-height:1;height:0;'>&#8482;</sup> Meal Kit, Get One FREE!</strong>
+
+
+
+
+
+
+
+
+
+
+ Wednesday, December 13 only! Buy one Prep+Pared<sup style='font-size:0.8em;vertical-align:text-top;line-height:1;height:0;'>&#8482;</sup> Meal Kit, get one FREE* at your local Kroger store...enough to have two meals for two, or to feed the entire family. It's a savings of up to $20! Available at select locations with Card. Exclusions apply.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f325a179a805dbc62fba7cf5226aaa0896080b1290caf5297be839215da0158855939daf69e4482a9702934080a88d9ce96a736036cc3ee7402 
+
+View Details
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32795fdc91d35cd6cc5a5af2a2f7a7c4f242141f33ff028988948e4356a8c02f3477d468629beff95bbd7c57c50d2861740b94bc0fb74dceeb 
+
+Digital Coupons
+ 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32d5e861a40213bbcac27b3778c3815528371b57ede7e78b94c4cfa311eb8cbbf2be5db7a8a3c4fd1f0e11edea1b7c8006afae7b099c37ed4a 
+
+Weekly Ad
+ 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f324a7a2b9af2006f90fd6330eed08c015e08bda3f3082e04bab2eb2669b18360470db8b8e57475c80055c2faf02dbb64c1c77e36ca1bf098b7 
+
+Promotions
+ 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f3285d65e43e97a9717d3e999c1a3f45a7396edb6b1d2f720d86dadd99388cb822b9c3d79d80672c3b70d53529e94e1a1cf078c01440d21cbd7 
+
+My Account
+ 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32795fdc91d35cd6cc5a5af2a2f7a7c4f242141f33ff028988948e4356a8c02f3477d468629beff95bbd7c57c50d2861740b94bc0fb74dceeb 
+Digital Coupons
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32d5e861a40213bbcac27b3778c3815528371b57ede7e78b94c4cfa311eb8cbbf2be5db7a8a3c4fd1f0e11edea1b7c8006afae7b099c37ed4a 
+Weekly Ad
+http://click.e.krogermail.com/?qs=f890fb0fd4505f324a7a2b9af2006f90fd6330eed08c015e08bda3f3082e04bab2eb2669b18360470db8b8e57475c80055c2faf02dbb64c1c77e36ca1bf098b7 
+Promotions
+http://click.e.krogermail.com/?qs=f890fb0fd4505f3285d65e43e97a9717d3e999c1a3f45a7396edb6b1d2f720d86dadd99388cb822b9c3d79d80672c3b70d53529e94e1a1cf078c01440d21cbd7 
+My Account
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32a67fb3ad8cd4b0e95cb11b11c759a87b22ef1a3ec505ef19b7ed8ed520cbaf3cf7277bb31c604befe895ccfb1cf0ff3c48f818f6648eeef8 
+Give us your feedback
+Connect with us
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f325b37a1d88cea788128b101004b885c09983c6c993697d7b02ef7bca8e5a92f44e0e7ce1388a7a4e2bd571407d62b8b65e5330a4bb647e8f8 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32717805a76b8786b1ec909c2060596b285912ef97fb9b86ec9258639b223a268aa4384582b0f870b2554e41072fec481ee4734897a876ed16 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32a5909597f192bdecafdcb10001ede0bf7ae6869735100ab71f31061e87d37be6649e7136622cb7a616edbc5fef290b06c0982766a4ebd68c 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f3223562b005eeb970b9d7b793b1a1a521b207bab5afef8f2a371c0722a8191f9917743aa59a22d68f93443623e49e6fd0a63341f2213a40881 
+
+
+
+*While supplies last. FREE offer limited to 2 meal kit purchases per person (4 kits total). Free offer is on second item of equal or lesser value. Sorry, no rain checks.
+
+
+
+
+
+
+
+
+
+
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32dd395befbb7dcb2cfd597aeedb1c19dccfe57d8c4be54ffadae1631238fcac48f9fae88c457de7e5cf4a7b0576cb7b9eaea479802b3a9d9f 
+Manage Email Preferences  | 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f3238aaa2d6eb06ff96e0a034646970d3a922c58d370b7eabc65d90872bb1d314b70b349f2fa2163490158376566ddc7a26a318c33bf6769f2f 
+Unsubscribe  | 
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32c1a1e5756116a6498515d61eac5f26e9bacce29877ff74e38101af0da0c5498ee20283a8e212eb852e49c6f8b8494dbc194e8faf6dc85b48 
+Contact Us  | 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f324e6223f2337e742b691c350412365a1124aac556d37d2c144e13bdcebf4ee3b61e8730865b2f39cf97f8ba7c68df15a17418fb6d0eac6f09 
+Privacy Policy  | 
+
+http://click.e.krogermail.com/?qs=f890fb0fd4505f32e93777db1fb1dc19869a41d18e43cdcff0adc60ab8b2c5c23be95ee4be013654c45527f8ccf7716d664a9bf2a2d29459dc30e3f9802b0683 
+Terms & Conditions
+
+This email was sent to: dmg5901@windstream.net
+
+
+(c) Copyright 2017 
+
+Main & Vine LLC
+
+The Kroger Co. 
+
+1014 Vine St. Cincinnati, OH, 45202. All Rights Reserved.
+
+
+
+The Kroger Co. 1014 Vine St. Cincinnati OH 45202 US
+
+http://click.e.krogermail.com/profile_center.aspx?qs=d14ff70803f569731d85b74b77ef3e718e8e0a9a6c3c4da38ae04f7cf2610edace1cf2f4d534695eaeffd6d25b899bd1675b7f63e1e360e2e0717903b0d90cae 
+Update Profile 
+
+
+
+
+--3R6uKWDpiqav=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+ 
+
+     
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title></title>
+<style type="text/css">
+  body {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0 !important; padding: 0 !important;}
+  p { margin: 1em 0;} /*Yahoo paragraph fix*/
+  table td { border-collapse: collapse;}  /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+  div,button { margin:0 !important; padding:0 !important; display:block !important; } /* Remove gap around images in Outlook 365 */
+  img {outline:none;} /* Remove the borders that appear when linking images with "border:none" and "outline:none" */
+  a img {border:none;}
+  a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+  @-ms-viewport{  width: device-width;} /*outlook.com responsive bug fix */
+
+  .spacerFix{ font-size:0%;} /*Outlook 2013 doesn't respect height in empty table cells add this class to the td to prevent blowing up*/
+  .applelinks { color:inherit !important; text-decoration:none !important;}
+
+  @media only screen and (max-width: 480px) {
+    body[yahoo] .emailContainer {width: 100% !important; min-width: 100% !important;}
+    body[yahoo] .container {width: 100% !important;}
+    body[yahoo] .headline {font-size: 25px !important;}
+    body[yahoo] .body-text {font-size: 18px !important;}
+    body[yahoo] .mobile-hidden {display: none !important;}
+    body[yahoo] .show {display: block !important; margin: 0 !important; padding: 0 !important; overflow: visible !important; width: auto !important; max-height: inherit !important;}
+    body[yahoo] .photo {width: 100% !important; height: auto !important;}
+    body[yahoo] .stack01 {width:100% !important; display:table-header-group !important;}
+    body[yahoo] .stack02 {width:100% !important; display:table-footer-group !important;}
+    body[yahoo] .drop {display:block !important; width:100% !important;}
+    body[yahoo] .lr04 {padding-left:4% !important; padding-right:4% !important;}
+    body[yahoo] .lr02 {padding-left:2% !important; padding-right:2% !important;}
+    body[yahoo] .lrNull {padding-left:0% !important; padding-right:0% !important;}
+    body[yahoo] .topNull {padding-top:0px !important;}
+    body[yahoo] .bottomNull {padding-bottom:0px !important;}
+    body[yahoo] .mobileBreak {display:block !important;}
+    body[yahoo] .fullWidthButton {width:100% !important; height:44px !important; line-height:44px !important; font-size:15px !important;}
+    body[yahoo] .borderBottomNull {border-bottom: 0px !important;}
+    body[yahoo] .socialParent {width: 60% !important; margin-right: auto !important; margin-left: auto !important}
+    body[yahoo] .socialIcons {width:31px !important; height: 31px !important;}
+    body[yahoo] .footer01 {display:block !important; width:100% !important; text-align:center !important; padding: 0px 0px 0px !important; margin-left: auto !important; margin-right: auto !important;}
+    body[yahoo] .footer02 {display:block !important; width:100% !important; text-align:center !important; padding: 5px 0px 0px !important;}
+    body[yahoo] .myLocation01 {width: 20% !important;}
+    body[yahoo] .myLocation02 {width: 76% !important;}
+    body[yahoo] .lineHeight14 {line-height: 14px !important;}
+    body[yahoo] .orderDetailStack {width:100% !important; display:block !important; border-bottom:1px solid #e6e7e8 !important; padding:10px 0px !important;}
+    body[yahoo] .paddingRight02 {padding-right: 2% !important;}
+    body[yahoo] .alignCenter {padding-left: 0px !important; padding-right: 0px !important; text-align:center !important; margin-left: auto !important; margin-right: auto !important;}
+    body[yahoo] .bgWipe {background: url('http://image.e.krogermail.com/lib/fe9813727564007f7d/m/1/2015_spacer.gif') !important; padding-bottom: 8px !important; border-bottom: 1px solid #767677 !important;}
+    body[yahoo] .pt08 {padding-top: 8px !important}
+    body[yahoo] .socialMediaTable {max-width: 206px !important;}
+    body[yahoo] .socialMediaDrop01 {display:block !important; width:100% !important; padding:16px 0px !important; border-bottom:1px solid #ffffff !important; background-color: #064b77 !important;}
+    body[yahoo] .socialMediaDrop02 {display:block !important; width:100% !important; padding:16px 0px !important; background-color: #ffffff !important;}
+    body[yahoo] .socialMediaIcons {width: 44px !important; height: 44px !important;}
+    body[yahoo] .feedbackCopy {color: #ffffff !important;}
+    body[yahoo] .disclaimerContainer {padding: 24px 0px !important; background-color: #edf1f9 !important;}
+    body[yahoo] .w44 {width:44px !important;}
+    body[yahoo] .fs36 {font-size: 36px !important;}
+    body[yahoo] .pt16 {padding-top: 16px !important;}
+    body[yahoo] .brNull {border-right: 0px !important;}
+    body[yahoo] .bb01 {border-bottom: 1px solid #cccccc !important;}
+    body[yahoo] .pt24 {padding-top:24px !important;}
+    body[yahoo] .cardCopyParent {padding:2px 0px 0px 4% !important;}
+    body[yahoo] .cardPhoto {max-width:120px !important; height: auto !important;}
+    body[yahoo] .cardContainer1 {width:47% !important;}
+    body[yahoo] .cardContainer2 {width:53% !important;}
+  }
+</style>
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+</head>
+<body style="margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix" class="applelinks">
+<div style="font-size:0px"><img src="http://click.e.krogermail.com/open.aspx?ffcb10-fe941575746c077b76-fe3210707166007c7c1772-fe9813727564007f7d-ff5e15787d-fe6a1d737460067d7516-ff61107974" width="1" height="1"></div>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td bgcolor="#edf1f9" style="padding:20px 40px;" class="lrNull topNull bottomNull">
+        <div align="center">
+          <table width="600" border="0" cellspacing="0" cellpadding="0" class="emailContainer" style="min-width:600px;">
+            <tr>
+              <td width="600" align="left" valign="top" style="padding:8px 0px;">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                    <td width="450" align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#949599; font-weight:normal;">
+                      Double up the savings on meal kits for dinner tonight!
+                    </td>
+                    <td width="150" align="right" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#949599; font-weight:normal;">
+<!---->                     
+                      
+                        <a href="http://view.e.krogermail.com/?qs=874dd2a0117271a6ed9303e9eaef8d98db5ca673babbd8e8c410d1b4cbbf53e49a508dafedf20219bf982c69f997a7b3052ef874759c7a23b54b3d2b13b67f77533dbd3b7a205cce"  target="_blank" style="color:#949599; font-weight:normal; text-decoration:underline;"><span style="color:#949599; font-weight:normal; text-decoration:underline;">View in your browser</span></a>
+                      
+                      
+<!---->   
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td width="600" align="left" valign="top" bgcolor="#ffffff">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" class="container">
+<!---->
+                  
+              
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                   <!---->
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f3293b9be08a0350ef50d90fab0a89d065e846271fe3c201a093677761650cffe04855cf12d18f9d386f6fcd8607f339db0eae8ca96962ac9bc"  target="_blank" style="text-decoration:none;">
+                        <img class="photo" alt="Flash Sale" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/8/1_DIG5839_BFullHero180.gif" width="600" height="180" border="0" style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#767676; font-weight:normal; background-color:#cccccc;">
+                      </a>
+                    </td>
+                  </tr>
+<!---->
+                      </table>
+                    </td>
+                  </tr>
+              
+              
+              
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                   <!---->
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      
+                      <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f323aaced4fe9cc63aae3b4a4aca9efa2c34bd41380d58143f17bdfdfff0c00a350d998d322e8802b32aed78db6545da52c54c326a1fd316a73"  target="_blank" style="text-decoration:none;">
+                      
+                        <img class="photo" alt="" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/8/2_DIG5839_BFullHero220_v2.jpg" width="600" height="220" border="0" style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#767676; font-weight:normal; background-color:#cccccc;">
+                      
+                      </a>
+                      
+                    </td>
+                  </tr>
+<!---->
+                      </table>
+                    </td>
+                  </tr>
+              
+              
+              <!-- RegionStart[ socialslot:"SocialForward", title:"1 Day Only: Buy One Prep+Paredâ¢ Meal Kit, Get One FREE!", description:"Double up the savings on meal kits for dinner tonight!"] -->
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                   <!---->
+                  <tr>
+                    <td width="560" align="center" valign="top" style="padding:8px 20px; font-family:Arial, Helvetica, sans-serif; font-size:30px; line-height:36px; color:#0068b3; font-weight:normal;" class="lr04">
+                      <strong>1 Day Only! Buy One Prep+Pared<sup style='font-size:0.8em;vertical-align:text-top;line-height:1;height:0;'>&#8482;</sup> Meal Kit, Get One FREE!</strong>
+                    </td>
+                  </tr>
+<!---->
+                      </table>
+                    </td>
+                  </tr>
+              <!-- RegionEnd[ socialslot:"SocialForward"] -->
+              
+              
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                   <!---->
+                  <tr>
+                    <td width="560" align="center" valign="top" style="padding:8px 20px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:19px; color:#58585b; font-weight:normal;" class="lr04">Wednesday, December 13 only! Buy one Prep+Pared<sup style='font-size:0.8em;vertical-align:text-top;line-height:1;height:0;'>&#8482;</sup> Meal Kit, get one FREE* at your local Kroger store...enough to have two meals for two, or to feed the entire family. It's a savings of up to $20! Available at select locations with Card. Exclusions apply.</td>
+                  </tr>
+<!---->
+                      </table>
+                    </td>
+                  </tr>
+              
+              
+              
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                   <!---->
+                  
+                  
+                  <tr>
+                    <td align="center" valign="top" style="padding:8px 20px" class="lr04">
+                      <table border="0" cellspacing="0" cellpadding="0" class="container">
+                        <tr>
+                          <td align="center" bgcolor="#0068b3" style="-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;">
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32dba31d4a14ecc2deaeaa9c6dfac48b58edca2c4567118e078f257b90ea2f2a01669c361789450256428f368ee96a94c93bff71a4b0da1101"  target="_blank" style="font-size: 18px; line-height: 22px; font-family: Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; padding: 11px 15px; border: 1px solid #0068b3; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: block;">
+                              View Details
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  
+<!-- -->
+                      </table>
+                    </td>
+                  </tr>
+              
+              
+              
+                  <tr>
+                    <td width="600" align="left" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        
+                        <!---->
+                         <!---->
+                        <!--[if !mso]><!-- -->
+                        <tr>
+                          <td bgcolor="#ffffff" style="font-size:0%; line-height: 0px; padding:0;" align="center">
+                            <div class="show" style="font-size:0%; max-height: 0; overflow: hidden; display: none">
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                  <td align="center" valign="top" style="padding-top:8px;"> 
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tr>
+                                        <td align="center" valign="top" bgcolor="#ebebeb">
+                                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                            <tr>
+                                              <td width="100%" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:18px; color:#404040; font-weight:bold; border-bottom:1px solid #ffffff;">
+                                                <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32a25289489001163be1d675697bf3fa1fb34d7fed3e09d7d3377beb6ce945a86358f5f319fa39b993ac3986dc6798af275160d3decf2c5b22"  target="_blank" style="color:#404040; font-weight:bold; text-decoration:none; display:inline-block;" class="fullWidthButton">
+                                                  Digital Coupons
+                                                </a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td width="100%" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:18px; color:#404040; font-weight:bold; border-bottom:1px solid #ffffff;">
+                                                <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f3236551914fc32a8466a9dbb1f19bab1545625335ace40c184810114c7440a4022ae88682863cd88552203d4c7dd24b8b96a2cbf781f095684"  target="_blank" style="color:#404040; font-weight:bold; text-decoration:none; display:inline-block;" class="fullWidthButton">
+                                                  Weekly Ad
+                                                </a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td width="100%" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:18px; color:#404040; font-weight:bold; border-bottom:1px solid #ffffff;">
+                                                <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f321e8b003a6984fd29ffa44e33a55ec4cf2d889da6e1fe7ab0706a9dd280b30ecf14b0172642d279bde64fdec7bb07888313cf9b42a8787373"  target="_blank" style="color:#404040; font-weight:bold; text-decoration:none; display:inline-block;" class="fullWidthButton">
+                                                  Promotions
+                                                </a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td width="100%" align="center" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:18px; color:#404040; font-weight:bold; border-bottom:1px solid #ffffff;">
+                                                <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32b7b9160b05232d3bbcc918ef857f7138f0354867fb8c2f5e4014cbe36759cdd85a58ca8211a28ea8f91d5f9a9c792dafc9e68880db8036e0"  target="_blank" style="color:#404040; font-weight:bold; text-decoration:none; display:inline-block;" class="fullWidthButton">
+                                                  My Account
+                                                </a>
+                                              </td>
+                                            </tr>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </table>    
+                                  </td>
+                                </tr>       
+                              </table>
+                            </div>
+                          </td>
+                        </tr>
+                        <!--<![endif]--> 
+                        <tr class="mobile-hidden">
+                          <td width="600" align="left" valign="top" style="padding-top:8px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr>
+                                <td width="600" align="left" valign="top" style="border-top:1px solid #ffffff; border-bottom:1px solid #ffffff;" bgcolor="#ebebeb">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                      <td width="137" align="center" valign="middle" style="padding:8px 0px; border-right:1px solid #ffffff; padding:12px 0px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:19px; color:#404040; font-weight:normal;">
+                                        <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f326bf72702867ecafc7b28886c0f9c283a6ad0b3656747e6eed3fa47df2912be9a525ba07d3f1b1f1f9c5d61be179682ea7bdfa82c7c466e67"  target="_blank" style="color:#404040; font-weight:normal; text-decoration:none; display:inline-block; width:100%;"><span style="color:#404040; font-weight:normal; text-decoration:none;">Digital Coupons</span></a>
+                                      </td>
+                                      <td width="103" align="center" valign="middle" style="padding:8px 0px; border-right:1px solid #ffffff; padding:12px 0px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:19px; color:#404040; font-weight:normal;">
+                                        <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f320d366f83d741d8821c5247df430ab9e8ad81f42453fbd57195cebe51fb7af2f19708a237a835e4fe76d10e2b5aa7723670c57a5234bbcad7"  target="_blank" style="color:#404040; font-weight:normal; text-decoration:none; display:inline-block; width:100%;"><span style="color:#404040; font-weight:normal; text-decoration:none;">Weekly Ad</span></a>
+                                      </td>
+                                      <td width="110" align="center" valign="middle" style="padding:8px 0px; border-right:1px solid #ffffff; padding:12px 0px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:19px; color:#404040; font-weight:normal;">
+                                        <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f320c3465a4bc64d3673fae64c33adfb9963f71be2a256551a4e91c507d6ec04fa5b23020d59a6c1aefd9523c22497e29c3e79ad61518d68884"  target="_blank" style="color:#404040; font-weight:normal; text-decoration:none; display:inline-block; width:100%;"><span style="color:#404040; font-weight:normal; text-decoration:none;">Promotions</span></a>
+                                      </td>
+                                      <td width="109" align="center" valign="middle" style="padding:8px 0px; padding:12px 0px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:19px; color:#404040; font-weight:normal;">
+                                        <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32dbbe032dd9d5b031686a594a97b0bcef877462195df7f8560da4c87a25067cf1546b49ea09f39c82488cb2e3bba1eb92146c6917488a07ea"  target="_blank" style="color:#404040; font-weight:normal; text-decoration:none; display:inline-block; width:100%;"><span style="color:#404040; font-weight:normal; text-decoration:none;">My Account</span></a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width="560" align="left" valign="middle" style="padding:16px 20px 16px;" class="lrNull bottomNull topNull">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr>
+                                <td width="280" align="left" valign="middle" class="socialMediaDrop01">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="185" class="alignCenter">
+                                    <tr>
+                                      <td align="left" valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#0068b3; font-weight:bold;" class="feedbackCopy">
+                                        <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f3201e3df228729ab12055aca16b753c0a43f35d2af5aff185cff64b29a9a88a3f60da3150bc77b677398a2a7ac1ef97b968d564555d39254bf"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;" class="feedbackCopy"><span style="color:#0068b3; font-weight:bold; text-decoration:none;" class="feedbackCopy">Give us your feedback</span></a>
+                                      </td>
+                                      <td width="20" align="center" valign="middle"><img alt="+" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/1/201510_mktFrm_plusCircle.png" width="20" height="20" border="0" style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#0068b3; font-weight:bold;"></td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td align="right" valign="top" class="socialMediaDrop02">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                      <td align="center" valign="middle" class="mobile-hidden">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr>
+                                            <td align="center" valign="top" style="padding-left:10px; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#404040; font-weight:bold;" class="lrNull feedbackCopy">Connect with us</td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                      <td align="center" valign="middle" class="drop">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="socialMediaTable">
+                                          <tr>
+                                            <!-- -->
+                                            <td align="right" valign="middle">
+                                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                  <td align="center" valign="middle" style="padding-left:5px;" class="lrNull"><a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32df94517f6c0f698e8f336d8781a59de8ca8bd3aaacf7be781b08cf683644fb9c963cee35e869843a6d8c07cd9d7599576bb50570d4189434"  target="_blank" style="text-decoration:none;"><img class="socialMediaIcons"  alt="f" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/2/20160606_mkrFrm_facebook.png" width="29" height="29" border="0" style="display:block; background-color:#3b5a99; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; font-weight:bold;"></a></td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                            <!--  -->
+                                            <!-- -->
+                                            <td align="right" valign="middle">
+                                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                  <td width="22" align="center" valign="middle" style="padding-left:5px;" class="lrNull w44"><a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f3230e8cb0e0a7794bfc61282692d25cc8979a18f45307369080d4454cc0b87c3a03e9d6415edf8dafe288fa8f744716e9ec3d2f7bb7ec995b4"  target="_blank" style="text-decoration:none;"><img class="socialMediaIcons" alt="t" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/2/20160606_mkrFrm_twitter.png" width="29" height="29" border="0" style="display:block; background-color:#25a8e0; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; font-weight:bold;"></a></td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                            <!--  -->
+                                            <!-- -->
+                                            <td align="right" valign="middle">
+                                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                  <td width="22" align="center" valign="middle" style="padding-left:5px;" class="lrNull w44"><a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32a2b8001770c6c1984ddd8bb31aa744c23c558c04d26dc1b9f142d0fffb5998496fd5804a27e18d616fbf1eb28af0c742d1017a6acd4c76fe"  target="_blank" style="text-decoration:none;"><img class="socialMediaIcons"  alt="p" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/2/20160606_mkrFrm_pinterest.png" width="29" height="29" border="0" style="display:block; background-color:#cd2129; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; font-weight:bold;"></a></td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                            <!--  -->
+                                            <!-- -->
+                                            <td align="right" valign="middle">
+                                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tr>
+                                                  <td width="22" align="center" valign="middle" style="padding-left:5px;" class="lrNull w44"><a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f324a61a345b825ba1c025e972449c36d1975dd386f224411ad3233217f788499c6fe94eadb89d6504e6dfca9d32a7acac639aa2e80500d32d3"  target="_blank" style="text-decoration:none;"><img class="socialMediaIcons"  alt="i" src="http://image.e.krogermail.com/lib/fe9813727564007f7d/m/2/20160606_mkrFrm_instagram.png" width="29" height="29" border="0" style="display:block; background-color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; font-weight:bold;"></a></td>
+                                                </tr>
+                                              </table>
+                                            </td>
+                                            <!--  -->
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        
+                        <tr>
+                          <td width="560" align="left" valign="top" style="padding:16px 20px 0px;" class="lr04" bgcolor="#edf1f9">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr>
+                                <td width="560" align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#949599; font-weight:normal;">*While supplies last. FREE offer limited to 2 meal kit purchases per person (4 kits total). Free offer is on second item of equal or lesser value. Sorry, no rain checks.</td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        
+<!---->
+                      </table>
+                    </td>
+                  </tr>
+              
+              
+
+
+<!---->
+                  <tr>
+                    <td width="600" align="left" valign="middle" style="padding:16px 0px;" bgcolor="#edf1f9" class="disclaimerContainer">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <!--  -->
+                        <tr>
+                          <td width="600" align="center" valign="top" style="padding:8px 0px; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#0068b3; font-weight:bold;" class="lr04">
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f3226451e35c01012614a7d93b38ed7c1a17b61328afe08507e3b8e608040e999aa160c53966003b398ff4d205a9c7c67ce02b5246803452b94"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;"><span style="color:#0068b3; font-weight:bold; text-decoration:none;">Manage Email Preferences</span></a> &nbsp;<span style="color:#767676;">|</span>&nbsp;
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f323dc49bfea21f8d1c8b3b356b9fa850f46a00bd33f407e21ddf33a4bb2105114c6131c9e3f74b2df234081a60d92af2d86062e6a2ce1de4a8"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;"><span style="color:#0068b3; font-weight:bold; text-decoration:none;">Unsubscribe</span></a> &nbsp;<span style="color:#767676;" class="mobile-hidden">|</span>&nbsp;<span class="mobileBreak"></span>
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32fbca5067b262bcf110968725401809ed22cb02fe5cb7783741f33ac26a006e2866a595c7fd0c54e56a60220d521c932d9bb3e0b988d4bcfc"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;"><span style="color:#0068b3; font-weight:bold; text-decoration:none;">Contact Us</span></a> &nbsp;<span style="color:#767676;">|</span>&nbsp;
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32794cbedf5573cf96223eee823a797352edfe0e2ce7926518b5037438864edb297c2ae35f2222cf31f4b572fa71f8f73c8b795ee2918fa7c2"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;"><span style="color:#0068b3; font-weight:bold; text-decoration:none;">Privacy Policy</span></a> &nbsp;<span style="color:#767676;">|</span>&nbsp;
+                            <a href="http://click.e.krogermail.com/?qs=f890fb0fd4505f32f099a2d371f17a2f051f89858d806e17b1e964fb9acca9505f544c0ae4672bf10bad5e4276356817f6a1560546a350e8b327dc8b5ac5fc02"  target="_blank" style="color:#0068b3; font-weight:bold; text-decoration:none;"><span style="color:#0068b3; font-weight:bold; text-decoration:none;">Terms&nbsp;&amp;&nbsp;Conditions</span></a>
+                          </td>
+                        </tr>
+                        <!--  -->
+                        <tr>
+                          <td width="600" align="center" valign="top" style="padding-top:8px; font-family:Arial, Helvetica, sans-serif; font-size:9px; line-height:12px; color:#949599; font-weight:normal;" class="lr04">
+                            This email was sent to: dmg5901@windstream.net
+                            <br>
+                            &copy; Copyright 2017 
+                            <!--  -->
+                            The Kroger Co. 
+                            <!--  -->
+                            1014 Vine St. Cincinnati, OH, 45202. All&nbsp;Rights&nbsp;Reserved.
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td><img src="http://pixel.inbox.exacttarget.com/pixel.gif?r=1d6c0255c51f97720482303946190981f940d368" alt="" border="0" style="display:block;"/></td>
+              <td><img src="https://pixel.monitor1.returnpath.net/pixel.gif?r=4fb5ce3e00d388239e5eb3cb20a6acca9837182d" width="1" height="1" alt="" border="0" style="display:block;"/></td>
+              <td><img src="https://pixel.app.returnpath.net/pixel.gif?r=4fb5ce3e00d388239e5eb3cb20a6acca9837182d" width="1" height="1" alt="" border="0" style="di

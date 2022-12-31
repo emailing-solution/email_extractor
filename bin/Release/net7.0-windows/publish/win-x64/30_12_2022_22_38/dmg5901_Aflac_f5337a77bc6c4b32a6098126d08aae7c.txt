@@ -1,0 +1,476 @@
+Return-Path: bounce-2175_HTML-897923050-18022224-1032229-739@bounce.aflac-email.com
+Received: from mx04.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.44)
+ by md23.aqua.sync.lan with LMTP; Tue, 23 Jan 2018 19:37:11 -0500 (EST)
+Return-Path: <bounce-2175_HTML-897923050-18022224-1032229-739@bounce.aflac-email.com>
+X-Forwarded-For: DMG5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=FYJ1/926 c=1 sm=1 tr=0 b=1 a=qOeuILa2cxI7CJ2aRIhERw==:117 a=6giede-wJD4A:10 a=RgaUWeydRksA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=W6bF7zwmAAAA:8 a=iGraNxtpAAAA:8 a=wdD3aFHsDR5tu_S2GucA:9 a=yIZ74eIGJl7QYr2C:21 a=JpOWCIH1wk8KdT7N:21 a=CjuIK1q_8ugA:10 a=SSmOFEACAAAA:8 a=LjxtI9I-5Xuz7JL7QFcA:9 a=Ocix-xcquMrcYXKP:21 a=-rsAD79BBdtbopRX:21 a=z7NXPhhjwrV5AZbA:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=0wLkJi1dnwcA:10 a=Mt0S8aJezMAPD91KF7z_:22 a=9ljd8qrcGeRf0DwnUsbl:22 awl=host:15069
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [66.231.95.133] (helo=mta.aflac-email.com)
+Received: from [66.231.95.133] ([66.231.95.133:41810] helo=mta.aflac-email.com)
+	by mx.windstream.net (envelope-from <bounce-2175_HTML-897923050-18022224-1032229-739@bounce.aflac-email.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id 4D/D5-04100-635D76A5; Tue, 23 Jan 2018 19:37:11 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=aflac-email.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=email@aflac-email.com;
+ bh=mWv9JJCq+vBGqNoY6PvtU6EMVBU=;
+ b=GoWM1bVnv4I2UC4C/j5D2tC0Ux7wfl8ezkTbm1y5exq5o1fYJXEtf1d7AlvNmJIBQ8hq3Al50H83
+   f9D9hrLr/i0ecM06n2aYjXsqpfFDlOFq3pZTwHBmtU/wOx2GBx+CRMW4EacNJCG+LCubYV/TOWaf
+   Lh2pxnlQpVZJTGH019Y=
+Received: by mta.aflac-email.com id hcvajc163hsu for <DMG5901@WINDSTREAM.NET>; Tue, 23 Jan 2018 18:36:45 -0600 (envelope-from <bounce-2175_HTML-897923050-18022224-1032229-739@bounce.aflac-email.com>)
+From: "Aflac" <email@aflac-email.com>
+To: <DMG5901@WINDSTREAM.NET>
+Subject: A Letter from Aflac U.S. President Teresa White
+Date: Tue, 23 Jan 2018 18:36:45 -0600
+List-Unsubscribe: <mailto:leave-fd1c167172616b2531492c-fe241c79726d067e751170-fe6a15787566067f7710-fe9c15707666067f7c-ff5c13737c@leave.aflac-email.com>
+MIME-Version: 1.0
+Reply-To: "Aflac" <reply-fe6a15787566067f7710-2175_HTML-897923050-1032229-739@aflac-email.com>
+List-ID: <1032229_18022224.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 1032229_18022224
+Message-ID: <d199b966-78c0-493c-a9e8-f844a5f4f04b@xtnvmta438.xt.local>
+Content-Type: multipart/alternative;
+	boundary="TveYRU0lbh9x=_?:"
+
+This is a multi-part message in MIME format.
+
+--TveYRU0lbh9x=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Aflac
+http://view.aflac-email.com/?qs=ba5ed09932fac86e45ee0524b15878beb41c27608594150b560c467855d4c0f5d1c1666cbe12def72efe3e247cda0fe8041e779024880b7b94b355f4be33d2eb04d9792b6688b8badc4dff4f033bf761 
+View in Browser
+ 
+
+http://click.aflac-email.com/?qs=b652a650b8f53e6972c03b634f03a041c02e3fc59166adbcd941d3a09dae852f22cb8cb16f70d263fa55b2cf0ae7dd3027a7d34e5d4d8456 
+
+http://click.aflac-email.com/?qs=b652a650b8f53e69c053c1c10d0497c1fbaee59efbd78753720796fe793c1680119984e420df759c302dd21a254a83fc8afee8d6964fb482 
+
+ 
+Dear Hh General Contractor Inc:
+
+
+
+My name is Teresa White, president of Aflac in the United States, and I appreciate the opportunity to deliver the Aflac promise to you, your employees and the more than 7 million policyholders in the United States who rely on our products. 
+
+ 
+
+
+ Putting the customer first was a founding principle of our company when we opened our doors in 1955, and it continues to be the cornerstone of the Aflac Promise. From sales to service, our dedication to policyholders and their employers is demonstrated by our commitment to training, ethical sales practices, offering the best voluntary insurance products and services, excellent customer service and fast and fair claims payment. When an unfortunate injury or illness occurs, our goal is to help your employees focus on recovery, rather than potential financial challenges, so they can recuperate, return to work and contribute to the success of your business. 
+
+
+
+ To that end, initiatives like our innovative One Day Pay(tm) initiative, which was introduced in 2015 and helps us quickly provide benefits to customers who purchase individual policies, is an extension of our promise, affecting policyholders in a meaningful and impactful way. In fact, in 2017 alone, we paid more than 2 million claims in just ONE day and on average we pay claims for customers who have a group policy in only four days. Furthermore, 95 percent of claimants who used One Day Pay said they would refer Aflac to a friend or family member, providing strong validation that our processes are working and that your valued employees are our top priority.
+
+
+
+To that end, I am proud that Aflac is consistently ranked on lists of "Best Places to Work" and "Most Ethical Companies" - and on Jan. 19, we were notified that Fortune Magazine has included Aflac on its "World's Most Admired Companies" list for an amazing 17th year. As a matter of company culture, we are steadfast in our efforts to protect our brand and customers by simply being who we say we are. This company shoots straight with claimants, policyholders and businesses like yours that place their trust in us. We are proud of our continued devotion to operating with openness and integrity. 
+ 
+
+
+This is important to me - not only because I am the president of Aflac U.S., but also because I have firsthand experience of what our company truly stands for.
+
+
+
+My mother, Margaret Marable, was diagnosed with a brain tumor in 2009. She is also an Aflac policyholder. Thankfully, she received a claim check that enabled her to obtain a second opinion. My mother could
+
+
+
+
+
+
+
+concentrate on healing without worrying that her illness was going to cripple her financially, and I learned the challenges that an unexpected medical event can have on a family. 
+
+
+
+
+Every day when I wake up I think of my mother and how happy she is with her benefits from Aflac. My goal is to ensure all claimants feel that way. Aflac is, without qualification, my life's work, and I take very personally the importance of the efforts we make to do things the right way. It is a privilege to serve you and your company, and we will never stop working to earn your business and trust. 
+
+
+
+
+
+Sincerely,
+
+
+
+
+Teresa White, President, Aflac U.S.
+
+
+
+
+http://click.aflac-email.com/?qs=b652a650b8f53e6972c03b634f03a041c02e3fc59166adbcd941d3a09dae852f22cb8cb16f70d263fa55b2cf0ae7dd3027a7d34e5d4d8456 
+Go to aflac.com    |   
+http://click.aflac-email.com/?qs=b652a650b8f53e69aad6c11d91f68c01803acea347af61d892a779e2c554d0ea4218309d8f4d9d1268c735507d10323bdf874da62aa34ca7 
+Privacy Policy    |   
+http://click.aflac-email.com/?qs=b652a650b8f53e69b7c3722841ccc363c602465d6a55073898a393b1edfc9671489ca47d4a5c631c399b7a4ed818a9f2d094ff2c1dab15a9 
+Terms and Conditions 
+
+To adjust your email preferences or to unsubscribe, please 
+http://click.aflac-email.com/?qs=b652a650b8f53e69ffa62d0607e0cb67348b502e3991d7997190376ecfc7236a2d396f8e4d477cac188e8aaf7962f4d320cf18e418ef5f06 
+click here .
+
+
+
+(c) 2018 Aflac Incorporated | All rights reserved | 1932 Wynnton Rd., Columbus, GA 31999
+
+
+                                         
+
+
+
+--TveYRU0lbh9x=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><META NAME="referrer" CONTENT="no-referrer">
+    <title>Aflac</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+    <meta name="format-detection" content="telephone=no" />
+    <style type="text/css">
+    body {
+        margin: 0 !important;
+        padding: 0 !important;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        -webkit-font-smoothing: antialiased !important;
+    }
+
+    img {
+        border: 0 !important;
+        outline: none !important;
+    }
+
+    p {
+        Margin: 0px !important;
+        Padding: 0px !important;
+    }
+
+    table {
+        border-collapse: collapse;
+        mso-table-lspace: 0px;
+        mso-table-rspace: 0px;
+    }
+
+    td,
+    a,
+    span {
+        border-collapse: collapse;
+        mso-line-height-rule: exactly;
+    }
+
+    .ExternalClass * {
+        line-height: 100%;
+    }
+
+    a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+    }
+
+    .yahooNone {
+        display: none;
+    }
+	
+	
+	
+
+    @media only screen and (max-width:679px) {
+    	.stack {
+    	    width: 100% !important;
+    	}
+    	.hund {
+    	    width: 100% !important;
+    	    height: auto !important;
+    	}
+    	.noMo {
+    	    display: none !important;
+    	}
+    	.block {
+    	    display: block !important;
+    	}
+        .em_wrapper {
+            width: 100% !important;
+        }
+        .em_wrapper1 {
+            width: 100% !important;
+            display: block !important;
+            border: none !important;
+        }
+        .em_aside {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+            padding-bottom: 20px !important;
+        }
+        .em_pa {
+            padding: 20px !important;
+        }
+        .em_bottom {
+            padding-bottom: 20px !important;
+        }
+        .em_top {
+            padding-top: 20px !important;
+        }
+        .em_nopad {
+			padding:0 !important;
+        }
+        .em_hide {
+            display: none !important;
+        }
+        .em_img {
+            width: 100% !important;
+            height: auto !important;
+        }
+        .em_font1 {
+            font-size: 20px !important;
+            line-height: 26px !important;
+        }
+        .em_hauto {
+            height: auto !important;
+        }
+        .em_top {
+            padding-top: 40px !important;
+        }
+        .em_bottom1 {
+            height: auto !important;
+            padding-bottom: 40px !important;
+            border-bottom: 1px solid #a8a9a9 !important;
+        }
+        .rePad {
+            padding:0 25px !important;
+        }
+
+        .copy {
+            font-size: 18px !important;
+            line-height: 28px !important;
+        }
+		
+		.sidetext {text-align:center !important; padding:0px 30px 15px 30px !important;}
+		
+		.sidenote {padding-right:0px !important; width:100% !important; padding-bottom:15px !important; display:block !important;}
+		
+    }
+
+    @media only screen and (max-width:450px) {
+        .hund2 {
+            width: 100% !important;
+            height: auto !important;
+        }
+
+        .button {
+            width: 100% !important;
+        }
+
+        .footer {
+            font-size: 12px !important;
+            padding: 12px 5px !important;
+        }
+		.sidenote {padding-right:0px !important; width:100% !important; padding-bottom:15px !important; display:block !important;}
+		
+    }
+
+    @media only screen and (max-width:380px) {
+        .rePad {
+            padding:0 5px !important;
+        }
+
+        .mb_logo {
+            padding:30px 40px 15px !important;
+        }
+
+        .footer {
+            font-size: 11px !important;
+            padding: 12px 5px !important;
+        }
+		.sidenote {padding-right:0px !important; padding-bottom:15px !important; width:100% !important; display:block !important;}
+    }
+    </style>
+    <!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+
+<body style="margin:0px; padding:0px;" bgcolor="#ffffff">
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+    <tr>
+    <td valign="top" align="center">
+    
+       			<table width="680" border="0" cellspacing="0" cellpadding="0" align="center" style="table-layout:fixed; width:680px;" class="em_wrapper">
+                <tr>
+                <td align="center" valign="top" style="padding:10px 20px;" class="em_aside">
+                        
+                        	<!-- Prehdaer Begins -->
+                            
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                            <td style="font-family: 'Helvetica Nue', Helvetica, Arial,  sans-serif; font-size:12px; line-height:15px; mso-line-height-rule: exactly;color:#666666; text-align:left"></td>
+                            <td style="font-family: 'Helvetica Nue', Helvetica, Arial,  sans-serif; font-size:12px; line-height:15px; mso-line-height-rule: exactly; color:#666666; text-align:right">
+					<a href="http://view.aflac-email.com/?qs=ba5ed09932fac86e45ee0524b15878beb41c27608594150b560c467855d4c0f5d1c1666cbe12def72efe3e247cda0fe8041e779024880b7b94b355f4be33d2eb96ed5ee02389e4f181a19f47099ef906" target="_new" style="color:#1ba8df; text-decoration:none;">View in Browser
+</a>
+                            </td>
+                            </tr></table>
+                            
+                            <!-- Prehdaer Ends -->
+                            
+                 </td>
+                 </tr><tr>
+                 <td valign="top" align="center">
+                 
+                 <!-- Logo Begins -->
+                 
+                 <table width="680" border="0" cellspacing="0" cellpadding="0" align="center" style="width:680px;" class="em_wrapper">
+                <tr>
+                <td bgcolor="#f1f3f4" align="center" valign="top" style="padding:20px 20px 30px;" class="em_nopad">
+                
+                
+                
+                			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                            <td align="left" valign="top" style="padding-bottom:15px;" class="em_bottom">
+                                        
+                                        <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                        <tr>
+                                        <td class="noMo" align="center" valign="top" style="padding:20px 0;"><a href="http://click.aflac-email.com/?qs=b652a650b8f53e69f9a4e467a8cba9caa41c6a319a4b53d145ca7f0dc2a71cbcde0ebecb0830f17e5d30710c824bf421ae32a18c217fdef4" target="_blank" style="text-decoration:none;"><img src="http://image.aflac-email.com/lib/fe99157076660c7971/m/1/OE_Retention_logo.jpg" width="160" height="48" alt="Aflac&#174;" border="0" style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:30px; color:#01a7e5; font-weight:bold;" title="Aflac&#174;"/></a>
+                                        </td>
+                                        </tr>
+                                        
+                                        <!--[ if !mso ]> <!-->
+                                        <tr>
+                                        <td align="center" class="yahooNone block mb_logo" style="display: none; mso-hide:all; padding:50px 0 35px;">
+                                        <a href="http://click.aflac-email.com/?qs=b652a650b8f53e6970f9f2ee71ac12449f808872e21dfd0484b91e40f766e19daffa7e9ce59652d999c8c316a62e19644a92e4cbbab00415"><img  src="http://image.aflac-email.com/lib/fe99157076660c7971/m/1/OE_Retention_MB_logo.jpg" alt="" class="hund" style="display:block; max-width:300px;" border="0" height="1" width="1"></a>
+                                        </td>
+                                        </tr>
+                                        
+                                        <!--<![endif] -->
+                                        
+                                        </table>
+                           
+                            </td>
+                            </tr><tr>
+                            <td height="18" style="font-size:0px; line-height:0px;" bgcolor="#01a7e5">&nbsp;</td>
+                            </tr>
+                            <tr>
+                            <td align="center" bgcolor="#ffffff" style="padding-top:40px">
+                             
+                             <table width="90%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+                                    <tr>
+                                    <td align="left" valign="top" style="font-family:'Proxima Nova', Arial, sans-serif; font-size:14px; line-height:19px; color:#343434; padding:0px 0px 40px 0px; mso-line-height-rule: exactly;" class="em_bottom">Dear Hh General Contractor Inc:<br><br />
+
+                                    My name is Teresa White, president of Aflac in the United States, and I appreciate the opportunity to deliver the Aflac promise to you, your employees and the more than 7 million policyholders in the United States who rely on our products. 
+            
+                                     <br /><br />
+                                   Putting the customer first was a founding principle of our company when we opened our doors in 1955, and it continues to be the cornerstone of the Aflac Promise. From sales to service, our dedication to policyholders and their employers is demonstrated by our commitment to training, ethical sales practices, offering the best voluntary insurance products and services, excellent customer service and fast and fair claims payment. When an unfortunate injury or illness occurs, our goal is to help your employees focus on recovery, rather than potential financial challenges, so they can recuperate, return to work and contribute to the success of your business. 
+                                    <br /><br />
+                                   To that end, initiatives like our innovative One Day Pay&trade; initiative, which was introduced in 2015 and helps us quickly provide benefits to customers who purchase individual policies, is an extension of our promise, affecting policyholders in a meaningful and impactful way. In fact, in 2017 alone, we paid more than 2 million claims in just ONE day and on average we pay claims for customers who have a group policy in only four days. Furthermore, 95 percent of claimants who used One Day Pay said they would refer Aflac to a friend or family member, providing strong validation that our processes are working and that your valued employees are our top
+ priority.
+                                <br /><br />
+                                
+                                
+                                
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0" class="hund">
+                                <tr>
+                                <td valign="top" align="center" style="padding-right:10px;" class="sidenote stack">
+                                <img src="http://image.aflac-email.com/lib/fe9c15707666067f7c/m/1/alf_sidequote.jpg" width="220" height="426" border="0" style="" alt="" title="" />
+                                </td>
+                                <td valign="top" style="font-family:'Proxima Nova', Arial, sans-serif; font-size:14px; line-height:19px; color:#343434; mso-line-height-rule: exactly;" class="stack block">
+                                To that end, I am proud that Aflac is consistently ranked on lists of "Best Places to Work" and "Most Ethical Companies" - and on Jan. 19, we were notified that Fortune Magazine has included Aflac on its "World's Most Admired Companies" list for an amazing 17th year. As a matter of company culture, we are steadfast in our efforts to protect our brand and customers by simply being who we say we are. This company shoots straight with claimants, policyholders and businesses like yours that place their trust in us. We are proud of our continued devotion to operating with openness and integrity. 
+                                     <br /><br />
+                                    This is important to me - not only because I am the president of Aflac U.S., but also because I have firsthand experience of what our company truly stands for.
+                                          <br /><br />  
+                                  My mother, Margaret Marable, was diagnosed with a brain tumor in 2009. She is also an Aflac policyholder. Thankfully, she received a claim check that enabled her to obtain a second opinion. My mother could
+                                  
+
+                                
+                                </td>
+                                </tr></table>
+                                
+                              
+                        concentrate on healing without worrying that her illness was going to cripple her financially, and I learned the challenges that an unexpected medical event can have on a family. 
+                        
+                        <br /><br />
+                                    Every day when I wake up I think of my mother and how happy she is with her benefits from Aflac. My goal is to ensure all claimants feel that way. Aflac is, without qualification, my life's work, and I take very personally the importance of the efforts we make to do things the right way. It is a privilege to serve you and your company, and we will never stop working to earn your business and trust. 
+                                    <br /><br /><br />
+
+
+                                    Sincerely,
+                                    <br />
+                                    </td>
+                                    </tr><tr>
+                                    <td align="left" valign="top">
+                                    <img src="http://image.aflac-email.com/lib/fe9c15707666067f7c/m/1/Teresa_Teresa_White.gif" width="200" height="64" border="0" style="display:block; line-height:64px;" alt="Teresa White, President, Aflac U.S." title="Teresa White, President, Aflac U.S." />
+                                    </td>
+                                    </tr><tr>
+                                    <td align="left" valign="top" style="font-family:'Proxima Nova', Arial, sans-serif; font-size:17px; line-height:22px; color:#343434; padding:0px 0 40px; mso-line-height-rule: exactly;" class="em_bottom">
+                                    
+									Teresa White, President, Aflac U.S.
+
+                                    
+                                    </td>
+                                    </tr></table>
+                                    
+                             </td>
+                             </tr><tr>
+                             <td bgcolor="#01a7e5" class="footer" align="center" valign="top" style="padding:20px 10px; font-family:Arial, sans-serif; font-size:13px; line-height:16px; color:#ffffff;mso-line-height-rule: exactly;">
+                             
+                             <a href="http://click.aflac-email.com/?qs=b652a650b8f53e69f9a4e467a8cba9caa41c6a319a4b53d145ca7f0dc2a71cbcde0ebecb0830f17e5d30710c824bf421ae32a18c217fdef4" target="_blank" style="text-decoration:none; color:#ffffff;">Go to aflac.com</a> &nbsp; | &nbsp; <a href="http://click.aflac-email.com/?qs=b652a650b8f53e698c8fc70efa25fcc21d65ea1b2124dfab98c2d6f0f692c4be766279bafc80daa9f0990e57787cebdc505bcbcb90603239" target="_blank" style="text-decoration:none; color:#ffffff;">Privacy Policy</a> &nbsp; | &nbsp; <a href="http://click.aflac-email.com/?qs=b652a650b8f53e696a4efb833b270e1cea8ce0224b282c91d74be0335d5a7b12f5f3feaaf8d283332984e2a4b09620e8f8ba5021fa1472d2" target="_blank" style="text-decoration:none; color:#ffffff;">Terms and Conditions</a>
+                              
+                             
+                            </td>
+                            </tr><tr>
+                            <td align="left" valign="top" style="padding:30px 25px; font-family:Arial, sans-serif; font-size:11px; line-height:13px; color:#8d8d8d;mso-line-height-rule: exactly;" class="em_pa">
+	                                    To adjust your email preferences or to unsubscribe, please <a href="http://click.aflac-email.com/?qs=b652a650b8f53e696b9e3d29444bd9354c116a5e7276f6e4f84f3e9bdbb53a59d5024a4660365ed85f7909b13b1b5dbde0374c613628f931" style="color:#01a7e5;">click here</a>.<br><br>
+	                                  
+                                        &#169; 2018 Aflac Incorporated | All rights reserved | 1932 Wynnton Rd., Columbus, GA 31999
+									</td>
+                            </tr></table>
+                            
+                            
+               
+                
+         </td>
+         </tr></table>
+         
+          <!-- Logo Ends -->
+                 
+                 
+                 </td>
+                 </tr></table> 
+                 
+                 
+                        
+                
+    </td>
+    </tr></table>
+    
+    <div class="em_hide" style="white-space:nowrap;font:20px courier;color:#ffffff; background-color:#ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+
+</body>
+</html>
+
+<img src="http://click.aflac-email.com/open.aspx?ffcb10-fe6a15787566067f7710-fded10787d64067e7d1c7373-fe9c15707666067f7c-ff3016717261-fe241c79726d067e751170-ff5c13737c&d=40051" width="1" height="1">
+
+
+--TveYRU0lbh9x=_?:--
+

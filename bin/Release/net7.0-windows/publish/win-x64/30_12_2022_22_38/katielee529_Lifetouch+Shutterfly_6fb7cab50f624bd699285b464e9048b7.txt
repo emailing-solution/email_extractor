@@ -1,0 +1,735 @@
+Return-Path: bounce-21_HTML-211843881-65721-100017341-350036@bounce.em.lifetouch.com
+Received: from mx07.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.47)
+ by md13.aqua.sync.lan with LMTP; Fri, 15 Apr 2022 11:18:12 -0400 (EDT)
+Return-Path: <bounce-21_HTML-211843881-65721-100017341-350036@bounce.em.lifetouch.com>
+X-Received-HELO: from [13.111.104.194] (helo=mta4.em.lifetouch.com)
+Authentication-Results: mx07.aqua.bos.sync.lan header.DKIM-Signature=email@em.lifetouch.com; dkim=pass
+Authentication-Results: mx07.aqua.bos.sync.lan smtp.mail=bounce-21_HTML-211843881-65721-100017341-350036@bounce.em.lifetouch.com; spf=permerror
+Received-SPF: permerror (mx07.aqua.bos.sync.lan: 13.111.104.194 is neither permitted nor denied by domain of bounce.em.lifetouch.com)
+Received: from [13.111.104.194] ([13.111.104.194:42089] helo=mta4.em.lifetouch.com)
+	by mx.windstream.net (envelope-from <bounce-21_HTML-211843881-65721-100017341-350036@bounce.em.lifetouch.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id C2/53-09367-2BC89526; Fri, 15 Apr 2022 11:18:11 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=10dkim1; d=em.lifetouch.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type:Content-Transfer-Encoding;
+ i=email@em.lifetouch.com;
+ bh=2mba/AmhUotKDLs4DaQm6tD7JsvPZRCnVQTcmCMmiJM=;
+ b=VZh6yk6/D93WRF1qmnzOsRDUHKgJUhRqvs373lmlv+g+PSrfcgPB0YHi+1koReoTZ7ChPrAOju2y
+   UCqN6oDDlIJz3Ms8TV07o+XDmf0KB9uVgnZa61zOVIqNtcmTUeJWxrh5Qoz3Ft2hS+JehQ67WsH4
+   kmc3ZndjatBrukqEe1+ZcnzxgteixlJWEZvlwyzu4aHBt3ZDrXohZNf9DZZhKCJxqHL0+L3TOk8S
+   DB8s494NXNfj9j1byVnXB9Vxr3JSPRW2+5gAuxGqSmQlw9l/g0fk3xd6cG3rPLM8GvaMX7F2fO0P
+   9E0Qm+fx2Z4M2LRR87mbcbKqB1gNdxMaXyxDqg==
+Received: by mta4.em.lifetouch.com id hb66b62fmd45 for <katielee529@windstream.net>; Fri, 15 Apr 2022 15:17:43 +0000 (envelope-from <bounce-21_HTML-211843881-65721-100017341-350036@bounce.em.lifetouch.com>)
+From: "Lifetouch+Shutterfly" <email@em.lifetouch.com>
+To: <katielee529@windstream.net>
+Subject: Claim your Lifetouch digital images
+Date: Fri, 15 Apr 2022 09:17:43 -0600
+List-Unsubscribe: <mailto:leave-fd8816711a3c402029-fe2b1671746c007e7d1c71-fefa1275726605-fe3e15707564057a761071-fece17757564077b@leave.em.lifetouch.com>
+MIME-Version: 1.0
+Reply-To: "lifetouch@em.lifetouch.com" <reply-fefa1275726605-21_HTML-211843881-100017341-350036@em.lifetouch.com>
+List-ID: <100009663.xt.local>
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SFMC-Stack: 10
+x-job: 100017341_65721
+Message-ID: <690db0e4-bacf-4292-b7b6-361273d87191@dfw1s10mta196.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddrudelhedgkeelucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdphgfkpfffuffvtffgtefopdfgpfggqdghkffpfffuvfftgfetofen
+X-Vade-Analysis-3: uceurghilhhouhhtmecufedtudenucdnofetkffnkffpifculddujedmnecujfgurhephffvufffjfgg
+X-Vade-Analysis-4: rhejkfgtgfeshhekredttddtjeenucfhrhhomhepfdfnihhfvghtohhutghhodfuhhhuthhtvghrfhhl
+X-Vade-Analysis-5: hidfuceovghmrghilhesvghmrdhlihhfvghtohhutghhrdgtohhmqeenucggtffrrghtthgvrhhnpefh
+X-Vade-Analysis-6: geekvdfhheehheehudeihfetteehhfevudfhjeeugedvleeutedufeejveehueenucffohhmrghinhep
+X-Vade-Analysis-7: lhhifhgvthhouhgthhdrtghomhenucfkphepudefrdduuddurddutdegrdduleegnecuvehluhhsthgv
+X-Vade-Analysis-8: rhfuihiivgeptdenucfrrghrrghmpehinhgvthepudefrdduuddurddutdegrdduleegpdhhvghlohep
+X-Vade-Analysis-9: mhhtrgegrdgvmhdrlhhifhgvthhouhgthhdrtghomhdpmhgrihhlfhhrohhmpegsohhunhgtvgdqvddu
+X-Vade-Analysis-10: pgfjvffonfdqvdduudekgeefkeekuddqieehjedvuddquddttddtudejfeeguddqfeehtddtfeeisegs
+X-Vade-Analysis-11: ohhunhgtvgdrvghmrdhlihhfvghtohhutghhrdgtohhmpdhrtghpthhtohepkhgrthhivghlvggvhedv
+X-Vade-Analysis-12: leesfihinhgushhtrhgvrghmrdhnvghtpdhmthgrhhhoshhtpehmgidrrghquhgrrdgsohhsrdhshihn
+X-Vade-Analysis-13: tgdrlhgrnhdpshhpfhepphgvrhhmvghrrhhorhdpughkihhmpehprghsshdpnhgspghrtghpthhtohep
+X-Vade-Analysis-14: ud
+X-Vade-Client: AQUA
+
+<table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner">
+</td></tr></table>
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    
+    <title>Claim your Lifetouch digital images</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="x-apple-disable-message-reformatting" />
+    
+    <style type="text/css">
+      /* CLIENT-SPECIFIC STYLES */
+      body,
+      table,
+      td,
+      a {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      /* Prevent WebKit and Windows mobile changing default text sizes */
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up */
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+      /* Allow smoother rendering of resized image in Internet Explorer */
+      /* RESET STYLES */
+      img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+      }
+      table {
+        border-collapse: collapse !important;
+        margin: 0 auto !important;
+      }
+      body {
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+      }
+      /* Gmail app fix to prevent font size increase */
+      .gmailfix {
+        display: none;
+        display: none !important;
+      }
+      button {
+        display: block !important
+      }
+      div {
+        display: block !important
+      }
+      /* This overwrites Hotmails line-height and resets it to 100% */
+      .ExternalClass * {
+        line-height: 100%;
+      }
+      /* iOS BLUE LINKS */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      body {
+        font-family: Avenir-Roman, Helvetica, Arial, sans-serif;
+      }
+      .logo-image {
+        width: 425px;
+      }
+      .logo-image-jcp {
+        width: 277px;
+      }
+      .LPP-bullet-mobile {
+        display: block;
+      }
+      .LPP-bullet-mobile {
+        display: none;
+      }
+      .padding-faq {
+        padding: 0 75px 0 75px !important;
+      }
+      .show-break {
+        display: none;
+      }
+      .responsive-table-preheader {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+      }
+      .text-claim {
+        font-family: Avenir-Heavy, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        font-size: 18px; 
+        line-height: 22px;
+        color: #58595b; 
+        padding: 5px 0 36px;
+      }
+      .message-1 {
+        max-width: 760px;
+        font-family: Avenir-Roman, Helvetica, Arial, sans-serif;
+        font-size: 18px; 
+        line-height: 23px;
+        color: #58595b;
+        padding: 25px 20px 0;
+      }
+      .message-1 b {
+        font-family: Avenir-Heavy, Helvetica, Arial, sans-serif;"
+        font-weight: 700;
+        font-size: 18px;
+      }
+      .show-title-break {
+        display: none;
+      }
+      /* ANDROID CENTER FIX */
+      div[style*="margin: 16px 0;"] {
+        margin: 0 !important;
+      }
+    </style>
+    <style type="text/css">
+      /* FONTS */
+      @font-face {
+        font-family: "Avenir-Roman";
+        font-weight: 400;
+        src: url("/css/fonts/2f5a6074-badc-4e08-83f1-ed67fe5c3d7c.eot?iefix");
+        src: local('Avenir LT W01 55 Roman'),
+          url("/css/fonts/b9ebb19d-88c1-4cbd-9baf-cf51972422ec.woff") format("woff"),
+          url("/css/fonts/5ed4f98e-9044-4810-88ff-74d412c1351f.ttf") format("truetype"),
+          url("/css/fonts/4cb16859-16ca-4342-b89c-292dc83266af.svg#4cb16859-16ca-4342-b89c-292dc83266af") format("svg");
+        *src: url("/css/fonts/2f5a6074-badc-4e08-83f1-ed67fe5c3d7c.eot?iefix") format('eot');
+      }
+      @font-face {
+        font-family: "Avenir-Heavy";
+        font-weight: 700;
+        src: url("/css/fonts/f61bf0f6-c193-4100-b940-12a1a01dcee5.eot?iefix");
+        src: local('Avenir LT W01 85 Heavy'),
+          url("/css/fonts/7147ec3a-8ff8-4ec9-8c5c-bd1571dc6ae6.woff") format("woff"),
+          url("/css/fonts/d1dc54b2-878d-4693-8d6e-b442e99fef68.ttf") format("truetype"),
+          url("/css/fonts/731dd4d3-64da-427d-ba61-01575b3cf3f7.svg#731dd4d3-64da-427d-ba61-01575b3cf3f7") format("svg");
+        *src: url("/css/fonts/f61bf0f6-c193-4100-b940-12a1a01dcee5.eot?iefix") format('eot');
+      }
+      @font-face {
+        font-family: "Avenir-Book";
+        font-weight: 300;
+        src: url("/css/fonts/4f32268f-fd86-4960-b72c-4bb1ba75ec6f.eot?iefix");
+        src: local('Avenir LT W01 45 Book'),
+          url("/css/fonts/939cba03-5b40-4d01-9bc5-7589eca863db.woff") format("woff"),
+          url("/css/fonts/849bc5b9-a2ff-4343-977b-26ba8bd24a60.ttf") format("truetype"),
+          url("/css/fonts/f67fa3b5-c1d1-488f-8e60-a828b9ad56a4.svg#f67fa3b5-c1d1-488f-8e60-a828b9ad56a4") format("svg");
+        *src: url("/css/fonts/4f32268f-fd86-4960-b72c-4bb1ba75ec6f.eot?iefix") format('eot');
+      }
+      /* MOBILE STYLES */
+      @media screen and (max-width: 760px) {
+        /* ALLOWS FOR FLUID TABLES */
+        .wrapper {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        .logo-wrapper {
+          width: 100% !important;
+          max-width: 425px !important;
+        }
+        /* ADJUSTS LAYOUT OF LOGO IMAGE */
+        .logo img {
+          margin: 0 auto !important;
+        }
+        /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+        .mobile-hide {
+          display: none !important;
+        }
+        .img-max {
+          max-width: 100% !important;
+          width: 100% !important;
+          height: auto !important;
+        }
+        /* FULL-WIDTH TABLES */
+        .responsive-table {
+          width: 100% !important;
+        }
+        .template-table {
+          max-width: 402px;
+          margin: 0 auto;
+        }
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        .padding {
+          padding: 0 3% 15px 3% !important;
+        }
+        .padding-button {
+          padding: 0 3% 20px 3% !important;
+        }
+        .padding-link {
+          padding: 20px 0 10px 0 !important;
+        }
+        .padding-meta {
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+        .no-padding {
+          padding: 0 !important;
+        }
+        .section-padding {
+          padding: 0 10px 0 10px !important;
+        }
+        .text-link {
+          color: #1aaeba;
+          text-decoration: none;
+        }
+        .text-link:hover {
+          color: #1aaeba;
+          text-decoration: underline !imporant;
+        } 
+        .title-2 {
+          line-height: 22px !important;
+        }
+      }
+      @media screen and (max-width: 500px) {
+        .logo {
+          padding: 15px 30px 15px !important;
+        }
+        .logo-jcp {
+          padding: 0 0 11px !important;
+        }
+        .logo-image {
+          width: 100% !important;
+        }
+        .logo-image-jcp {
+          width: 100% !important;
+        }
+        .faq {
+          padding: 0 40px 22px !important;
+        }
+        .padding-faq {
+          padding: 0 15% 0 15% !important;
+        }
+        .show-title-break {
+          display: block;
+        }
+        .hero-image {
+          max-width: 90%;
+        }
+      }
+      @media screen and (max-width: 450px) {
+        .title-1 {
+          font-size: 13px !important;
+          line-height: 18px !important;
+          padding: 12px 0 11px !important;
+        }
+        .title-2 {
+          width: 277px;
+          font-size: 17px !important;
+          line-height: 22px !important;
+          padding: 21px 40px 19px !important;
+        }
+        .responsive-table-preheader {
+          width: 90%;
+          max-width: 90%;
+          padding: 0 !important;
+        }
+        .template-table {
+          width: 90%;
+        }
+        .footer-mobile {
+          width: 274px;
+          max-width: 274px;
+        }
+        .show-break {
+          display: block;
+        }
+      }
+      @media screen and (max-width: 360px) {
+        .rightColumnContent {
+          font-size: 15px !important;
+          line-height: 16.8px !important;
+        }
+        .bullet-icon-mobile {
+          width: 36px;
+        }
+        .responsive-table-claim {
+          width: 290px;
+          max-width: 290px;
+        }
+        .message-1 {
+          font-size: 15px !important;
+          line-height: 23px !important;
+          padding: 31px 20px 0 !important;
+        }
+        .message-1 b {
+          font-size: 15px !important;
+        }
+        .message-2 {
+          font-size: 15px !important;
+          line-height: 23px !important;
+        }
+        .text-claim {
+          padding: 5px 0 27px !important;
+          font-size: 15px !important;
+          line-height: 23px !important;
+        }   
+      }
+    </style>
+  </head>
+
+  <body style="margin: 0 !important; padding: 0 !important;">
+
+    <!--fix for the Gmail app for iOS to prevent font size increase.-->
+    <div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    </div>
+    
+    <!--[if (gte mso 9)|(IE)]>     <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">     <tr>     <td align="center" valign="top" width="760">     <![endif]-->
+    <!-- HEADER -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 760px;" align="center" class="wrapper">
+      <tr>
+        <td bgcolor="#ffffff" align="center" class="section-padding">
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <!-- JCPenny - preheader -->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 760px;" class="responsive-table-preheader">
+            <tr>
+              <td align="center" style="font-size: 20px; line-height: 20px; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b; padding: 25px 20px 26px;" class="title-1">
+                Easily Preserve and Share with Shutterflyâs unlimited free photo storage
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="border-top: 1px solid #dcdee1;"></td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <!-- Lifetouch+Shutterfly logo -->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 425px;" class="logo-wrapper">
+            <tr>
+              <td align="center" valign="top" style="padding: 28px 0 31px;" class="logo">
+                <img alt="Lifetouch + Shutterfly" class="logo-image" src="https://cdn.staticsfly.com/i/lt/evergreen/top-lockup-desktop-v2.png" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 16px; max-width: 425px; width:425px; height: auto;" border="0">
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+        </td>
+      </tr>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>     </td>     </tr>     </table>     <![endif]-->
+
+    <!--[if (gte mso 9)|(IE)]>     <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">     <tr>     <td align="center" valign="top" width="760">     <![endif]-->
+
+    <!-- HERO IMAGE Content-->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 760px;" align="center" class="wrapper">
+      <tr>
+        <td bgcolor="#ffffff" align="center" style="padding: 5px 0 0 0;">
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 760px; background-color: #f5f6f8;" class="responsive-table">
+            <tr>
+              <!-- Hero Image Title -->
+              <td align="center" style="font-size: 21px; line-height: 22px; font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #1f87bb; padding: 28px 20px 24px;" class="title-2">
+                Claim your Lifetouch digital images on Shutterfly
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">                 <tr>                 <td align="center" valign="top" width="760">                 <![endif]-->
+                <!-- Hero Image -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 760px; background-color: #f5f6f8;" class="responsive-table">
+                  <tr>
+                    <td valign="top" colspan="5" height="0" style="line-height: 14px;">
+                      <img style="display: block;" src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" height="0" border="0">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="14" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                    <td valign="top" height="14" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                    <td valign="top" align="center" style="min-width:300px; max-width:700px; margin: 0 auto;">
+                      <a href="http://click.em.lifetouch.com/?qs=83c281a63e9294c135b1a60625b533733600f1114e041d4b87c7fec087f1301c69824060fa11f4ff27d51c120c4113a1aff4dbafba55df69fb974cc841e61ad1">
+                        <img class="hero-image" style="max-width: 700px; margin: 0 auto; display: block; border-top:9px solid #ffffff; border-right:9px solid #ffffff; border-bottom:9px solid #ffffff; border-left:9px solid #ffffff; -webkit-box-shadow:0px 0px 5px 5px #eaebee; -moz-box-shadow:0px 0px 5px 5px #eaebee; box-shadow:0px 0px 5px 5px #eaebee;" src="https://uniim1.shutterfly.com/services/render/18LN6VGTUT8QkKXSxicmQCJbV_hfc_9msWVQID-MANSQzzN7mawfrAceNr6ivi35d-L66BfdI3nM6A3MbVFOzfOCdbkeiJwMun8XcRY98qptmmaFMdYBNdi4mQqV33sfR4FAwJusE6iaoomfP6T7X9HAY8yh_7cUQStD_QrQ2aKC7IKGuPkRjPdvKsAXEQ5wR" alt="">
+                      </a>
+                    </td>
+                    <td valign="top" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" height="19" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                    <td valign="top" height="19" style="max-width: 50%;">
+                      <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" colspan="5" height="0" style="line-height: 0;">
+                      <img style="display: block;" src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" height="0" border="0">
+                    </td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <!-- BULLETPROOF BUTTON -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 760px; background-color: #f5f6f8;" class="responsive-table">
+            <tr>
+              <td align="center" style="padding: 26px 0 25px;">
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">                 <tr>                 <td align="center" valign="top" width="760">                 <![endif]-->
+                <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container" style="-moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px;">
+                  <tr>
+                    <td align="center" style="-moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; width:215px; height: 38px;" bgcolor="#f05323"><a href="http://click.em.lifetouch.com/?qs=83c281a63e9294c135b1a60625b533733600f1114e041d4b87c7fec087f1301c69824060fa11f4ff27d51c120c4113a1aff4dbafba55df69fb974cc841e61ad1" target="_blank" style="font-size: 12px; line-height: 13px; font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff !important; text-decoration: none; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; padding: 12px 0 11px; display: inline-block;" class="mobile-button">CLAIM YOUR IMAGES</a></td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+                
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <!-- Main Body Copy -->  
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 760px; margin: 0 auto" class="responsive-table">
+            <tr>
+              <td align="center" style="font-size: 25px; line-height: 27px; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #f05323; padding: 25px 20px 5px; text-align: center; margin: 0 auto !important;" class="shutterfly-family">
+                <b>Lifetouch is now a part of the Shutterfly family!</b> <br />
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!-- Benefits Title -->                    
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 760px; margin: 0 auto" class="responsive-table">
+          <tr>
+            <td align="center" class="message-2" style="font-size: 18px; line-height: 27px; font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #58595b;">
+              Enjoy the following benefits:
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="100%" height="20">
+              <img src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" style="display: block;" border="0">
+            </td>
+          </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760" style="max-width: 760px;" class="responsive-table">           <tr>           <td align="center" valign="top">           <![endif]-->
+          <!-- Start Benefits Section -->
+          <table border="0" cellspacing="0" cellpadding="0" align="center" style="max-width: 760px;" class="responsive-table">
+            <tr>
+              <td>
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="402" style="max-width: 402px;" class="template-table">                 <tr>                 <td align="center" valign="top" width="402">                 <![endif]-->
+                <!-- Benefit bullet 1-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 402px;" class="template-table">
+                  <tr>
+                    <td align="right" valign="top" width="10%" class="templateColumnContainer-left" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]> <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%"> <tr> <td align="center" valign="top" width="100%"> <![endif]-->
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td class="rightColumnContent">
+                            <img src="https://cdn.staticsfly.com/i/lt/y/2019/benefits-bullet-1.png" width="54" height="43" class="bullet-icon-mobile columnImage" style="max-width:54px;" />
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                    <td align="left" valign="top" width="90%" class="templateColumnContainer-right" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]>                       <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">                       <tr>                       <td align="center" valign="top" width="100%">                       <![endif]-->
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="left" valign="top" class="rightColumnContent" style="font-size: 18px; line-height: 24px; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b; padding: 5px 0 10px;">
+                            <b style="font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif;">Preserve your photos</b> with unlimited free storage.
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="402" class="template-table">                 <tr>                 <td align="center" valign="top" width="402">                 <![endif]-->
+                <!-- Benefit bullet 2-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 402px;" class="template-table">
+                  <tr>
+                    <td align="right" valign="top" width="10%" class="templateColumnContainer" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]>                       <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">                       <tr>                       <td align="center" valign="top" width="100%">                       <![endif]-->
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td class="rightColumnContent">
+                            <img src="https://cdn.staticsfly.com/i/lt/y/2019/benefits-bullet-2.png" width="54" height="43" class="bullet-icon-mobile columnImage" style="max-width:54px;" />
+                          </td>
+                        </tr>
+                      </table>     
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                    <td align="left" valign="top" width="90%" class="templateColumnContainer" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]>                       <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">                       <tr>                       <td align="center" valign="top" width="100%">                       <![endif]-->
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="left" valign="top" class="rightColumnContent" style="font-size: 18px; line-height: 24px; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b; padding: 5px 0 10px;">
+                            <b style="font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif;">Easily find and share</b> your Lifetouch photos as your collection on Shutterfly grows.
+                          </td>
+                        </tr>
+                      </table>     
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="402" class="template-table">                 <tr>                 <td align="center" valign="top" width="402">                 <![endif]-->
+                <!-- Benefit bullet 3-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 402px;" class="template-table">
+                  <tr>
+                    <td align="right" valign="top" width="10%" class="templateColumnContainer" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]>                       <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">                       <tr>                       <td align="center" valign="top" width="100%">                       <![endif]--> 
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td class="rightColumnContent">
+                            <img src="https://cdn.staticsfly.com/i/lt/y/2019/benefits-bullet-3.png" width="54" height="43" class="bullet-icon-mobile columnImage" style="max-width:54px;" />
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                    <td align="left" valign="top" width="90%" class="templateColumnContainer" style="padding: 0 0 20px">
+
+                      <!--[if (gte mso 9)|(IE)]>                       <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">                       <tr>                       <td align="center" valign="top" width="100%">                       <![endif]-->
+                      <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="left" valign="top" class="rightColumnContent" style="font-size: 18px; line-height: 24px; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b; padding: 5px 0 10px;">
+                            <b style="font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif;">Share the moment</b> with meaningful keepsakes and gifts.
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if (gte mso 9)|(IE)]>                       </td>                       </tr>                       </table>                       <![endif]-->
+
+                    </td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 760px;" class="responsive-table-claim">
+            <tr>
+              <td align="center" class="text-claim" style="font-size: 18px; line-height: 22px; font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #58595b; padding: 0 20px 21px;">
+                Claim your images to start enjoying these benefits and more!
+              </td>
+            </tr>
+          </table>         
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">           <tr>           <td align="center" valign="top" width="760">           <![endif]-->
+          <!-- BULLETPROOF BUTTON -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width: 760px;" class="responsive-table">
+            <tr>
+              <td align="center" style="padding: 10px 0 40px;">
+
+                <!--[if (gte mso 9)|(IE)]>                 <table align="center" border="0" cellspacing="0" cellpadding="0" width="760">                 <tr>                 <td align="center" valign="top" width="760">                 <![endif]-->
+                <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container" style="-moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px;">
+                  <tr>
+                    <td align="center" style="-moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; width:215px; height: 38px;" bgcolor="#f05323"><a href="http://click.em.lifetouch.com/?qs=83c281a63e9294c135b1a60625b533733600f1114e041d4b87c7fec087f1301c69824060fa11f4ff27d51c120c4113a1aff4dbafba55df69fb974cc841e61ad1" target="_blank" style="font-size: 12px; line-height: 13px; font-weight: 700; font-family: Avenir-Heavy, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff !important; text-decoration: none; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; padding: 12px 0 11px; display: inline-block;" class="mobile-button">CLAIM YOUR IMAGES</a>
+                    </td>
+                  </tr>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>                 </td>                 </tr>                 </table>                 <![endif]-->
+
+              </td>
+            </tr>
+          </table>   
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="551">           <tr>           <td align="center" valign="top" width="551">           <![endif]-->
+          <!-- Footer section with FAQs link -->
+          <table align="center" border="0" cellspacing="0" cellpadding="0" style="max-width: 551px;">
+            <tr>
+              <td align="center" style="border-top: 1px solid #dcdee1; padding: 0;" class="faq-lines"></td>
+            </tr>
+            <tr>
+              <td valign="top" height="30">
+                <img style="display: block;" src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" height="0" border="0">
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="font-size: 15px; line-height: 18px; text-align: center; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b;" class="padding-faq" style="max-width: 360px; margin: 0 auto;">Have questions about your Lifetouch digital images
+                on Shutterfly?<br class="show-break" />&nbsp;Check out our <a href="http://click.em.lifetouch.com/?qs=4c29ecb049db032741159b04c0d137baf1506b3e5d4ec6ee7ff9192df66db2940351b4385d481c49548de81237457953bc89304ecead2634ca9837c40f300486" style="color: #1aaeba; text-decoration: none;"><span style="color: #1aaeba;" class="text-link">FAQs</span></a>.
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" height="30">
+                <img style="display: block;" src="https://cdn.staticsfly.com/i/sfly/evergreen/template/sp.gif" alt="" height="0" border="0">
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="border-top: 1px solid #dcdee1; padding: 0 0 19px" class="faq-lines-2"></td>
+            </tr>
+          </table>           
+          <!--[if (gte mso 9)|(IE)]>           </table>           <![endif]-->
+
+          <!--[if (gte mso 9)|(IE)]>           <table align="center" border="0" cellspacing="0" cellpadding="0" width="502">           <tr>           <td align="center" valign="top" width="551">           <![endif]-->
+          <table align="center" border="0" cellspacing="0" cellpadding="0" style="max-width: 502px;">
+            <tr>
+              <td align="center" style="font-size: 13px; line-height: 15px; font-family: Avenir-Roman, Helvetica, Arial, sans-serif; color: #58595b;" class="padding footer-mobile">
+                This email was sent by: Lifetouch Inc. <br />
+                11000 Viking Dr., Suite 200, Eden Prairie, MN, 55344, United States <br />
+                Â© 2022 Lifetouch Inc. <br /><br />
+                We respect your privacy. We want to assure you this picture has been only sent to authorized recipients. <br /><br />
+                This email was auto-generated to notify you of an update to your account. If you need additional assistance, <a href="http://click.em.lifetouch.com/?qs=dcdc5444f052a4cfdca9bb3d4e22a729f4ad67a67ebeefe62a9e92f90071a8910141e88d6a428138c4eba8383d1af2200ce7bff4c1aca97c734b89f98e27cfcf" style="color: #1aaeba; text-decoration: none;"><span style="color: #1aaeba;" class="text-link">click here</span></a>.<br /><br />
+                Read our <a href="http://click.em.lifetouch.com/?qs=e00b4a6a154e7574a4b5f352764b0ab9577bf9096d8c3737ece7051ad8061e812fc33d968fb727f560e0ab9b9109da458d774404baed961b888597fac9b54039" style="color: #1aaeba; text-decoration: none;"><span style="color: #1aaeba;" class="text-link">Terms of Use</span></a> and <a href="http://click.em.lifetouch.com/?qs=f60c83aff97bda5ce6593ae0a19b460edb39061d5ddf8e6c44bcac8a71cec143659294ac43b535b0eba3177fdc345a7abf0c4d89f4e825bd4ec42e9436c81dc9" style="color: #1aaeba; text-decoration: none;"><span style="color: #1aaeba;" class="text-link">Privacy and Security Policy</span></a>.<br /><br />
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>           </td>           </tr>           </table>           <![endif]-->
+
+        </td>
+      </tr>
+    </table>     
+    <!--[if (gte mso 9)|(IE)]>     </td>     </tr>     </table>     <![endif]-->
+
+    <tr>
+      <td>
+        
+      </td>
+    </tr>
+    <!-- BEGIN QA TRACKING -->
+    <span>
+      <font color="white">lt-lnss-lifetouch-0014-test|465954bc-eb3f-47a9-a526-2073dfe65056||P1247700447500449001|1650035778364</font>
+    </span>
+    <!-- END QA TRACKING -->
+    <img src="http://click.em.lifetouch.com/open.aspx?ffcb10-fefa1275726605-fe2916767d650079721171-fe3e15707564057a761071-ff9c1671-fe2b1671746c007e7d1c71-fece17757564077b&d=100163&bmt=0" width="1" height="1" alt="">
+  </body>
+</html>

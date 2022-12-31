@@ -1,0 +1,283 @@
+Return-Path: bounce-22_HTML-21738519-32116-7232103-8382@bounce.em.biglots.com
+Received: from md20.aqua.bos.sync.lan (LHLO md20.aqua.sync.lan)
+ (10.80.42.120) by md23.aqua.sync.lan with LMTP; Thu, 7 Dec 2017 09:19:12
+ -0500 (EST)
+Return-Path: bounce-22_HTML-21738519-32116-7232103-8382@bounce.em.biglots.com
+Received: from mx03.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.43)
+ by md20.aqua.sync.lan with LMTP; Thu, 7 Dec 2017 09:19:11 -0500 (EST)
+Return-Path: <bounce-22_HTML-21738519-32116-7232103-8382@bounce.em.biglots.com>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=KrMP4ieN c=1 sm=1 tr=0 b=1 a=ZrmNkion/79GwS8/dqbYnA==:117 a=ZrmNkion/79GwS8/dqbYnA==:17 a=6giede-wJD4A:10 a=ocR9PWop10UA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=5D3cb0ZUAAAA:8 a=o2QoyYduAAAA:8 a=lsIKttyURGkJOy7y0Z4A:9 a=0XD7GCB9eKxNjUxT:21 a=DEHsVvdvXF0th3l2:21 a=CjuIK1q_8ugA:10 a=oeTj7449atkA:10 a=SSmOFEACAAAA:8 a=xUZZ5f70Vwm_LKQJaD4A:9 a=dL1I1_mrpllaKMVc:21 a=Cs0YV2h9qQ8Vhn0G:21 a=6HlIhJZkJWnI1d6u:21 a=_W_S_7VecoQA:10 a=TdDO1GaYtfsA:10 a=i_n_3LaoO3BPkh_WMvex:22 a=S50rnUa8yRbNnh2hyxzf:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [13.111.5.48] (helo=mta7.em.biglots.com)
+Received: from [13.111.5.48] ([13.111.5.48:45035] helo=mta7.em.biglots.com)
+	by mx.windstream.net (envelope-from <bounce-22_HTML-21738519-32116-7232103-8382@bounce.em.biglots.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id CA/AE-10676-FDD492A5; Thu, 07 Dec 2017 09:19:11 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=em.biglots.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:List-ID:Message-ID:Content-Type; i=noreply@em.biglots.com;
+ bh=xXDBCmN6ZOctqNA7xBqQ25brOiI=;
+ b=IYwpQclA+M7eLOX6M63RgxhASPf+HxwEUAirRL+FUFovcV/E++uWHFpLXXFz7d0d1XBKYCLglDLe
+   gXoOqXz4xXBEQ0B+MM7BMAqWC+Sxo9/9YLfqIeLf3PdW8XlU16Kvo5U6q0YRiObWyPnMXrCAvb2E
+   pmclZBq6+1n06ZSuQ3w=
+Received: by mta7.em.biglots.com id h556tu163hst for <dmg5901@windstream.net>; Thu, 7 Dec 2017 14:19:11 +0000 (envelope-from <bounce-22_HTML-21738519-32116-7232103-8382@bounce.em.biglots.com>)
+From: "Big Lots" <noreply@em.biglots.com>
+To: <dmg5901@windstream.net>
+Subject: A Holiday Reward just for you! (psst...coupon inside)
+Date: Thu, 07 Dec 2017 08:19:11 -0600
+List-Unsubscribe: <mailto:leave-fd8716721a3c402029-fe5b167172670c78741d-ff021772746502-fe9d13727666057d76-ff2a1c737d66@leave.em.biglots.com>
+MIME-Version: 1.0
+List-ID: <7232103_32116.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7232103_32116
+Message-ID: <35e089a4-3e8a-4bb6-8bf3-e223fd6ff087@atl1s07mta864.xt.local>
+Content-Type: multipart/alternative;
+	boundary="5IkvS0FqFs2o=_?:"
+
+This is a multi-part message in MIME format.
+
+--5IkvS0FqFs2o=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Big Lots E-Mail
+http://click.em.biglots.com/?qs=c877b8f0c4294890adceddb151e55548aa88881f84579540ac8cf8885cbbcf22de0e1ec0c69ef3ed0c75eb4870be1d61f879396bb2f5390d 
+We're sharing the joy with you... up to $15 off! 
+http://view.em.biglots.com/?qs=df9b06e8f36ce7d11fae9b70f92ee5431603582821ebec0c7a858fffe2447dc682e324643316e85bde9d061b66bc38cfe2db12df01eae35a247ab3af36118b53bbe28c8046c6bcce 
+View email in your browser 
+
+http://click.em.biglots.com/?qs=c877b8f0c4294890adceddb151e55548aa88881f84579540ac8cf8885cbbcf22de0e1ec0c69ef3ed0c75eb4870be1d61f879396bb2f5390d 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49afbae0ae44a255669f21d2de796489a3d0f18ce5a955f9eab22967cce973e84bb43bd2cfe78114e9f9708c3bf0ecb2e4 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49df0d75c443b21f07acfcea2843635e21c8a671d3905810faa1e3b10b5c1fd04edcfb0a201405b1b72ace9a5d5e317cc9 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c4901e786d5e0ef8974c277ef85f672658178674b924a08461dde0df89d4dbcdc5909f55d63f319b1314d0e895b2559426a 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49ebb23e19a9f02267be75aae5f80decc927de5a02bd09379cbec1d1839efc5aa81046cc35a0a23bef3a40cb747b1f440b 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c494b1253195565013119aa60d21eb8ae5e57683dfa97861717a0db75181c15c20022060105908a20a6195e1f3d83c33f91 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49fbfdc6eedb3148313f812d7511a3bf6aa8fe05bcd6e90faa356a203635bfa19bb12b7ddfbe2981fbad3542e736e7f859 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49dabb5da25f23f73a977a25c99504ec1d604873ced72618d6ccb2bbceaab33173f0c98d8ad60faf5192ea4c5233a272a0 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49b0621864b3690c3d8b1ea227aeff6dbce2f9437e2820050910c1b4a7551e82d9982d97c2b633a618cc4c2219ad10f03d 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49c589f74efff75a338b150b877bbc8a2b850f2fcae39826364ec2ea9700a83a880c258c6e4bfa8f02466c3069d53f5b69 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49567a0358b5dcc1dbee0ece57745a8b0df917d80185779c8e71ed2bd89375b9c20a508eb69c56b5079f971b0f167934c8 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c497c1563276468ad9539a45b333ddbfe94052589034dbc209da1a863dee36aaa3aa9fdf6ba6d050376b236d58a10e9d35d 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49dabb5da25f23f73a977a25c99504ec1d604873ced72618d6ccb2bbceaab33173f0c98d8ad60faf5192ea4c5233a272a0 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49ece6aa603cc7bbb9f319799074e9bff211ac5dc3d9149d306f7190e9cb0954f4a2ada53d4ad7d3e6efc2b0a046fb2bc8 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c497efb333ef2f063e37d3e4026f9a17a604b491884372663f0ad1ce7d2dec713dfeea899f0f9f498f30fc099abc4799ecf 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c4984a0cffb90cb0d64ba27cb480311fbf53d16d6140343928220e993b8c27b3a47c4ca2e6810996b812012542a40c35335 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49e7625cdd7dc4a6b4a12549fac529805050af403198ef9d5ce971d14f631cc05165ed61e2f5f66e1d5957fb9287423cfe 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49ab49f676939ffe9ae0c86ed40bf13a3a814e2ccfa84c980ed18078ebe2844697ed0bf70b25d40b0ba0ec6eee6a2a051a 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c497889663ba4f4ae2c4f7bd1a70578270127ef7c32464b2b50d4f6c24b22e447dfcba6cb68e2c2dd5ff46a9280f1902794 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49fdf5c3bec0726fbbb6c0120e87d7b8befdeabf9f82d00b56d79d51c17748fbda8ddee61699b25e6ee8a237b3d9f6d360 
+
+http://click.em.biglots.com/?qs=06cc341e3cc15c49b2e87e79f7d92ab93098e363c5edd396156f34105016f73e57b37f04fcc39545eafa26a25529ec8bccca100da4e3ab69 
+
+*Offer valid for $5 off any purchase of $15 or more or $15 off $50. Purchase price calculated before tax and after exclusions. Offer valid in stores or at biglots.com. This is an exclusive one time use promotional offer for select Rewards members only and is not transferable. This offer does not apply to shipping or delivery charges, previous transactions, price holds, non-purchases such as rentals, deposits, charitable donations, purchases of milk, dairy products, eggs and/or purchases of gift cards. Value is forfeited if item is returned. Big Lots is not responsible for expired offers or lost or stolen coupons or Rewards cards. By attempting to redeem this offer, user unconditionally agrees that decisions of Big Lots are final on all matters of interpretation, fact and procedure with
+ respect to this offer. Valid only on in stock goods. Void where prohibited. No cash value or cash back. To redeem coupon, offer in stores, the coupon must be presented and surrendered at time of purchase. To redeem coupon, offer online, sign in to your Rewards account and enter promo code HOLIDAY17 at checkout. Limit two promo codes for online purchases. When offers are combined, % off is applied first. Offer valid at Big Lots stores 12/07/17 thru 12/17/17. Offer valid at biglots.com 12/07/17 @ 3:00am EST until 12/17/17 @ 11:59pm PST.
+
+Due to the nature of our business, Buyouts, Closeouts and Special Buys, we must limit our sale to stock on hand. Sorry, no rainchecks. Comparative pricing on new items is based on same or similar items sold elsewhere. Comparative pricing on reconditioned items reflects savings when compared to same or similar factory new items sold elsewhere. "Extreme Values&hellip;well below prices found elsewhere" applies to comparative pricing for products specifically identified in this ad as "Extreme Values." We do not accept manufacturers' coupons. When applicable, advertised sweetened beverage prices do not include Cook County Sweetened Beverage Tax.
+Please do not reply to this message. Replies to this message are routed to an unmonitored mailbox. We're happy to help you with any questions or concerns you may have. Please contact us directly 24/7 via 
+http://click.em.biglots.com/?qs=06cc341e3cc15c4970c4d6fe378ba5a02305bfb48860206115fe7c4655436eb72ed16fd120a28cb0119218e40ad511b2c55c3cfff91b7775 
+http://click.em.biglots.com/?qs=06cc341e3cc15c49655f2e17df70895004375eec8480e0ddae17588339f7b448f70035cda1bc14afd59aaf86c189a99e575338ee8c565a63 
+
+Visit biglots.com:
+   
+http://click.em.biglots.com/?qs=06cc341e3cc15c49f2aa281e2a58abd0b42f2b46ea82a9c5bf4fcd3445d10ed69991d8d94e120a4edb80e90c3c8df3de51bde58744117281 
+Weekly Ad    |  
+http://click.em.biglots.com/?qs=06cc341e3cc15c49a56cc95a1ae662dbf8568079077831590903ae78c33105c6bf48cee0ac49b217bc02fb30e2491c2c48ee8676f5966376 
+Store Locator    |   
+http://click.em.biglots.com/?qs=06cc341e3cc15c4984a0cffb90cb0d64ba27cb480311fbf53d16d6140343928220e993b8c27b3a47c4ca2e6810996b812012542a40c35335 
+My Account    |   
+http://click.em.biglots.com/?qs=06cc341e3cc15c4970c4d6fe378ba5a02305bfb48860206115fe7c4655436eb72ed16fd120a28cb0119218e40ad511b2c55c3cfff91b7775 
+Help    |   
+http://click.em.biglots.com/?qs=06cc341e3cc15c4970c4d6fe378ba5a02305bfb48860206115fe7c4655436eb72ed16fd120a28cb0119218e40ad511b2c55c3cfff91b7775 
+Contact Us   |   
+http://click.em.biglots.com/?qs=06cc341e3cc15c49906c8b4c0dff603772018d1298db00528499ec98203cc66869f9dc83b08eace23971b18a8430d31e2afe6a795d42659c 
+Privacy Policy 
+
+This email was sent to: dmg5901@windstream.net
+This email was sent by: Big Lots Stores, Inc., 300 Phillipi Rd, Columbus, OH, 43228-5311, USA
+Your favorite store:Please login and select a favorite store to view local deals.   
+http://click.em.biglots.com/?qs=06cc341e3cc15c4984a0cffb90cb0d64ba27cb480311fbf53d16d6140343928220e993b8c27b3a47c4ca2e6810996b812012542a40c35335 
+Update    |   
+http://click.em.biglots.com/?qs=06cc341e3cc15c49a56cc95a1ae662dbf8568079077831590903ae78c33105c6bf48cee0ac49b217bc02fb30e2491c2c48ee8676f5966376 
+Map 
+
+To ensure delivery to your inbox, please add 
+mailto:biglots@em.biglots.com 
+biglots@em.biglots.com  to your address book.
+
+
+
+You are receiving this email because you signed up to receive emails at one of our stores or via 
+http://click.em.biglots.com/?qs=06cc341e3cc15c492d8eaaca972ee410df3c5f77a0c35c62fd3453da5a3d0b0d6d0348171384ee3f4e9a67d3f67c1df018aeeebccdc627d6 
+biglots.com .
+
+
+If you would like to change or modify your email subscription, please visit 
+http://click.em.biglots.com/?qs=06cc341e3cc15c4984a0cffb90cb0d64ba27cb480311fbf53d16d6140343928220e993b8c27b3a47c4ca2e6810996b812012542a40c35335 
+My Account . If you would like to cancel your email subscription, click 
+http://click.em.biglots.com/?qs=06cc341e3cc15c4947069888102e38312862936945f86698dda6ddb9132840b49db12ad3936e84ef512cf32d566a0f3bbf7d089114bff042 
+UNSUBSCRIBE  now and we will promptly remove you from our list.
+
+
+
+
+
+--5IkvS0FqFs2o=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+   <html xmlns="http://w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <style>
+         table
+         {
+            border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;
+         }
+         table table
+         {
+            table-layout: auto;
+         }
+      </style>
+      <title>Big Lots E-Mail</title>
+   </head>
+   <body style="padding:0;">
+      <img src="http://click.em.biglots.com/open.aspx?ffcb10-ff021772746502-fe5716757d63047a7d17-fe9d13727666057d76-ff9b1672-fe5b167172670c78741d-ff2a1c737d66" width="1" height="1">
+         <TABLE style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellSpacing=0 cellPadding=0 width="100%" bgColor="#ffffff">
+            <TBODY>
+               <TR>
+                  <TD align="center">
+                   <!-- PREHEADER------------------------------------------------------------------------- --> 
+                   <table border="0" align="center" cellpadding="" cellspacing=""  width="610" style="font-size: 11px;">
+                     <tbody>
+                        <tr>
+                           <td align="left" width="300px" style="padding: 10px 10px 10px 10px;"><font face="Arial, sans-serif"><span style="color: #666666;"><a href="http://click.em.biglots.com/?qs=c877b8f0c4294890adceddb151e55548aa88881f84579540ac8cf8885cbbcf22de0e1ec0c69ef3ed0c75eb4870be1d61f879396bb2f5390d" target="_blank" style="color:#666666; text-decoration:none;">We're sharing the joy with you... up to $15 off!</a></span></font></td>
+                           <td align="right" width="300px" style="padding: 10px 10px 10px 10px;"><font face="Arial, sans-serif"><span style="color: #666666;"><a href="http://view.em.biglots.com/?qs=df9b06e8f36ce7d11fae9b70f92ee5431603582821ebec0c7a858fffe2447dc682e324643316e85bde9d061b66bc38cfe2db12df01eae35a247ab3af36118b53bbe28c8046c6bcce" target="_blank" style="color:#666666; text-decoration:none;">View email in your browser</a></span></font></td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <!--NAVIGATION------------------------------------------------------------------------------- -->
+                  <table align="center" id="Table_01" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <TD>
+                        <A  href="http://click.em.biglots.com/?qs=c877b8f0c42948908e0d161da73e89c0d24e937a69eb46c1df856baac7c24b6eb6587cb3be22ded45aaa48e1172e442d736af1e04107dab2" target=_blank>
+                           <IMG style="WIDTH: 231px; DISPLAY: block; HEIGHT: 80px;"  title="Big Lots" border=0 hspace=0 alt="Big Lots" src="http://www.biglots.com/images/aprimo/common/Email_Logo.jpg"></A></TD>
+                            <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c42948900a156f9ff3778fb929d3ae2d0c6c7ffa4786b5b557cc2c91670e099b81724c7f83b024d66f9d403a0bfab66c741b6091" target=_blank><IMG style="WIDTH: 125px; DISPLAY: block; HEIGHT: 80px;"  title="Weekly Deals" border=0 hspace=0 alt="Weekly Deals" src="http://www.biglots.com/images/aprimo/common/Email_eComm_WeeklyDeals.jpg"></A></TD>
+                            <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c429489082a12ffae6bb5a94e15577258773ff3f61f93303c6b6b84233d0b2b8c1f430719c8284ea99d47ff229b7abfcd076ae93" target=_blank><IMG style="WIDTH: 97px; DISPLAY: block; HEIGHT: 80px;"  title="Weekly Ad" border=0 hspace=0 alt="Weekly Ad" src="http://www.biglots.com/images/aprimo/common/Email_eComm_WeeklyAd.jpg"></A> </TD>
+                            <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890278727a5f71bf2f96d1f07b8bf2160ccd056b26eddc3a1c4499c650d1631de48de81dabff1dcf6c5a5cd09404ce1e577" target=_blank><IMG style="WIDTH: 157px; DISPLAY: block; HEIGHT: 80px;"  title="Store Locator" border=0 hspace=0 alt="Store Locator" src="http://www.biglots.com/images/aprimo/common/Email_eComm_StoreLocator.jpg"></A></TD>
+                         </tr>
+                      </table>
+                      <TABLE align="center" border=0 cellSpacing=0 cellPadding=0 width=610 style="border-collapse: collapse;">
+                        <TBODY>
+                           <TR>
+                              <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890449d2f5b22351589a8b92390ec62ef378d55f67d6b1312c99eff1ea56d36e0ac775703570f943a25829289362e55648f" target=_blank><IMG style="WIDTH: 141px; DISPLAY: block; HEIGHT: 62px;"  title="Furniture" border=0 hspace=0 alt="Furniture" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Furniture.jpg"></A></TD>
+                              <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c429489032dececa9cd986f6c21fcc4b24d7dccaad10cda407e7280d810b4067d275526c7d019ac263f3d87f53290f19f2182a97" target=_blank><IMG style="WIDTH: 152px; DISPLAY: block; HEIGHT: 62px;"  title="For The Home" border=0 hspace=0 alt="For The Home" src="http://www.biglots.com/images/aprimo/common/Email_eComm_ForTheHome.jpg"></A></TD>
+                              <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890e261cfff560bedd327ceb70330e101337073a95b123956972ebc612df1de0dbec0bf7abfff2efc0b7c5e2b17cac2bf33" target=_blank><IMG style="WIDTH: 114px; DISPLAY: block; HEIGHT: 62px;"  title="Seasonal"  border=0 hspace=0 alt="Seasonal" src="http://www.biglots.com/images/marketing/email/2016/common/Email_eComm_Seasonal.jpg"></A> </TD>
+                              <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890f0e1f16329ea82aae75ba262c839905f9c32ef35c23788264c892cd1b907701dea817584bde7df62f61e19bcd2aba22c" target=_blank><IMG style="WIDTH: 203px; DISPLAY: block; HEIGHT: 62px;"  title="All Departments" border=0 hspace=0 alt="All Departments" src="http://www.biglots.com/images/aprimo/common/Email_eComm_AllDepartments.jpg"></A></TD>
+                           </TR>
+                        </TBODY>
+                     </TABLE>
+   <!--End-Navigation------------------------------------------------------------------------------- -->
+
+<table style="margin: 0; padding: 0; border-collapse: collapse;"  border=0 cellSpacing=0 cellPadding=0>
+<tbody>
+<tr>
+<td>
+<a class="undeclared"  target="_blank" href="http://click.em.biglots.com/?qs=c877b8f0c42948904316f094e64bad2891c07c8eaede9080d4837371fc7f1885f71b3dff93c8f8ac1b41318173c0bc7f9045d19dbeb9656b"><img style="display: block;"  border=0  alt="$5 off or $15 off" SRC="http://www.biglots.com/images/marketing/email/2017/december/120717-email-PM_01.jpg"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse;"  border=0 cellSpacing=0 cellPadding=0>
+<tbody>
+<tr>
+<td>
+<a class="undeclared"  target="_blank" href="http://click.em.biglots.com/?qs=c877b8f0c4294890c4f18ef937c8179c2e6e1cec5df10bfe103091acc43424ca44818721b2a617bf5d74f7716c5830faab3f2d2b5652a847"><img style="display: block;"  border=0  alt="In-Store claim it" SRC="http://www.biglots.com/images/marketing/email/2017/december/120717-email-PM_02.jpg"/></a>
+</td>
+<td>
+<a class="undeclared"  target="_blank" href="http://click.em.biglots.com/?qs=c877b8f0c429489025cdb72884ff2bbb2b10989c8aaf1eb9edc7b3767f0052b238e0fbc7dcfbac106b4bd3b0e002e1f1184f3a2599f74985"><img style="display: block;"  border=0  alt="Online shop now" SRC="http://www.biglots.com/images/marketing/email/2017/december/120717-email-PM_03.jpg"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse;"  border=0 cellSpacing=0 cellPadding=0>
+<tbody>
+<tr>
+<td>
+<a class="undeclared"  target="_blank" href="http://click.em.biglots.com/?qs=c877b8f0c4294890c21e3ff390917471237cb4923a62c1516e91555e82163110ab8937497856b59da0c0ed82aa4f77c213d26607aec29ac8"><img style="display: block;"  border=0  alt="Holiday Deals" SRC="http://www.biglots.com/images/marketing/email/2017/december/120717-email-PM_04.jpg"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Footer-Nav------------------------------------------------------------------------------- -->
+
+<TABLE align="center" border=0 cellSpacing=0 cellPadding=0 width=610 style="border-collapse: collapse">
+                                                   <TBODY>
+                                                      <TR>
+                                                         <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890fc378ba0d33d8bfc191b0914e62f23cc67440aaecea7bb326ccb5df03ea10e9dc716a9aadfe2ffdaabe9ec0dffbdc4a8" target=_blank><IMG style="WIDTH: 199px; DISPLAY: block; HEIGHT: 52px;"  title="Shop Departments" border=0 hspace=0 alt="Shop Departments" src="http://image.em.biglots.com/lib/fe9d13727666057d76/m/1/112817-email_02.jpg"></A> </TD>
+                                                         <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c42948907c121d613f9e07b1ca00363fd7f86fe01ae602a2325dff5a6733f5aed0ddc3f23b15fb2c695835a6760451cdc26b0f64" target=_blank><IMG style="WIDTH: 143px; DISPLAY: block; HEIGHT: 52px;"  title="Customer Care" border=0 hspace=0 alt="Customer Care" src="http://image.em.biglots.com/lib/fe9d13727666057d76/m/1/112817-email_03.jpg"></A> </TD>
+                                                         <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890bd7451c9660da7b94abd3aff10b096d4cea11108d9494fe3bed113efbbe48b3e7c4ac335ca0b0972759bc81c01ed7bd4" target=_blank><IMG style="WIDTH: 124px; DISPLAY: block; HEIGHT: 52px;"  title="Big Rewards" border=0 hspace=0 alt="Big Rewards" src="http://image.em.biglots.com/lib/fe9d13727666057d76/m/1/112817-email_04.jpg"></A> </TD>
+                                                         <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890e60c8802d8188ba7e3f14980cca206015e8da7def8b1cc0aada0df13eeb3fb57dbca1c21d14e28b4aacd98b7ea6222d3" target=_blank><IMG style="WIDTH: 144px; DISPLAY: block; HEIGHT: 52px;"  title="My Account" border=0 hspace=0 alt="My Account" src="http://image.em.biglots.com/lib/fe9d13727666057d76/m/1/112817-email_05.jpg"></A></TD>
+                                                      </TR>
+                                                   </TBODY>
+   </TABLE>
+
+<!--Social------------------------------------------------------------------------------- -->
+
+<TABLE align="center" border=0 cellSpacing=0 cellPadding=0 width=610 style="border-collapse: collapse;">
+ <TBODY>
+  <TR>
+   <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890facd9ac50f3af6f8afc9147749e536ca0778af45b98fe30f2eb86a4c13ff9e0562fc013ccee8ef4d47af93c4b6925bf3" target=_blank><IMG style="WIDTH: 233px; DISPLAY: block; HEIGHT: 76px;"  title="Facebook" border=0 hspace=0 alt="Facebook" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Footer-Facebook.gif"></A> </TD>
+   <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c42948905b65450fe46e033785862725473f8492f6ca243cb3ca1a8230b3d22919a1a24af312702e9c5d1ced2a45674873761f31" target=_blank><IMG style="WIDTH: 43px; DISPLAY: block; HEIGHT: 76px;"  title="Twitter" border=0 hspace=0 alt="Twitter" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Footer-Twitter.gif"></A> </TD>
+   <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c429489013eddc0e5834d68f40de5175da16db4b772f2c956ce1169201a50976f899fe5012c113255a401557acf22324dba8be5e" target=_blank><IMG style="WIDTH: 43px; DISPLAY: block; HEIGHT: 76px;"  title="YouTube" border=0 hspace=0 alt="YouTube" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Footer-YouTube.gif"></A> </TD>
+   <TD><A  href="http://click.em.biglots.com/?qs=c877b8f0c4294890f80e900d682677aa44c51ae71ed4e348b88853e8102e649cabd69d0b741f5eb7aacf2187234abd265dfdfb627521f690" target=_blank><IMG style="WIDTH: 41px; DISPLAY: block; HEIGHT: 76px;"  title="Pinterest" border=0 hspace=0 alt="Pinterest" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Footer-Pinterest.gif"></A> </TD>
+   <TD><A  href="http://click.em.biglots.com/?qs=06cc341e3cc15c49f36f19b72df0d0c5d907967bb5da90d0ef50d658be6b52130b5fcb51a919e06a872f1f829126c856a440849273f7e391" target=_blank><IMG style="WIDTH: 250px; DISPLAY: block; HEIGHT: 76px;"  title="Instagram" border=0 hspace=0 alt="Instagram" src="http://www.biglots.com/images/aprimo/common/Email_eComm_Footer-Instagram.jpg"></A> </TD>
+ </TR>
+</TBODY>
+</TABLE>
+<!--FOOTER----------------------------------------------------------- -->
+<table bgcolor="#ffffff" align="center" width="610" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="bgcolor: #ffffff; font-family: Arial, Helvetica, sans-serif; color: #666666; font-size: 11px; text-align: center; align: center;">
+      
+<br />*Offer valid for $5 off any purchase of $15 or more or $15 off $50. Purchase price calculated before tax and after exclusions. Offer valid in stores or at biglots.com. This is an exclusive one time use promotional offer for select Rewards members only and is not transferable. This offer does not apply to shipping or delivery charges, previous transactions, price holds, non-purchases such as rentals, deposits, charitable donations, purchases of milk, dairy products, eggs and/or purchases of gift cards. Value is forfeited if item is returned. Big Lots is not responsible for expired offers or lost or stolen coupons or Rewards cards. By attempting to redeem this offer, user unconditionally agrees that decisions of Big Lots are final on all matters of interpretation, fact and procedure
+ with respect to this offer. Valid only on in stock goods. Void where prohibited. No cash value or cash back. To redeem coupon, offer in stores, the coupon must be presented and surrendered at time of purchase. To redeem coupon, offer online, sign in to your Rewards account and enter promo code HOLIDAY17 at checkout. Limit two promo codes for online purchases. When offers are combined, % off is applied first. Offer valid at Big Lots stores 12/07/17 thru 12/17/17. Offer valid at biglots.com 12/07/17 @ 3:00am EST until 12/17/17 @ 11:59pm PST.<br />
+<br />Due to the nature of our business, Buyouts, Closeouts and Special Buys, we must limit our sale to stock on hand. Sorry, no rainchecks. Comparative pricing on new items is based on same or similar items sold elsewhere. Comparative pricing on reconditioned items reflects savings when compared to same or similar factory new items sold elsewhere. "Extreme Values&hellip;well below prices found elsewhere" applies to comparative pricing for products specifically identified in this ad as "Extreme Values." We do not accept manufacturers&#8216; coupons. When applicable, advertised sweetened beverage prices do not include Cook County Sweetened Beverage Tax.</TD>
+
+    </tr>
+  </table>
+  <table bgcolor="#ffffff" align="center" width="610" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="bgcolor: #ffffff; font-family: Arial, Helvetica, sans-serif; color: #666666; font-size: 11px; text-align: center; align: center;">
+        <hr color=#666666 SIZE=1 width=590 noShade>
+        <STRONG>Please do not reply to this message. Replies to this message are routed to an unmonitored mailbox. We're happy to help you with any questions or concerns you may have. Please contact us directly 24/7 via </STRONG><STRONG><A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=06cc341e3cc15c498fde4c5a256f74df49f2a269506ce74f6ef3bed2c372dd14c38c752b7c250a61acdf674bfb932dd9f6f8ccbf67935a4a" target=_blank>http://www.biglots.com/help</A></STRONG>
+        <!--start footer horizontal text menu-->
+        <hr color=#666666 SIZE=1 width=590 noShade>
+        <br />
+        Visit biglots.com:
+        &nbsp;&nbsp; <A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=06cc341e3cc15c49708d4eb78c5e3b518d18a97e0037ef4faea120446c65561884751db13443d17701db1edce3bfd4fd7dc90e8b9f4f50d2" target=_blank>Weekly Ad</A> &nbsp; |&nbsp; <A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=06cc341e3cc15c496511d4381aeb1792d9b881f691d2e45227f23ecd0a4b5d2b98d57b48c8f265437128862587db43f8e80c90443abebd02" target=_blank>Store Locator </A>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=06cc341e3cc15c49eb92517bffec4cf14d3746c0c58dc9ab7c02ac7b1456f1d3b515f13f5221c4fb42259bbc69629d2e2b5be4cf9dd341de" target=_blank>My Account</A> &nbsp;&nbsp;|&nbsp;&nbsp; <A style="COLOR: #ff6600"   href="http://click.em.biglots.com/?qs=06cc341e3cc15c498fde4c5a256f74df49f2a269506ce74f6ef3bed2c372dd14c38c752b7c250a61acdf674bfb932dd9f6f8ccbf67935a4a" target=_blank>Help</A> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=06cc341e3cc15c498fde4c5a256f74df49f2a269506ce74f6ef3bed2c372dd14c38c752b7c250a61acdf674bfb932dd9f6f8ccbf67935a4a" target=_blank>Contact Us</A>&nbsp;&nbsp;|&nbsp;&nbsp; <A style="COLOR: #ff6600"  href="http://click.em.biglots.com/?qs=0

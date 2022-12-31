@@ -1,0 +1,631 @@
+Return-Path: bounce-21_HTML-583002047-392677-7222895-4451965@bounce.email.ticketmaster.com
+Received: from mx04.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.44)
+ by md13.aqua.sync.lan with LMTP; Mon, 7 Mar 2022 15:47:03 -0500 (EST)
+Return-Path: <bounce-21_HTML-583002047-392677-7222895-4451965@bounce.email.ticketmaster.com>
+X-Received-HELO: from [136.147.183.164] (helo=mta30.email.ticketmaster.com)
+Authentication-Results: mx04.aqua.bos.sync.lan header.DKIM-Signature=customer_support@email.ticketmaster.com; dkim=pass
+Authentication-Results: mx04.aqua.bos.sync.lan smtp.mail=bounce-21_HTML-583002047-392677-7222895-4451965@bounce.email.ticketmaster.com; spf=permerror
+Received-SPF: permerror (mx04.aqua.bos.sync.lan: 136.147.183.164 is neither permitted nor denied by domain of bounce.email.ticketmaster.com)
+Received: from [136.147.183.164] ([136.147.183.164:39186] helo=mta30.email.ticketmaster.com)
+	by mx.windstream.net (envelope-from <bounce-21_HTML-583002047-392677-7222895-4451965@bounce.email.ticketmaster.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 51/B0-21833-74F66226; Mon, 07 Mar 2022 15:47:03 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=email.ticketmaster.com;
+ h=From:To:Subject:Date:List-Help:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type:Content-Transfer-Encoding;
+ i=customer_support@email.ticketmaster.com;
+ bh=my0GKQ5m0hNqAjPBpHOLwhNNZx+NLoXB+15ibEDsyJw=;
+ b=k06tHRdSN0YeBlmQLqwtqdhmL+PCzcTgrM8NX47TFf6seAs7xRCJKz7YLMeWWiLnQ7LCgjsPyKxK
+   FrkEyJDK5UcKcgzymQs8A9/mnp5+cjoZmc1relVcZOe5cmxokPlgAV2QYZcsFIgth62o6j2mBWIO
+   UFwlIH/nT71yZKrmaIg=
+Received: by mta30.email.ticketmaster.com id h4pnke2fmd4j for <katielee529@windstream.net>; Mon, 7 Mar 2022 20:47:03 +0000 (envelope-from <bounce-21_HTML-583002047-392677-7222895-4451965@bounce.email.ticketmaster.com>)
+From: "Ticketmaster" <customer_support@email.ticketmaster.com>
+To: <katielee529@windstream.net>
+Subject: Your Ticketmaster password has been updated
+Date: Mon, 07 Mar 2022 14:47:03 -0600
+List-Help: <https://click.email.ticketmaster.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI3MjIyODk1IiwicyI6IjU4MzAwMjA0NyIsImxpZCI6IjIxIiwiaiI6IjM5MjY3NyIsImpiIjoiNDQ1MTk2NSIsImQiOiI3MDE3OSJ9.cISOlqJ2Rdc2mmGYqhjRWuehhWd-BYOvNC3ErPNQxe8>
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Ticketmaster" <reply-febd17797762037a-21_HTML-583002047-7222895-4451965@email.ticketmaster.com>
+List-ID: <7220265.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 7
+x-job: 7222895_392677
+Message-ID: <52128025-0705-4923-ab31-160912ea8a10@atl1s07mta2774.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Vade-Verdict: transactional:account
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddruddugedgudegudcutefuodetggdotefrodftvfcurfhr
+X-Vade-Analysis-2: ohhfihhlvgemucfujgfpteevqfftpdghkffpfffuvfftgfetofdpgffpggdqhgfkpfffuffvtffgtefo
+X-Vade-Analysis-3: necuuegrihhlohhuthemuceftddunecundettggtohhunhhtucdlvddtmdenucfjughrpefhvffuffef
+X-Vade-Analysis-4: gghrjefktgfgsehhkeertddttdejnecuhfhrohhmpedfvfhitghkvghtmhgrshhtvghrfdcuoegtuhhs
+X-Vade-Analysis-5: thhomhgvrhgpshhuphhpohhrthesvghmrghilhdrthhitghkvghtmhgrshhtvghrrdgtohhmqeenucgg
+X-Vade-Analysis-6: tffrrghtthgvrhhnpeetudfgffetgfdutedviedtveffuedvffduveeiudevfefhheduleegffdtgffg
+X-Vade-Analysis-7: teenucffohhmrghinhepthhitghkvghtmhgrshhtvghrrdgtohhmnecukfhppedufeeirddugeejrddu
+X-Vade-Analysis-8: keefrdduieegnecuvehluhhsthgvrhfuihiivgeptdenucfrrghrrghmpehinhgvthepudefiedrudeg
+X-Vade-Analysis-9: jedrudekfedrudeigedphhgvlhhopehmthgrfedtrdgvmhgrihhlrdhtihgtkhgvthhmrghsthgvrhdr
+X-Vade-Analysis-10: tghomhdpmhgrihhlfhhrohhmpegsohhunhgtvgdqvddupgfjvffonfdqheekfedttddvtdegjedqfeel
+X-Vade-Analysis-11: vdeijeejqdejvddvvdekleehqdeggeehudelieehsegsohhunhgtvgdrvghmrghilhdrthhitghkvght
+X-Vade-Analysis-12: mhgrshhtvghrrdgtohhmpdhrtghpthhtohepkhgrthhivghlvggvhedvleesfihinhgushhtrhgvrghm
+X-Vade-Analysis-13: rdhnvghtpdhmthgrhhhoshhtpehmgidrrghquhgrrdgsohhsrdhshihntgdrlhgrnhdpshhpfhepphgv
+X-Vade-Analysis-14: rhhmvghrrhhorhdpughkihhmpehprghsshdpnhgspghrtghpthhtohepud
+X-Vade-Client: AQUA
+
+<!-- TICKETMASTER V3 09102018 --> 
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width" />
+    <title>Ticketmaster
+    </title>
+    <style type="text/css">
+      @font-face {
+        font-family: 'Averta-Regular';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.eot') format('eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.ttf') format('truetype');
+        font-weight: 300 !important;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: 'Averta-Semibold';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.eot') format('eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: 'TMSans';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.ttf') format('truetype');
+        font-weight: normal;
+      }
+      @font-face {
+        font-family: 'TMSans-Bold';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.woff') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.ttf') format('truetype');
+        font-weight: bold;
+      }
+      .tmsans {
+        font-family: 'TMSans', 'Futura', Arial, Helvetica, sans-serif !important;
+      }
+      .font-averta {
+        font-family: 'Averta-Regular', Arial, Helvetica, sans-serif !important;
+      }
+      .font-avertasemibold {
+        font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif !important;
+      }
+      /* Fix gap on Outlook.com and Outlook 365 */
+      [owa] div,button {
+        margin:0 !important;
+        padding:0 !important;
+        display:block !important;
+      }
+      /* prevent iOS font upsizing */
+      * {
+        -webkit-text-size-adjust: none;
+      }
+      /* force Outlook.com to honor line-height */
+      .ExternalClass * {
+        line-height: 100%;
+      }
+      td {
+        mso-line-height-rule: exactly;
+      }
+      /* prevent iOS auto-linking */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /** Prevent Outlook Purple Links on CTAs **/
+      .white-text-link a:link {
+        color: #ffffff;
+      }
+      .blue-text-link a:link {
+        color: #026cdf;
+      }
+      /*** Responsive CSS ***/
+      @media only screen and (max-width:599px) {
+        /*** Layout ***/
+        body {
+          width: 100%;
+          min-width: 100%;
+          position: relative;
+          top: 0;
+          left: 0;
+          right: 0;
+          margin: 0;
+          padding: 0;
+        }
+        .marginFix {
+          position: relative;
+          top: 0;
+          left: 0;
+          right: 0;
+        }
+        .font-averta {
+          font-weight: normal !important;
+        }
+        .full-width-container {
+          width: 100% !important;
+          min-width: 280px !important;
+        }
+        .hide {
+          width: 0px !important;
+          height: 0px !important;
+          display: none !important;
+        }
+        .show-mobile {
+          float:none !important;
+          display:table-row !important;
+          margin: 0;
+          padding:0;
+          overflow : visible !important;
+          width:auto !important;
+          height: auto !important;
+          max-height:inherit !important;
+          visibility: visible !important;
+          font-size: inherit !important;
+        }
+        .full-width {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .stackTbl {
+          width: 100% !important;
+          display: table !important;
+        }
+        .center {
+          margin: 0px auto !important;
+        }
+        .autoHeight {
+          height:auto !important;
+        }
+        /*** Padding Styles ***/
+        .mobile-padding0 {
+          padding: 0px !important;
+        }
+        .mobile-padding16 {
+          padding:16px !important;
+        }
+        .mobile-padding16H {
+          padding-top:16px !important;
+          padding-bottom:16px !important;
+        }
+        .mobile-padding16W {
+          padding-left:16px !important;
+          padding-right:16px !important;
+        }
+        .mobile-padding16T {
+          padding-top:16px !important;
+        }
+        .mobile-padding16B {
+          padding-bottom:16px !important;
+        }
+        .mobile-padding20 {
+          padding:20px !important;
+        }
+        .mobile-padding20H {
+          padding-top:20px !important;
+          padding-bottom:20px !important;
+        }
+        .mobile-padding20W {
+          padding-left:20px !important;
+          padding-right:20px !important;
+        }
+        .mobile-padding20T {
+          padding-top:20px !important;
+        }
+        .mobile-padding20B {
+          padding-bottom:20px !important;
+        }
+        .mobile-padding25 {
+          padding:25px !important;
+        }
+        .mobile-padding25H {
+          padding-top:25px !important;
+          padding-bottom:25px !important;
+        }
+        .mobile-padding25W {
+          padding-left:25px !important;
+          padding-right:25px !important}
+        .mobile-padding25T {
+          padding-top:25px !important;
+        }
+        .mobile-padding25B {
+          padding-bottom:25px !important;
+        }
+        .ad-on {
+          padding:16px 16px 16px 14px !important;
+        }
+        /*** Dividers ***/
+        .divider {
+          width: 100% !important;
+        }
+        .sideRails {
+          width: 20px !important;
+        }
+        /*** Image Styles ***/
+        img.fullWidthImg {
+          width: 100% !important;
+          height: auto !important;
+          min-width: 100% !important;
+        }
+        .tmLogo {
+          width: 142px !important;
+          height: auto !important;
+        }
+        /*** Text Styles ***/
+        .centerText {
+          text-align: center !important;
+        }
+        .largeHeadlne {
+          font-size: 32px !important;
+          line-height: 40px !important;
+          padding: 20px 20px 8px 20px !important;
+        }
+        .text10px {
+          font-size: 10px !important;
+          line-height: 16px !important;
+        }
+        .text12px {
+          font-size: 12px !important;
+          line-height: 16px !important;
+        }
+        .text14px {
+          font-size: 14px !important;
+          line-height: 19px !important;
+        }
+        .text16px {
+          font-size: 16px !important;
+          line-height: 22px !important;
+        }
+        .text20px {
+          font-size: 20px !important;
+          line-height: 24px !important;
+        }
+        .text22px {
+          font-size: 22px !important;
+          line-height: 26px !important;
+        }
+        .text24px {
+          font-size: 24px !important;
+          line-height: 28px !important;
+        }
+        .text28px {
+          font-size: 28px !important;
+          line-height: 32px !important;
+        }
+        /*** App Store Buttons ***/
+        .width284 {
+          width: 284px !important;
+        }
+        .buttonLeft {
+          float: left !important;
+        }
+        .buttonRight {
+          float: right !important;
+        }
+        /*** Footer ***/
+        .footerSocial {
+          padding-right: 10px !important;
+          width: 50px !important;
+        }
+        .footerSocial img {
+          height: 20px !important;
+          width: auto !important;
+        }
+        .footerText {
+          padding-top: 10px !important;
+          font-size: 12px !important;
+          line-height: 16px !important;
+          text-align:center !important;
+          padding:0px 5px 0px 5px;
+        }
+        .footerNavLeft {
+          width: 80% !important;
+          display: table !important;
+        }
+        .footerNavRight {
+          width: 60% !important;
+          display: table !important;
+        }
+        /*** END Responsive CSS ***/
+      }
+    </style>
+    <!--OUTLOOK CSS - DO NOT DELETE-->
+    <!--[if gt mso 9]> <style type="text/css"> /* prevents Outlook from defaulting to Times New Roman */ td {font-family: Arial, Helvetica, sans-serif !important;}  /* show hidden content only for Outlook desktop app */ .show_ol { display: block !important; margin: 0; padding: 0; overflow : visible !important; width: auto !important; max-height: inherit !important; } </style> <![endif]-->
+  </head>
+  <body style="margin:0px; padding:0px; background-color:#FFFFFF;" bgcolor="#FFFFFF">
+      
+      <!-- WHITE BACKGROUND CONTAINER -->
+      <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">   <!--
+
+-->
+
+
+
+
+ 
+
+<!--
+
+--></td></tr></table>
+      
+      
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" class="marginFix font-averta" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+        <tr>
+          <td align="center">
+            <table cellpadding="0" cellspacing="0" border="0" width="650" class="full-width-container">
+              <tr> 
+                <td width="650" align="center" style="min-width:650px;" class="full-width-container">
+                  <!-- CONTENT AREA(S) START -->
+                  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Logo --><!----><style type="text/css">
+/* iOS only */
+  @supports (-webkit-overflow-scrolling: touch) {
+    .my-account-icon { padding-top: 7px !important; }
+  }</style><table align="center" border="0" cellpadding="0" cellspacing="0" class="header-logo-wrapper full-width" style="min-width: 100%;" width="650">
+ 
+  <tr>
+   <td align="center" class="mobile-padding16W" style="border-top: solid 4px #026cdf; padding:10px 24px 10px 24px;" valign="top">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="header-logo" valign="top" width="100%">
+     
+      <tr>
+       <td align="left" width="143">
+        <a alias="tmLogo" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9XYmTNgfIbsF6d3BQUBwJncHYlBvL+vcsvJwDiRKyO6wXjiyG4hrT65GsWVg18M/IcJqpmcyPr8DtX72Vy48gDexFvic+ZprzzQ1lLBwRXR+kyRJXrw2YnuRl9jsTxOa/6XoKACXxPbz/X0PTaBYJZrBW9Tt4NGKIXXpkR5X1tpgPjIfnJALrc/dUcKf2lVi3X8AC+RoSGH1S1sY2QGWDCo3pAuAXl9tUqKSXDIcRjK2Z8Ec1YH/J7si4KhVUrT6ffC3isb2F0GgMcGuRP3UvZL5e8By06k4P08Ltb5HR94RrH8M3qleTIbPE1jKp4rQs1Myujkd2mB6bA/+I8NXNnGV3fMZk4RFiuSVwTobdgCvtRZhxwiidset/+HI+teaMjljvWkF/yfIaDDszAYc4jtrnUVbxopn/" target="_blank"><img alt="Ticketmaster" border="0" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/47/27f96e8f-743b-4c76-ba28-8545582d4e8f.png" style="height: auto;" width="143"></a></td><td>
+        &nbsp;</td><td align="right" valign="middle">
+        <table align="right" border="0" cellpadding="0" cellspacing="0" class="my-account" valign="middle" width="121">
+         
+          <tr>
+           <td class="my-account-icon" height="44" style="padding-right:10px;">
+            <a alias="myAccountImage" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum971Jggr5ha3A7L77KkFcU2np3cFBQHAmdwdiUG8v69yy8nAOJErI7rBeOLIbiGtPrkaxZWDXwz8hwmqmZzI+vwO1fvZXLjyAN7EW+Jz5mmvN9lhJSsFNvxQSO/oh/qXWSEwUx0DHBP+WMeslruAUMQRo5INpXuSCC/SJyDw8Zfx2rD2g/XH2fcnWMe3oxha1QO4I4Lne4vMeUTMxV2q04JLng8O50CnuvLxbABEnVF3Lg4GZlmRkDIklIrEmhb5EquMZcmA0qTIZRX7WhFvlhZa1w/6eNxExy4x1/aSGGz9FrrkeyNtxMHd+rCsSJQ0zrMDhJBo/ndJjRHzbHNdJFSQNn8w2ngoEBMDAuTkXkEIZvJBjTVnlZHZudjOLRf8faYxCGBSbXnSKMDPYvj+NnNUIEi3npNLAt64FK2n9FlUwLCDQUvAdJ5w==" target="_blank"><img alt="Ticketmaster" border="0" class="icon-user" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/35/9c413975-46fb-4ad8-97f7-4d97d25525e7.png" style="height: auto;" width="20"></a></td><td align="left" class="dgrey-text-link" height="44" style="font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #262626; white-space: nowrap;">
+            <a alias="myAccountText" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum971Jggr5ha3AD0G0ZrziKFAwL500AE4q69+aEw3lJxRQUyFDsFW2pO5+tGZY3ZluYPKQZ8l7Fx4T+OaJZut/s+l0E1rXZpn8Fwd/LwEg2AR54BOBQXbcPUX5nuSuiwcpDKsZjZO61eU0rpr+Gygsp9MkvzmjWsmFhX+p/1Egr19UABgQOxxHpQuF77MPG/0Do54sty0QvAdMZfdGwzMNumfQHf+JDGiX64hk/GZsH0w12/xH1w5591uISP2wOUHPmL5G0fXpneOdPEI1QMJKxz5A4Wp3f85UVCJigyB0wYBHjW51Svv++vPR2LpHiNXiFdeuZDggsxB/Pn7/M70ywky/7EFGRHNh4YQ9rCZTfSuIcK7RiWf4q0j6OQFBnJtZG4g6nfBgx7B4gromotWWbwp64Mx+wsDGAoUzJlF9D2/sjJ0PCUkpHYg==" style="text-decoration: none; white-space: nowrap; color:#262626;" target="_blank"><strong>My Account</strong></a></td></tr></table></td></tr></table></td></tr></table><!-- TM Logo --></td></tr></table> </td></tr></table>
+                        
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <tr>
+                      <td height="1" style="max-height:1px;line-height:1px; mso-line-height-rule:exactly; font-size: 1px;">
+                        <img src="https://click.email.ticketmaster.com/open.aspx?ffcb10-febd17797762037a-fe2d117077650c7d761378-fe8c137277660c7470-ff9c1671-fe3211787664047f751077-fe8d107470650d7b70&d=70179&bmt=0" width="1" height="1" alt="">
+
+<img src="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5gLlM3eXdhmPWvzq31aY0aE8vhgliyLYbjjWWuCQguTxtSZnwwrxzmjxIUl6Xkg1pxD3q6NZB4Oo5+Vu+W5yErNZYDrEIlosrzfHC6Nbz6PuI9NZ/8+zZxhCVVkdY+KkHyHuh8TUDKc4VGU6IzlBTcFIN7zYQ5enZYlTe020byvbncjZKUrQYyWbqR3GHscV38IuWCMOwl+ykkF8W8sGRclGNekbXNaj5oCKaOg0H+ZJ54sty0QvAdMZfdGwzMNumfQHf+JDGiX64hk/GZsH0w12/xH1w5591uISP2wOUHPmL5G0fXpneOdPEI1QMJKxz5A4Wp3f85UVCJigyB0wYBHjW51Svv++vPR2LpHiNXiFdeuZDggsxB/Pn7/M70ywky/7EFGRHNh4YQ9rCZTfSuIcK7RiWf4q0j6OQFBnJtZG4g6nfBgx7B4gromotWWbwp64Mx+wsDGAoUzJlF9D2/tIZ16VxhmEvQ==" width="1" height="1" alt="" />
+                      </td>
+                    </tr>                    
+
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 16px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><h1 style="font-size: 135%;">
+	Kathy, Your New Password Is Good to Go</h1><a href="https://ticketmaster.com" style="display: inline-block; margin: 2em 0; text-decoration: none; font-size: 90%; height: 40px; line-height: 40px; padding: 0 20px; color: white; background-color: #026CDF; border-radius: 3px;">Take Me to Ticketmaster</a><h2 style="font-size: 100%; margin-bottom: 1em;">
+	Didnât Request This Change?</h2><p style="line-height: 1.5; margin: 1em 0 1.5em;">
+	Letâs get you a new password â we want your account to be safe and secure.<br>
+	<a href="https://my.ticketmaster.com/settings" style="color: #026CDF; text-decoration: none; font-weight: bold;">Reset Password</a></p><p style="line-height: 1.5; margin: 1.5em 0;">
+	Prefer to chat with Fan Support? Weâre here to help. Weâll secure your account and get you back on track. Connect with us by <a style='text-decoration: none; color: #026CDF;' href='https://ticketmaster.com/h/contact-form.html'>HERE</a> or call <a style='text-decoration: none; color: #026CDF;' href='tel:1-800-653-8000'>1-800-653-8000</a></p><p style="line-height: 1.5; margin: 1.5em 0;">
+	Thanks,<br/>The Ticketmaster Team</p></td></tr></table></td></tr></table>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 16px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 35px; " class="stylingblock-content-wrapper camarker-inner"></td></tr></table>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Social --><!----><table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#1f262d" align="center">
+ 
+  <tr>
+   <td class="mobile-padding16W" style="padding:25px 0 34px 0;" valign="middle" align="center">
+    <table class="full-width" width="650" cellspacing="0" cellpadding="0" border="0" align="center">
+     
+      <tr>
+       <td style="font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif; font-size: 12px; line-height: 30px; color: #ffffff; padding-bottom:8px;" valign="middle" align="center">
+        Stay Connected</td></tr><tr>
+       <td align="center">
+        <table cellspacing="0" cellpadding="0" border="0" align="center">
+         
+          <tr>
+           <td style="padding-right: 40px;" width="9" valign="middle" height="20" align="left">
+            <a alias="facebook" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9OJEw2Co8JjV6d3BQUBwJncHYlBvL+vcsvJwDiRKyO6wXjiyG4hrT65GsWVg18M/IuCVQt6PY9CJBd2vi7mtHSBIyKF+x/YdH7EW+Jz5mmvMBw/p0fTyqFg=="><img alt="Facebook" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/35/a87166f5-45cb-4d6f-b291-f7e1b90599af.png" style="display: block;" width="9" height="17" border="0"></a></td><td style="padding-right: 40px;" width="17" valign="middle" height="20" align="left">
+            <a alias="instagram" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9tt4Ndcx6hA96d3BQUBwJncHYlBvL+vcsvJwDiRKyO6wXjiyG4hrT65GsWVg18M/IuCVQt6PY9CKQCEn2hr2GGakZOHFHEHy4o16Re2sMqoWRoWdZsvYmTw=="><img alt="Instagram" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/35/20aef770-56ae-4d0a-b957-ea3a616a7075.png" style="display: block;" width="17" height="17" border="0"></a></td><td style="padding-right: 40px;" width="20" valign="middle" height="20" align="left">
+            <a alias="twitter" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9M7ZCw0XjeRx6d3BQUBwJncHYlBvL+vcsvJwDiRKyO6wXjiyG4hrT65GsWVg18M/IuCVQt6PY9CKQ3JJDiIyzU1v230REh0bwwd/LwEg2AR7a51FW8aKZ/w=="><img alt="Twitter" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/35/26f399ad-2f2a-449f-9f7e-715214f0bcd6.png" style="display: block;" width="20" height="17" border="0"></a></td><td style="padding: 0px;" width="25" valign="middle" height="20" align="left">
+            <a alias="youtube" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9VyrFCueBT156d3BQUBwJncHYlBvL+vcsvJwDiRKyO6wXjiyG4hrT65GsWVg18M/IuCVQt6PY9CKiOjEPM7Nfa68NdOVmhLgTSA5TILlw+ObsRb4nPmaa8wHD+nR9PKoW"><img alt="YouTube" src="https://image.email.ticketmaster.com/lib/fe8c137277660c7470/m/35/4ec8c270-cb6b-4c73-8e14-fb0eb2daa26d.png" style="display: block;" width="25" height="17" border="0"></a></td></tr></table></td></tr></table></td></tr></table><!-- TM Social --></td></tr></table>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Footer --><!----><table align="center" bgcolor="#1f262d" border="0" cellpadding="0" cellspacing="0" class="footernav-wrapper" width="100%">
+ 
+  <tr>
+   <td align="center">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" width="650">
+     
+      <tr>
+       <td align="center" class="mobile-padding16W" style="padding-bottom:50px;" valign="middle">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+         
+          <tr>
+           <td align="center" valign="top">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="footer-nav">
+             
+              <tr>
+               <td align="center" style="text-align:center;" valign="top">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="stackTbl" style="display: inline-table;">
+                 
+                  <tr>
+                   <td align="center" valign="top">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                     
+                      <tr>
+                       <td align="center" class="white-text-link" style="font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; padding: 0px;font-weight: 600;" valign="top">
+                        <a alias="tmFooter" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9iIM8wCuATQg/hqGeh7U+f2E8mTQ5i13VV8axsQS+oU+Y2LiGHgF7XOicndJCm1Q4dntrzhWsStEPVkIkuX62LQCp3PnRH3BT1MnnuNxeqbcB4VeRL9VvECrGY2TutXlNK6a/hsoLKfTJL85o1rJhYV/qf9RIK9fV3Eic/qwHpVxFiqmiWOMuD54YEZ6+LCegIM/oDdulkYpLlk6Q425KFaCBqEMBJAoHCe/Uksqr54XleM8xzlnJes4T3aajRrgEp9wgswVvDdw89V5X+dFDqxhsa9b5KMIweD8v3dtoAykAr3J9VNj9nnXHntMUkdOG1+8fsnnqTcHAvK8yV3jtdMkHOoe8wfb47q5GmYh1YZMd0G+Dtq8FkMTBLMpj9xNoJGl8rQ5tbAtwRgcHSwOUxgXOlMCJj6Jp5I4wGQnQ9bQ=" style="color: #FFFFFF; text-decoration: none;" target="_blank">Ticketmaster</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a alias="aboutUs" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9Dd3b/mqIGUEvw9iAD3LWlgqCJ4ERQoO+ocrLR6oBjscr0g6lFcgVaTepjLSKtF+XsF4a3vGLBlb3+ASjzh+iZx5mQRzkjfnRprjir3Dt6qj9fMZwTV9UhHfMqrnLlVBIxQbORgMnOh0TBTHQMcE/5Yx6yWu4BQxBGjkg2le5IIL9InIPDxl/Hapq9xCRJXMo7ztb5ifi5hfeGJpQn0FDnmVvbu6zvFq37/wGCC/Kglo//iO89B1g5dYNoxWz3DU7FgzIRW/7GZhp4OYrFrzVeu5Whp4wNiN0LJBOEtagNprEDTqLULNRvQanKvr2foGEBj0EvWPR9ozumlakiG7huMDCU0YNW50S0xsi5wlgTMRPx0YB9Aqxd9P78tPRJW5JpXp7T4y8y3bTciR4c8jzuiw9XEy7C/UG7CLWtetPr88GJ9n9YupB44HtewZJtBbp" style="color: #FFFFFF; text-decoration: none;" target="_blank">About</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a alias="termsOfUse" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum91rsVujhtCXIvw9iAD3LWlgqCJ4ERQoO+ocrLR6oBjscr0g6lFcgVaTepjLSKtF+XsF4a3vGLBlb3+ASjzh+iZx5mQRzkjfnRprjir3Dt6qgFhyanXjO/2ENZboSJzNDVpMkSV68NmJ7kZfY7E8Tmv+l6CgAl8T28/19D02gWCWZNLz7sGYdN1FiBkNKKaok5x+YcYsNuf4HjSl9UBravRBV8KOI3hIbdTvaEmNLZA70+K3sXITje9wsC+o7VzQDxHwKsCg9V+ceo3jYArvmRgnPg5fyAfdgx1rS1UVpJqzsN2PwMoLQMRBBqdstnCu4f4/oasAppkBHIko1Nn58ATRPoayR8jRZYe/V2kUsskXByb7qPIX+K+++XiJsaqonVkzS0aCZw8eYEwP/9HvXKFPus6W/6+8lIoBO4kGCht1ySFcDSPOqyGg==" style="color: #FFFFFF; text-decoration: none;" target="_blank">Terms of Use</a> <span class="hide"> &nbsp;&nbsp;|</span></td></tr></table></td></tr></table><!--[if gt mso 9]>                                             </td>                                             <td align="center" style="text-align:center;" valign="top">                                                 <![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="stackTbl" style="display: inline-table;">
+                 
+                  <tr>
+                   <td align="center" valign="top">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                     
+                      <tr>
+                       <td align="center" class="white-text-link" style="font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; font-weight: 600; text-align: center; padding: 0px 0px 0px 8px;" valign="top">
+                        <a alias="privacy" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9ZJ766Og0BfhT9lTq3pG6wLqpjrlxUS7U3OZcjJGJeZzCJSyhF9jgBCMFv3GRbkFDmHWdIu4WzlwSAoNHBIsC8KwCrUJzHvIq1MnnuNxeqbdXdCvpi2xwPG8T3IpGiVg9o16Re2sMqoUIXWMPsZ5wpCFixiZ9/6PdOJ8/BShwfA0C0g96T73qOFhDsfAxXCDzwi5YIw7CX7KSQXxbywZFyUY16Rtc1qPmFyiE0uT2AtWp9gMQad2FBdhSnLH17TpQD4yH5yQC63P3VHCn9pVYt1/AAvkaEhh9UtbGNkBlgwqN6QLgF5fbVKiklwyHEYytmfBHNWB/ye7IuCoVVK0+n3wt4rG9hdBoDHBrkT91L2S+XvActOpOD9PC7W+R0feEax/DN6pXkyGzxNYyqeK0LNTMro5HdpgemwP/iPDVzZxld3zGZOERYrklcE6G3YAr7UWYccIonbHrf/hyPrXmjI5Y71pBf8nyGgw7MwGHOI7a51FW8aKZ/w==" style="color: #FFFFFF; text-decoration: none;" target="_blank">Privacy</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a alias="international" href="http://tmntr.ticketmaster.com/kJrvTSqeVIhGNekbXNaj5qr9ZdxRXum9Dmw/lFfy8SdLdNY0WkhBkyO0B8XdelPLendwUFAcCZ3B2JQby/r3LLycA4kSsjusF44shuIa0+uRrFlYNfDPyHCaqZnMj6/A7V+9lcuPIA3sRb4nPmaa80sPBZ0tyWmbORjUgJte297L2P6G08hK3SrGY2TutXlNK6a/hsoLKfTJL85o1rJhYV/qf9RIK9fVQ5P4A7kme6By81NauliVZ/G1UQ+D02vEVZMB44UufPQsA0gQ1rYbFV+Nt1n0+1dRk39SP7Xwr9XHcvMsRAzCaIbtu0hFcV3r6LmYi+6qkq2agimjsXQms+0LS850vV/46ESq2A6eOWqeME1IeY2aeaWcYH7uOCAdkL6mF3sB7gEcHfLYhG4u4KTshPadvHYWswHalRcAQul/NmH1AK4NFutuiv8QYiQPxeMQhCthGWq+h39AwJVtObTcfnSXHkbx0nRGfsszDX0NS3j74JP3kw==" style="color: #FFFFFF; text-decoration: none;" target="_blank">International</a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr>
+           <td align="center" class="white-text-link" style="font-family:'Averta-Regular', Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; font-weight: normal; padding-top: 16px;">
+            1000 Corporate Landing Charleston, WV 25311<br>
+            &copy; 2022 Ticketmaster. All rights reserved.</td></tr></table></td></tr></table></td></tr></table><!-- TM Footer --></td></tr></table> </td></tr></table>
+                        
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->                                        
+                  </table>
+                  <!-- CONTENT AREA(S) END -->
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- END WHITE BACKGROUND CONTAINER -->     
+      </body>
+    </html>

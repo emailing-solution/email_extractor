@@ -1,0 +1,935 @@
+Return-Path: bounce-32_HTML-339320452-203612-7233052-1260006@bounce.mail.change.org
+Received: from md20.aqua.bos.sync.lan (LHLO md20.aqua.sync.lan)
+ (10.80.42.120) by md23.aqua.sync.lan with LMTP; Fri, 5 Jan 2018 16:42:49
+ -0500 (EST)
+Return-Path: bounce-32_HTML-339320452-203612-7233052-1260006@bounce.mail.change.org
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md20.aqua.sync.lan with LMTP; Fri, 5 Jan 2018 16:42:49 -0500 (EST)
+Return-Path: <bounce-32_HTML-339320452-203612-7233052-1260006@bounce.mail.change.org>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=HblWdWM8 c=1 sm=1 tr=0 b=1 a=oVh6vBHRttTRTc7D1Jiung==:117 a=oVh6vBHRttTRTc7D1Jiung==:17 a=6giede-wJD4A:10 a=RgaUWeydRksA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=mHkIqaPQAAAA:8 a=o2QoyYduAAAA:8 a=aI5HTjdlSBzs3TL-1PsA:9 a=QEXdDO2ut3YA:10 a=oeTj7449atkA:10 a=SSmOFEACAAAA:8 a=8UEV-LYRAAAA:8 a=SsXA3TOS2CinOf5xCVAA:9 a=R_TEkU9OkH_sta3h:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=0asgTAO6VEkA:10 a=S50rnUa8yRbNnh2hyxzf:22 a=VQ2JQ4pOynkHRowHV3RP:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [136.147.183.246] (helo=mta11.mail.change.org)
+Received: from [136.147.183.246] ([136.147.183.246:60312] helo=mta11.mail.change.org)
+	by mx.windstream.net (envelope-from <bounce-32_HTML-339320452-203612-7233052-1260006@bounce.mail.change.org>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id E8/C9-25394-951FF4A5; Fri, 05 Jan 2018 16:42:49 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=mail.change.org;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=change@mail.change.org;
+ bh=VduUvGGdAhkQ5qOYbd39UKMrnbw=;
+ b=vr1VzxLxJG88cZ3ihIZoaZQYwyKRdmQ8ZtSvqVdDlItdCXa/tT0A5X6WBDr0Bsx5uR/BNQ7OaXFR
+   v7HuY3wGg28Ovbjh+wf77tIqIagkRb6PPAtDdvRRixKjQTbzozzVqeRoY3UH2IRtVRysv9V67iNi
+   nrQ2zYi4s7mNOpukYz8=
+Received: by mta11.mail.change.org id h9voli163hsh for <dmg5901@windstream.net>; Fri, 5 Jan 2018 21:42:49 +0000 (envelope-from <bounce-32_HTML-339320452-203612-7233052-1260006@bounce.mail.change.org>)
+From: "Change.org" <change@mail.change.org>
+To: <dmg5901@windstream.net>
+Subject: =?UTF-8?B?WW91IGhhdmUgYSBtZXNzYWdlIGFib3V0IE1pY2hlbGxlIENvdWNo?=
+ =?UTF-8?B?IFBlcmtpbnPigJlzIHBldGl0aW9uLg==?=
+Date: Fri, 05 Jan 2018 15:42:49 -0600
+MIME-Version: 1.0
+Reply-To: "Change.org (change@mail.change.org)" <reply-fed116707662057f-32_HTML-339320452-7233052-1260006@mail.change.org>
+List-ID: <7233052_203612.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7233052_203612
+Message-ID: <30ba7e9a-7008-4c13-99a7-6c6a11053789@atl1s07mta798.xt.local>
+Content-Type: multipart/alternative;
+	boundary="Y7gwjXe9xkwW=_?:"
+
+This is a multi-part message in MIME format.
+
+--Y7gwjXe9xkwW=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://click.mail.change.org/?qs=0746eacd8dc925d9d772283a539ef9a08780b2f8ebbfbe2a59b8fd64e8f97456a19572635848435094e53e920c83094d7284b46a3932713d7e1bd4990a645a4e 
+
+
+
+
+
+
+
+Thank you for signing, Diane
+
+
+Your signature is a crucial first step in joining the 
+https://click.mail.change.org/?qs=0746eacd8dc925d95fdbb5acf19e16e7f76d94b26fd2dd9d6e91c69a574d63875370a9b71e1bae6fe066a8c146cbfe4fd771bd45d4712476796e998694ae45f3 
+Criminally Charge Heroin Addicts When They OD and EMS is Required: Criminally Charge Heroin Addicts When They OD and EMS is Required! Get this crap  campaign.
+
+Help this petition win by taking a moment to tell your friends and family why this is important to you.
+
+Complete the checklist below to reach even more supporters.
+
+Sign this petition
+
+
+
+
+
+
+
+
+https://click.mail.change.org/?qs=0746eacd8dc925d95d4471ee7a8bc9292151b33495466dbd1abbf0a07243e7ccc88afa8024504f1777c828f3bb1d25026053512f42a576cbe8f1497baf37ffc6 
+
+https://click.mail.change.org/?qs=0746eacd8dc925d95d4471ee7a8bc9292151b33495466dbd1abbf0a07243e7ccc88afa8024504f1777c828f3bb1d25026053512f42a576cbe8f1497baf37ffc6 
+Post to Facebook
+https://click.mail.change.org/?qs=0746eacd8dc925d95d4471ee7a8bc9292151b33495466dbd1abbf0a07243e7ccc88afa8024504f1777c828f3bb1d25026053512f42a576cbe8f1497baf37ffc6 
+
+
+
+
+
+
+
+https://click.mail.change.org/?qs=0746eacd8dc925d93accf58473ebb488617270f4afb2193c0c2806d502279b4f44d879630c8ecf767eab9b5be72df884b5e3f47a2570b2e41394c389683e061c 
+
+https://click.mail.change.org/?qs=0746eacd8dc925d93accf58473ebb488617270f4afb2193c0c2806d502279b4f44d879630c8ecf767eab9b5be72df884b5e3f47a2570b2e41394c389683e061c 
+Tweet your followers
+https://click.mail.change.org/?qs=0746eacd8dc925d93accf58473ebb488617270f4afb2193c0c2806d502279b4f44d879630c8ecf767eab9b5be72df884b5e3f47a2570b2e41394c389683e061c 
+
+
+
+
+
+
+
+whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26utm_medium%3dwhatsapp%26utm_source%3dpetition_signer_receipt%26utm_campaign%3dpetition_signer_receipt%26recruiter%3d281810416 
+
+whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26utm_medium%3dwhatsapp%26utm_source%3dpetition_signer_receipt%26utm_campaign%3dpetition_signer_receipt%26recruiter%3d281810416 
+Send a message via WhatsApp
+whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26utm_medium%3dwhatsapp%26utm_source%3dpetition_signer_receipt%26utm_campaign%3dpetition_signer_receipt%26recruiter%3d281810416 
+
+
+
+
+
+
+
+https://click.mail.change.org/?qs=0746eacd8dc925d920fdf0277638f47d1075c9185140590953637c4d98d67d1b8a37cb6d0e1497e0c68b6ff5946eb8672bb1d734a38609021616abb74cfb63af 
+
+https://click.mail.change.org/?qs=0746eacd8dc925d920fdf0277638f47d1075c9185140590953637c4d98d67d1b8a37cb6d0e1497e0c68b6ff5946eb8672bb1d734a38609021616abb74cfb63af 
+Promote this petition
+https://click.mail.change.org/?qs=0746eacd8dc925d920fdf0277638f47d1075c9185140590953637c4d98d67d1b8a37cb6d0e1497e0c68b6ff5946eb8672bb1d734a38609021616abb74cfb63af 
+
+
+
+
+
+
+Copy the note below and email it to your friends
+
+Hello,
+
+I just signed the petition, âCriminally Charge Heroin Addicts When They OD and EMS is Required: Criminally Charge Heroin Addicts When They OD and EMS is Required! Get this crap.â I think this is important. Will you sign it too?
+
+Hereâs the link:
+
+https://click.mail.change.org/?qs=0746eacd8dc925d91dcafde1ef219b2a22b958d1434a6bba56a219597c4dc38c0dcbb6a4326d95137b09bcc171dab41be378f31e5b82a02bcfcac200c8048cf7 
+
+https://www.change.org/p/criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap?utm_medium=email&utm_source=petition_signer_receipt&utm_campaign=triggered&share_context=signature_receipt&recruiter=281810416
+ 
+Thanks,
+Diane
+
+Already shared this petition?
+
+https://click.mail.change.org/?qs=0746eacd8dc925d945f7586b38af1e976f24d0565b3fa21929817878bc786641919962dd8cd1b0829eef2e645e28840678b502a002d6a4ba631c8c0af4f2978f 
+
+Discover more petitions
+ 
+
+Didnât sign this petition? 
+https://click.mail.change.org/?qs=0746eacd8dc925d98216c49997c5e818bf8776b8423a73002170e8ee45a2edac40d1fbc992453043813b4be75336424cbd82cad8de95448a795b86cc37420dcb 
+Remove your signature .
+
+https://click.mail.change.org/?qs=0746eacd8dc925d9d1db3b1eb2deb472023b3bbfb63b8a49cfd5cf914c977607b7cd31a2222b8a86f65fc459097fca9c88a489b04c150a18d3ca065ae6dca996 
+Unsubscribe 
+Â Â·Â 
+
+https://click.mail.change.org/?qs=0746eacd8dc925d980f36b5e6f8636f81672a07ac16bb410e6f9c2f22803b648c5a1294a8f9e1fad3c3895bf09751a73e61776b43db8bb2088faae11a6968cc7 
+Manage your email preferences 
+Â Â·Â 
+
+https://click.mail.change.org/?qs=0746eacd8dc925d9557d592b0d98c58764e3649338f996fc37927bfeb862f66fd1d19681957bf3f7b5c2250e1c4a999e9879744c32bbd0c1d4a1258ead95bef4 
+Privacy policy 
+
+This email was sent by Change.org to dmg5901@windstream.net, because you registered as a Change.org user on 4/21/2015.
+Weâd love to hear from you!
+
+https://click.mail.change.org/?qs=0746eacd8dc925d9fea61e96df86ed52b7b3b553165594717f26af5378f8122db50cd725077eb08c3a1bd972eeeb6f19cbc56712364addbef87b4b70130302b6 
+Send us feedback  or 
+https://click.mail.change.org/?qs=0746eacd8dc925d96e4b17fab37c9b786ffbed77903f0212cc05606b820771a4ba61d213599f8296e11ef38b562eddf549274e7578be19c1b3fae7e28aefcc4b 
+contact us  through our help center.
+
+
+Change.org
+Â Â·Â 
+548 Market St #29993, San Francisco, CA 94104-5401, USA
+
+
+
+
+
+--Y7gwjXe9xkwW=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    
+    
+    
+  <style id="head-styles" type="text/css">
+      body {
+        width: 100% !important; }
+      
+      .ReadMsgBody {
+        width: 100%; }
+      
+      .ExternalClass {
+        width: 100%; }
+      
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%; }
+      
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt; }
+      
+      img {
+        -ms-interpolation-mode: bicubic;
+        max-width: 480px !important; }
+      
+      body,
+      table,
+      td,
+      p,
+      a,
+      li,
+      blockquote {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        -webkit-margin-before: 0;
+        -webkit-margin-after: 0; }
+      
+      table td {
+        border-collapse: collapse !important; }
+      
+      .footer-hide-link a {
+        color: #737273 !important;
+        text-decoration: none !important; }
+      
+      .responsive-full-width {
+        width: 480px; }
+      
+      @media only screen and (max-device-width: 500px) {
+        *[class="responsive-full-width"] {
+          width: 100% !important; }
+      
+        *[class~="responsive-content-width"] {
+          width: 100% !important;
+          max-width: 100% !important; }
+      
+        img {
+          max-width: 100% !important; }
+      
+        *[class~="hidden-xs"] {
+          display: none !important; }
+      
+        *[class~="visible-xs-block"] {
+          display: block !important; }
+      
+        *[class~="visible-xs-inline"] {
+          display: inline !important; }
+      
+        *[class~="visible-xs-table-row"] {
+          display: table-row !important; } }
+      @media only screen and (max-width: 500px) {
+        *[class="responsive-full-width"] {
+          width: 100% !important; }
+      
+        *[class~="responsive-content-width"] {
+          width: 100% !important;
+          max-width: 100% !important; }
+      
+        img {
+          max-width: 100% !important; }
+      
+        *[class~="hidden-xs"] {
+          display: none !important; }
+      
+        *[class~="visible-xs-block"] {
+          display: block !important; }
+      
+        *[class~="visible-xs-inline"] {
+          display: inline !important; }
+      
+        *[class~="visible-xs-table-row"] {
+          display: table-row !important; } }
+      .responsive-width-txt {
+        width: 70%; }
+        @media only screen and (max-device-width: 500px) {
+          .responsive-width-txt {
+            width: 60%; } }
+        @media only screen and (max-width: 500px) {
+          .responsive-width-txt {
+            width: 60%; } }
+      
+      .responsive-width-img {
+        width: 30%; }
+        @media only screen and (max-device-width: 500px) {
+          .responsive-width-img {
+            width: 40%; } }
+        @media only screen and (max-width: 500px) {
+          .responsive-width-img {
+            width: 40%; } }
+    </style>
+</head>
+  <body align="center" width="100%" style="-webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin: 0; padding: 0;" bgcolor="#ffffff">
+<style type="text/css">
+body {
+margin: 0; padding: 0; background-color: #ffffff; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none;
+}
+img {
+display: block; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: auto; border: none;
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;
+}
+.cta-sign-one-click-container .arrow:after {
+top: 100%; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none;
+}
+.cta-sign-one-click-container .arrow:before {
+top: 100%; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none;
+}
+.cta-sign-one-click-container .arrow:after {
+border-top-color: white; border-width: 10px; margin-left: -10px;
+}
+.cta-sign-one-click-container .arrow:before {
+border-top-color: #dbd9db; border-width: 12px; margin-left: -12px;
+}
+</style>
+    
+    <table align="center" border="0" cellpadding="24" cellspacing="0" width="100%">
+      <tr>
+        <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+          
+          <table align="center" border="0" cellpadding="0" cellspacing="0" class="responsive-full-width" width="480">
+            <tr>
+              <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr>
+                    <td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9a4fa564e2036365ccb0ba3d49dc9431e872504880dd17480267ee0be4fb6c08bd74ec347a0b0117cf58a7fa3a473d554e6fbfdbe893809f3" style="color: #ec2c22; text-decoration: underline;">
+                              <img alt="Change.org" class="logo" height="22" src="https://static.change.org/email/change-logo-106-22.png" width="106" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 22px !important; max-width: 100%; outline: none; text-decoration: none; width: 106px !important;">
+                            </a>
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="36" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 36px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  
+                  
+                  <tr>
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <h1 style="color: #363135; font-size: 25px; font-weight: bold; line-height: 30px; margin: 0; padding: 0; text-decoration: none;">
+                        Thank you for signing, Diane
+                      </h1>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="16" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 16px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr>
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">Your signature is a crucial first step in joining the <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9dfce6092c8a40e71a854c5ab5d24bdd565a384a8e5d415df9db24ce0912e2a7f3900c81880bf4197f72265d794a21b11a49495a7cebf4207" style="color: #ec2c22; text-decoration: underline;">Criminally Charge Heroin Addicts When They OD and EMS is Required: Criminally Charge Heroin Addicts When They OD and EMS is Required! Get this crap</a> campaign.</p>
+                      <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">Help this petition win by taking a moment to tell your friends and family why this is important to you.</p>
+                      <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">
+                        <strong>Complete the checklist below to reach even more supporters.</strong>
+                      </p>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-complete.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <del class="type-weak" style="color: #737273;">
+                              <span>Sign this petition</span>
+                            </del>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-sign.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  
+                  
+                  <tr class="">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d932e0ef14b6d07dd07b2cd0d2a8ec4ba02ae33c5919b691a06b8e96734ab7d611c1b61db4bdb7762d43d92e4b28383632e97753d2ae36c189" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-empty.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <a class="link-stealth" href="https://click.mail.change.org/?qs=0746eacd8dc925d932e0ef14b6d07dd07b2cd0d2a8ec4ba02ae33c5919b691a06b8e96734ab7d611c1b61db4bdb7762d43d92e4b28383632e97753d2ae36c189" style="color: #363135; text-decoration: none !important;">
+                              <span>Post to Facebook</span>
+                            </a>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d932e0ef14b6d07dd07b2cd0d2a8ec4ba02ae33c5919b691a06b8e96734ab7d611c1b61db4bdb7762d43d92e4b28383632e97753d2ae36c189" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-facebook.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  
+                  <tr class="">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9e9a2ea5d488c1af2749d82d34825b697da3cb6c4a96628ed386da571c27b2618563b96dd833a4575f03d3b43bc8d628849387226df956337" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-empty.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <a class="link-stealth" href="https://click.mail.change.org/?qs=0746eacd8dc925d9e9a2ea5d488c1af2749d82d34825b697da3cb6c4a96628ed386da571c27b2618563b96dd833a4575f03d3b43bc8d628849387226df956337" style="color: #363135; text-decoration: none !important;">
+                              <span>Tweet your followers</span>
+                            </a>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9e9a2ea5d488c1af2749d82d34825b697da3cb6c4a96628ed386da571c27b2618563b96dd833a4575f03d3b43bc8d628849387226df956337" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-twitter.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  
+                  <tr class="hide-fully visible-xs-table-row" style="display: none;">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="hide-fully visible-xs-table-row" style="display: none;">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="hide-fully visible-xs-table-row" style="display: none;">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26amp%3butm_medium%3dwhatsapp%26amp%3butm_source%3dpetition_signer_receipt%26amp%3butm_campaign%3dpetition_signer_receipt%26amp%3brecruiter%3d281810416" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-empty.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <a class="link-stealth" href="whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26amp%3butm_medium%3dwhatsapp%26amp%3butm_source%3dpetition_signer_receipt%26amp%3butm_campaign%3dpetition_signer_receipt%26amp%3brecruiter%3d281810416" style="color: #363135; text-decoration: none !important;">
+                              <span>Send a message via WhatsApp</span>
+                            </a>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="whatsapp://send?text=Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required%3a+Criminally+Charge+Heroin+Addicts+When+They+OD+and+EMS+is+Required!+Get+this+crap+%e2%80%94+Sign+the+Petition!%0dhttps%3a%2f%2fwww.change.org%2fp%2fcriminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap%3fshare_context%3dsignature_receipt%26amp%3butm_medium%3dwhatsapp%26amp%3butm_source%3dpetition_signer_receipt%26amp%3butm_campaign%3dpetition_signer_receipt%26amp%3brecruiter%3d281810416" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-whatsapp.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="hide-fully visible-xs-table-row" style="display: none;">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  
+                  <tr class="">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d941a6897716f087fb7e7d7eef43da8310a23b41badfd79fd6e1ead20104d273b5a9fca52a60c8c39b38488f21ef913c9a60323dfa8d228bea" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-empty.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <a class="link-stealth" href="https://click.mail.change.org/?qs=0746eacd8dc925d941a6897716f087fb7e7d7eef43da8310a23b41badfd79fd6e1ead20104d273b5a9fca52a60c8c39b38488f21ef913c9a60323dfa8d228bea" style="color: #363135; text-decoration: none !important;">
+                              <span>Promote this petition</span>
+                            </a>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d941a6897716f087fb7e7d7eef43da8310a23b41badfd79fd6e1ead20104d273b5a9fca52a60c8c39b38488f21ef913c9a60323dfa8d228bea" style="color: #ec2c22; text-decoration: underline;">
+                              <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-promote.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            </a>
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr class="">
+                    <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <img class="icon" height="24" src="http://static.change.org/email/checklist/checklist-empty.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            
+                          </td>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-left: 12px; padding-right: 12px;" valign="top" width="100%">
+                            <span>Copy the note below and email it to your friends</span>
+                            
+                          </td>
+                          <td align="right" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; min-width: 24px;" valign="top" width="24">
+                            <img class="icon" height="24" src="https://static.change.org/email/checklist/icon-email.jpg" width="24" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: 24px !important; max-width: 100%; outline: none; text-decoration: none; width: 24px !important;">
+                            
+                          </td>
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr>
+                    <td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      
+                      <table border="0" cellpadding="12" cellspacing="0" class="border" style="border: 1px solid #dbd9db; border-radius: 5px;">
+                        <tr>
+                          <td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                            <table border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                                  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">Hello,</p>
+                                  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">I just signed the petition, âCriminally Charge Heroin Addicts When They OD and EMS is Required: Criminally Charge Heroin Addicts When They OD and EMS is Required! Get this crap.â I think this is important. Will you sign it too?</p>
+                                  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">Hereâs the link:</p>
+                                  <a class="link-muted" href="https://click.mail.change.org/?qs=0746eacd8dc925d92807c53fb55e77a29ba6e889c0df68869f1283fc84b12da0afc41a866bf6c0b6b7d0ab97f642610e469321fe87e2dabe43990612c2766e91" style="color: #737273 !important; text-decoration: underline;">
+                                    https://www.change.org/p/criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-criminally-charge-heroin-addicts-when-they-od-and-ems-is-required-get-this-crap?utm_medium=email&utm_source=petition_signer_receipt&utm_campaign=triggered&share_context=signature_receipt&recruiter=281810416
+                                  </a>
+                                  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">Thanks,<br>Diane</p>
+                                  
+                                </td>
+                                
+                              </tr>
+                              
+                            </table>
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="36" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 36px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr>
+                    <td align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">Already shared this petition?</p>
+                      <table align="center" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                            <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9c976fe7b0a2c64a7d20cf6b532a567fcc2d791f3980d981370454de70eb01ba99c78cdd851a45920059590109fbc780a257ede881f6322ad" style="color: #ec2c22; font-size: 16px !important; text-decoration: underline;">
+                              Discover more petitions
+                            </a>
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                      </table>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                      <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  <tr>
+                    <td align="left" class="footer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="left" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                            <p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 0; mso-line-height-rule: exactly;">Didnât sign this petition? <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9c04e8c10cf41542b7d64d406566dfa17e91c51c0122aab2bb52752198b01989c69b5116b765954015423eba02df71973a1b2833086325ee8" style="color: #737273; text-decoration: underline;">Remove your signature</a>.</p>
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr class="">
+                          <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                            <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr class="">
+                          <td class="rule" width="100%" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; padding: 0;" bgcolor="#dbd9db">
+                            <img class="rule" height="1" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; background: #dbd9db; border: none; display: block; font-size: 1px; height: 1px !important; line-height: 1px; margin: 0; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                        <tr class="">
+                          <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                            <img border="0" class="spacer" height="12" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 12px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                            
+                          </td>
+                          
+                        </tr>
+                        
+                      </table>
+                      <p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">
+                        <strong>
+                          <a href="https://click.mail.change.org/?qs=0746eacd8dc925d9eb18b2062ca92dd29b58b50aca6940ebe88c8704d3944cbdd53205c60800c5e239cdaeee049647a0efcfc7eebae71d424695e736365d0e22" style="color: #737273; text-decoration: underline;">Unsubscribe</a>
+                        </strong>
+                        Â Â·Â 
+                        <a href="https://click.mail.change.org/?qs=0746eacd8dc925d971f741b16630c20fa35058426329c663128c26fde0c6bd729671b1941ee47f89098cd3cd3a6c02127cb751f1c65d12b06bc5e61d04011331" style="color: #737273; text-decoration: underline;">Manage your email preferences</a>
+                        Â Â·Â 
+                        <a href="https://click.mail.change.org/?qs=0746eacd8dc925d915de998a1f67e5bd9535cd1665cd412e7c5448df8063ba3d4bff3a2ec0a0a700b1f470fb43e846b823e444656b833da6c45956f6ae8fe40e" style="color: #737273; text-decoration: underline;">Privacy policy</a>
+                      </p>
+                      <p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">
+                        <span class="footer-hide-link">This email was sent by Change.org to dmg5901@windstream.net, because you registered as a Change.org user on 4/21/2015.</span>
+                        Weâd love to hear from you!
+                        <a href="https://click.mail.change.org/?qs=0746eacd8dc925d92a4e8fc79f52dab1253342f09a06df36cf9c7a2347777a3fd20018ad55b536760d1f88d876054415b8ea20d757a12e3bbd58337b2b56dc65" style="color: #737273; text-decoration: underline;">Send us feedback</a> or <a href="https://click.mail.change.org/?qs=0746eacd8dc925d98f1203738810e4d4316c930d58ba2631f61f6212ec5cd5eff60acd77200fdebbd922fc5a8e3736ba5838448b588cf693086a905e5d83d63f" style="color: #737273; text-decoration: underline;">contact us</a> through our help center.
+                      </p>
+                      <p class="type-weak type-s" style="color: #737273; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 19px; margin-bottom: 0; margin-top: 16px; mso-line-height-rule: exactly;">
+                        <span class="footer-hide-link">Change.org</span>
+                        Â Â·Â 
+                        <span class="footer-hide-link">548 Market St #29993, San Francisco, CA 94104-5401, USA</span>
+                      </p>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr class="">
+                    <td class="spacer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1px; line-height: 1px !important; padding: 0;">
+                      <img border="0" class="spacer" height="24" src="https://assets.change.org/photos/email/Templates/spacer1.gif" style="-ms-interpolation-mode: bicubic; border: none; display: block; font-size: 1px; height: 24px !important; line-height: 1px !important; max-width: 100%; outline: none; padding: 0; text-decoration: none;" width="1">
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                  <tr>
+                    <td style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
+                      <img class="hide-fully" height="1" src="https://pixel.app.returnpath.net/pixel.gif?r=5b47e48f57a35b989773588eb47d433805c19665" width="1" style="-ms-interpolation-mode: bicubic; border: none; display: none; height: auto; max-width: 100%; outline: none; text-decoration: none;">
+                      <img src="https://click.mail.change.org/open.aspx?ffcb10-fed116707662057f-fe31107071610078711474-fe9913727667047877-ff9a1772-fe3017737c67067d711172-fea015727364047d73&d=70035" width="1" height="1"></custom>
+                      
+                    </td>
+                    
+                  </tr>
+                  
+                </table>
+                
+              </td>
+              
+            </tr>
+            
+          </table>
+          
+        </td>
+        
+      </tr>
+      
+    </table>
+  </body>
+</html>
+
+
+--Y7gwjXe9xkwW=_?:--
+
+

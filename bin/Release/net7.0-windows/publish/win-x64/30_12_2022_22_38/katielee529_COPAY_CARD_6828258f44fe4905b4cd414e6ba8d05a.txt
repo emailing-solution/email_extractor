@@ -1,0 +1,923 @@
+Return-Path: bounce-74_HTML-414419218-1328558-7201644-120400@bounce.s7.exacttarget.com
+Received: from mx02.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.42)
+ by md13.aqua.sync.lan with LMTP; Mon, 4 Apr 2022 10:38:32 -0400 (EDT)
+Return-Path: <bounce-74_HTML-414419218-1328558-7201644-120400@bounce.s7.exacttarget.com>
+X-Received-HELO: from [136.147.131.14] (helo=cc14.mta.exacttarget.com)
+Authentication-Results: mx02.aqua.bos.sync.lan smtp.mail=bounce-74_HTML-414419218-1328558-7201644-120400@bounce.s7.exacttarget.com; spf=permerror
+Received-SPF: permerror (mx02.aqua.bos.sync.lan: 136.147.131.14 is neither permitted nor denied by domain of bounce.s7.exacttarget.com)
+Received: from [136.147.131.14] ([136.147.131.14:60939] helo=cc14.mta.exacttarget.com)
+	by mx.windstream.net (envelope-from <bounce-74_HTML-414419218-1328558-7201644-120400@bounce.s7.exacttarget.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 21/65-07608-8E20B426; Mon, 04 Apr 2022 10:38:32 -0400
+Received: by cc11.mta.exacttarget.com id h9c1eg2fmd4p for <KATIELEE529@WINDSTREAM.NET>; Mon, 4 Apr 2022 14:38:31 +0000 (envelope-from <bounce-74_HTML-414419218-1328558-7201644-120400@bounce.s7.exacttarget.com>)
+From: "COPAY CARD" <NoReply@McKesson.com>
+To: <KATIELEE529@WINDSTREAM.NET>
+Subject: Your Coupon for JANUVIA (sitagliptin)
+Date: Mon, 04 Apr 2022 08:38:31 -0600
+List-Unsubscribe: <mailto:leave-fd8013741a3c402029-fe2d107171600574771578-fe8f1573776c01787d-fe9713727565027971-fed815727560047d@leave.S7.exacttarget.com>
+MIME-Version: 1.0
+List-ID: <7201644.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7201644_1328558
+Message-ID: <3d543f48-239b-44f1-9a35-2afadf5756fb@atl1s07mta2967.xt.local>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvvddrudejvddgjeefucetufdoteggodetrfdotffvucfrrhho
+X-Vade-Analysis-2: fhhilhgvmecuufgjpfetvefqtfdphgfkpfffuffvtffgtefopdfgpfggqdghkffpfffuvfftgfetofen
+X-Vade-Analysis-3: uceurghilhhouhhtmecufedtudenucdnofetkffnkffpifculddujedmnecujfgurhephffvufffjfgg
+X-Vade-Analysis-4: jefktgfgsehhjeertddttddvnecuhfhrohhmpedfvefqrfetjgcuveettffffdcuoefpohftvghplhih
+X-Vade-Analysis-5: sefotgfmvghsshhonhdrtghomheqnecuggftrfgrthhtvghrnheplefhjefgudeutddtgeetteekieel
+X-Vade-Analysis-6: geegveeufeekjefhgfdtleeiledtveehleefnecuffhomhgrihhnpegvgigtthdrnhgvthdpjhgrnhhu
+X-Vade-Analysis-7: vhhirgdrtghomhdpmhgtkhgvshhsohhnrdgtohhmpdhmvghrtghkrdgtohhmpdhmshguphhrihhvrggt
+X-Vade-Analysis-8: hidrtghomhenucfkphepudefiedrudegjedrudefuddrudegnecuvehluhhsthgvrhfuihiivgeptden
+X-Vade-Analysis-9: ucfrrghrrghmpehinhgvthepudefiedrudegjedrudefuddrudegpdhhvghloheptggtudegrdhmthgr
+X-Vade-Analysis-10: rdgvgigrtghtthgrrhhgvghtrdgtohhmpdhmrghilhhfrhhomhepsghouhhntggvqdejgegpjffvoffn
+X-Vade-Analysis-11: qdegudeggeduledvudekqddufedvkeehheekqdejvddtudeigeegqdduvddtgedttdessghouhhntggv
+X-Vade-Analysis-12: rdhsjedrvgigrggtthhtrghrghgvthdrtghomhdprhgtphhtthhopefmtefvkffgnffggfehvdelsegh
+X-Vade-Analysis-13: kffpfffuvfftgfetofdrpffgvfdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshihnhgtrdhl
+X-Vade-Analysis-14: rghnpdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepnhhonhgvpdhnsggprhgtphhtthhopedu
+X-Vade-Client: AQUA
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<title>The Coupon You Requested From Merck</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+<meta name="format-detection" content="telephone=no"/>
+<style type="text/css">
+body {
+ margin: 0 auto;
+ padding: 0;
+ -webkit-text-size-adjust: 100% !important;
+ -ms-text-size-adjust: 100% !important;
+ -webkit-font-smoothing: antialiased !important;
+}
+img {
+ border: 0 !important;
+ outline: none !important;
+}
+p {
+ Margin: 0px !important;
+ Padding: 0px !important;
+}
+table {
+ border-collapse: collapse;
+ mso-table-lspace: 0px;
+ mso-table-rspace: 0px;
+}
+td, a, span {
+ border-collapse: collapse;
+ mso-line-height-rule: exactly;
+}
+.ExternalClass * {
+ line-height: 100%;
+}
+.em_defaultlink a {
+ color: inherit;
+ text-decoration: none;
+}
+.em_g_img + div {
+ display: none;
+}
+a[x-apple-data-detectors], u + .em_body a, #MessageViewBody a {
+ color: inherit;
+ text-decoration: none;
+ font-size: inherit;
+ font-family: inherit;
+ font-weight: inherit;
+ line-height: inherit;
+}
+
+@media only screen and (max-width:599px) {
+.em_main_table {
+ width: 100% !important;
+}
+.em_wrapper {
+ width: 100% !important;
+}
+.em_hide {
+ display: none !important;
+}
+.em_full_img img {
+ width: 100% !important;
+ height: auto !important;
+}
+.em_center {
+ text-align: center !important;
+}
+.em_side10 {
+ width: 10px !important;
+}
+.em_aside10 {
+ padding: 0px 10px !important;
+}
+.em_side15 {
+ width: 15px !important;
+}
+.em_aside15 {
+ padding: 0px 15px !important;
+}
+.em_ptop {
+ padding-top: 20px !important;
+}
+.em_pbottom {
+ padding-bottom: 20px !important;
+}
+.em_pbottom10 {
+ padding-bottom: 10px !important;
+}
+.em_h20 {
+ height: 20px !important;
+ font-size: 1px!important;
+ line-height: 1px!important;
+}
+.em_h10 {
+ height: 10px !important;
+ font-size: 1px!important;
+ line-height: 1px!important;
+}
+.em_h30 {
+ height: 30px !important;
+}
+.em_mob_block {
+ display: block !important;
+}
+.em_hauto {
+ height: auto !important;
+}
+.em_clear {
+ clear: both !important;
+ width: 100% !important;
+ display: block !important;
+}
+u + .em_body .em_full_wrap {
+ width: 100% !important;
+ width: 100vw !important;
+}
+.em_mob {
+ background: url(images/bg_img_mob.png) !important;
+ height: 400px !important;
+ background-repeat: no-repeat !important;
+ background-size: 100% 100% !important;
+}
+.em_left {
+ text-align: left !important;
+}
+.em_pl {
+ padding-left: 0px !important;
+}
+.em_ptop10 {
+ padding-top: 10px !important;
+}
+.em_pbottom10 {
+ padding-bottom: 10px !important;
+}
+.em_w200 {
+ width: 290px !important;
+}
+.em_ptop5 {
+ padding-top: 5px !important;
+}
+.em_pleft {
+ padding-left: 0px !important;
+}
+}
+
+@media screen and (max-width: 480px) {
+.em_mob {
+ background: url(images/bg_img_mob.png) !important;
+ height: 400px !important;
+ background-repeat: no-repeat !important;
+ background-size: 100% 100% !important;
+}
+.em_font13 {
+ font-size: 13px !important;
+ line-height: 16px !important;
+}
+}
+
+@media screen and (max-width: 374px) {
+.em_font15 {
+ font-size: 15px !important;
+ line-height: 18px !important;
+}
+.em_mob {
+ background: url(images/bg_img_mob.png) !important;
+ height: 400px !important;
+ background-repeat: no-repeat !important;
+ background-size: 100% 100% !important;
+}
+.em_font13 {
+ font-size: 13px !important;
+ line-height: 16px !important;
+}
+.em_font13 {
+ font-size: 12px !important;
+ line-height: 16px !important;
+}
+}
+</style>
+</head>
+
+<body class="em_body" style="margin:0px auto; padding:0px;" bgcolor="#ffffff">
+<!-- == Header Section == -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap" bgcolor="#ffffff" style="table-layout:fixed;">
+ <tr>
+  <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:600px; table-layout:fixed;" bgcolor="#ffffff">
+    <tr>
+     <td align="center" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper">
+       <tr>
+        <td align="center" valign="top" style="padding:0 40px;" class="em_aside15"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tr>
+           <td class="em_defaultlink em_font13" align="center" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:16px; line-height:20px; color:#ffffff; font-weight:bold; padding:8px 15px;" bgcolor="#009995">Your Coupon for JANUVIA</td>
+          </tr>
+          <tr>
+           <td height="13" style="height:13px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink" align="right" valign="top" style="font-family:Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Contact McKesson Help Desk<br />
+            <a href="tel:8772642454" style="text-decoration:none; color:#6d6e71;">877-264-2454</a><br />
+            <a href="https://cl.S7.exct.net/unsub_center.aspx?qs=b278d7ee77b7501d206e1e99068d1adb0c449a28a50ba18fad7d64793e5dcac16c6c87f74a055bf03e93b6f203318ba1f52db57885036d9b6c7fc890b227d512db4923e57033866b" target="_blank" style="text-decoration:underline; color:#6d6e71;">Unsubscribe</a></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_ptop5" align="left" valign="top" style="font-family:Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; ">Dear Kathy Vires, </td>
+          </tr>
+          <tr>
+           <td height="27" style="height:27px; font-size:0px; line-height:0px;" class="em_h20"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pbottom" align="left" valign="top" style="font-family:Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; padding-bottom:13px;">Thank you for activating your coupon for JANUVIA. Here is your&nbsp;coupon.</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top" style="padding-bottom:22px;" class="em_full_img"><a href="https://www.januvia.com/" target="_blank" style="text-decoration:none;"><img src="https://www.activatethecard.com/MPRS/email/54580/images/image1.png" width="178"  border="0" alt="Januvia (Sitagliptin)" style="display:block; max-width:178px; font-family:'Arial MT', Arial, sans-serif; font-size:15px; line-height:20px; color:#000000;"/></a></td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table  class="em_wrapper" border="0" cellspacing="0" cellpadding="0">
+             <tr>
+              <td class="em_defaultlink em_pbottom" align="center" valign="top" style="font-family: 'Arial MT', Arial, sans-serif; font-size:12px; line-height:15px; color:#000000; font-weight:bold; padding-bottom:23px;">Eligible, privately insured patients may pay as little as $5 per prescription. Maximum<br class="em_hide" /> savings is $150 per prescription. The coupon may be redeemed once every 30&nbsp;days.</td>
+             </tr>
+             <tr>
+              <td align="center" valign="top" class="em_pbottom10" style="padding-bottom:7px;"><table width="465" align="center" border="0" cellspacing="0" cellpadding="0" style="width: 465px;" class="em_wrapper">
+                <tr>
+                 <td align="center" valign="top"><table width="210" style="width:210px;" class="em_wrapper" align="left" border="0" cellspacing="0" cellpadding="0">
+                   <tr>
+                    <td align="center" valign="top"><table width="210" style="width:210px;" align="center" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                       <td width="7" style="width:7px; font-size: 0px; line-height: 0px;" class="em_hide"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                       <td align="center" valign="top"><table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                         <tr>
+                          <td align="center" valign="top"><table class="em_w200"  width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                             <td class="em_defaultlink" align="left" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">RxBIN: <span style="color:#f7912f;">610524</span></td>
+                             <td class="em_defaultlink " align="right" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">RxPCN: <span style="color:#f7912f;">Loyalty</span></td>
+                            </tr>
+                           </table></td>
+                         </tr>
+                        </table></td>
+                      </tr>
+                     </table></td>
+                   </tr>
+                  </table>
+                  <table width="210" style="width:210px;" class="em_wrapper" align="right" border="0" cellspacing="0" cellpadding="0">
+                   <tr>
+                    <td align="center" valign="top"><table width="210" style="width:210px;" align="center" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                       <td align="center" valign="top" class="em_ptop10"><table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                         <tr>
+                          <td align="center" valign="top"><table class="em_w200" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                             <td class="em_defaultlink" align="left" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">RxGrp: <span style="color:#f7912f;">50778029</span></td>
+                             <td class="em_defaultlink" align="right" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">Issuer: <span style="color:#f7912f;">(80840)</span></td>
+                            </tr>
+                           </table></td>
+                         </tr>
+                        </table></td>
+                      </tr>
+                     </table></td>
+                   </tr>
+                  </table></td>
+                </tr>
+               </table></td>
+             </tr>
+             <tr>
+              <td align="center" valign="top" class="em_pbottom10" style="padding-bottom:10px;"><table class="em_w200" align="center" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                 <td class="em_defaultlink" align="left" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">ID: <span style="color:#f7912f;">1381697783</span></td>
+                
+                </tr>
+               </table></td>
+             </tr>
+             <tr>
+              <td align="center" valign="top" class="em_pbottom10" style="padding-bottom:16px;"><table class="em_w200" align="center" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                <td class="em_defaultlink " align="center" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#010101; font-weight:bold;">Expiration Date: <span style="color:#f7912f;">the earlier of 09/30/2022 or the date an A-rated generic equivalent for<br class="em_hide" /> JANUVIA is approved by the United States Food and Drug&nbsp;Administration.</span></td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table width="460" style="width:460px;" class="em_wrapper" align="center" border="0" cellspacing="0" cellpadding="0"  bgcolor="#159a95">
+             <tr>
+              <td class="em_defaultlink" align="center" valign="top" style="font-family:'Arial MT', 'Arial MT', Arial, sans-serif; font-size:12px; line-height:15px; color:#ffffff; font-weight:bold; padding:5px 10px;">NOT VALID FOR PATIENTS WHO ARE UNINSURED OR PATIENTS WITH MEDICARE OR OTHER GOVERNMENT PROGRAM&nbsp;INSURANCE.</td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink" align="center" valign="top" style="font-family:Arial MT, 'Arial MT', Arial, sans-serif; font-size:10px; line-height:13px; color:#000000; padding-top:5px; font-weight:bold;">This coupon is not insurance. Terms and Conditions&nbsp;apply.</td>
+          </tr>
+         </table></td>
+       </tr>
+      </table></td>
+    </tr>
+   </table></td>
+ </tr>
+</table>
+<!-- == //Header Section == --> 
+<!-- == Body Section == -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap" bgcolor="#ffffff" style="table-layout:fixed;">
+ <tr>
+  <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:600px; table-layout:fixed;">
+    <tr>
+     <td align="center" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper">
+       <tr>
+        <td align="center" valign="top" style="padding:0 40px;" class="em_aside15"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tr>
+           <td class="em_h20" height="26" style="height:26px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pbottom em_pleft" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:15px; color:#6d6e71; padding-bottom:24px;">It is important to take your medication as prescribed and to follow up with your doctor if you have any questions about your medication or&nbsp;condition.<br />
+            <br />
+            <span style="font-weight:bold;">If your health care provider has changed or discontinued your prescription, or if you are no longer eligible to use the Multiuse Savings Coupon, please disregard this&nbsp;message.</span></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pleft" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:14px; line-height:17px; color:#159a95; font-weight:bold; padding-bottom:6px;">How this coupon works:</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td class="em_side15" width="22" style="width:22px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon can be used once every 30 days for up to a 90-day supply per prescription fill. Savings are limited to the amount of your out-of-pocket cost over $5, up to a total of $150 per prescription.  This coupon may be redeemed only once every 30&nbsp;days.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Present this activated coupon and your insurance card with a valid signed prescription at any participating eligible retail or mail-order pharmacy (certain restrictions&nbsp;apply).</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">If you are unable to redeem this coupon at your eligible retail or mail-order pharmacy, please keep your receipt and call McKesson Corporation at <a href="tel:8772642454" style="text-decoration:none; color:#6d6e71;">877-264-2454</a> within 30 days of purchase to request a Direct Member Reimbursement (DMR) form. Please note: Not all patients will be eligible for Direct Member Reimbursement. Merck may discontinue Direct Member Reimbursement at any time without&nbsp;notice.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">If you lose this coupon, please visit Januvia.com to obtain a replacement coupon. Regardless of the number of replacement coupons received, this coupon offer is limited one prescription of JANUVIA per patient every 30 days before the expiration&nbsp;date.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Not all patients are eligible to use this coupon. <span style="font-weight:bold;">Please see Terms and&nbsp;Conditions.</span></td>
+                   </tr>
+                  </table></td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td class="em_h20" height="20" style="height:20px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pleft" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:14px; line-height:17px; color:#159a95; font-weight:bold; padding-bottom:5px;">Prescriber:</td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#6d6e71; padding-bottom:6px;">To initiate a coupon for an appropriate patient to use once every 30 days, you&nbsp;should:</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td class="em_side15" width="22" style="width:22px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:14px; color:#6d6e71;"><span style="font-weight:bold;">Read the accompanying Prescribing Information before prescribing JANUVIA.</span> For copies of the Prescribing Information, call <a href="tel:8006726372" style="text-decoration:none; color:#6d6e71;">800-672-6372</a>, visit Januvia.com, or contact your Merck&nbsp;representative.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="4" style="height:4px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="5" style="width:5px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Write a prescription for JANUVIA. No substitutions are&nbsp;permitted.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Give the valid signed prescription and this coupon to the patient along with the Medication Guide for&nbsp;JANUVIA.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Eligible patients can take or send this coupon and the signed prescription to any participating eligible retail or mail-order pharmacy to receive savings on their out-of-pocket cost (savings will vary depending on their out-of-pocket&nbsp;cost).</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Not all patients are eligible to use this coupon. <span style="font-weight:bold;">Please see Terms and Conditions.</span></td>
+                   </tr>
+                  </table></td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td height="26" style="height:26px; font-size:0px; line-height:0px;" class="em_h20"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pleft" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:14px; line-height:17px; color:#159a95; font-weight:bold; padding-bottom:5px;">Pharmacist:</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td class="em_side15" width="22" style="width:22px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon is valid only when accompanied by a prescription for JANUVIA. Coupon value is limited to $150 or patient's actual out-of-pocket cost over $5, whichever is less. This coupon may be redeemed only once every 30 days. <span style="font-weight:bold;">Please review Terms and Conditions on this coupon for important eligibility&nbsp;restrictions.</span></td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">Submit transaction to McKesson Corporation using BIN No. 610524. For pharmacy processing questions, please call the McKesson Help Desk at <a href="tel:8772642454" style="text-decoration:none; color:#6d6e71;">877-264-2454</a> (8 am-8 pm ET, Monday-Friday).</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Input coupon information as secondary coverage and transmit using the Coordination of Benefits (COB) segment of the National Council for Prescription Drug Programs (NCPDP) transaction. Applicable discounts will be displayed in the transaction&nbsp;response.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="6" style="height:6px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Uninsured, cash-paying patients are not eligible to use this coupon. For privately insured patients without coverage for JANUVIA, you agree to charge no more than the usual and customary retail price (subject to restrictions set by McKesson). For any other prescriptions, please use the patient's primary method of payment and a new Rx number. Please clear the COB secondary screen after processing the&nbsp;transaction.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Acceptance of this coupon and your submission of claims are subject to the Terms and Conditions, posted at <a href="https://www.mckesson.com/" target="_blank" style="text-decoration:none; color:#6d6e71;">www.mckesson.com/mprstnc</a>, and the Terms and Conditions of this&nbsp;coupon.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="6" style="height:6px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">By processing this coupon, you agree that JANUVIA was dispensed pursuant to this coupon and that you will not submit a claim for reimbursement to any Government Program (as that term is defined in the Terms and&nbsp;Conditions).</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Subject to changes in state law, this coupon may become invalid for residents of Massachusetts prior to its expiration&nbsp;date.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">You agree to notify the patient's insurance carrier of this coupon redemption, as may be required by the terms and conditions of your relationship with the insurance&nbsp;carrier.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon may not be applied toward any other pharmacy&nbsp;purchase.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">McKesson Corporation reserves the right to audit and review all records and documentation relating to the redemption of this coupon and the dispensing of&nbsp;product.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">Please note: Coupon must be activated prior to the date of purchase of the prescription. Ensure the date of prescription fill matches the date the patient is actually purchasing the&nbsp;prescription.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td height="25" style="height:25px; font-size:0px; line-height:0px;" class="em_h20"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pleft" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:14px; line-height:17px; color:#159a95; font-weight:bold; padding-bottom:6px;">Terms and Conditions:</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td class="em_side15" width="22" style="width:22px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon is valid for up to $150 off your out-of-pocket cost on each qualifying prescription for JANUVIA, up to a 90-day supply per prescription fill. Patient is responsible for the first $5 of their out-of-pocket&nbsp;cost.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon is valid for use once every 30 days with a qualifying prescription before the expiration date printed on this coupon. Patient must have a co-payment (or, if privately insured without coverage for JANUVIA, make full cash payment) for the prescription. Savings are limited to amount of your out-of-pocket cost over $5, up to a maximum of $150 per qualifying&nbsp;prescription.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon may be redeemed only once every 30&nbsp;days.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">No other purchase is&nbsp;necessary.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon is not transferable. No substitutions are permitted. This offer cannot be combined with any other coupon, free trial, discount, prescription savings card, or other&nbsp;offer.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">This coupon is not insurance. </td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">Patient must have private insurance. Not valid for uninsured patients or patients covered under Medicaid (including Medicaid patients enrolled in a qualified health plan purchased through a health insurance exchange [marketplace] established by a state government or the federal government), Medicare, a Medicare Part D or Medicare Advantage plan (regardless of whether a specific prescription is covered), TRICARE, CHAMPUS, Puerto Rico Government Health Insurance Plan ("Healthcare Reform"), or any other state or federal medical or pharmaceutical benefit program or pharmaceutical assistance program (collectively, "Government&nbsp;Programs").</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">Subject to changes in state law, this coupon may become invalid for residents of Massachusetts prior to its expiration&nbsp;date.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">You must be 18 years of age or older to redeem this coupon. Patient, pharmacist, and prescriber agree not to seek reimbursement for all or any part of the benefit received by the patient through this offer. Patient is responsible for reporting receipt of coupon benefit to any insurer, health plan, or other third party who pays for or reimburses any part of the prescription filled using this coupon, as may be&nbsp;required.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon can be used only by eligible residents of the United States or the Commonwealth of Puerto Rico at participating eligible retail or mail-order pharmacies in the United States or the Commonwealth of Puerto Rico. Product must originate in the United States or the Commonwealth of Puerto&nbsp;Rico.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">This coupon is the property of Merck and must be turned in on&nbsp;request.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">It is illegal to sell, purchase, trade, or counterfeit, or offer to sell, purchase, trade, or counterfeit this coupon. Void if reproduced. Void where prohibited by law, taxed, or&nbsp;restricted.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Merck reserves the right to rescind, revoke, or amend this offer at any time without&nbsp;notice.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">Data related to your redemption of this coupon may be collected, analyzed, and shared with Merck, for market research and other purposes related to assessing coupon programs. Data shared with Merck will be aggregated and de-identified, meaning it will be combined with data related to other coupon redemptions and will not identify&nbsp;you.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+                
+                <tr>
+                 <td height="7" style="height:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                </tr>
+                <tr>
+                 <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left">
+                   <tr>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71;">&bull;</td>
+                    <td width="7" style="width:7px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+                    <td class="em_defaultlink" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#6d6e71; font-weight:bold;">Expiration Date: the earlier of 09/30/2022 or the date an A-rated generic equivalent for JANUVIA is approved by the United States Food and Drug&nbsp;Administration.</td>
+                   </tr>
+                  </table></td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td height="25" style="height:25px; font-size:0px; line-height:0px;" class="em_h20"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td align="center" valign="top" bgcolor="#71bfbd" style="padding:6px 10px 6px 14px;"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td align="right" valign="top"><a href="tel:8772642454" style="text-decoration:none; "><img src="https://www.activatethecard.com/MPRS/email/54580/images/call_image.png" width="64"  border="0" alt="" style="display:block; max-width:64px; font-family:'Arial MT', Arial, sans-serif; font-size:15px; line-height:20px; color:#000000;"/></a></td>
+              <td width="12" style="width:12px; font-size:0px; line-height:0px;"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+              <td class="em_defaultlink em_font13" align="left" valign="middle" style="font-family:'Arial MT', Arial, sans-serif; font-size:14px; line-height:20px; color:#ffffff; font-weight:bold;">If you have any questions, please call the McKesson Help Desk at <a href="tel:8772642454" style="text-decoration:none; color:#ffffff;">877-264-2454</a> (8 am-8 pm ET, Monday-Friday).</td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td height="28" style="height:28px; font-size:0px; line-height:0px;" class="em_h20"><img src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" width="1" height="1" border="0" alt="" style="display:block;"/></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pbottom" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#636466; padding-bottom:15px;">Note: This message was distributed from an email account used for sending messages only. <br class="em_hide" />
+            Please DO NOT REPLY TO THIS EMAIL. This box is not maintained. <br class="em_hide" />
+            Click here to <span style="text-decoration:underline; color:#636466;"><a href="https://cl.S7.exct.net/unsub_center.aspx?qs=b278d7ee77b7501d206e1e99068d1adb0c449a28a50ba18fad7d64793e5dcac16c6c87f74a055bf03e93b6f203318ba1f52db57885036d9b6c7fc890b227d512db4923e57033866b" target="_blank" style="text-decoration:underline; color:#636466;">unsubscribe</a></span> or call the Help Desk at <a href="tel:8772642454" style="text-decoration:none; color:#636466;">877-264-2454</a>.</td>
+          </tr>
+          <tr>
+           <td align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:11px; line-height:13px; color:#636466; padding-bottom:24px;">You may have elected to receive emails and other online communications from Merck Sharp &amp; Dohme Corp., a subsidiary of <span style="font-weight:bold;">Merck &amp; Co., Inc.</span> If you no longer wish to receive these email communications from Merck, please <span style="text-decoration:underline; color:#636466; white-space:nowrap;"><a href="https://www.merck.com/pdc/merck/remove-me/index.jsp?KATIELEE529@WINDSTREAM.NET" target="_blank" style="text-decoration:underline; color:#636466; white-space:nowrap;">click here</a></span> to provide Merck your email address for the sole purpose of this opt-out request. If you have trouble accessing this link, please send an email to <span style="text-decoration:none; color:#636466; white-space:nowrap;">
+<a href="mailto:merck_privacy_office@merck.com"  style="text-decoration:none; color:#636466; white-space:nowrap;">merck_privacy_office@merck.com</a></span> with the subject line of Email Opt-Out&nbsp;Request.</td>
+          </tr>
+          <tr>
+           <td align="left" valign="top" style="padding-bottom:13px;"><a href="https://www.merck.com/" target="_blank" style="text-decoration:none;"><img src="https://www.activatethecard.com/MPRS/email/54580/images/f_logo.png" width="94" border="0" alt="MERCK" style="display:block; max-width:94px; font-family:'Arial MT', Arial, sans-serif; font-size:15px; line-height:20px; color:#000000;"/></a></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink em_pbottom em_pl" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:8px; line-height:10px; color:#231f20; padding-bottom:10px; padding-left:33px;">Copyright &copy; 2021 Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc. All rights reserved.<br />
+            Please read our <a href="https://www.msdprivacy.com/us/en/index.html" target="_blank" style="text-decoration:underline; color:#231f20;">Privacy Policy</a> to learn more about how Merck protects personal information about&nbsp;you.<br/>
+            Merck Privacy Office, 351 N Sumneytown Pike, UG4B-24, North&nbsp;Wales,&nbsp;PA&nbsp;19454,&nbsp;USA.</td>
+          </tr>
+          <tr>
+           <td align="center" valign="top" style="padding-bottom:26px;" class="em_pbottom"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+             <tr>
+              <td valign="top"><table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                <tr>
+                 <td class="em_defaultlink em_pl" align="left" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:8px; line-height:10px; color:#231f20; padding-left:33px;">McKesson/Customer Management, 5601 N Pima Road, Scottsdale, AZ&nbsp;85250,&nbsp;USA  </td>
+                </tr>
+               </table>
+               <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper">
+                <tr>
+                 <td class="em_defaultlink em_left" align="right" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:8px; line-height:10px; color:#231f20; "> US-DIA-02249 11/21</td>
+                </tr>
+               </table></td>
+             </tr>
+            </table></td>
+          </tr>
+          <tr>
+           <td class="em_defaultlink" align="center" valign="top" style="font-family:'Arial MT', Arial, sans-serif; font-size:10px; line-height:14px; color:#636466; padding-bottom:20px;"><span style="text-decoration:underline; color:#636466;"><a href="https://www.msdprivacy.com/us/en/index.html" target="_blank" style="text-decoration:underline; color:#636466;">Privacy Policy</a></span>&nbsp; &nbsp;|&nbsp; &nbsp;<span style="text-decoration:underline; color:#636466;"><a href="https://www.januvia.com/special-offers/" target="_blank" style="text-decoration:underline; color:#636466;">Terms and Conditions</a></span>&nbsp; &nbsp;|&nbsp; &nbsp;<span style="text-decoration:underline; color:#636466;"><a href="https://cl.S7.exct.net/unsub_center.aspx?qs=b278d7ee77b7501d206e1e99068d1adb0c449a28a50ba18fad7d64793e5dcac16c6c87f74a055bf03e93b6f203318ba1f52db57885036d9b6c7fc890b227d512db4923e57033866b" target="_blank" style="text-decoration:underline; color:#636466;">Unsubscribe
+</a></span></td>
+          </tr>
+         </table></td>
+       </tr>
+      </table></td>
+    </tr>
+    <tr>
+     <td class="em_hide" style="line-height:1px;min-width:600px;background-color:#ffffff;"><img alt="" src="https://image.s7.sfmc-content.com/lib/fe9713727565027971/m/8/7631ef2e-9aa6-4fb9-858b-868f5c5f0f4f.gif" height="1" width="600" style="max-height:1px; min-height:1px; display:block; width:600px; min-width:600px;" border="0" /></td>
+    </tr>
+   </table></td>
+ </tr>
+</table>
+<!-- == //Body Section == -->
+
+</body>
+</html> 
+<img src="https://cl.S7.exct.net/open.aspx?ffcb10-fe8f1573776c01787d-fe2210737c63007f751d77-fe9713727565027971-ff941374-fe2d107171600574771578-fed815727560047d&d=70180&bmt=0" width="1" height="1" alt="">
+<font color = "white">298678375</font>
+

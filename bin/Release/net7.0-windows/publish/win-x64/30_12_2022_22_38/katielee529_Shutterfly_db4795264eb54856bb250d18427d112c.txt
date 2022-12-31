@@ -1,0 +1,317 @@
+Return-Path: bounce-21_HTML-23623666-328453-100009900-7675@bounce.em.shutterfly.com
+Received: from mx07.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.47)
+ by md13.aqua.sync.lan with LMTP; Fri, 10 Jun 2022 16:21:56 -0400 (EDT)
+Return-Path: <bounce-21_HTML-23623666-328453-100009900-7675@bounce.em.shutterfly.com>
+X-Received-HELO: from [13.111.58.250] (helo=mta8.em.shutterfly.com)
+Authentication-Results: mx07.aqua.bos.sync.lan smtp.mail=bounce-21_HTML-23623666-328453-100009900-7675@bounce.em.shutterfly.com; spf=permerror
+Authentication-Results: mx07.aqua.bos.sync.lan header.DKIM-Signature=Shutterfly@em.shutterfly.com; dkim=pass
+Received-SPF: permerror (mx07.aqua.bos.sync.lan: 13.111.58.250 is neither permitted nor denied by domain of bounce.em.shutterfly.com)
+Received: from [13.111.58.250] ([13.111.58.250:38673] helo=mta8.em.shutterfly.com)
+	by mx.windstream.net (envelope-from <bounce-21_HTML-23623666-328453-100009900-7675@bounce.em.shutterfly.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id B4/AC-01854-4E7A3A26; Fri, 10 Jun 2022 16:21:56 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=10dkim1; d=em.shutterfly.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type:
+ Content-Transfer-Encoding; i=Shutterfly@em.shutterfly.com;
+ bh=n3ENY0WOiemsNYbxiTneGuqf4ZuaWFSMBp2RcDXz5nM=;
+ b=aWtG4Pqx1BDodWXG7bhNxs/2A+6+apVj/YKUFYrfd/W9JMADXI80W03aX6LK0NQl5pOpDlmyp0Li
+   f2Y4MDciO1WPwKtpPcOpcSKYwin1KomkOFsOOKu/psF5aO0uHzo63zVrgjbojU8bZcSqQi4nkEVP
+   b94nIQmPQOw8TKtrtNVg9a6Hfp0qSu3h0wpLXXTgzeEKW+bXwELgqOM5hoGRRuLQvo79p8FkIciK
+   iRTqDj/4IUiyrikMnkhAytFsY7Vh6qMUZafbyjie5MStrxfHGw4zfdEDdihJGxt7Am+m0Ba+luHC
+   JvuwcVWt2yuyL6mDH7JIiP7oyl9hq1UyhBPeCQ==
+Received: by mta8.em.shutterfly.com id hkeju82fmd4s for <katielee529@windstream.net>; Fri, 10 Jun 2022 20:13:52 +0000 (envelope-from <bounce-21_HTML-23623666-328453-100009900-7675@bounce.em.shutterfly.com>)
+From: "Shutterfly" <Shutterfly@em.shutterfly.com>
+To: <katielee529@windstream.net>
+Subject: Your memories from this week nine years ago...
+Date: Fri, 10 Jun 2022 14:13:52 -0600
+List-Unsubscribe: <https://click.em.shutterfly.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiIxMDAwMDk5MDAiLCJzIjoiMjM2MjM2NjYiLCJsaWQiOiIyMSIsImoiOiIzMjg0NTMiLCJqYiI6Ijc2NzUiLCJkIjoiMTAwMTY2In0.4dtMj-JXWL_hIO8X1HhsXZNB9IQL90cWkyQlj1JHJEA>, <mailto:leave-fd8816711a3c402029-fe5d16737366077b7312-fec617727d60017e-fe3c1570756404747c1470-ff2613767261@leave.em.shutterfly.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Shutterfly" <reply-fec617727d60017e-21_HTML-23623666-100009900-7675@em.shutterfly.com>
+List-ID: <100009663.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 10
+x-job: 100009900_328453
+Message-ID: <313b411d-00a6-4123-bc06-c0492f9c1a1c@dfw1s10mta193.xt.local>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Vade-Verdict: commercial:mce
+X-Vade-Analysis-1: gggruggvucftvghtrhhoucdtuddrgedvfedrudduuddgudeghecutefuodetggdotefrodftvfcurfhr
+X-Vade-Analysis-2: ohhfihhlvgemucfujgfpteevqfftpdghkffpfffuvfftgfetofdpgffpggdqhgfkpfffuffvtffgtefo
+X-Vade-Analysis-3: necuuegrihhlohhuthemuceftddunecundfotefknffkpffiucdludejmdenucfjughrpefhvffufffj
+X-Vade-Analysis-4: gghrjefktgfgsehhkeertddttdejnecuhfhrohhmpedfufhhuhhtthgvrhhflhihfdcuoefuhhhuthht
+X-Vade-Analysis-5: vghrfhhlhiesvghmrdhshhhuthhtvghrfhhlhidrtghomheqnecuggftrfgrthhtvghrnhepgeefkeeu
+X-Vade-Analysis-6: jeelteekjeefveehtdevjeejteduuddtledtudeghefhkeeuleefffegnecuffhomhgrihhnpehshhhu
+X-Vade-Analysis-7: thhtvghrfhhlhidrtghomhenucfkphepudefrdduuddurdehkedrvdehtdenucevlhhushhtvghrufhi
+X-Vade-Analysis-8: iigvpedugeenucfrrghrrghmpehinhgvthepudefrdduuddurdehkedrvdehtddphhgvlhhopehmthgr
+X-Vade-Analysis-9: kedrvghmrdhshhhuthhtvghrfhhlhidrtghomhdpmhgrihhlfhhrohhmpegsohhunhgtvgdqvddupgfj
+X-Vade-Analysis-10: vffonfdqvdefiedvfeeiieeiqdefvdekgeehfedquddttddttdelledttddqjeeijeehsegsohhunhgt
+X-Vade-Analysis-11: vgdrvghmrdhshhhuthhtvghrfhhlhidrtghomhdprhgtphhtthhopehkrghtihgvlhgvvgehvdelseif
+X-Vade-Analysis-12: ihhnughsthhrvggrmhdrnhgvthdpmhhtrghhohhsthepmhigrdgrqhhurgdrsghoshdrshihnhgtrdhl
+X-Vade-Analysis-13: rghnpdhsphhfpehpvghrmhgvrhhrohhrpdgukhhimhepphgrshhspdhnsggprhgtphhtthhopedu
+X-Vade-Client: AQUA
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width, initial-scale=0.666667, maximum-scale=0.666667, user-scalable=0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta name="viewport" content="width=device-width">
+
+  <title></title>
+  <style media="all" type="text/css">
+    body {
+      /*height: 100% !important;*/
+      width: 100% !important;
+      margin: 0;
+      padding: 0;
+    }
+
+    table {
+      margin: 0 auto !important;
+      border-collapse: collapse;
+    }
+
+    .gmailfix {
+      display: none;
+      display: none !important;
+    }
+
+    button {
+      display: block !important
+    }
+
+    /*
+    div {
+      display: block !important
+    }
+    */
+
+    body,
+    div,
+    span,
+    p,
+    a,
+    li,
+    td {
+      -webkit-text-size-adjust: none;
+    }
+
+    .apple_link a {
+      text-decoration: none;
+      color: #181512;
+    }
+
+    .cust_id_footer a {
+      text-decoration: none;
+      color: #ffffff;
+    }
+    
+    .tmail-convert-to-link {
+     color: #0066cc;
+     text-decoration: underline; 
+    }
+
+    .ExternalClass * {
+      line-height: 100%;
+    }
+    
+    #unlinkDatesIOSWrapper #unlinkDatesIOS [x-apple-data-detectors-type="calendar-event"]{
+      color: inherit !important;
+      -webkit-text-decoration-color: inherit !important;
+      text-decoration: none !important;
+    }     
+  </style>
+
+  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.spacing-height-30 { mso-line-height-rule: exactly; line-height: 30px; }</style><table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" data-testid="spacing-color"><tr><td class="spacing-height-30" style="width:500px;height:30px;background-color:#FFFFFF" width="500" height="30" valign="middle" colspan="2" data-testid="spacing-color-content"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <table align="center" width="150" cellpadding="0" cellspacing="0" border="0"><tr>
+<td valign="top" align="center" data-testid="content" id="single-image-container"><a href="https://click.em.shutterfly.com/u/?qs=9bc3d6eef73098a1a7097887ecd2a484bf469e4035c2bd0aaa206a8933c68bd66d2d2982dfc87d266b21e14d757d2d4a40d9ecb66944cd1053bbc85eb1dd7c52" rilt="" ><img style="display:block" width="150" height="auto" border="0" src="https://s3.amazonaws.com/prod-static-assets/email/images/Sfly_Logo_2019_05_01.png" alt=""></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style><table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:500px" data-testid="text-wrapper"><tr>
+<td data-testid="text-content" bgcolor="#ffffff" width="500" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:500px;height:40px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" rilt="" style="text-decoration:none" data-testid="text-link"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#ffffff"><strong style="color:rgb(99, 101, 114);font-size:13px">Remember these memories from nine years ago?</strong><br></span></a></td></tr></table></td></tr></table>
+
+  </head>
+  
+  <body bgcolor="#FFFFFF"â>
+
+    <div style="font-size:0; line-height:0;">
+      <img src="https://click.em.shutterfly.com/open.aspx?ffcb10-fec617727d60017e-fe60167373660079741d-fe3c1570756404747c1470-ff9c1671-fe5d16737366077b7312-ff2613767261&d=100166&bmt=0" width="1" height="1" alt="">
+      <img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_sha256&partner_uid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_subid&partner_uid=23623666" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_ad_impression.gif?confid=sk8yu77br&advertiserid=100009900&campaignid=RDE_NEW_INFRA_Test2" width=0 height=0 style="display:none;" />
+    </div>
+
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          
+        </td>
+      </tr>
+    </table>
+
+    <!-- BEGIN EMAIL CONTENT -->
+    <table width="500" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td>
+          <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style><table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:500px" data-testid="text-wrapper"><tr><td data-testid="text-content" bgcolor="#ffffff" width="500" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:500px;height:60px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" rilt="" style="text-decoration:none" data-testid="text-link"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#ffffff"><span style="color:rgb(99, 101, 114);font-size:13px">&nbsp; Hi&nbsp;Kathy,ï»¿ï»¿ï»¿ï»¿ï»¿ï»¿ï»¿</span><br><span style="color:rgb(99, 101, 114);font-size:13px">We thought youâd like to press rewind and relive these times.</span><br></span></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" border="0" align="center">    
+<tr>
+   <td colspan="3" width="440">
+      <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" target="_blank">
+      <img style="border: 0; display: block; " src="https://uniim1.shutterfly.com/render/00-_3b_y32xPPjQsX9yAGuQu949JYmJON7xEqQZfII6YO9aqXYkig73vuzWMAKZLrrf7PAm3MsXmeroSqMmeVsq6A==?cn=THISLIFE&res=medium&userid=007013508435&momentid=43458309084" alt="" height="550.0" width="440" border="0"/>
+      </a>
+   </td>
+</tr>
+  <tr>
+    <td><div style="width:1px;height:10px;color:transparent;text-decoration:none;">&nbsp;</div></td>
+  </tr>
+<tr>
+   <td valign="top" align="left" style="padding-top:0;padding-bottom:0">
+      <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" target="_blank">
+      <img style="border: 0; display: block; " src="https://uniim1.shutterfly.com/render/00-_3b_y32xPPjQsX9yAGuQu949JYmJON7xEqQZfII6YO9ZdzuzvZbMPHoy7BAkPdp37PAm3MsXmeroSqMmeVsq6A==?cn=THISLIFE&res=medium&userid=007013508435&momentid=43458309074" alt="" height="215.0" width="172.0" border="0"/>
+      </a>
+   </td>
+    <td><div style="width:10px;height:1px;color:transparent;text-decoration:none;">&nbsp;</div></td>
+   <td valign="top" align="right" style="padding-top:0;padding-bottom:0">
+      <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" target="_blank">
+      <img style="border: 0; display: block; " src="https://uniim1.shutterfly.com/render/00-_3b_y32xPPjQsX9yAGuQu949JYmJON7xEqQZfII6YO-6TKRXRa83s_Dq9nGbrdl27PAm3MsXmeroSqMmeVsq6A==?cn=THISLIFE&res=medium&userid=007013508435&momentid=43458309089" alt="" height="215.0" width="258.0" border="0"/>
+      </a>
+   </td>
+</tr>
+</table>
+   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.spacing-height-20 { mso-line-height-rule: exactly; line-height: 20px; }</style><table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" data-testid="spacing-color"><tr><td class="spacing-height-20" style="width:500px;height:20px;background-color:#FFFFFF" width="500" height="20" valign="middle" colspan="2" data-testid="spacing-color-content"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style>
+<table align="center" width="500" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-wrapper" style="background-color:#ffffff"><tr><td><table align="center" width="200" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-content" style="width:200px"><tr><td style="text-align:center;background-color:#F05323;padding:10px;box-sizing:border-box;border:1px solid #f05323">
+<a style="font-family:Verdana, Geneva, Tahoma, sans-serif;text-decoration:none;display:block;overflow:hidden;width:200px" href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a16a60e0d42af13898d4a301d103a8240d286b5066449a7bfa9408b2b228d199fb44465c63b64cba84d66726abdba6543fc0e11f592a9c0cab" rilt=""><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#F05323">RELIVE THIS MEMORY<br></span></a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.spacing-height-20 { mso-line-height-rule: exactly; line-height: 20px; }</style><table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" data-testid="spacing-color">
+<tr><td class="spacing-height-20" style="width:500px;height:20px;background-color:#FFFFFF" width="500" height="20" valign="middle" colspan="2" data-testid="spacing-color-content"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.19 --> <div><style>
+                        .divider {  
+                            border-collapse:collapse; 
+                            mso-table-lspace: 0pt; 
+                            mso-table-rspace: 0pt; 
+                            mso-line-height-rule: exactly; 
+                            line-height: 1px;
+                        }
+                        </style><table align="center" width="400" cellpadding="0" cellspacing="0" border="0"><tr><td valign="middle" style="min-width:400px;background-repeat:no-repeat;background-color:#ffffff;height:27px;line-height:27px" bgcolor="#ffffff"><table align="center" width="350" cellpadding="0" cellspacing="0" border="0" style="width:350px"><tr><td class="divider" align="center" valign="middle" width="350" height="2" style="background-color:#d4e1e1"><!--[if gte mso 15]>Â <![endif]--></td></tr></table></td></tr></table></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style>
+<table align="center" width="500" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:500px" data-testid="text-wrapper"><tr><td data-testid="text-content" bgcolor="#ffffff" width="500" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:500px;height:60px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:1px;color:#FFFFFF;display:block;background-color:#ffffff"><strong style="color:rgb(96, 97, 104);font-size:13px">Let's make something&nbsp;</strong><br></span></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 33%; padding-right: 0px;">
+<a  href="https://click.em.shutterfly.com/u/?qs=9bc3d6eef73098a143bf112c2257047c73314699e5d95501359d6ef262041ddd57bfe77fe70d8c3845f55eb48780d61c5e805641bdf9eeef44b50924b3e14c9c" rilt="Recovery_APC_SCTN1_LP_cstm"><img style="display: block;" src="https://thumb.photoccino.com/product?sku=1085480&uid=007013508435&orientation=portrait&oFormat=png&w=166.66&h=166.66&sig=2f31c76ec9fe3bfc5cba106618b0626ed2830b1f&t=202206100213&momentids=43458309084&angle=0" alt="SEE YOURS" width="166.66" height="166.66" border="0"></a><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style>
+<table align="center" width="166.66" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:166.66px" data-testid="text-wrapper"><tr><td data-testid="text-content" bgcolor="#ffffff" width="166.66" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:166.66px;height:30px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a143bf112c2257047c73314699e5d95501359d6ef262041ddd57bfe77fe70d8c3845f55eb48780d61c5e805641bdf9eeef44b50924b3e14c9c" rilt="Recovery_APC_SCTN_CP_cstm" style="text-decoration:none" data-testid="text-link"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#ffffff"><span style="color:rgb(94, 95, 104);font-size:13px">Mousepad</span><br></span></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-10 { mso-line-height-rule: exactly; line-height: 10px; }</style><table align="center" width="60" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-wrapper" style="background-color:#ffffff"><tr>
+<td><table align="center" width="90" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-content" style="width:90px"><tr><td style="text-align:center;background-color:#F05323;padding:10px;box-sizing:border-box;border:1px solid #f05323">
+<a style="font-family:Verdana, Geneva, Tahoma, sans-serif;text-decoration:none;display:block;overflow:hidden;width:90px" href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a143bf112c2257047c73314699e5d95501359d6ef262041ddd57bfe77fe70d8c3845f55eb48780d61c5e805641bdf9eeef44b50924b3e14c9c" rilt="Recovery_APC_SCTN_CP_cstm"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:10px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#F05323"><span style="font-size:13px">MAKE IT</span><br></span></a></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 33%; padding-left: 0px; padding-right: 0px;"><a  href="https://click.em.shutterfly.com/u/?qs=9bc3d6eef73098a1e0c881bb0764f5fbda390ac52ae86219d50ad26bbefe2ce88bae4aa5c29bbd2b70976e13af4813bae457d7d52702a9eef6e8d4ca677322d1" rilt="Recovery_APC_SCTN1_LP_cstm">
+<img style="display: block;" src="https://thumb.photoccino.com/product?sku=1076695&uid=007013508435&orientation=portrait&oFormat=png&w=166.66&h=166.66&sig=2f31c76ec9fe3bfc5cba106618b0626ed2830b1f&t=202206100213&momentids=43458309074&angle=3" alt="SEE YOURS" width="166.66" height="166.66" border="0"></a><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style><table align="center" width="166.66" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:166.66px" data-testid="text-wrapper"><tr>
+<td data-testid="text-content" bgcolor="#ffffff" width="166.66" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:166.66px;height:30px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a138f1d43e9e9072f99ca11f6e209da53ec9b1397f887ecc9abd2a2753183524d23ecaa67557724d2f489c2fd56237081c151b690da1c5f347" rilt="Recovery_APC_SCTN_CP_cstm" style="text-decoration:none" data-testid="text-link"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#ffffff"><span style="color:rgb(94, 95, 104);font-size:13px">Photo Gallery Mug</span><br></span></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-10 { mso-line-height-rule: exactly; line-height: 10px; }</style>
+<table align="center" width="60" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-wrapper" style="background-color:#ffffff"><tr><td><table align="center" width="90" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-content" style="width:90px"><tr><td style="text-align:center;background-color:#F05323;padding:10px;box-sizing:border-box;border:1px solid #f05323">
+<a style="font-family:Verdana, Geneva, Tahoma, sans-serif;text-decoration:none;display:block;overflow:hidden;width:90px" href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a138f1d43e9e9072f99ca11f6e209da53ec9b1397f887ecc9abd2a2753183524d23ecaa67557724d2f489c2fd56237081c151b690da1c5f347" rilt="Recovery_APC_SCTN_CP_cstm"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:10px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#F05323"><span style="font-size:13px">MAKE IT</span><br></span></a></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 34%; padding-left: 0px;"><a  href="https://click.em.shutterfly.com/u/?qs=9bc3d6eef73098a1306c386203ab1c48fae482e9d352465b1d7ca1f2299e010c542f11fd3c65177a731cc22527a9c1547ba9f748bf623313a6bec63715c1700d" rilt="Recovery_APC_SCTN1_LP_cstm">
+<img style="display: block;" src="https://thumb.photoccino.com/product?sku=1085285&uid=007013508435&orientation=portrait&oFormat=png&w=166.66&h=166.66&sig=2f31c76ec9fe3bfc5cba106618b0626ed2830b1f&t=202206100213&momentids=43458309089&angle=0" alt="SEE YOURS" width="166.66" height="166.66" border="0"></a><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-26 { mso-line-height-rule: exactly; line-height: 26px; }</style><table align="center" width="166.66" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="display:block;overflow:hidden;width:166.66px" data-testid="text-wrapper"><tr>
+<td data-testid="text-content" bgcolor="#ffffff" width="166.66" align="center" class="text-26" style="font-family:Verdana, Geneva, Tahoma, sans-serif;min-width:166.66px;height:30px;vertical-align:middle;line-height:26px;background-color:#ffffff">
+<a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a1306c386203ab1c48fae482e9d352465b1d7ca1f2299e010c542f11fd3c65177a731cc22527a9c1547ba9f748bf623313a6bec63715c1700d" rilt="Recovery_APC_SCTN_CP_cstm" style="text-decoration:none" data-testid="text-link"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:26px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#ffffff"><span style="font-size:13px;color:rgb(94, 95, 104)">Magnet</span><br></span></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- component version 1.0.22 --> <style>.text-10 { mso-line-height-rule: exactly; line-height: 10px; }</style><table align="center" width="60" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-wrapper" style="background-color:#ffffff"><tr><td>
+<table align="center" width="90" cellpadding="0" cellspacing="0" border="0" data-testid="ctaBtn-content" style="width:90px"><tr><td style="text-align:center;background-color:#F05323;padding:10px;box-sizing:border-box;border:1px solid #f05323">
+<a style="font-family:Verdana, Geneva, Tahoma, sans-serif;text-decoration:none;display:block;overflow:hidden;width:90px" href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a1306c386203ab1c48fae482e9d352465b1d7ca1f2299e010c542f11fd3c65177a731cc22527a9c1547ba9f748bf623313a6bec63715c1700d" rilt="Recovery_APC_SCTN_CP_cstm"><span id="unlinkDatesIOS" data-testid="lineSpanTest" style="line-height:10px;letter-spacing:0px;color:#FFFFFF;display:block;background-color:#F05323"><span style="font-size:13px">MAKE IT</span><br></span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+
+<tr align="center">
+      <td style="width: 500px; padding: 25px 0; color: #4b525c">
+        <p style="font-size: 12px;">
+          <span style="font-weight: bold; font-size: 16px">Shutterfly Photos.</span><br>
+          All your photos and videos, intelligently organized, ready to discover.<br>
+          <span>Copyright &#169; 2022 Shutterfly Inc.</span>
+        </p>
+
+        <p style="font-size: 12px;">
+          At Shutterfly, we respect your privacy and want to assure you this email<br>
+          was auto-generated and has only been sent to you and anyone with whom<br> you share an account.
+        </p>
+
+        <p style="font-size: 12px; ">
+          <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a1ed6dd173eb0005c17c86388071c0387875a0dc3696617f868696bdaadda861a2b5f8dea0af6e07400e9d17e8e63fb3faeaa83cf947905643">Learn more about Shutterfly</a>
+        </p>
+
+        <p style="font-size: 12px; ">
+          Don't want to receive emails like this anymore? <a rilt="Footer_Unsub_Salesforce" style="color: #6666CC;"  href="https://click.em.shutterfly.com/u/?qs=9bc3d6eef73098a10e6bab087bc8ff3d963b8af2f523cf792814b32f61ab4cb16058a671a4fb237d9c254bfdae1b5bb4127d1a83bb44231a59f7880cf8930c3c" >Unsubscribe</a>
+        </p>
+        <p style="font-size: 12px;">
+          Read our <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a14b389d38f45588077e75f4a31191f4eb4e04c755ecd794845136d9e404e1df16f7979b55a08d5bb36beeeaa209e39b099ee58ab80abd83b9">Terms of Use</a> and <a href="https://click.em.shutterfly.com/?qs=9bc3d6eef73098a1edd6e69199fbbc5b800321d91e3350470aaa0e8e69b7632a0e3c2ed06e6240310edd2e7caad5130f6e5b5b3f6fe27f8c3471c3786704bb9f">Privacy and Security Policy</a>
+        </p>
+      </td>
+    
+
+
+</table></div></tr>
+  
+<!--
+ 2021-04-25,09:01:34,i-0accc6b6472fa9d0e,{"action":"render-only","owner":"000025702938","life":"070031482495","year":"1999","send_time":1578909215,"memory_id":"000025702938#rediscovery#2021#17","personSettingsUid":"d5e12f1a-7cd7-4feb-9f12-748105b4782f","hint":{"photos":[{"id":"75116796216","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796216\/medium\/1449778779\/enhance","type":"Best","rank":10.16,"rankPos":0,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796216","uid":"75116796216","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.16,"numberOfFaces":2,"dayOfTheWeek":3
+,"vip":true},{"id":"75116796480","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796480\/medium\/1449778779\/enhance","type":"Best","rank":10.15,"rankPos":1,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796480","uid":"75116796480","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.15,"numberOfFaces":2,"dayOfTheWeek":3,"vip":true},{"id":"75116796274","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796274\/medium\/1449778779\/enhance","type":"Best","rank":10.14,"rankPos":
+2,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796274","uid":"75116796274","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.14,"numberOfFaces":2,"dayOfTheWeek":3,"vip":true}],"write_location":"s3:\/\/prod-tl-pcservices\/crm\/batch\/rediscovery_v2\/000025702938\/2021-04-25-rediscovery-961407\/000025702938.html","ago":1,"year":1999},"from":0,"to":0,"group":"control"}    
+ https://qq0u.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fphotos.shutterfly.com%2Fmemory%2F000025702938%2523rediscovery%25232021%252317%2Ftoken%2F39428ece2251e4aca089603db8ad4923&%24deeplink_path=shutterfly%3A%2F%2Fmobile%2Fv2%2Fscreens%2Fmemories%3FId%3D000025702938%2523rediscovery%25232021%252317%26token%3D39428ece2251e4aca089603db8ad4923%26channel%3Demail%26CID%3DRC_RDE_xxx    <a href="https://qq0u.app.link/3p?%243p=e_rs&%24original_url=https://photos.shutterfly.com/memory/007013508435%2523rediscovery%25232022%252323/token/b711f0d4a3ba5f4ddb7241f8080a9435&%24deeplink_path=shutterfly%3A//mobile/v2/screens/memories%3FId%3D007013508435%2523rediscovery%25232022%252323%26token%3Db711f0d4a3ba5f4ddb7241f8080a9435&channel%3Demail&CID%3DRC_RDE_xxx">deeplink</a> -->
+<img src="https://os.shutterfly.com/b/ss/sflyemailprod/1/H.15/111?pageName=tlrediscovery" width="1" height="1" border="0">
+
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=0.666667, maximum-scale=0.666667, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width">
+
+<title></title>
+
+
+<br>
+<img src="https://click.em.shutterfly.com/open.aspx?ffcb10-fec617727d60017e-fe60167373660079741d-fe3c1570756404747c1470-ff9c1671-fe5d16737366077b7312-ff2613767261&d=100166&bmt=0" width="1" height="1" alt="">
+  <img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_sha256&partner_uid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_subid&partner_uid=23623666" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_ad_impression.gif?confid=sk8yu77br&advertiserid=100009900&campaignid=RDE_NEW_INFRA_Test2" width=0 height=0 style="display:none;" />
+
+    <!-- RESPONSYS TRACKING - THIS SECTION OF CODE WAS PREVIOUSLY IN THE FOOTER. MOVED TO MASTER TEMPLATE -->
+    
+    <table width="500" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" style="font-size: 9px; font-family: Arial, Helvetica, sans-serif; color:#ffffff;"><span class="cust_id_footer">   </span></td>
+      </tr>
+      <tr>
+        <td style="line-height: 10px;"><img src="https://cdn.staticsfly.com/i/e/z/sp.gif" width="500" height="10" border="0"></td>
+      </tr>
+
+    </custom></custom></table>
+  
+<!--
+ 2021-04-25,09:01:34,i-0accc6b6472fa9d0e,{"action":"render-only","owner":"000025702938","life":"070031482495","year":"1999","send_time":1578909215,"memory_id":"000025702938#rediscovery#2021#17","personSettingsUid":"d5e12f1a-7cd7-4feb-9f12-748105b4782f","hint":{"photos":[{"id":"75116796216","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796216\/medium\/1449778779\/enhance","type":"Best","rank":10.16,"rankPos":0,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796216","uid":"75116796216","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.16,"numberOfFaces":2,"dayOfTheWeek":3
+,"vip":true},{"id":"75116796480","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796480\/medium\/1449778779\/enhance","type":"Best","rank":10.15,"rankPos":1,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796480","uid":"75116796480","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.15,"numberOfFaces":2,"dayOfTheWeek":3,"vip":true},{"id":"75116796274","albumId":null,"origWidth":720,"origHeight":960,"url":"https:\/\/uniim1.shutterfly.com\/ng\/services\/mediarender\/THISLIFE\/000025702938\/media\/75116796274\/medium\/1449778779\/enhance","type":"Best","rank":10.14,"rankPos":
+2,"dateTaken":"2018-12-31T20:47:06Z","faces":2,"aoi":[0,0,1,1],"moment_date":1546289226,"moment_id":"75116796274","uid":"75116796274","life_uid":"070031482495","height":960,"width":720,"orig_height":960,"orig_width":720,"tagsInPhoto":2,"score":10.14,"numberOfFaces":2,"dayOfTheWeek":3,"vip":true}],"write_location":"s3:\/\/prod-tl-pcservices\/crm\/batch\/rediscovery_v2\/000025702938\/2021-04-25-rediscovery-961407\/000025702938.html","ago":1,"year":1999},"from":0,"to":0,"group":"control"}    
+ https://qq0u.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fphotos.shutterfly.com%2Fmemory%2F000025702938%2523rediscovery%25232021%252317%2Ftoken%2F39428ece2251e4aca089603db8ad4923&%24deeplink_path=shutterfly%3A%2F%2Fmobile%2Fv2%2Fscreens%2Fmemories%3FId%3D000025702938%2523rediscovery%25232021%252317%26token%3D39428ece2251e4aca089603db8ad4923%26channel%3Demail%26CID%3DRC_RDE_xxx    <a href="">deeplink</a> -->
+<img src="https://os.shutterfly.com/b/ss/sflyemailprod/1/H.15/111?pageName=tlrediscovery" width="1" height="1" border="0">
+
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=0.666667, maximum-scale=0.666667, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width">
+
+<title></title>
+
+
+<br>
+<img src="https://click.em.shutterfly.com/open.aspx?ffcb10-fec617727d60017e-fe60167373660079741d-fe3c1570756404747c1470-ff9c1671-fe5d16737366077b7312-ff2613767261&d=100166&bmt=0" width="1" height="1" alt="">
+  <img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_sha256&partner_uid=35cf52e97ce2b718c9fbe24b25a7efd74f823e9d23a4627ae23d81912e10d988" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_usermatch.gif?partner=LlRi0Gw2_sfmc_100009900_subid&partner_uid=23623666" width=0 height=0 style="display:none" /> 
+<img src="https://beacon.krxd.net/1x1_ad_impression.gif?confid=sk8yu77br&advertiserid=100009900&campaignid=RDE_NEW_INFRA_Test2" width=0 height=0 style="display:none;" />
+
+    <!-- RESPONSYS TRACKING - THIS SECTION OF CODE WAS PREVIOUSLY IN THE FOOTER. MOVED TO MASTER TEMPLATE -->
+
+    <table width="500" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" style="font-size: 9px; font-family: Arial, Helvetica, sans-serif; color:#ffffff;"><span class="cust_id_footer">   </span></td>
+      </tr>
+      <tr>
+        <td style="line-height: 10px;"><img src="https://cdn.staticsfly.com/i/e/z/sp.gif" width="500" height="10" border="0"></td>
+      </tr>
+
+    </custom></custom></table>
+ 
+          <div class="gmailfix"                style="white-space:nowrap; font:15px courier; line-height:0;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!-- END EMAIL CONTENT -->
+  </body>
+</html>

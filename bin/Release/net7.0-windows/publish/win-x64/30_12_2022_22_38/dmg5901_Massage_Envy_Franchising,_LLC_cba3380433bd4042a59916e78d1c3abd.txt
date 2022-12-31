@@ -1,0 +1,998 @@
+Return-Path: bounce-108_HTML-12683635-33398-7294712-490@bounce.massageenvylocation.com
+Received: from mx01.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.41)
+ by md23.aqua.sync.lan with LMTP; Wed, 17 Jan 2018 11:18:32 -0500 (EST)
+Return-Path: <bounce-108_HTML-12683635-33398-7294712-490@bounce.massageenvylocation.com>
+X-Forwarded-For: dmg5901@windstream.net hhgc@windstream.net
+X-Forwarded-To: hhgc@windstream.net
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=R8pBIpZX c=1 sm=1 tr=0 b=1 a=MliCFNhL04rI+katKgIRSQ==:117 a=MliCFNhL04rI+katKgIRSQ==:17 a=6giede-wJD4A:10 a=RgaUWeydRksA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=xh1tXPztAAAA:8 a=QlHiDam-AAAA:8 a=ycknPM4UeIRO5w8eb3cA:9 a=QEXdDO2ut3YA:10 a=twrp9wNytuIA:10 a=n43jGk8orZUA:10 a=SSmOFEACAAAA:8 a=3g80flMcAAAA:8 a=UqCG9HQmAAAA:8 a=9DQygMWcAAAA:20 a=3IeLnGJ6AAAA:8 a=yBLvCs0ZISkBI_rFcOwA:9 a=kInmfC1c9R9yy4G9:21 a=frz4AuCg-hUA:10 a=-nNIQOgXk5kA:10 a=oUCISkJof7o7a-37xU4A:9 a=NdpuGuJzQT6ICjQTXOxM:22 a=A3JlSWgzSsHvlUwuiz7L:22 a=CIX2fKDqIAj4SMstqDkk:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [13.111.25.124] (helo=mta.massageenvylocation.com)
+Received: from [13.111.25.124] ([13.111.25.124:48487] helo=mta.massageenvylocation.com)
+	by mx.windstream.net (envelope-from <bounce-108_HTML-12683635-33398-7294712-490@bounce.massageenvylocation.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTP
+	id C8/2E-24186-8577F5A5; Wed, 17 Jan 2018 11:18:32 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=massageenvylocation.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=email@massageenvylocation.com;
+ bh=89lQifwCzAOobrRYxBp3Cg8NEUA=;
+ b=uBMpJQcMkAVL1r3bEhuC5jGdnkubODixxVP4mHGQbTs4wNu2fWJUgaaW0LmFsw+6UrLv7WgbqhyG
+   l4KdqYYXrwcS+ShJ1jpH7dxFpPueFZpRew+c7OkT2VyU9NoG+OIUofIc4933xiiIAP0oZzA/vdjx
+   UD11iod/9UbcsH8I0fc=
+Received: by mta.massageenvylocation.com id hbtrle163hse for <dmg5901@windstream.net>; Wed, 17 Jan 2018 16:04:49 +0000 (envelope-from <bounce-108_HTML-12683635-33398-7294712-490@bounce.massageenvylocation.com>)
+From: "Massage Envy Franchising, LLC" <email@massageenvylocation.com>
+To: <dmg5901@windstream.net>
+Subject: Committed to your ongoing wellness.
+Date: Wed, 17 Jan 2018 10:04:49 -0600
+List-Unsubscribe: <mailto:leave-fd5215707d0b5c392848-fe5d1572736c077b7611-fef51773766d0c-fe8f13727c60037c77-ff62107975@leave.massageenvylocation.com>
+MIME-Version: 1.0
+Reply-To: "Massage Envy" <reply-fef51773766d0c-108_HTML-12683635-7294712-490@massageenvylocation.com>
+List-ID: <7294712_33398.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7294712_33398
+Message-ID: <1bf4bd9c-0261-4805-97e2-b2357f503d1b@atl1s07mta1408.xt.local>
+Content-Type: multipart/alternative;
+	boundary="DdwV1MjVZuKs=_?:"
+
+This is a multi-part message in MIME format.
+
+--DdwV1MjVZuKs=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+Massage Envy                                                           
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635f5d553e65b290ae299552203a3b5e5172163df46759cd7aaefa822c315e6aad9cc92e09c182ba31bda3e3937d397e34 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563ac59f597d7bbc5cd054356fbf1581f827dbda2dba36fb9614431402fd92da02e2f8e12d34089efc5836f17da74356d3d 
+MASSAGE       
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e56318f1ab9b9ea598c7b6c543791f273393683e1d9e39392ea7d5e9b0813fab4e6d77a69a6e49556ab39f4df520a04b74e5 
+SKIN CARE       
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563133abbe4cf2a563d67fa3ba0323a1fb02608dda7eff58002b13365505d33b383b9da43e6dd7f943dea091c5589f30116 
+ MEMBERSHIP       
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563ab49d461a62758c86004b4e2f7922100604180601cb0b14e9bd6480b1576ecd4d13457c0398db5f81d15fa3766175a3e 
+GIFT CARDS       
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5639b3411ebf8073c0f390576b6e24b57ef98d5a30d1f47ae6b221b810ae7722e3d190039d829db4d7a2ab8425c7bfeb5e6 
+LOCATIONS 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635f5d553e65b290ae299552203a3b5e5172163df46759cd7aaefa822c315e6aad9cc92e09c182ba31bda3e3937d397e34 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563ac59f597d7bbc5cd054356fbf1581f827dbda2dba36fb9614431402fd92da02e2f8e12d34089efc5836f17da74356d3d 
+MASSAGE 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e56318f1ab9b9ea598c7b6c543791f273393683e1d9e39392ea7d5e9b0813fab4e6d77a69a6e49556ab39f4df520a04b74e5 
+SKIN CARE 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563133abbe4cf2a563d67fa3ba0323a1fb02608dda7eff58002b13365505d33b383b9da43e6dd7f943dea091c5589f30116 
+MEMBERSHIP 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563f34a0bd69a185ff54c79ea697547f22fc7c1b3b40d13407e4d4a5ec15f5dacacedf234cf84ebdf18aa57b634109a2a62 
+GIFT CARDS 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5639b3411ebf8073c0f390576b6e24b57ef98d5a30d1f47ae6b221b810ae7722e3d190039d829db4d7a2ab8425c7bfeb5e6 
+LOCATIONS 
+
+What our therapists really care about.
+
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5631f8ef0cc9a9cb2e77afc0536640a2a0852308575794fadafb685259cafde053dea0912eb29a95a716b80bd047fdeb76f 
+
+We Help You Be Your Best
+Continue enjoying the benefits of your Massage Envy membership throughout 2018. Experience some of our targeted wellness services, like our Total Body Stretch, featuring the Streto method. We incorporate a sequence of targeted stretches designed to improve flexibility, increase mobility and boost performance.*
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e56391b48a8551c3464bd3a424d2c3eb80e00b9630a7efe1e9f1026d5fcf438607d28dfc4d29c484cc200701dec61896acbf61287634fa693934 
+REQUEST A SESSION 
+
+ 
+Membership Pro Tip
+Members save over 50% on additional services throughout the month. Unlimited additional massage, skin care or Total Body Stretch sessions are all available.
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5636811298022271b49a07f6a9bdf5209d0158870d0eae67432495b04dd7efba84fcf945f87f9b180d3dddc6f8aae285d43 
+LEARN MORE 
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+
+Home location:
+Nicholasville Road
+116 Marketplace Drive, STE A 
+
+Lexington, KY 40503  
+
+859-899-2300 
+
+http://click.massageenvylocation.com/?qs=f0f6880a03502beedb5e490f7a63ad0e1d3fa7bd2f917ce8ee452e7108202a80458d41c65b1f93ad6cbfd0c076e1b395df6d03ffd1c8d78cefafac9c2b70fe09 
+Request an appointment 
+
+
+
+
+ 
+ 
+
+
+ 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563b5c801b69178fabe9f2f061c8dbcab3be5145f5f3d90d4dc58291c70d87c4059c396342e9eba7d8706943e97ce045dc5 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e56346382563186eee9a8be26ad3ed10f040d461b7c43f59b391d56be6a41eba29c238f4db871fd261a62538e461b398c4c4 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5630a5f891e987b7f9fed8d4c94ddbb415d86f2bd1b832bff3c61ab434dfe463d412124d01ca6036f894bf613fea0ec3680 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563e71de5290dcf1fb1abac39edce1f03b638e6314ac599cae94ea63811214aabd1912ec47c1546134e4144d1034291fa74 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635f5d553e65b290ae299552203a3b5e5172163df46759cd7aaefa822c315e6aad9cc92e09c182ba31bda3e3937d397e34 
+MassageEnvy.com 
+ 
+*All session times include up to a total of 10 minutes for consultation, which occurs both pre and post service. Stretching is generally known to help ease pain and tension and increase mobility. Stretch services are not intended to diagnose, prevent, or treat any medical condition, and you should consult your doctor if you are experiencing continual or severe pain in any area of your body. Rates and services may vary by location and session. Additional local taxes and fees may apply. Not all Massage Envy franchised locations offer all services. For a specific list of services available, check with the specific location or see 
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635f5d553e65b290ae299552203a3b5e5172163df46759cd7aaefa822c315e6aad9cc92e09c182ba31bda3e3937d397e34 
+MassageEnvy.com . Promotional offers are valid at partcipating locations and void where prohibited by state law. Each location is independently owned and operated. Â©2017 Massage Envy Franchising, LLC. 
+
+
+
+ 
+
+This e-mail is being sent to you because according to our records you are a member of Massage Envy or have recently visited a Massage Envy location and made a purchase.
+Want to change how you receive these emails?
+
+
+You can 
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e56379f548f563eda00034bede60e80b17d56e36a5bd233f7b24af8798306611cd1900a5422e57c366804798b1314086fcdbc9a7ea9b68172570 
+update your preferences  or 
+http://click.massageenvylocation.com/unsub_center.aspx?qs=1665f0de9fdd7037389b9f3e9ad1e48d5a2de54d165c09682004b9adeec4252e537897790d81cf2a3e90286294800ec87401849206ca2143b7eeb12eb95eee0c 
+Unsubscribe 
+
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e563df4dbac2c1036c6e6527bea7a84520d89f17ba22eb93e2ce6536a3984840c81fbeb99dd14fc5fe3ae5188e88ebbc02af 
+CAREERS      |      
+http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635f6d01129a0ab05fd9517f7a83e0b130a86295c475eedd507911bc53f8be01da134069a8e1ca73a3ecab6952d6aaa9ba 
+OWN A FRANCHISE 
+(c)2017 Massage Envy Franchising, LLC. All rights reserved.
+
+
+
+--DdwV1MjVZuKs=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<div data-marker="wrapper" style=";null; " class="stylingblock-content-wrapper">
+<img src="http://click.massageenvylocation.com/open.aspx?ffcb10-fef51773766d0c-fe5916737d6d047b7310-fe8f13727c60037c77-ff6615707d-fe5d1572736c077b7611-ff62107975" width="1" height="1"></custom></div>
+
+
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:v="urn:schemas-microsoft-com:vml"  xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>  <o:OfficeDocumentSettings>   <o:Allowjpg/>   <o:PixelsPerInch>96</o:PixelsPerInch>  </o:OfficeDocumentSettings> </xml><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
+<title>Massage Envy</title>
+<style type="text/css">
+/** RESET STYLES **/
+p {
+ margin: 1em 0;
+} /*Yahoo paragraph fix*/
+table td {
+ border-collapse: collapse;
+} /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+img, a img {
+ border: 0;
+ height: auto;
+ outline: none;
+ text-decoration: none;
+} /* Remove the borders that appear when linking images with "border:none" and "outline:none" */
+ @-ms-viewport {
+width: device-width;
+}
+table th {
+ font-weight: normal !important;
+}
+h1, h2, h3, h4, h5, h6 {
+ display: block !important;
+ margin: 0 !important;
+ padding: 0 !important;
+}
+body {
+ height: 100% !important;
+ -webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;
+ margin: 0;
+ padding: 0;
+ width: 100% !important;
+} /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+.linkfix a {
+ color: #ffffff !important;
+ text-decoration: none;
+}
+.Hero_Pad {
+}
+/** CLIENT-SPECIFIC STYLE **/
+img {
+ -ms-interpolation-mode: bicubic;
+} /* Force IE to smoothly render resized images. */
+table {
+ mso-table-lspace: 0pt;
+ mso-table-rspace: 0pt;
+} /* Remove spacing between tables in Outlook 2007 and up. */
+#backgroundTable {
+ margin: 0;
+ padding: 0;
+ width: 100% !important;
+}
+.ReadMsgBody {
+ width: 100%;
+}
+.ExternalClass {
+ width: 100%;
+} /* Force Outlook.com to display emails at full width. */
+p, a, li, td, blockquote {
+ mso-line-height-rule: exactly;
+} /* Force Outlook to render line heights as they're originally set. */
+a[href^="tel"], a[href^="sms"] {
+ color: inherit;
+ cursor: default;
+ text-decoration: none;
+} /* Force mobile devices to inherit declared link styles. */
+p, a, li, td, body, table, blockquote {
+ -ms-text-size-adjust: 100%;
+ -webkit-text-size-adjust: 100%;
+} /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {
+ line-height: 100%;
+} /* Force Outlook.com to display line heights normally. */
+/** STRUCTURAL STYLES **/
+        
+        /** CONTENT STYLES **/
+body {
+ width: 100%;
+ background-color: #ffffff;
+ margin: 0 auto;
+ padding: 0;
+ -webkit-font-smoothing: antialiased;
+ font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+}
+.appleLinks {
+ color: inherit !important;
+ text-decoration: none !important;
+}
+.appleLinks a {
+ color: inherit !important;
+ text-decoration: none !important;
+}
+responsBtnCTA a {
+ background: -moz-linear-gradient(top, #d9cd15 1%, #c3b000 100%); /* FF3.6+ */
+ background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #d9cd15), color-stop(100%, #c3b000)); /* Chrome,Safari4+ */
+ background: -webkit-linear-gradient(top, #d9cd15 1%, #c3b000 100%); /* Chrome10+,Safari5.1+ */
+ background: -ms-linear-gradient(top, #d9cd15 1%, #c3b000 100%); /* IE10+ */
+ background: linear-gradient(to bottom, #d9cd15 1%, #c3b000 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9cd15', endColorstr='#c3b000', GradientType=0 ); /* IE6-9 */
+}
+
+/** MOBILE STYLES **/
+@media only screen and (max-device-width: 480px), screen and (max-width: 480px) {
+/* CLIENT-SPECIFIC STYLES */
+            /* Template Shell */
+body[yahoo] {
+ width: 100% !important;
+ min-width: 100% !important;
+ margin: 0 auto !important;
+} /* Force iOS Mail to render the email at full width & removes margins. */
+/*** STRUCTURAL STYLES ***/
+            
+            /*Template Shell */
+body[yahoo] table .container {
+ width: 100% !important;
+ max-width: 480px !important;
+}
+body[yahoo] table .container1 {
+ width: 96% !important;
+ max-width: 480px !important;
+}
+body[yahoo] table .container2 {
+ width: 94% !important;
+ max-width: 480px !important;
+}
+body[yahoo] table .container3 {
+ width: 80% !important;
+ max-width: 480px !important;
+}
+body[yahoo] table .nopadd {
+ padding: 0px !important;
+}
+body[yahoo] .mobileShow {
+ display: block !important;
+ margin: 0 !important;
+ padding: 0 !important;
+ overflow: visible !important;
+ width: auto !important;
+ max-height: inherit !important;
+}
+body[yahoo] .mobileHide {
+ display: none !important;
+}
+body[yahoo] .image-center {
+ text-align: center !important;
+ display: block !important;
+ margin: 0 auto !important;
+}
+body[yahoo] .text-center {
+ text-align: center !important;
+}
+body[yahoo] .text-left {
+ text-align: left !important;
+}
+body[yahoo] .photo img {
+ width: 100% !important;
+ max-width: 100% !important;
+ height: auto !important;
+}
+body[yahoo] .photo {
+ width: 100% !important;
+ max-width: 100% !important;
+ height: auto !important;
+}
+body[yahoo] .photo6 {
+ width: 96% !important;
+ max-width: 96% !important;
+ height: auto !important;
+ margin: 0 auto !important;
+}
+body[yahoo] .photo3 {
+ width: 80% !important;
+ max-width: 80% !important;
+ height: auto !important;
+ padding-top: 0px !important;
+}
+body[yahoo] .photobg {
+ width: 100% !important;
+ max-width: 100% !important;
+ height: 100% !important;
+}
+body[yahoo] .photo1 img {
+ width: 100% !important;
+ max-width: 100% !important;
+ height: auto !important;
+ padding-top: 10px !important;
+}
+body[yahoo] .photo2 {
+ width: 80% !important;
+ max-width: 80% !important;
+ height: auto !important;
+ padding-top: 10px !important;
+}
+body[yahoo] .photo4 {
+ width: 90% !important;
+ max-width: 90% !important;
+ height: auto !important;
+ padding-top: 10px !important;
+}
+body[yahoo] .resize {
+ width: 100% !important;
+ height: auto !important;
+ vertical-align: bottom !important;
+ background-position: bottom !important;
+ text-align: center !important;
+}
+body[yahoo] .drop {
+ width: 100% !important;
+ max-width: 100% !important;
+ height: auto !important;
+ display: block !important;
+ min-width: 100% !important;
+ margin: 0 auto !important;
+}
+body[yahoo] .drop1 {
+ width: 200px !important;
+ max-width: 200px !important;
+ height: auto !important;
+ display: block !important;
+ margin: 0 auto !important;
+}
+body[yahoo] td .columnStack {
+ width: 100% !important;
+ display: block !important;
+ padding-left: 0px !important;
+ padding-right: 0px !important;
+}
+body[yahoo] .contentCenter {
+ margin: 0 auto !important;
+ padding: 0px !important;
+ width: 100% !important;
+ max-width: 100% !important;
+ min-width: 100% !important;
+ height: auto !important;
+ text-align: center !important;
+}
+body[yahoo] .pt10 {
+ padding-top: 10px !important;
+}
+body[yahoo] .pt20 {
+ padding-top: 20px !important;
+}
+body[yahoo] .pl0 {
+ padding-left: 0px !important;
+}
+body[yahoo] .pr0 {
+ padding-right: 0px !important;
+}
+body[yahoo] .pt0 {
+ padding-top: 0px !important;
+}
+body[yahoo] .pb20 {
+ padding-bottom: 20px !important;
+}
+body[yahoo] .pb30 {
+ padding-bottom: 30px !important;
+}
+body[yahoo] .pl20 {
+ padding-left: 20px !important;
+}
+body[yahoo] .pb10 {
+ padding-bottom: 10px !important;
+}
+body[yahoo] .pb0 {
+ padding-bottom: 0px !important;
+}
+body[yahoo] .pl10 {
+ padding-left: 10px !important;
+}
+body[yahoo] .pl15 {
+ padding-left: 10px !important;
+}
+body[yahoo] .pl10p {
+ padding-left: 5% !important;
+}
+body[yahoo] .pl5p {
+ padding-left: 10% !important;
+}
+body[yahoo] .pl15 {
+ padding-left: 15px !important;
+}
+body[yahoo] .pl25 {
+ padding-left: 25px !important;
+}
+body[yahoo] .pr20 {
+ padding-right: 20px !important;
+}
+body[yahoo] .text-left {
+ text-align: left !important;
+ font-size: 30px !important;
+}
+body[yahoo] .height80 {
+ height: 380px !important;
+}
+body[yahoo] .lh35 {
+ line-height: 37px !important;
+}
+body[yahoo] .left {
+ text-align: left !important;
+}
+body[yahoo] .bottom-border {
+ border-bottom: 1px solid #e3e3e3;
+ width: 80% !important;
+ padding: 0px 0px 20px 0px;
+ max-width: 80% !important;
+}
+body[yahoo] .pr60 {
+ padding-right: 60px !important;
+}
+body[yahoo] .mobilefont {
+ font-size: 24px !important;
+ line-height: 35px !important;
+}
+body[yahoo] .half {
+ width: 50% !important;
+}
+body[yahoo] .Margin-bottom {
+ margin-bottom: 20px !important;
+ z-index: 3 !important;
+ position: relative
+}
+body[yahoo] .nopadd-right {
+ padding-right: 0px !important;
+}
+body[yahoo] .toppadd {
+ padding-top: 10px !important;
+}
+body[yahoo] .toppadd3 {
+ padding-top: 15px !important;
+}
+body[yahoo] .mobpadd {
+ padding-top: 30px !important;
+ padding-bottom: 10px !important;
+}
+*[class=block] {
+ display: block !important;
+}
+*[class=blocktable] {
+ display: block !important;
+ width: 320px !important;
+}
+*[class=divider] {
+ width: 320px !important;
+}
+*[class=font_gray] {
+ color: gray;
+}
+*[class=showmobile] {
+ display: block !important;
+ margin: auto !important;
+ width: 320px !important;
+ height: auto !important;
+ max-height: inherit !important;
+ overflow: visible !important;
+}
+*[class=changeSize] {
+ width: 50px;
+}
+*[class=changeSize2] {
+ width: 15px;
+}
+*[class=changeSize3] {
+ width: 25px;
+}
+*[class=rblock] {
+ margin-top: 0px !important;
+ width: 320px !important;
+}
+*[class=rehide] {
+ display: none;
+}
+/* HAMBURGER STYLES */
+
+*[id]#wrapper + table, *[class].container, *[class].menu {
+ min-width: 0 !important;
+ -moz-text-size-adjust: none;
+ -ms-text-size-adjust: none;
+ -webkit-text-size-adjust: none;
+ width: 100% !important;
+ 
+}
+*[id]#logo {
+ height: 50px;
+ width: 198px;
+}
+*[id]#mobile-label {
+ cursor: pointer;
+ display: block !important;
+ float: right;
+ -webkit-tap-highlight-color: transparent;
+ width: 26px;
+}
+*[id]#mobile-label > b {
+ background-color: #5b5b5b;
+ display: block;
+ height: 4px;
+}
+*[id]#mobile-label > b + b {
+ margin-top: 4px;
+}
+*[class].menu td {
+ padding: 0 !important;
+}
+*[id]#menu-wrapper {
+ background-color: #f3f3f3;
+ max-height: 0;
+ overflow: hidden;
+ -moz-transition: max-height .25s linear;
+ -ms-transition: max-height .25s linear;
+ -o-transition: max-height .25s linear;
+ -webkit-transition: max-height .25s linear;
+ transition: max-height .25s linear;
+}
+*[id]#mobile-checkbox:checked + table #menu-wrapper {
+ max-height: 220px;
+}
+*[class].menu + .menu {
+ border-top: 1px solid #ffffff;
+}
+*[class].menu-item {
+ color: #FFFFFF !important;
+ display: block;
+ padding: 12px;
+ text-align: center;
+}
+*[id]#hero {
+ font-size: 14px !important;
+ height: auto !important;
+ min-height: 50px !important;
+ width: 100% !important;
+}
+td[class].content {
+ padding-left: 10px !important;
+ padding-right: 10px !important;
+}
+td[class].social-media img {
+ height: 40px;
+ width: 40px;
+}
+*[class].mobile-hide {
+ display: none;
+}
+/* Template Specific */
+    
+}
+</style>
+<!--[if gte mso 9]> <style>     /* Target Outlook 2007 and 2010 */               html, body { font-family: Helvetica, Arial, sans-serif !important; }               table { font-family: Helvetica, Arial, sans-serif !important; }               td { font-family: Helvetica, Arial, sans-serif !important; }             a { font-family: Helvetica, Arial, sans-serif !important; }             .mso-font {font-size:18px;}              </style> <![endif]-->
+</head>
+<body style="margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none; min-width:100%;" yahoo="fix"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Continue enjoying the benefits of your Massage Envy Membership...</div>
+<img src="http://click.massageenvylocation.com/open.aspx?ffcb10-fef51773766d0c-fe5916737d6d047b7310-fe8f13727c60037c77-ff6615707d-fe5d1572736c077b7611-ff62107975" width="1" height="1">
+
+
+<div>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center"  >
+    
+    <!-- iphone gmail fix -->
+    <tr>
+      <td><div style="display:none; white-space:nowrap; font:15px courier; line-height:0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div></td>
+    </tr>
+    <!-- close iphone gmail fix -->
+    <tr> 
+      <!--  Main  table start from Here -->
+      
+      <td align="center" valign="top" class="container"  height=""><table align="center" cellpadding="0" cellspacing="0" border="0"  width="100%" class="container"  style="padding-bottom:40px;" >
+          <tr>
+            <td align="center" valign="top" ><table width="600" border="0" cellspacing="0" cellpadding="0" class="container" align="center" >
+                <tbody>
+                  <tr>
+                    <td class="container resize"    valign="top" align="center"  ><table width="600" cellpadding="0" align="center" cellspacing="0" border="0" class="container">
+                        <tr>
+                          <td align="center"  class="pb0">
+                            
+                            
+                            <table width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                                      <td class="conatiner1 " style="background-repeat:no-repeat !important; background-position:top center; background-size:100% 100% !important;" valign="top" height="97" background="https://s27.postimg.org/uzcisrys3/Untitled_14.jpg" align="center"><!--[if gte mso 9]>                     <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="height:97px;width:600px;background-repeat:no-repeat;">                     <v:fill type="frame" src="https://s27.postimg.org/uzcisrys3/Untitled_14.jpg"  />                     <v:textbox inset="0,0,0,0">                     <![endif]-->
+                                        
+                                        <div style="padding-top:15px; padding-bottom:15px;;">
+                                          <table class="mobileHide" width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                              <tr>
+                                <td style="padding-left:30px;" class="pl20" align="left"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563dc6864ed376dacaa2e9c39fd07ea5659d7c3003f24776b08cbaf43146233e2bdb1405543bfe711a603d74073ff899724" target="_blank" ><img src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_ME_Logo.png" style="display:block;" alt="" width="75" height="67" border="0"></a></td>
+                                <td class="mobileHide" style="padding-left:20px; padding-top:25px;" valign="top" align="left"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#756cae; line-height:26px; font-size:12px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563ea1dd6e5aeacc7437de59762e18f7fa666efb5be0f9af5e34194439dad8beb313fa1d60802d098cf25b49e04a45dd316" target="_blank"  style="text-decoration:none; color:#756cae; font-size:12px;">MASSAGE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563c480641775e55f47c595b0b22dd8af27007739a19e9e7758b379469e721b7bbf53c14c4783acaf8eef3b3d98cc6d4179" style="text-decoration:none; color:#756cae; font-size:12px;" target="_blank" >SKIN CARE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563863aa49f1684acc3ef29931836656bb8b3c2585f22c8451496bc30f3b3bf09bace7998a1981954ca13cfe9ea43f8f852" style="text-decoration:none; color:#756cae; font-size:12px;"  target="_blank">&nbsp;MEMBERSHIP
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563b5b6175908f1128deae61204d99580dc4f62e0a1ea6faf0f72fa56b6379c1385935b9679b74d5a1c2c68563279ec9d3c" target="_blank"  style="text-decoration:none; color:#756cae; font-size:12px;">GIFT CARDS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e5634b39f89415fea077d66df7902f8fb4394a5883e2ca862fdc5534e305be758a50aaaaff4ce3d02316adb26fd71093d53f" style="text-decoration:none; color:#756cae; font-size:12px;"  target="_blank">LOCATIONS</a> </font></td>
+                                <!-- hamburger header --> 
+                              </tr>
+                            </table>
+                            
+                            <!--[if !mso]><!--><!-- remember to undo change to this line -->
+                            
+                            <div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="mobileShow">
+                              <table class="mobileShow" style="margin: 0 auto; display: none; border: 0; max-height:0px; overflow:hidden;" cellspacing="0" cellpadding="0" border="0" bgcolor="#f3f3f3" align="center">
+                                <tr>
+                                  <td class="container1" style="background-repeat:no-repeat !important; background-position:top center; background-size:100% 100% !important;" background="https://s27.postimg.org/uzcisrys3/Untitled_14.jpg"><table width="90%" cellspacing="0" cellpadding="0" border="0">
+                                      <tr>
+                                        <td><input id="mobile-checkbox" style="display: none!important; max-height: 0; visibility: hidden;" type="checkbox">
+                                          <table class="container" cellspacing="0" cellpadding="0" border="0" align="center">
+                                            <tr>
+                                              <td><!-- hamburger icon -->
+                                                
+                                                <label for="mobile-checkbox" id="mobile-label" style="display: none;"> <b></b> <b></b> <b></b> </label>
+                                                
+                                                <!-- end hamburger icon --> 
+                                                
+                                                <!-- mobile logo -->
+                                                
+                                                <table cellspacing="0" cellpadding="0" border="0" align="left">
+                                                  
+                                                    <tr>
+                                                      <td class="pl20"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563dc6864ed376dacaa2e9c39fd07ea5659d7c3003f24776b08cbaf43146233e2bdb1405543bfe711a603d74073ff899724" target="_blank" ><img alt="ME- MassageEnvy" src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_ME_Logo.png" width="67" height="75" border="0"></a></td>
+                                                    </tr>
+                                                  
+                                                </table>
+                                                
+                                                <!-- end mobile logo --> 
+                                                
+                                                <!-- hamburger menu items -->
+                                                
+                                                <table class="menu" cellspacing="0" cellpadding="0" border="0" align="right">
+                                                  <tr>
+                                                    <td><div id="menu-wrapper">
+                                                        <table class="menu" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                          <tr>
+                                                            <td height="40" align="center"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:14px;color:#756cae; line-height:26px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563ea1dd6e5aeacc7437de59762e18f7fa666efb5be0f9af5e34194439dad8beb313fa1d60802d098cf25b49e04a45dd316" target="_blank"  style="text-decoration:none; color:#756cae">MASSAGE</a></font></td>
+                                                          </tr>
+                                                        </table>
+                                                        <table class="menu" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                          <tr>
+                                                            <td height="40" align="center"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:14px;color:#756cae; line-height:26px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563c480641775e55f47c595b0b22dd8af27007739a19e9e7758b379469e721b7bbf53c14c4783acaf8eef3b3d98cc6d4179" target="_blank"  style="text-decoration:none; color:#756cae">SKIN CARE</a></font></td>
+                                                          </tr>
+                                                        </table>
+                                                        <table class="menu" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                          <tr>
+                                                            <td height="40" align="center"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:14px;color:#756cae; line-height:26px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563863aa49f1684acc3ef29931836656bb8b3c2585f22c8451496bc30f3b3bf09bace7998a1981954ca13cfe9ea43f8f852" target="_blank"  style="text-decoration:none; color:#756cae">MEMBERSHIP</a></font></td>
+                                                          </tr>
+                                                        </table>
+                                                        <table class="menu" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                          <tr>
+                                                            <td height="40" align="center"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:14px;color:#756cae; line-height:26px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563c2fd21f529d53036b0b90ae281c25412f2b27ac44a28ffee1b9bb8086bfe3250051639d129108b4292af2f59f38b89f8" target="_blank"  style="text-decoration:none; color:#756cae">GIFT CARDS</a></font></td>
+                                                          </tr>
+                                                        </table>
+                                                        <table class="menu" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                          <tr>
+                                                            <td height="40" align="center"><font style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:14px;color:#756cae; line-height:26px;"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e5634b39f89415fea077d66df7902f8fb4394a5883e2ca862fdc5534e305be758a50aaaaff4ce3d02316adb26fd71093d53f" target="_blank"  style="text-decoration:none; color:#756cae">LOCATIONS</a></font></td>
+                                                          </tr>
+                                                        </table>
+                                                      </div></td>
+                                                  </tr>
+                                                </table>
+                                                
+                                                <!-- end hamburger menu items --></td>
+                                            </tr>
+                                          </table>
+                                          
+                                          <!-- end container --></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table>
+                            </div>
+                            
+                            <!--<![endif]--> 
+                                        </div>
+                                        
+                                        <!--[if gte mso 9]>                     </v:textbox>                     </v:rect>                     <![endif]--></td>
+                                    </tr>
+                    </table>
+                            
+                            
+                          </td>
+                        </tr>
+                        
+                        <!-- Hero image starts Here -->
+                        <tr>
+                          <td align="center"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;" class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table class="container" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+                              <tbody><tr>
+                                <td style="padding-top:15px; padding-left:20px; padding-right:20px; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-weight:bold; font-size:20px; line-height:28px; mso-line-height-rule:exactly;" align="center">What our therapists really care about.</td>
+                              </tr>
+                             
+                            </tbody></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;" class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="600" cellspacing="0" cellpadding="0" class="container" border="0" bgcolor="#ffffff" align="center"><tbody><tr><td align="left" style="padding-top: 10px;"><a alt="Diana B. Massage Therapist Testimonial Video" href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56367cc666b8ab6af7315f90ac7a6aed5b9594b99f8818577faae98000415780ec23cbde4110046326dabd2452fac16f1fb" title=""   data-linkto="https://"><img data-assetid="17360" src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/757530bd-3d09-4c88-80fb-88a82b17eb5d.jpg" height="337" width="600" style="display: block; height: auto; width: 100%; text-align: left; padding: 0px;" class="photo" border="0"></a></td></tr></tbody></table></td>
+</tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table class="container" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+                              <tr>
+                                <td style="padding-top:15px; padding-left:20px; padding-right:20px; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-weight:bold; font-size:24px; line-height:28px; mso-line-height-rule:exactly;" align="center">We Help You Be Your Best</td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top:20px; padding-left:20px; padding-right:20px; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size:16px; line-height:18px; mso-line-height-rule:exactly; text-align:justify;" align="left">Continue enjoying the benefits of your Massage Envy membership throughout 2018. Experience some of our targeted wellness services, like our Total Body Stretch, featuring the Streto method. We incorporate a sequence of targeted stretches designed to improve flexibility, increase mobility and boost performance.*</td>
+                              </tr>
+   
+                              <tr>
+                                <td style="padding-left:20px; padding-top:20px; padding-bottom:40px;" valign="top" align="left"><table cellspacing="0" cellpadding="0" border="0" align="center">
+                                    <tr>
+                                      <td class="container" style=" " valign="middile" align="center"><table class="container" width="260" cellspacing="0" cellpadding="0" border="0" bgcolor="#726caf" align="center">
+                                          <tr>
+                                            <td style="font-size:16px; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff;  background: #726caf;  font-weight:700; padding-left:20px; padding-right:20px; " valign="middle" height="44" bgcolor="#726caf" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56336922310681fbad7f186bcddc650d812d822ec14df5ca9733d0c8cbe51a73101ce4706ac1a9282db8210546764f5d724b2453bfe5407ba05" target="_blank"  style="text-decoration:none; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff;">REQUEST A SESSION</a></td>
+                                          </tr>
+                                        </table></td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                            </table></td></tr></table> </td>
+                        </tr>
+                           <tr>
+                          <td align="center"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;" class="stylingblock-content-wrapper"><tr><td style="padding: 10px;" class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td><table cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td class="responsive-td" valign="top" style="width: 50%; padding-right: 3px; padding-bottom: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;" class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table style="max-width:300px;" class="container2 pl20 pr20" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                     
+                                      <tbody><tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size: 20px;line-height: 28px;    padding-bottom:15px; font-weight:bold;" valign="top" align="left">Membership Pro Tip</td>
+                                      </tr>
+                                      <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size: 15px;line-height: 22px;  padding-bottom:15px; font-weight:500;" valign="top" align="left">Members save over 50% on additional services throughout the month. Unlimited additional massage, skin care or Total Body Stretch sessions are all available.</td>
+                                      </tr>
+                                      <tr>
+                                        <td class="container1" style=" ; padding-bottom:20px;" valign="middile" align="center"><table class="container" width="160" cellspacing="0" cellpadding="0" border="0" bgcolor="#50a3b6" align="left">
+                                            <tbody><tr>
+                                                        <td align="center" style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:15px; text-align:center;" valign="middle"><p style="text-align:center; padding-top:0px; padding-bottom:0px; padding-left:0px; padding-right:0px;"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e5636811298022271b49a07f6a9bdf5209d0158870d0eae67432495b04dd7efba84fcf945f87f9b180d3dddc6f8aae285d43" target="_blank" style="font-size:16px; color:#ffffff; text-decoration:none; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; background-color:#50a3b6; border-top:5px solid #50a3b6; border-bottom:5px solid #50a3b6; border-right:20px solid #50a3b6; border-left:20px solid #50a3b6; display:inline-block; text-transform:none; font-weight:700; font-family:Arial, Helvetica, sans-serif; mso-line-height-rule:exactly;">LEARN MORE
+</a></p></td>
+                                                    </tr>
+                                          </tbody></table></td>
+                                      </tr>
+                                      <!--[if (gte mso 9)|(IE)]>                            <tr>                            <td  height="20" style="line-height:0px; mso-line-height-rule:exactly;font-size: 0px;"><img src="http://image.S7.exacttarget.com/lib/fe9813727660017c74/m/1/Spacer1.gif" width="1" height="20" alt="" style="font-size: 0px; display:block; line-height:0px; mso-line-height-rule:exactly;" border="0"/></td>                            </tr>                                                         <![endif]-->
+                                    </tbody></table></td></tr></table></td><td class="responsive-td" valign="top" style="width: 50%; padding-bottom: 3px; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;" class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" class="container2" border="0" align="center" style="max-width: 240px;"><tbody><tr><td align="center" valign="top" style="padding-top: 20px; padding-bottom: 20px;"><img data-assetid="4803" src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/e194a492-b2c7-4a5f-b2d9-0e49e8720284.jpg" height="176" width="340" style="display: block; height: auto; width: 100%; text-align: center; padding: 0px;"></td></tr></tbody></table></td></tr></table></td></tr></tbody></table></td></tr><tr><td>
+<table cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td class="responsive-td" valign="top" style="width: 100%; padding-top: 3px;"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+                          <table border="0" cellpadding="0" cellspacing="0" align="center" class="container" width="600" bgcolor="#756daf">
+                           
+                            
+                              <tr>
+                                <td align="left" valign="top" style="" class="pl0"><table width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;" class="container">
+                              <tr>
+                                <td align="center" valign="top" width="100%" style="font-size:0px !important; padding-top:15px;"><!--[if (gte mso 9)|(IE)]> <table width="560" align="center" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center" valign="top" width="560" style="font-size:0px;"> <![endif]-->
+                            
+                            <table width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;" class="container">
+                             <tr>
+         
+         <td align="center" valign="top">
+                                <table width="560" align="center" cellpadding="0" cellspacing="0" border="0" class="container">
+                              <tr>
+                                <td align="center" valign="top" style="font-size:0px !important;"><!-- Here Setting font-size:0px; is necessary to ensure that there is no extra space between the centering divs that wraps each of the column --> 
+                                  <!--[if (gte mso 9)|(IE)]> <table width="560" align="center" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center" valign="top" width="250"  style="font-size:0px; min-width:250px;"> <![endif]-->
+                                  
+                                   <div style="display:inline-block; max-width:250px;; vertical-align:top; width:100%" class="container">
+                                 
+ 
+
+                                  </div>
+                                  
+                                  <!--[if (gte mso 9)|(IE)]> </td></tr></td><table>        <![endif]--></td>
+                              </tr>
+         
+         </table>
+         </td>
+         </tr>
+         <tr>
+         
+         <td align="center" valign="top">
+                                <table width="250" align="center" cellpadding="0" cellspacing="0" border="0" class="container"><tr>
+                                 <td align="center" valign="top" style="font-size:0px !important;"><!-- Here Setting font-size:0px; is necessary to ensure that there is no extra space between the centering divs that wraps each of the column --> 
+                                  <!--[if (gte mso 9)|(IE)]> <table width="250" align="center" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center" valign="top" width="250"  style="font-size:0px; min-width:250px;"> <![endif]-->
+                                  
+                                  <div style="display:inline-block; max-width:250px;; vertical-align:top; width:100%" class="container">
+                                    
+
+
+<table style="max-width:250px;" class="container2" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                      <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 14px;line-height: 20px; padding-bottom:10px; font-style:italic;" valign="top" align="left">Home location:</td>
+                                      </tr>
+                                       <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#b8c2c7; font-size: 14px;line-height: 20px;  padding-bottom:5px; padding-left:25px; font-weight:bold;" valign="top" align="left">Nicholasville Road</td>
+                                      </tr>
+                                     <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 12px;line-height: 20px; padding-bottom:5px; padding-left:25px;" valign="top" align="left"><a href="#" target="_blank" style="text-decoration:none; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 14px;">116 Marketplace Drive, STE A</a></td>
+                                      </tr>
+  <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 12px;line-height: 20px; padding-right:5px; padding-bottom:5px; padding-left:25px;" valign="top" align="left"><a href="#" target="_blank" style="text-decoration:none; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 14px;">Lexington, KY&nbsp;40503 </a></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 12px;line-height: 20px;  padding-bottom:15px; padding-left:25px;" valign="top" align="left"><a href="#" target="_blank" style="text-decoration:none; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff; font-size: 14px;">859-899-2300</a></td>
+                                      </tr>
+                                      <tr>
+                                        <td class="container1" style="padding-left:25px; padding-right:20px; padding-bottom:20px;" valign="middile" align="center"><table class="container" width="170" cellspacing="0" cellpadding="0" border="0" bgcolor="#50a3b6" align="left">
+                                            <tr>
+                                              <td style="font-size:12px; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#ffffff;  background: #50a3b6; font-weight:700;  font-style:italic; padding-top:5px; padding-bottom:5px; padding-left:10px; padding-right:10px; font-size:12px; " class="mso-font" valign="middle" height="30" bgcolor="" align="center"><a href="http://click.massageenvylocation.com/?qs=f0f6880a03502bee36feaa0a67231617a8e013415ac1115e7f6434401d92b27694ac18f05f3c315949cca836f071f5d14446cda63f6fb1fc70bfbd89559b3985" target="_blank"  style="text-decoration:none; font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; font-size:12px;" class="mso-font">Request an appointment</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table>
+
+
+                                  </div>
+ <div style="display:inline-block; max-width:250px;; vertical-align:top; width:100%" class="container">
+                                    
+
+
+                                  </div>                                   
+                                 
+                                  <!--[if (gte mso 9)|(IE)]> </td></tr><table>        <![endif]--></td>
+                              </tr>
+                              </table>
+                              </td>
+                              </tr>
+                            </table></td>
+                              </tr>
+                            </table></td>
+                              </tr>
+                            </table>
+                        
+                          
+                          <table class="container" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+                              <tr>
+                                <td style="padding-top:30px;" align="center">
+                                <table width="215" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tr>
+                                <td valign="top" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563105297d7dc29c8d096319fb4acd023fc56f93d5a4011d782aac91f919df358a6764e8611bbf332ff79e0e614a4f2f7db" target="_blank" ><img src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_Template_Facebook.jpg" alt="F" title="Facebook" style="display:block; font-size:0px; line-height:0px; mso-line-height-rule:exactly;" width="33" height="33" border="0"></a></td>
+                                <td style="padding-left:10px; padding-right:10px;" valign="top" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56332cdd02ec8c45bf0875b8c08083d40781c55c5ba421e1175ed44b0f9b4ef251ecf2955d83bcb97c2ab3b3eb48a53216c" target="_blank" ><img src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_Template_Twitter.jpg" alt="T" title="Twitter" style="display:block; font-size:0px; line-height:0px; mso-line-height-rule:exactly;" width="40" height="33" border="0"></a></td>
+                                <td style="padding-right:10px;" valign="top" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563716ac1f203ebeb483e8e6c8d7d099f9eceb0eea13fbd080e10c55f17f29e0ddbe117f68917347905fa094201909be4b6" target="_blank" ><img src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_Template_Instagram.jpg" alt="I" title="Instagram" style="display:block; font-size:0px; line-height:0px; mso-line-height-rule:exactly;" width="34" height="33" border="0"></a></td>
+                                <td style="padding-top:3px;" valign="top" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e5635b6419adfadaac3a3ffdd4dd22bd299b9126c8fc08566cf3b61a18c25b9292469b053df29a5beff1150604a878edfc01" target="_blank" ><img src="http://image.massageenvylocation.com/lib/fe8f13727c60037c77/m/1/20161212_Template_Youtube.png" alt="Y" title="Youtube" style="display:block; font-size:0px; line-height:0px; mso-line-height-rule:exactly;" width="40" height="28" border="0"></a></td>
+                                </tr>
+                                </table>
+                                
+                                
+                                </td>
+                              </tr>
+                              <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#726caf; font-size: 18px;line-height: 18px; padding-top:20px;  padding-bottom:15px; font-weight:500; padding-left:20px; padding-right:20px; text-align:center;" valign="top" align="center"><a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56389da966b752c2ee7d67f2eb2ea45a1e613c629277f8e1209c4b71cb0365847b09e52e9eda4320add5add091b2f8fb62a" style="color:#726caf; text-decoration:none;"  target="_blank">MassageEnvy.com</a></td>
+                                      </tr>
+                              <tr>
+                                <td align="center">
+                                <table class="container1" width="560" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tr>
+                                <td style="border-top:1px solid #707881;" align="center">&nbsp;</td>
+                                </tr>
+  <tr>
+                                        
+<td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size: 12px;line-height: 18px;  padding-bottom:15px; font-weight:500; padding-left:20px; padding-right:20px; text-align:center;" valign="top" align="center">*All session times include up to a total of 10 minutes for consultation, which occurs both pre and post service. Stretching is generally known to help ease pain and tension and increase mobility. Stretch services are not intended to diagnose, prevent, or treat any medical condition, and you should consult your doctor if you are experiencing continual or severe pain in any area of your body. Rates and services may vary by location and session. Additional local taxes and fees may apply. Not all Massage Envy franchised locations offer all
+ services. For a specific list of services available, check with the specific location or see <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56389da966b752c2ee7d67f2eb2ea45a1e613c629277f8e1209c4b71cb0365847b09e52e9eda4320add5add091b2f8fb62a" style="text-decoration:underline; color:#69717a;"  target="_blank">MassageEnvy.com</a>. Promotional offers are valid at partcipating locations and void where prohibited by state law. Each location is independently owned and operated. Â©2017 Massage Envy Franchising, LLC. </td>
+                                      </tr></table></td></tr></table></td></tr></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></table> </td>
+                        </tr>
+                        <!-- Hero image Ends Here --> 
+                        
+                        <!-- content and image starts Here -->
+                        
+                        <tr>
+                          <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" align="center" class="container" width="600" bgcolor="#ffffff">
+                           
+                            
+                              <tr>
+                                <td    align="center" valign="top" class="pl0"><table width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;" class="container">
+                              <tr>
+                                <td align="center" valign="top" style="font-size:0px !important;"><!-- Here Setting font-size:0px; is necessary to ensure that there is no extra space between the centering divs that wraps each of the column --> 
+                                  <!--[if (gte mso 9)|(IE)]> <table width="560" align="center" cellpadding="0" cellspacing="0" border="0"> <tr> <td align="center" valign="top" width="300"  style="font-size:0px; "> <![endif]-->
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                               </td>
+                              </tr>
+                            </table></td>
+                              </tr>
+                            </table></td>
+                        </tr>
+                        <!-- content and image starts Here -->
+                        
+                        <!-- image content Ends Here -->
+                        
+                        
+                        <!-- 2 content rows starts Here -->
+                        
+                                      <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size: 12px;line-height: 18px;  padding-bottom:15px; font-weight:500; padding-left:20px; padding-right:20px; text-align:center;" valign="top" align="center">This e-mail is being sent to you because according to our records you are a member of Massage Envy or have recently visited a Massage Envy location and made a purchase.<br>Want to change how you receive these emails?<br>
+
+You can <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56317c204968a5ae666c954b169b0979b9a42e53367ec2873a56c2da08a254abda2687f9615ec88722f8f2f179f265822253fdbe67e1b302b3f" style="text-decoration:underline; color:#69717a; " target="_blank" >update your preferences</a> or <a href="http://click.massageenvylocation.com/unsub_center.aspx?qs=1665f0de9fdd7037389b9f3e9ad1e48d5a2de54d165c09682004b9adeec4252e537897790d81cf2a3e90286294800ec86926486646b561e9922408d621a03b8a" style="text-decoration:underline; color:#69717a; " target="_blank" >Unsubscribe</a></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#726caf; font-size: 12px;line-height: 18px;   font-weight:700; padding-left:20px; padding-right:20px; text-align:center; padding-top:10px;" valign="top" align="center"> <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e563a2f44401431e68d7c73cae50b1b24dda8238a4f1f4252e53195595fffa487503d05fd81fbf90837f12d91f24931d4c15" style="text-decoration:none; color:#726caf; " target="_blank" >CAREERS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://click.massageenvylocation.com/?qs=4c9bc381ba47e56324b213ddc88bde2a273e92865726a21052f249181075b748ee156535d01a3d598b60200ab4da37a9ad72027b844948ed" style="text-decoration:none; color:#726caf; " target="_blank" >OWN A FRANCHISE</a></td>
+                                      </tr>
+                                       <tr>
+                                        <td style="font-family:'Lato', sans-serif, Arial, Helvetica, sans-serif; color:#69717a; font-size: 12px;line-height: 18px;  padding-bottom:30px; font-weight:500; padding-left:20px; padding-right:20px; text-align:center;  " valign="top" align="center">&copy;2017 Massage Envy Franchising, LLC. All rights reserved.</td>
+                                      </tr>
+                                </table>
+                                <img src="http://click.massageenvylocation.com/open.aspx?ffcb10-fef51773766d0c-fe5916737d6d047b7310-fe8f13727c60037c77-ff6615707d-fe5d1572736c077b7611-ff62107975" width="1" height="1">
+                                
+                                </custom></td>
+                              </tr>
+                              
+                            </table>
+
+
+                          
+                          </td>
+                        </tr>
+                        <!-- Footer Content Ends Here -->
+                      </table></td>
+                  </tr>
+                
+              </tbody></table>
+          
+        </td></tr>
+    </table>
+  </td>
+</tr></table></div>
+
+
+</body>
+</html>
+
+
+--DdwV1MjVZuKs=_?:--
+

@@ -1,0 +1,544 @@
+Return-Path: bounce-30_HTML-46467384-91283-7305077-10235@bounce.e2.bathandbodyworks.com
+Received: from mx05.aqua.bos.sync.lan (LHLO mx.windstream.net) (10.80.44.45)
+ by md13.aqua.sync.lan with LMTP; Wed, 13 Nov 2019 08:17:04 -0500 (EST)
+Return-Path: <bounce-30_HTML-46467384-91283-7305077-10235@bounce.e2.bathandbodyworks.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.3 cv=Y7eGTSWN c=1 sm=1 tr=0 b=1 cx=a_idp_d a=3TC/Nz5C7mAZKOpJwd6SOg==:117 a=3TC/Nz5C7mAZKOpJwd6SOg==:17 a=KGjhK52YXX0A:10 a=6giede-wJD4A:10 a=MeAgGD-zjQ4A:10 a=5KLPUuaC_9wA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=kmjXe5KKAAAA:8 a=GLzbkxhHQzEvw3VhLfYA:9 a=7Zwj6sZBwVKJAoWSPKxL6X1jA+E=:19 a=inW4aqtQqcIcdYlK:21 a=ed8KZsWTgO5E_65-:21 a=QEXdDO2ut3YA:10 a=FcBAwsJafHgA:10 a=CSsy-gcmgvYA:10 a=LqTcRrtqAAAA:8 a=JcT1meiOAAAA:8 a=0rCVaXwTAAAA:8 a=gz062Y8jAAAA:8 a=3pMFd0IrHs5W7C-MCJ8A:9 a=5AzdR9pLJQHeP04z:21 a=1BOSxlgt-k2t_sWw:21 a=voJ3TT45PBzmNAT2:21 a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10 a=rGKkwXTS4hQA:10 a=SEMe2U3v9-kA:10 a=7aYL-4TTq0xSm1xRxPOv:22 a=aXZFRrYUVg2Calwm0iK-:22 a=SRD58Kjar-FrDRMrJIRk:22 a=egvnuEWKGsLuh1eCjnpO:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Received-HELO: from [136.147.180.94] (helo=mta7.e2.bathandbodyworks.com)
+Received: from [136.147.180.94] ([136.147.180.94:58229] helo=mta7.e2.bathandbodyworks.com)
+	by mx.windstream.net (envelope-from <bounce-30_HTML-46467384-91283-7305077-10235@bounce.e2.bathandbodyworks.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DHE-RSA-AES256-GCM-SHA384) 
+	id 9F/53-31916-0520CCD5; Wed, 13 Nov 2019 08:17:04 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=e2.bathandbodyworks.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ Message-ID:Content-Type; i=bathandbodyworks@e2.bathandbodyworks.com;
+ bh=AYsSCjCAYm6O3zA01GJOOKTfrTqhtTZX/NM22DS7MwA=;
+ b=jvaaKbMGryCCmCZH4R7JUuYVfiIUiXPzlsan6dq1zWSwt4htZFBaWVwmvOs2EAGuWpNPL2EJG08y
+   IMwBjfZIn9rpEQDHvxwaE3jPZJ0Y3krTsDcw6AjUyXqMQEP5wTgb92pbPYl3w8jqWlg3OYhMQBCd
+   D2JvotC/5sOBmrjmxWg=
+Received: by mta7.e2.bathandbodyworks.com id hpg1502fmd4e for <KATIELEE529@WINDSTREAM.NET>; Wed, 13 Nov 2019 12:46:59 +0000 (envelope-from <bounce-30_HTML-46467384-91283-7305077-10235@bounce.e2.bathandbodyworks.com>)
+From: "Bath & Body Works" <bathandbodyworks@e2.bathandbodyworks.com>
+To: <KATIELEE529@WINDSTREAM.NET>
+Subject: =?UTF-8?B?YWxsbGxsIHRoZSBzY2VudHMgb24g8J+OhSdzIGxpc3QgKCsgJDEw?=
+ =?UTF-8?B?IG9mZiEp?=
+Date: Wed, 13 Nov 2019 06:46:59 -0600
+List-Unsubscribe: <mailto:leave-fd8817701a3c402029-fe5510767162037e7d10-fef81d71776c07-fe9213737561047a72-ff041570776701@leave.e2.bathandbodyworks.com>
+MIME-Version: 1.0
+Reply-To: "Bath & Body Works" <reply-fef81d71776c07-30_HTML-46467384-7305077-10235@e2.bathandbodyworks.com>
+List-ID: <7303808.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7305077_91283
+Message-ID: <22b41822-4eb2-4130-ab80-9459e4c3fc99@xtgap4s7mta4402.xt.local>
+Content-Type: multipart/alternative;
+	boundary="499beOzJctuZ=_?:"
+
+This is a multi-part message in MIME format.
+
+--499beOzJctuZ=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To ensure delivery of Bath & Body Works emails to 
+your inbox (not bulk or junk folders), please add 
+bathandbodyworks@e.bathandbodyworks.com to your address book.
+
+If you would like to view this email with images, please click the link below.
+https://view.e2.bathandbodyworks.com/?qs=a87ca4566355757464953d8b1c264c65f69491f5daa6c93edb5bc847d87fccae82e3698324795f7460e179b874328972e7aca5b2705852184bf4adc57c0fd226731439cc26eead45fc30ea9f58d9854f
+
+Check out what's new at Bath & Body Works. Shop our exclusive
+selection of the world's best beauty brands and get access to 
+special promotions.
+
+>>Visit BathandBodyWorks.com
+https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6123e7702231bbdb240ad35ca78881f1986d34f014c7bbd4cef2d669f1fb8a3e60b49a1f9790f9ac281540eca570ba724
+
+For more information, call 1-800-756-5005 or visit our contact us
+page. Please do not reply to this message. 
+
+Click the link below to visit our contact us page.
+https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6970ff6ba3fb097b001427d67ad91d5fe27d584d42a60932ff3aa0652f23ada72fa9489fa94816239a6e09370f4d63cb3
+
+
+If you no longer wish to receive product offers and other marketing emails from BathandBodyWorks.com, or to update your frequency, please click the link below.
+https://pages.e2.bathandbodyworks.com/page.aspx?qs=38dfbe491fab00eab9e112942c6fd43ee1fadabb9d47e55a706d5130c9c0e8b6cf7b7f5e6280165009fe2ffc6e7653cbadb47615d66374b931676dedae905ddd6f36f3a831aa8e2867aaba439505622c05cc6359f91251beba58776a9b97e79b94c6e9a18639be6cfb5afe3b239e96715ca0c817e93cf3b360dd1fc29e08be34791942167a5e13264ab04d17afd42f043d164f781ece54fc1b7275bfb9bcddf6a41e36d18d9827ea765673569f5e322d909290e28adc567730b40e16fb314e980d0a48fcebcf149c58e81a765c216606d90ae61acb91c2020400fe8400a94584ce1dc22a643fab58db258ace1db18a60b053cc7f2d9ff5ba0292fda5923da8f1e5233d9d598b2e236d20d6ffcab057699a918ee22f0a60fcfa71ddcb0f8617fe7a83d5b5c57c028e47135c915da14326490c2245fedf111e12a4e34a6b3bde365586ee0f0a3611f758cf7da577ea4beae31548bc3e3bb2aef47345d76bdb1e89c684606d767aab33f75cd4fdda66c53997b2a4560a96909edae5849b89d31ef9ca03bd21af7faebf13819a1bd4b2a9e437721485612a75b8efcca5d9ac8e2eee343ee3eac7c31ed3ce5c9f0f8108579d77648541f486dd1ed7b4075ae9fbab2ae6f015fad29dc905b0ce2cacc2f38222d
+a261a8bfb9f19c26904d64a91d6ef66d7267c8c0d308d370dd67c73efda8e3935a3eea60faa4fd41c5f5a9b980c116f0cfb51c10079415c31f917186aa252bc800f561f9d2aed0c1f97e33cbda3169f2f2c21ddaaf2b75d6bcc743e4191ec084f69a45810a57ca3bad53b43ccb662b2577c64e6aaa48deb
+
+
+BATH & BODY WORKS, 95 WEST MAIN STREET, NEW ALBANY, OHIO 43054 USA 
+
+(c) 2019 Bath & Body Works. All rights reserved.
+
+--499beOzJctuZ=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en"> 
+ <head>
+  <title>Bath & Body Works</title>
+  <style type="text/css">
+  .ReadMsgBody { width: 100%;}
+  .ExternalClass {width: 100%;}
+  .applelinks a {color:inherit; text-decoration:none;}
+  a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;}
+  </style>  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ </head>
+
+ <!-- `date "+ET%m.%y"` -->
+ <body style="-webkit-text-size-adjust: none; margin: 0px; padding: 0px;">
+  <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!--Lookup to Loyalty Status DE-->
+  
+
+<!--Set variables to support dynamic template attributes-->
+ 
+</td></tr></table>
+  <img src="https://click.e2.bathandbodyworks.com/open.aspx?ffcb10-fef81d71776c07-fe501077766d007b7c11-fe9213737561047a72-ff9c1770-fe5510767162037e7d10-ff041570776701" width="1" height="1">
+  <!-- Begin Media Math Tag -->
+   <img src='https://pixel.mathtag.com/event/img?mt_id=1128733&mt_adid=181143&v1=&v2=&v3=&s1=&s2=&s3=' width='1' height='1' />
+  <!-- End Media Math Tag -->
+  <!-- Begin DBM Tag -->
+   <img src="https://ad.doubleclick.net/ddm/activity/src=8386650;type=email0;cat=email0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=1?" width="1" height="1" alt=""/>
+  <!-- End DBM Tag -->
+  <!-- Begin MovableInk Tag -->
+   <table width="1" height="1" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+     <td style="font-size:0px; line-height:0px;">
+      <img src="http://mi.bathandbodyworks.com/p/up/cad629243875edb1/o.gif?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="1" height="1" />
+     </td>
+    </tr>
+   </table>
+  <!-- End MovableInk Tag -->
+  <!-- Begin table used to center email -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tr>
+    <td bgcolor="#ffffff" align="center">
+     <!-- Begin table used to set width of email -->
+     <table border="0" cellpadding="0" cellspacing="0" width="600">
+      <tr>
+       <td width="600" align="left" valign="top" style="padding: 10px 0px 10px 0px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+         <!-- Begin Preheader and Header -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+ 
+ <!--Hides APT and View in Web Browser link when viewing in browser-->
+ 
+  <!--Adds daily APT set via ampscript. Adds preset APT for emails flagged NTF-->
+  
+   <tr>
+    <td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #1c3f94; padding: 0px 0px 0px 0px;" width="600" valign="top" align="center">
+     <a href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c2da7c8318bcef3bc7775edb62f39114955837b4b7fd5d9eb01c301eed4324d6e82b72df15bf0055ea9983d31de764d0b0fa8521237d281866"   target="_blank" style="text-decoration: none; color: #1c3f94;"><b>stock-up on holiday essentials + take $10 off $30! ð</b></a>
+     
+    </td>
+   </tr>
+   
+  <!--View in Web Browser link-->
+  <tr>
+   <td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #666666; padding: 10px 0px 10px 0px;" width="600" valign="middle" align="center">
+    View in <a href="https://view.e2.bathandbodyworks.com/?qs=a87ca4566355757464953d8b1c264c65f69491f5daa6c93edb5bc847d87fccae82e3698324795f7460e179b874328972e7aca5b270585218187f38b72f57c408954cc8de12ee77aacbb73a0643e86557"  target="_blank" style="text-decoration: underline; color: #666666;">Web Browser</a>
+   </td>
+  </tr>    
+  
+ 
+ 
+ <!--Logos - Bath & Body Works or My Bath & Body Works-->
+    <tr>
+  <td>
+     
+   <a href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c27b5bcf3462a0bb856d4a1cdd5e3e7139ea26ac1fc142c86ff4b1509db6f75367f160ca22ac2d2e57ec7a4c96bfba9aab" style="display: block" >
+    <img alt="Bath &amp; Body Works" src="http://mi.bathandbodyworks.com/p/rp/d3b11bbb6f414078.png?mi_u=%%EMAIL_ID%%&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;" width="600" border="0">
+   </a>
+  </td>
+    </tr>
+ <!--End Logos-->
+ 
+</table>
+
+<!--New to file black box header-->
+
+<!--End new to file content-->
+
+<!--New to file black box header-->
+
+ 
+    
+   <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c2ff29d91754c6aaf3b409039ce6ac3a8a5a4be7ee26def02869c595331a2717e77fcc398398995786f80aa946ef29027f732f7b138f8a286c" style="display: block"><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/5e682e70b60074b2.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3&mi_name=&AMT_TO_GO=&LOYL_ID=&VARIABLE1=&VARIABLE2=&VARIABLE3=&Points_Expiration=&Points_Balance=&Outstanding_Birthday_Reward=&Outstanding_Welcome_Offer=&Outstanding_Reward="></a>
+  
+ 
+
+<!--End new to file content-->
+
+</td></tr></table>
+         <!-- End Preheader and Header -->
+        </table>
+        <!-- Begin Email Body -->
+        <main role="main">
+        <!-- Begin Main Content -->
+         <!-- PASTE TABLE ROWS BELOW -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+ <!-- PASTE TABLE ROWS BELOW -->
+ <tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c23e7200269adcd76b83e3e278ee99c5a90236f42a7b2b1c0ff66ca68bccbeffea17ad14222ff4fe88f9042a618b054467" style="display: block"><img alt="Seasons giftings Limited time only in stores &amp; online $10 off $30 use code SOCHIllY shop" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/69327b2458e4e1ca.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#005699" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c25079d0bbb8381eb059a52d51bb270efab18849765038e1599d9b7a8c28b3a3bf8fbba6597ec5ffc5e4cc2f1e3c0e9314" style="display: block">
+   <img alt="Display images to show real-time content" border="0" src="http://mi.bathandbodyworks.com/p/rp/a91c7865b65abb56.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3&Variable3=" style="border: 0; display: block;">
+     </a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#005699" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c212088f88f15ea5fd737226a97d5a2d54131b2edd8f7535e557576f49ac82bfb8ba90b9a8a05d2880397379f35ac6da8c" style="display: block"><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/6344eebe7b97b94b.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>   
+</tr>
+<tr>
+   <td align="left" bgcolor="#005699" valign="top" width="600">
+    <table bgcolor="#005699" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+   <tr>
+    <td align="center" valign="top" width="20">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c2bd910e76ddb06295fbbfdaf2911484ee3ced09a073c91b300bf35076a835df2bd50a9f566eef7907ddb73e5a01af8b65" style="display: block"><img alt=" " style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/cdfb7f7ce0f13671.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+  </td>
+  <td align="center" valign="top" width="150">
+          <img alt="To redeem in stores: Scan the barcode" border="0" height="65" src="http://cl.S7.exct.net/LiveContent.aspx?qs=07e908127e6cfafeb7e369869369bfd516be7ed23ccb414f111366eacb880b5e55c20729fc36275f357ae9a080dc2807310d1c6cef729ca6e1f807216f117e97dfb7345cb2d817f72d32306b2113090603bf8edd84e6bae1ac79bc67e904f2c5d40d5f485f221c35" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;" width="150">
+  </td>
+  <td align="center" valign="top" width="430">
+         <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c2d191aa0dbb4f5c46a140b9a1fdf90c267ef44143fc93e20f908ac68e4715f6c8ef572669bb7fd91a64fe563fd1c72301" style="display: block"><img alt="show on phone or print email &amp; show at register. in stores: 448361000 Online: SOCHILLY" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/972ef40450a978f2.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+  </td></tr>
+    </table>
+
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#005699" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c2caa1528c7a77bdfc6c081943a8e2021ac5126371335c3a0718523edd9fd211c6719e753212df624274bf952763587cca" style="display: block"><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/6e9ebec73a9fe4ea.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+     
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=78e6d4b1e0e019c20ba8a2f73fbf8b9290ccc3cff9957af8b9c009d00c5f2ef2dbc108a7c145586bd598acb5ff3431e5457e2d76c51fecf9" style="display: block"><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/5dc3fd76d7d7572a.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a656a6e7c42a7bc5464160d04749759a0693ad2a3e5b9cfca6e288ee6877d233c3ac041119e0bbb127337499adc4096b5c" style="display: block"><img alt="for the creature of comfort new woodland candles " style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/415bc61d2b90f85a.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a60b75ab167bdb6f1e8922c790c1a34193af7f642d9387551e1c97baa82f4eccf7f5b1e605c6f1068796c692c598503a0d" style="display: block"><img alt="Limited time only!" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/a73470cc64c35cb3.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a660c53669a4dc3f12eab9507d1e862ad82fe0cdd5e1643717ba2b651554ec22aff2046d740baad0cd03ced5d738eecfde" style="display: block"><img alt="$10 off 3-wick candles shop" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/785997c57d412821.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6d99d0d7c34f2c3a55a4e3195cb7839093acbb2311ce926e252e582c9879be47120df38af4ab9874b6bbef8ffcb4df6bd" style="display: block"><img alt="What Christmas smells like" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/d7fb5740ec6c7ea1.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6d058eac3e02d23a035e3a05d6020943463e88b7624596401ba94f0b342dc96ee6a109432a3ea525f6b593b815e6b4cc4" style="display: block"><img alt="Limited time only!" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/bde3230723d00bda.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<tr>
+   <td align="center" bgcolor="#ffffff" style="font-size:0%;" valign="top" width="600">
+     <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a60ef92c09ce9db8e3136714b8de6d33f99caebee96f85f55b331faddc46b04966ff28c46b4eed152103da526578ef1dfd" style="display: block"><img alt="Buy 3 get 3 free select body care lowest priced items are free " style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/5127c48ef189dc17.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a>
+ </td>
+</tr>
+<!-- END PASTE TABLE ROWS --></table></td></tr></table>
+         <!-- END PASTE TABLE ROWS -->
+        <!-- End Main Content -->
+        </main>
+        <!-- End Email Body -->
+        <!-- Begin Nav Links -->
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+         <tr>
+          <td width="600" align="left" valign="top">
+           <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+ <tr>
+  <td width="600" align="left" valign="top">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td width="600" align="center" valign="top" style="font-size:0%;">
+      <!--Store Grand Opening Banner-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a653191700b7d92032b78c5ee4b3607a49e19e9eeb4be579844331c37cb8dc35e9f66c7e15ff406f028a9315f1e4281104" style="display: block">
+       <img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/8a5d92a1143d4af4.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+    </tr>  
+   </table>
+        </td>
+    </tr>                  
+    <tr>
+        <td width="600" align="left" valign="top">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <!--White Space-->
+     <td width="600" align="center" valign="top" style="font-size:0%;">
+      <img src="http://mi.bathandbodyworks.com/p/rp/29ae1ac111deb3ae.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" alt="" width="600" height="20" border="0" style="display: block;">
+     </td>
+    </tr>  
+            </table>
+        </td>
+    </tr>
+    <tr>
+  <td width="600" align="left" valign="top">
+   <!--Theme Visual Navigation-->
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td width="200" align="center" valign="top">
+      <!--Body Care-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6e6b52ffe67e2286c77642885d4e9608621375b3a19346ed5964215df6237d393ecb8652a3dc529c1a2cb670dfd528714" style="display: block">
+       <img alt="Body Care" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/d098bac4365652a9.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+     <td width="200" align="center" valign="top">
+      <!--Candles-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a677c1bbd5c19e6c09b09ceec46e6d3b8a94d41733c0a45d197ddffec44626ef656ba7354aa62607db3f6f68e7616c55b5" style="display: block">
+       <img alt="Candles" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/2b64cc848c206426.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+     <td width="200" align="center" valign="top">
+      <!--Wallflowers-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6576b995980a14a1ae9eecf0f3bab5c12a1f0d03d8bd49e3d72f0202bee928cdadf1791b320c16a2c663c1a4e15e62761" style="display: block">
+       <img alt="Wallflowers" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/a0d8619866c39377.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+    </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="600" align="left" valign="top">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <td width="200" align="center" valign="top">
+      <!--Hand Soaps-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a60f57048d367b5e77cc378bc4fae7ff5e7bbf4dc6e235f8ef88cd650c80078676bd092c225a1a5936d154a49b9515ed18" style="display: block">
+       <img alt="Hand Soaps" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/5b3ded95d436074c.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+     <td width="200" align="center" valign="top">
+      <!--Today's Deals-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6c21eaa2366eda8f57779522cacd831cdf2033892527082b0f017a05b264d516f3299d9dc7124ed3b3ca572615e680e5f" style="display: block">
+       <img alt="Top Offers" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/b946f0bd7aba210c.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+     <td width="200" align="center" valign="top">
+      <!--New Arrivals-->
+      <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a616429fd186eb49ced73d3abaef772cd517bf99afb1d834f28386945a8ecff9ee600fd533b9b1436acd808c500007ec1a" style="display: block">
+       <img alt="New Arrivals" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/f3b12eb0f72770e5.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+      </a>
+     </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+  <td width="600" align="left" valign="top">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+     <!--White Space-->
+     <td width="600" align="center" valign="top" style="font-size:0%;">
+      <img src="http://mi.bathandbodyworks.com/p/rp/29ae1ac111deb3ae.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" alt="" width="600" height="20" border="0" style="display: block;">
+     </td>
+    </tr>   
+    <tr>
+     <!--Loyalty Localytics Push Notification Banner-->
+     <td width="200" align="center" valign="top">
+      <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a64b2d8a90d2feaeeb8f0a6b05630bd11077b8b9ad78206d2234e3815e464a0034855b30bca2fd624f7de803fedb7c6251d5a92d8bbbce8f96"  style="display: block">
+       <img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/dc1115417ea554e2.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3&Variable3=&Variable4=&mi_loyalty_id=">
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <!--White Space-->
+     <td width="600" align="center" valign="top" style="font-size:0%;">
+      <img src="http://mi.bathandbodyworks.com/p/rp/29ae1ac111deb3ae.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" alt="" width="600" height="20" border="0" style="display: block;">
+     </td>
+    </tr>   
+   </table>
+  </td>
+ </tr>
+</table> </td></tr></table>
+          </td>
+         </tr>
+        </table>
+        <!-- End Nav Links -->
+        
+        <footer role="contentinfo"> 
+         <!-- Begin Footer Navigation and Social -->
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+          <tr>
+           <td width="600" align="left" valign="top">
+            <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><footer role="contentinfo">
+ <table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+  <tr>
+   <td width="150" align="center" valign="top">
+    <!--Facebook-->
+    <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a605009727986f55c017c52895abb2c123698a149abefc7d2e71bd63a121cf355fba38888b5866aaa34c17ab8dc15df02f"  target="_blank" style="text-decoration: none;">
+     <img alt="FACEBOOK" src="http://mi.bathandbodyworks.com/p/rp/718968efe0e25b0f.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="150" height="107" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+    </a>
+   </td>
+   <td width="150" align="center" valign="top">
+    <!--Twitter-->
+    <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a60f21edbe7b8b5187bed67f9c5a08be0858a3d1724aaef6b2bf5db200aa539f9e60267eeb37370e48df950fde1c130daf"  target="_blank" style="text-decoration: none;">
+     <img alt="TWITTER" src="http://mi.bathandbodyworks.com/p/rp/381dff028f3789a9.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="150" height="107" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+    </a>
+   </td>
+   <td width="150" align="center" valign="top">
+    <!--Pinterest-->
+    <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a63f92c4445ee1bb0f5155b93c429071b00b45399cec12b774ea833a3fd9064cf4405290a49e2d4c9ff34a41f6a55b7884"  target="_blank" style="text-decoration: none;">
+     <img alt="PINTEREST" src="http://mi.bathandbodyworks.com/p/rp/d402c57f22d2a3a8.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="150" height="107" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+    </a>
+   </td>
+   <td width="150" align="center" valign="top">
+    <!--Instagram-->
+    <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a6cbc89f83f4048c799a7ad24be43d3eefa4d65553ec523744d4909440c9d667625583be0bbf1ae2377646b512efea199b"  target="_blank" style="text-decoration: none;">
+     <img alt="INSTAGRAM" src="http://mi.bathandbodyworks.com/p/rp/f7f12519c88d9550.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="150" height="107" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+    </a>
+   </td>
+  </tr>
+ </table>
+ <table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+  <tr>
+   <td width="600" align="center" valign="top">
+    <!--Return Guarantee-->
+    <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a63bd41014a986f6fff032b8b5d6c97a2be2a1fd27275db87edc7aa0b7e17d9e304ac0c8d3696d84754324891d1447fee0" style="display: block">
+     <img alt="We just want you to love it! Return anything, anytime for any reason 100% Guaranteed! " style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/2cf32d27bbe24453.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+    </a>
+   </td>
+  </tr>
+        <tr>
+   <td width="600" align="center" valign="top">
+    <!--Find a Store-->
+    <a  href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a642a23347b70a7dedf2529150597899349345941e71d34be785bbd1294389c307fd4549368b841d1d70682a4e2f9c7dd1" style="display: block">
+     <img alt="Find A Store" style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/f9293483bcec2280.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3">
+    </a>
+   </td>
+  </tr>   
+ </table>
+ <table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+   <tr>
+    <td width="208" align="left" valign="top">
+     <!--Privacy Policy-->
+     <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a646a0074c544480a43bae9e69e1ad862b57864c82803f2d5d07ecf99f39b0f24b563d0d01749e5205935ddf6b41194e35"  target="_blank" style="text-decoration: none;">
+      <img alt="PRIVACY POLICY" src="http://mi.bathandbodyworks.com/p/rp/dd17a3b9d69f78c2.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="208" height="73" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+     </a>
+    </td>
+    <td width="174" align="left" valign="top">
+     <!--Unsubscribe-->
+     <a href="https://pages.e2.bathandbodyworks.com/page.aspx?qs=c76003443ff9837d95b92fcc4f13de4ea21ea5dd087f4056647d917f487a36414895c0e6d3f7e7212bffb59e584bf4ee0268459187debc862e3ef76b98f7f143d3ff336ae4531dee49df8cacd45c0e0826c1a88874cfe68ee91a2702dd8ad4b3d336a9f6a9c0f5eb2cbb583706632a05f81830ddad01f69d17763a8f574462562cc648724cb948b491ede202015865c3442508cdef1120415d80253fb82df620bd7204c3fae745c47373412a1ea2d9f3872283248386aa44fa0628d1a111cade80d987dca9a138d19e55449914be06895f6eac9b5766906972271d189c27849792b5df3fe1c000c679ab37cccc093be9a8bd303bbba4cbea9ffa4d7ed37f8e21bbe05b3324fb8dd4520a78c1885e9adab08128b7ac37a81e080d739e1d7c7744dbae468ef6a081999aa5421873081cf4960b1aa65ce6ccddf32126f0e3a932534b09f7760774502cf4e9257c4e3010a3e1700b7c4db632eb"  target="_blank" style="text-decoration: none;">
+      <img alt="UNSUBSCRIBE" src="http://mi.bathandbodyworks.com/p/rp/0e9e75661ce9b026.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="174" height="73" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+     </a>
+    </td>
+    
+    <td width="218" align="left" valign="top">
+     <!--Customer Care-->
+     <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a65787b9e052d6c0dadb483c8cccd06611d7dacfaa5955da0009abacace6a88479d992da8e49f029d0dc256189c4d9ef65"  target="_blank" style="text-decoration: none;">
+      <img alt="CUSTOMER CARE" src="http://mi.bathandbodyworks.com/p/rp/ba66724ed06ece41.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="218" height="73" border="0" style="display: block; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000001;">
+     </a>
+    </td>
+   </tr>
+  </table>  
+  
+ 
+ <table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+  <tr>
+   <td width="600" align="center" valign="top">
+    <img alt="" src="http://mi.bathandbodyworks.com/p/rp/502631de4e3766db.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="600" height="53" border="0" style="display: block;">
+   </td>
+  </tr>
+ </table>
+ </footer></td></tr></table>
+           </td>
+          </tr>
+         </table>
+         <!-- End Footer Navigation and Social -->
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+          <tr>
+           <td width="600" height="20" style="background-color: #ffffff;"></td>
+          </tr>
+         </table>
+         <!-- Begin Footer Disclaimer -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+ 
+  <tr>
+   <td align="center" style="font-size:0%;" valign="top" width="600">
+    <!--START Loyalty Status Banner DISCLAIMER--><img alt="Display images to show real-time content" border="0" src="http://mi.bathandbodyworks.com/p/rp/b90372c8dbe72379.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3&mi_name=&AMT_TO_GO=&LOYL_ID=&VARIABLE1=&VARIABLE2=&VARIABLE3=" style="border: 0; display: block;"> <!--END Loyalty Status DISCLAIMER--><!--START DISCLAIMER--><a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a65a12db527689c49cc91e6aabc8e6a1ee89d897fc633ac1b34672493696f86b65cf3131b75b7aeb6a5fdbffbcbca3be0a" style="display: block">
+<img alt=" *In Stores &amp; Online - $10 Off any purchase of $30 or more on November 10, 2019 at 6:00 AM ET to November 15, 2019 at 5:59 AM ET.  Stores: Valid at U.S. Bath &amp; Body Works stores.&nbsp; Print this email or provide on device at time of purchase. Offer cannot be combined with other coupons.   Online:&nbsp;Add at least $30 of merchandise to cart and enter promotion code&nbsp;SOCHILLY&nbsp;during checkout. Offer cannot be combined with any other code-based offers.&nbsp;  Both: $30 qualifying purchase amount is calculated after all other promotions are applied.&nbsp;Sales tax, shipping and handling, gift cards, and previous purchases do not qualify toward $30 qualifying purchase amount. This offer is not redeemable for cash or gift cards, nor is it valid toward previous
+ purchases. Offer subject to adjustment due to returns, cancellations and exchanges. Refer to the return policy for more information. No rain checks issued. Void if altered, copied, transferred, auctioned or sold. Other restrictions may apply. Offer subject to change without notice.  *In Stores &amp; Online â Free Wallflowers Fragrance Refill with purchase of Select $10 Wallflowers Fragrance Plug on November 13, 2019 at 6:00 AM ET to November 14, 2019 at 5:59 AM ET. While supplies last. Stores: No coupon required. Offer valid for the Icy Swan Nightlight or Sparkly Snowman Nightlight.  Online: Add the Icy Swan Nightlight or Sparkly Snowman Nightlight to your shopping bag. Then add any Wallflowers Fragrance Refill to bag, and the Wallflowers Fragrance Refill price will be adjusted. Shipping
+ and handling applies to orders, including the free item.  Both: This offer is not redeemable for cash or gift cards, nor is it valid toward previous purchases. Offer subject to adjustment due to returns, cancellations and exchanges. Refer to the return policy for more information. No rain checks issued. Void if altered, copied, transferred, auctioned or sold. Other restrictions may apply. Offer subject to change without notice. Selection may vary by store and online.  Offers valid at participating U.S. Bath &amp; Body Works stores and BathandBodyWorks.com through the dates below:  $10 Off 3-Wick Candles on November 3, 2019 at 6:00 AM ET to November 28, 2019 at 5:59 AM ET. Buy 3, Get 3 Free Select Body Care on November 12, 2019 at 6:00 AM ET to November 16, 2019 at 5:59 AM ET. Free items
+ are the 3 lowest priced items in each set of 6." style="border: 0; display: block;" border="0" src="http://mi.bathandbodyworks.com/p/rp/da9905d537656b83.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3"></a><!--END DISCLAIMER--></td></tr></table></td></tr></table>
+         <!-- End Footer Disclaimer -->
+         <!-- Begin Standard Footer Disclaimer -->
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+          <tr>
+           <td width="600" align="left" valign="top">
+            <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+ <tr>
+  <td width="12" align="center" valign="top" style="font-size:0%;">
+   <img alt="" src="http://mi.bathandbodyworks.com/p/rp/8aba454452fa4926.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="12" height="1" border="0" style="display: block;">
+  </td>
+  <td width="568" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #666666;" class="applelinks">
+   Product offers, valid dates and participating stores subject to change without notice.
+   <br><br>
+   Stores and Online: Selection may vary by store and online. While supplies last, no substitutions and no rain checks issued. Not valid toward previous purchases. Other restrictions may apply.
+   <br><br>
+   For more information visit <a href="https://click.e2.bathandbodyworks.com/?qs=b19181f511b537a612ee87ed5c977be1bc026d48cc0b0e8ad477f618a0bb3b9b5a613f57069cfd490ea4bb698c92bfd20473732db26448ddd9cbabf106832ac5"   target="_blank" style="text-decoration: underline; color: #666666; font-weight: bold;">Customer Care</a>. Please do not reply to this email, as it is sent from an address that cannot accept incoming email.  
+   <br><br> 
+    If you no longer wish to receive product offers and other marketing emails from BathandBodyWorks.com, or to update your frequency, please 
+     <a href="https://pages.e2.bathandbodyworks.com/page.aspx?qs=c76003443ff9837d95b92fcc4f13de4ea21ea5dd087f4056647d917f487a36414895c0e6d3f7e7212bffb59e584bf4ee0268459187debc862e3ef76b98f7f143d3ff336ae4531dee3dec2185a5c821edabe9d4b4e487073d18f8c975ea87491b3fb6cc9dbe40839ff6692a3b347066c144da29a45a13215c66cb67fcfa36f7cfd2914e63f99b4f145e7d50840a04e7e80cff1238e933a135f5af549dce27880b05f4a5e5e38b189449417db71ef62c7072e78e8918e6b8cabb181f0a072294d78da245a2e790b3e3ce02959b48c71a4da65288d2209ba6b6f312176a79d204c952e00a631429d740153c242b411b56f7eca03cd8b98a1da36d70b201889ca30c2ae552150cac16bb83eeecf3cd4424dfac54f66acbbbbc1debb789fb4133b4942728665aad4f7a0dfb9f7f0d300f39cf01b20f4fe359aed64f94d850a600574064cd4daf0473e2c4cce9287fea1ca3cfac3d1ab89fb31803"  target="_blank" style="text-decoration: underline; color: #666666; font-weight: bold;">click here</a>.
+     
+    
+   <br><br>
+   BATH & BODY WORKS, 95 WEST MAIN STREET, NEW ALBANY, OHIO 43054 USA
+   <br><br>
+   <span style="font-size: 10px; line-height: 12px;">
+    &copy; 2019 Bath & Body Works. All Rights Reserved.
+   </span>
+  </td>
+  <td width="20" align="left" valign="top" style="font-size:0%;">
+   <img alt="" src="http://mi.bathandbodyworks.com/p/rp/8aba454452fa4926.png?mi_u=200030739400&mi_ecmp=111319_RDM_RD_10OFF30_NONCDLAFF__NS_V3" width="20" height="1" border="0" style="display: block;">
+  </td>
+ </tr>
+</table></td></tr></table>
+           </td>
+          </tr>
+         </table>
+         <!-- End Standard Footer Disclaimer -->
+        </footer>
+       </td>
+      </tr>
+     </table>
+     <!-- End table used to set width of email -->
+    </td>
+   </tr>
+  </table>
+  <!-- End table used to center email -->
+  <!-- Begin DataXu Tag -->
+   <img src="https://tags.w55c.net/rs?id=51f66d06bbb4499a9a5ac5e3f102fba5&t=marketing" />
+  <!-- End DataXu Tag -->
+ </body>
+</html>
+
+--499beOzJctuZ=_?:--
+
