@@ -41,6 +41,8 @@
             this.extract_froms = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.isp = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.search2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -82,9 +84,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(9, 103);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(54, 15);
+            this.label5.Size = new System.Drawing.Size(63, 15);
             this.label5.TabIndex = 9;
-            this.label5.Text = "SEARCH:";
+            this.label5.Text = "SEARCH 1:";
             // 
             // search
             // 
@@ -95,7 +97,7 @@
             // 
             // user_pass
             // 
-            this.user_pass.Location = new System.Drawing.Point(86, 156);
+            this.user_pass.Location = new System.Drawing.Point(86, 185);
             this.user_pass.Multiline = true;
             this.user_pass.Name = "user_pass";
             this.user_pass.Size = new System.Drawing.Size(275, 231);
@@ -104,7 +106,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(9, 159);
+            this.label3.Location = new System.Drawing.Point(9, 188);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 15);
             this.label3.TabIndex = 11;
@@ -112,7 +114,7 @@
             // 
             // extract
             // 
-            this.extract.Location = new System.Drawing.Point(86, 393);
+            this.extract.Location = new System.Drawing.Point(86, 422);
             this.extract.Name = "extract";
             this.extract.Size = new System.Drawing.Size(275, 23);
             this.extract.TabIndex = 12;
@@ -123,7 +125,7 @@
             // from
             // 
             this.from.AutoSize = true;
-            this.from.Location = new System.Drawing.Point(86, 129);
+            this.from.Location = new System.Drawing.Point(86, 160);
             this.from.Name = "from";
             this.from.Size = new System.Drawing.Size(109, 19);
             this.from.TabIndex = 13;
@@ -132,7 +134,7 @@
             // 
             // extract_froms
             // 
-            this.extract_froms.Location = new System.Drawing.Point(86, 422);
+            this.extract_froms.Location = new System.Drawing.Point(86, 451);
             this.extract_froms.Name = "extract_froms";
             this.extract_froms.Size = new System.Drawing.Size(275, 23);
             this.extract_froms.TabIndex = 14;
@@ -182,11 +184,29 @@
             this.isp.TabIndex = 18;
             this.isp.SelectedValueChanged += new System.EventHandler(this.Isp_SelectedValueChanged);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(9, 134);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(63, 15);
+            this.label4.TabIndex = 20;
+            this.label4.Text = "SEARCH 2:";
+            // 
+            // search2
+            // 
+            this.search2.Location = new System.Drawing.Point(86, 131);
+            this.search2.Name = "search2";
+            this.search2.Size = new System.Drawing.Size(275, 23);
+            this.search2.TabIndex = 19;
+            // 
             // EXTRACTOR
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(375, 457);
+            this.ClientSize = new System.Drawing.Size(375, 484);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.search2);
             this.Controls.Add(this.isp);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.extract_froms);
@@ -224,5 +244,7 @@
         private Button extract_froms;
         private Label label6;
         private ComboBox isp;
+        private Label label4;
+        private TextBox search2;
     }
 }

@@ -73,6 +73,7 @@ namespace imap_extractor
                     MessageBox.Show("ENTER SEARCH TERM", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
+                string seach_connection2 = search2.Text;
                 bool multi_from = from.Checked;
                 var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
                 if (users.Length < 1)
@@ -105,6 +106,11 @@ namespace imap_extractor
                             var email = message.ToString();
                             if (email.ToLower().Contains(search_connection.ToLower()))
                             {
+                                if(!string.IsNullOrEmpty(seach_connection2))
+                                {
+                                    if (!email.ToLower().Contains(seach_connection2.ToLower())) continue;
+                                }
+                                
                                 if (unique.Contains(name) && !multi_from) continue;
 
                                 unique.Add(name);
@@ -165,6 +171,7 @@ namespace imap_extractor
                     MessageBox.Show("ENTER SEARCH TERM", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
+                string seach_connection2 = search2.Text;
                 bool multi_from = from.Checked;
                 var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
                 if (users.Length < 1)
@@ -199,6 +206,11 @@ namespace imap_extractor
                             var email = message.ToString();
                             if (email.ToLower().Contains(search_connection.ToLower()))
                             {
+                                if (!string.IsNullOrEmpty(seach_connection2))
+                                {
+                                    if (!email.ToLower().Contains(seach_connection2.ToLower())) continue;
+                                }
+
                                 if (addresses.Contains(address) && !multi_from) continue;
                                 addresses.Add(address);
                                 Interlocked.Increment(ref found);
