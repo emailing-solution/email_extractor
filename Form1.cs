@@ -272,5 +272,106 @@ namespace imap_extractor
 
             imap.Text = isps.GetValueOrDefault(isp.Text, "NA");
         }
+
+        private void extract_listid_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string dir = "./" + DateTime.Now.ToString("dd_MM_yyyy_HH_mm");
+
+                extract_listid.Enabled = false;
+                extract_listid.Text = "SEARCHING ...";
+
+                string imap_connection = imap.Text;
+                if (string.IsNullOrEmpty(imap_connection))
+                {
+                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                int port_connection = int.Parse(port.Text);
+                if (port_connection == 0)
+                {
+                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                string search_connection = search.Text;              
+                string seach_connection2 = search2.Text;
+                bool multi_from = from.Checked;
+                var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
+                if (users.Length < 1)
+                {
+                    MessageBox.Show("ENTER AT LEAST 1 USER AND PASS", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                int found = 0;
+                Parallel.ForEach(users, user =>
+                {
+                    try
+                    {
+                        var addresses = new List<string>();
+                        var listIds = new List<string>();
+
+
+                        using var client = new ImapClient();
+                        client.Connect(imap_connection, port_connection, true);
+                        client.Authenticate(user[0], user[1]);
+
+                        // The Inbox folder is always available on all IMAP servers...
+                        var inbox = client.Inbox;
+                        inbox.Open(FolderAccess.ReadOnly);
+                        Debug.WriteLine("Total messages: {0} in {1}", inbox.Count, user[0]);
+
+                        for (int i = 0; i < inbox.Count; i++)
+                        {
+                            var message = inbox.GetMessage(i);
+
+                            var listId = message.Headers[MimeKit.HeaderId.ListId];
+                            if (string.IsNullOrEmpty(listId)) continue;
+
+                            var address = ExtractEmail(message.From.ToString()).ToLower();
+
+                            if(!string.IsNullOrEmpty(search_connection))
+                            {
+                                var email = message.ToString();
+                                if (!email.ToLower().Contains(search_connection.ToLower()))
+                                {
+                                    continue;                                   
+                                }
+
+                                if (!string.IsNullOrEmpty(seach_connection2))
+                                {
+                                    if (!email.ToLower().Contains(seach_connection2.ToLower())) continue;
+                                }
+                            }
+
+
+                            listId = listId.Replace("<", "").Replace(">", "");
+                            listIds.Add(listId);
+                            Interlocked.Increment(ref found);
+
+                        }
+
+                        string file = user[0].Split("@")[0] + "_LISTIDS_" + Guid.NewGuid().ToString("N") + ".txt";
+                        Task asyncTask = WriteFileAsync(dir, file, string.Join(Environment.NewLine, listIds.ToArray()));
+
+                        client.Disconnect(true);
+                    }
+                    catch (Exception ex)
+                    {
+                        Debug.WriteLine(ex.ToString());
+                    }
+
+                });
+
+                MessageBox.Show($"FOUND {found} LIST ID", "ENDED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            finally
+            {
+
+                extract_listid.Enabled = true;
+                extract_listid.Text = "EXTRACT LIST IDS";
+            }
+        }
     }
 }

@@ -43,6 +43,7 @@
             this.isp = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.search2 = new System.Windows.Forms.TextBox();
+            this.extract_listid = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -200,11 +201,22 @@
             this.search2.Size = new System.Drawing.Size(275, 23);
             this.search2.TabIndex = 19;
             // 
+            // extract_listid
+            // 
+            this.extract_listid.Location = new System.Drawing.Point(88, 480);
+            this.extract_listid.Name = "extract_listid";
+            this.extract_listid.Size = new System.Drawing.Size(275, 23);
+            this.extract_listid.TabIndex = 21;
+            this.extract_listid.Text = "EXTRACT LIST ID";
+            this.extract_listid.UseVisualStyleBackColor = true;
+            this.extract_listid.Click += new System.EventHandler(this.extract_listid_Click);
+            // 
             // EXTRACTOR
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(375, 484);
+            this.ClientSize = new System.Drawing.Size(375, 514);
+            this.Controls.Add(this.extract_listid);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.search2);
             this.Controls.Add(this.isp);
@@ -246,5 +258,6 @@
         private ComboBox isp;
         private Label label4;
         private TextBox search2;
+        private Button extract_listid;
     }
 }
