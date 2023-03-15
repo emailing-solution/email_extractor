@@ -309,7 +309,6 @@ namespace imap_extractor
                 {
                     try
                     {
-                        var addresses = new List<string>();
                         var listIds = new List<string>();
 
 
@@ -328,8 +327,6 @@ namespace imap_extractor
 
                             var listId = message.Headers[MimeKit.HeaderId.ListId];
                             if (string.IsNullOrEmpty(listId)) continue;
-
-                            var address = ExtractEmail(message.From.ToString()).ToLower();
 
                             if(!string.IsNullOrEmpty(search_connection))
                             {
@@ -371,6 +368,204 @@ namespace imap_extractor
 
                 extract_listid.Enabled = true;
                 extract_listid.Text = "EXTRACT LIST IDS";
+            }
+        }
+
+        private void extract_links_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string dir = "./" + DateTime.Now.ToString("dd_MM_yyyy_HH_mm");
+
+                extract_links.Enabled = false;
+                extract_links.Text = "SEARCHING ...";
+
+                string imap_connection = imap.Text;
+                if (string.IsNullOrEmpty(imap_connection))
+                {
+                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                int port_connection = int.Parse(port.Text);
+                if (port_connection == 0)
+                {
+                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                string search_connection = search.Text;
+                string seach_connection2 = search2.Text;
+                bool multi_from = from.Checked;
+                var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
+                if (users.Length < 1)
+                {
+                    MessageBox.Show("ENTER AT LEAST 1 USER AND PASS", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                int found = 0;
+                Parallel.ForEach(users, user =>
+                {
+                    try
+                    {
+                        var links = new List<string>();
+
+                        using var client = new ImapClient();
+                        client.Connect(imap_connection, port_connection, true);
+                        client.Authenticate(user[0], user[1]);
+
+                        // The Inbox folder is always available on all IMAP servers...
+                        var inbox = client.Inbox;
+                        inbox.Open(FolderAccess.ReadOnly);
+                        Debug.WriteLine("Total messages: {0} in {1}", inbox.Count, user[0]);
+
+                        for (int i = 0; i < inbox.Count; i++)
+                        {
+                            var message = inbox.GetMessage(i);
+                            var email = message.ToString();
+                            var body = message.Body.ToString();
+
+                            if (!string.IsNullOrEmpty(search_connection))
+                            {
+                                
+                                if (!email.ToLower().Contains(search_connection.ToLower()))
+                                {
+                                    continue;
+                                }
+
+                                if (!string.IsNullOrEmpty(seach_connection2))
+                                {
+                                    if (!email.ToLower().Contains(seach_connection2.ToLower())) continue;
+                                }
+                            }
+
+                            MatchCollection collection = Regex.Matches(body, @"(https?:\/\/?[^\s.]+\.[\w][^\s]+)", RegexOptions.Multiline);
+                            foreach (Match link in collection)
+                            {
+
+                                if (!links.Contains(link.Value))
+                                {
+                                    Debug.WriteLine("NEW LINK: {0}", link.Value);
+                                    links.Add(link.Value);
+                                    Interlocked.Increment(ref found);
+                                }
+                            }                          
+                        }
+
+                        string file = user[0].Split("@")[0] + "_LINKS_" + Guid.NewGuid().ToString("N") + ".txt";
+                        Task asyncTask = WriteFileAsync(dir, file, string.Join(Environment.NewLine, links.ToArray()));
+
+                        client.Disconnect(true);
+                    }
+                    catch (Exception ex)
+                    {
+                        Debug.WriteLine(ex.ToString());
+                    }
+
+                });
+
+                MessageBox.Show($"FOUND {found} LINKS", "ENDED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            finally
+            {
+
+                extract_links.Enabled = true;
+                extract_links.Text = "EXTRACT LINKS";
+            }
+        }
+
+        private void extract_message_id_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string dir = "./" + DateTime.Now.ToString("dd_MM_yyyy_HH_mm");
+
+                extract_message_id.Enabled = false;
+                extract_message_id.Text = "SEARCHING ...";
+
+                string imap_connection = imap.Text;
+                if (string.IsNullOrEmpty(imap_connection))
+                {
+                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                int port_connection = int.Parse(port.Text);
+                if (port_connection == 0)
+                {
+                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                string search_connection = search.Text;
+                string seach_connection2 = search2.Text;
+                bool multi_from = from.Checked;
+                var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
+                if (users.Length < 1)
+                {
+                    MessageBox.Show("ENTER AT LEAST 1 USER AND PASS", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                int found = 0;
+                Parallel.ForEach(users, user =>
+                {
+                    try
+                    {
+                        var messageIds = new List<string>();
+
+
+                        using var client = new ImapClient();
+                        client.Connect(imap_connection, port_connection, true);
+                        client.Authenticate(user[0], user[1]);
+
+                        // The Inbox folder is always available on all IMAP servers...
+                        var inbox = client.Inbox;
+                        inbox.Open(FolderAccess.ReadOnly);
+                        Debug.WriteLine("Total messages: {0} in {1}", inbox.Count, user[0]);
+
+                        for (int i = 0; i < inbox.Count; i++)
+                        {
+                            var message = inbox.GetMessage(i);
+
+                            var messageId = message?.MessageId.ToString();
+                            if (string.IsNullOrEmpty(messageId)) continue;
+
+                            if (!string.IsNullOrEmpty(search_connection))
+                            {
+                                var email = message.ToString();
+                                if (!email.ToLower().Contains(search_connection.ToLower()))
+                                {
+                                    continue;
+                                }
+
+                                if (!string.IsNullOrEmpty(seach_connection2))
+                                {
+                                    if (!email.ToLower().Contains(seach_connection2.ToLower())) continue;
+                                }
+                            }
+
+                            messageIds.Add(messageId);
+                            Interlocked.Increment(ref found);
+
+                        }
+
+                        string file = user[0].Split("@")[0] + "_MESSAGEIDS_" + Guid.NewGuid().ToString("N") + ".txt";
+                        Task asyncTask = WriteFileAsync(dir, file, string.Join(Environment.NewLine, messageIds.ToArray()));
+
+                        client.Disconnect(true);
+                    }
+                    catch (Exception ex)
+                    {
+                        Debug.WriteLine(ex.ToString());
+                    }
+
+                });
+
+                MessageBox.Show($"FOUND {found} MESSAGE IDS", "ENDED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            finally
+            {
+
+                extract_message_id.Enabled = true;
+                extract_message_id.Text = "EXTRACT MESSAGE IDS";
             }
         }
     }

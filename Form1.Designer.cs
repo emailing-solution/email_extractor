@@ -44,6 +44,8 @@
             this.label4 = new System.Windows.Forms.Label();
             this.search2 = new System.Windows.Forms.TextBox();
             this.extract_listid = new System.Windows.Forms.Button();
+            this.extract_links = new System.Windows.Forms.Button();
+            this.extract_message_id = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -203,7 +205,7 @@
             // 
             // extract_listid
             // 
-            this.extract_listid.Location = new System.Drawing.Point(88, 480);
+            this.extract_listid.Location = new System.Drawing.Point(87, 509);
             this.extract_listid.Name = "extract_listid";
             this.extract_listid.Size = new System.Drawing.Size(275, 23);
             this.extract_listid.TabIndex = 21;
@@ -211,11 +213,33 @@
             this.extract_listid.UseVisualStyleBackColor = true;
             this.extract_listid.Click += new System.EventHandler(this.extract_listid_Click);
             // 
+            // extract_links
+            // 
+            this.extract_links.Location = new System.Drawing.Point(86, 538);
+            this.extract_links.Name = "extract_links";
+            this.extract_links.Size = new System.Drawing.Size(275, 23);
+            this.extract_links.TabIndex = 22;
+            this.extract_links.Text = "EXTRACT LINKS";
+            this.extract_links.UseVisualStyleBackColor = true;
+            this.extract_links.Click += new System.EventHandler(this.extract_links_Click);
+            // 
+            // extract_message_id
+            // 
+            this.extract_message_id.Location = new System.Drawing.Point(86, 480);
+            this.extract_message_id.Name = "extract_message_id";
+            this.extract_message_id.Size = new System.Drawing.Size(275, 23);
+            this.extract_message_id.TabIndex = 23;
+            this.extract_message_id.Text = "EXTRACT MESSAGE ID";
+            this.extract_message_id.UseVisualStyleBackColor = true;
+            this.extract_message_id.Click += new System.EventHandler(this.extract_message_id_Click);
+            // 
             // EXTRACTOR
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(375, 514);
+            this.ClientSize = new System.Drawing.Size(375, 569);
+            this.Controls.Add(this.extract_message_id);
+            this.Controls.Add(this.extract_links);
             this.Controls.Add(this.extract_listid);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.search2);
@@ -259,5 +283,7 @@
         private Label label4;
         private TextBox search2;
         private Button extract_listid;
+        private Button extract_links;
+        private Button extract_message_id;
     }
 }
