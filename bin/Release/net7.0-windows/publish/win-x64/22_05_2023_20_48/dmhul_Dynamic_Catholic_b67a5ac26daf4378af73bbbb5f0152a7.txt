@@ -1,0 +1,313 @@
+Return-Path: <bounce-2396_HTML-422005162-309040-534001212-1030@bounce.email.dynamiccatholic.com>
+Received: from cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net
+          ([10.223.1.133]) by cmx-alt-fep003.mx.internal with ESMTP
+          id <20221109090202.ZFND23310.cmx-alt-fep003.mx.internal@cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net>
+          for <dmhul@suddenlink.net>; Wed, 9 Nov 2022 09:02:02 +0000
+X-RG-VS-CS: commercial-misc
+X-RG-VS-SC: 17
+X-RG-VS: Clean
+X-RG-Rigid: 636A80D200555409
+X-RG-Orig-IP: 13.110.228.57
+Received-SPF: none (cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net:
+ domain mta.email.dynamiccatholic.com does not designate permitted sender
+ hosts) identity=helo; receiver=cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net;
+ client-ip=13.110.228.57; helo=mta.email.dynamiccatholic.com;
+Received-SPF: pass (cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net:
+ domain bounce.email.dynamiccatholic.com designates 13.110.228.57 as permitted
+ sender) identity=mailfrom; receiver=cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net;
+ client-ip=13.110.228.57; envelope-from=bounce-2396_HTML-422005162-309040-534001212-1030@bounce.email.dynamiccatholic.com;
+ helo=mta.email.dynamiccatholic.com;
+X-RazorGate-Vade: gggruggvucftvghtrhhoucdtuddrgedvgedrfedugdduvdelucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutefnvffkvefgfgfupdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddunecundfotefknffkpffiucdludejmdenucfjughrpefhvffufffjgghrjefktgesrgdtreertddtjeenucfhrhhomhepfdffhihnrghmihgtucevrghthhholhhitgdfuceoihhnfhhosegvmhgrihhlrdguhihnrghmihgttggrthhhohhlihgtrdgtohhmqeenucggtffrrghtthgvrhhnpeevhfdvgeegjedugfdtteelieejjeeftdffgeevveffteejkeeihedujeffgfffveenucffohhmrghinhepugihnhgrmhhitggtrghthhholhhitgdrtghomhenucfkphepudefrdduuddtrddvvdekrdehjeenucevlhhushhtvghrufhiiigvpeduudehnecurfgrrhgrmhephhgvlhhopehmthgrrdgvmhgrihhlrdguhihnrghmihgttggrthhhohhlihgtrdgtohhmpdhinhgvthepudefrdduuddtrddvvdekrdehjedpmhgrihhlfhhrohhmpegsohhunhgtvgdqvdefleeipgfjvffonfdqgedvvddttdehudeivddqfedtledtgedtqdehfeegtddtuddvuddvqddutdeftdessghouhhntggvrdgvmhgrihhlrdguhihnrghmihgttggrthhhohhlihgtrdgtohhmpdhnsggprhgtphhtthhopedupdhrtghpthhtohepughmhhhulhesshhuugguvghnlhhinhhkrdhnvghtpdhrvghvkffrpehmthgrrdgv
+	mhgrihhlrdguhihnrghmihgttggrthhhohhlihgtrdgtohhmpdhsphhfpehprghsshdpughkihhmpehprghsshdpghgvohhiphepfgfupdhmthgrhhhoshhtpegtmhigqdgrlhhtqdhrghhinhdttdei
+X-RazorGate-Vade-Verdict: clean 17
+X-RazorGate-Vade-Classification: commercial-misc
+X-Optimum-Rcpt: dmhul@suddenlink.net
+Received: from mta.email.dynamiccatholic.com (13.110.228.57) by cmx-alt-rgin006.mx-altice.prod.cloud.synchronoss.net (5.8.810)
+        id 636A80D200555409 for dmhul@suddenlink.net; Wed, 9 Nov 2022 09:02:02 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=12dkim1; d=email.dynamiccatholic.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=info@email.dynamiccatholic.com;
+ bh=m8U5WANX8VTrscDmq9W6WUjw6b3sYeblmaIdM/Dzat0=;
+ b=XKDX53ZooxKN3BPaPJgP/bkcBFWsGbzCpXZWzjbNZcTV5WZ+PSkcoeFrkC+nPBCKUzuDNATcz4eJ
+   z2cY/qANVyHPsngDOB4NxXtxQXOC6PIJbDtZO5MXF5XS7Pp7wm6DzgSrJ5L+4sCRoSnozRqcNjKa
+   L0V35fKMJ2k/ur1RJ+O/EiRnFa31sChOFT0rjSZiEPhVS59ngz5PUFOsOZvsspkxoreyJG+QyApT
+   X8uWUnnwnk3l23zUGbyHsOn8iU1nGM0f+AdBw5jfgkyvlvyIOn1SThFwY3RSlTnHezVRPmH2hSLa
+   OXtU1Vftcl3dp4Aesg7j+6VaU2e8hkXfGdSepw==
+Received: by mta.email.dynamiccatholic.com id hddm8k2fmd49 for <dmhul@suddenlink.net>; Wed, 9 Nov 2022 09:02:02 +0000 (envelope-from <bounce-2396_HTML-422005162-309040-534001212-1030@bounce.email.dynamiccatholic.com>)
+From: "Dynamic Catholic" <info@email.dynamiccatholic.com>
+To: <dmhul@suddenlink.net>
+Subject: View Your Daily Reflection
+Date: Wed, 09 Nov 2022 03:02:01 -0600
+List-Unsubscribe: <https://click.email.dynamiccatholic.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MzQwMDEyMTIiLCJzIjoiNDIyMDA1MTYyIiwibGlkIjoiMjM5NiIsImoiOiIzMDkwNDAiLCJqYiI6IjEwMzAiLCJkIjoiMTIwMDA2In0.BIZHLj2LYndXpjCI-OJGPyQSvcOT9zfJBFPTve918c4>, <mailto:leave-fd1716737c626b2531492c-fe39107277640478741272-fecf17707c64007d-fe3d11737164047c771572-ff3b15707664@leave.email.dynamiccatholic.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Dynamic Catholic" <reply-fecf17707c64007d-2396_HTML-422005162-534001212-1030@email.dynamiccatholic.com>
+List-ID: <534001212.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 12
+x-job: 534001212_309040
+Message-ID: <967f3aa4-7b61-4700-b3ec-439870bdd362@iad4s12mta521.xt.local>
+Content-Type: multipart/alternative;
+	boundary="IJUkkoXnFbKF=_?:"
+
+This is a multi-part message in MIME format.
+
+--IJUkkoXnFbKF=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+ 
+ 
+
+ Start your day with inspiration | November 9, 2022  
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929e8ac7af6783169328fbb0ea2378d791bf90b188fa87186bce929dcc39274980eb8ab25b9e729b93ead5437e5acef872c229a15a60c6f9791 
+
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9294aade721dd61ed98e024b98b820fecdd45e548a5a697b47c527ac26b12a38e02e917fda909ad18c5f4e0be32837be13b2f033ca8b27dc933 
+
+SHARE WITH FRIENDS
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9293a6b48ad2ef9d2b5f0ce11bad87cb9beb0b2c0c0701d75c9c9bd85fa55c309343481dd09d46b20864ff890589cb994274c5c4d8a91651d11 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9297d72e7600dc0ba1b1f48e04a3e331a1d2eead0d28331b86c68f443b89aa22fd4963008d32d62de7c2025131c66c43debec05625446023271 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92998f87a93655b9d35de621820360a1c787d9bf82484b5e4f667f4113a90df0a98af269fabb4b96cd2664e1fb0e4060434b1081eabd7282e3a 
+
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929d231b048bbc79a114895b825a60ddd270b3f6afab0cde5b01f44d19a75bd89251c8b36b546dc740f94b591b7035a29d7f99b095a73b52f5a 
+
+
+ Something Wonderful Is About To Happen! 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929ec3114113758ad443130e64ad99eb1d9918bafe889aabb004bb1cb0e036cb1b91e10ff01095d7787fac4f2f136685dd5ea129237002d2b21 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9295276e3efb9e86e85c1aedb8f3526fe104edb700b606cdaca4cfe804147a56e0c5146036c49b9fddb7bf165fb8d55ce9d1bc5fbd8af74687c 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929c3b95d6d9a5e99e589a27e48c3edac39cfbaad6ec0f43ed874901188efcb7f94ae4ca42a8871bffa5c40ff82de880cb188d4e25280f556a9 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92912eb97858e42296083935d9fe4eb5ce7cf2838e87dfd66fa6162c6f929aaf99ac39088a02b7455bc9d330a4ea12180b341e8ef93471cbccc 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929710d8d26a48ad9ac16e719f4732d50136cabaa81db0ff51eb9ccd140b5dd54a2f5347d422c905cf419898e30f7d4dc9ce35652d835ae0592 
+
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92965bd4ff55854ca6b4556fa8ceb2a998ecf95e31465aec3cadbabfe9a60811b38d86a414b99731338ea9e3a5680c6104efb98fb04b84aa88a 
+
+Dynamic Catholic is a 501(c)(3) non-profit organization.
+
+ Thank you for your support! 
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92951a212f8553d0cc2cd9a256e6992045e57a2db540e200d48f2be25b41733f8b0e2dee6f6cdaa02fba6f17e8bf22e75c2d3fa6b576dc07123 
+DONATE TODAY .
+Want to be a part of something bigger? 
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9297762885e08e2fd87c74b23be3c2ebb2c6d7399c34769933f64469503f81693d7954b38f62a761f2df78efd160fc4bd24050e6f1a46fa72bc 
+Join Our Team.
+(c) Dynamic Catholic 2022 | 5081 Olympic Blvd. | Erlanger, KY 41018
+
+ Visit the 
+https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92927db384cad87785610f657ce9b3fd0677621fb6c5ca4e04fbbbae933bb8c33fdf16d904e4a863929bf427d706790a202b91f768ad4a8de99 
+Email Preference Centerto Unsubscribe
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+--IJUkkoXnFbKF=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <img src="https://click.email.dynamiccatholic.com/open.aspx?ffcb10-fecf17707c64007d-fe2415797c670679711679-fe3d11737164047c771572-ff2b16737c62-fe39107277640478741272-ff3b15707664&d=120006&bmt=0" width="1" height="1" alt="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+      ReadMsgBody{ width: 100%;}
+      .ExternalClass {width: 100%;}
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}
+      p { margin: 1em 0;}
+      table td { border-collapse: collapse;}
+      img {outline:0;}
+      a img {border:none;}
+      @-ms-viewport{ width: device-width;}
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        .container {width: 100% !important;}
+        .footer { width:auto !important; margin-left:0; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        img { max-width:100% !important; height:auto !important; max-height:auto !important;}
+        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}
+        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}
+        .drop { display:block !important; width: 100% !important; float:left; clear:both;}
+        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}
+        .nav4, .nav5, .nav6 { display: none !important; }
+        .tableBlock {width:100% !important;}
+        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */
+        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}
+        h1 { font-size: 22px !important; line-height: normal !important;}
+        h2 { font-size: 20px !important; line-height: normal !important;}
+        h3 { font-size: 18px !important; line-height: normal !important;}
+        .buttonstyles {
+          font-family:arial,helvetica,sans-serif !important;
+          font-size: 16px !important;
+          color: #FFFFFF !important;
+          padding: 10px !important;
+        }
+        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */
+      }
+      @media only screen and (max-width: 640px) {
+        .container { width:100% !important; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        .photo img { width:100% !important; height:auto !important;}
+        .nav5, .nav6 { display: none !important;}
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+      }
+    </style>
+    <!--[if mso]>       <style type="text/css">           /* Begin Outlook Font Fix */           body, table, td {               font-family: Arial, Helvetica, sans-serif ;               font-size:16px;               color:#000000;               line-height:1;           }           /* End Outlook Font Fix */       </style>     <![endif]-->
+  </head>
+  <body bgcolor="#ffffff" text="#000000" style="background-color: #ffffff; color: #000000; padding: 0px; -webkit-text-size-adjust:none; font-size: 16px; font-family:arial,helvetica,sans-serif;">
+    <div style="font-size:0; line-height:0;"><img src="https://click.email.dynamiccatholic.com/open.aspx?ffcb10-fecf17707c64007d-fe2415797c670679711679-fe3d11737164047c771572-ff2b16737c62-fe39107277640478741272-ff3b15707664&d=120006&bmt=0" width="1" height="1" alt=""></div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <table cellspacing="0" cellpadding="0" border="0" width="600" class="container" align="center">
+            <tr>
+              <td>
+                <table class="tb_properties border_style" style="background-color:#FFFFFF;" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%">
+                  <tr>
+                    <td align="center" valign="top">
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <!-- added padding here -->
+                          <td class="content_padding" style="">
+                            <!-- end of comment -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr> <!-- top slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                          <td align="left" valign="top">
+                                            <table cellspacing="0" cellpadding="0" style="width:100%">
+                                              <tbody>
+                                              <tr>
+                                                <td class="responsive-td" valign="top" style="width: 100%;">
+                                                  <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #F7F6F6; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 16px 0px; " class="stylingblock-content-wrapper camarker-inner"><div class="font_reduce_9" style="padding-right: 15px; text-align: right;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;width:100%">
+	<span style="font-size: 11px;">Start your day with inspiration | November 9, 2022</span>&nbsp;&nbsp;</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929e8ac7af6783169328fbb0ea2378d791bf90b188fa87186bce929dcc39274980eb8ab25b9e729b93ead5437e5acef872c229a15a60c6f9791" title=""   data-linkto="https://">
+<img data-assetid="181695" src="https://image.email.dynamiccatholic.com/lib/fe3d11737164047c771572/m/1/9fd1feb7-40d0-4a8c-8a81-7050d956cb98.jpg" alt="&quot;Sometimes we can be distracted by all the things going on in our lives each day, and that may make it hard to hear the people who love us when they speak to us.&quot; Barbra and Dr. Gregory Bottaro, Sitting Like A Saint" height="425" width="640" style="display: block; padding: 0px; text-align: center; height: 425px; width: 640px; border: 0px;" class="img1"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="181706" src="https://image.email.dynamiccatholic.com/lib/fe3d11737164047c771572/m/1/96b3411b-cf5e-4e21-a803-2151f4e24552.jpg" alt="&quot;If you want to bring happiness to the whole world, go home and love your family.&quot; - St. Teresa of Calcutta, Wisdom of the Saints" height="75" width="640" style="display: block; padding: 0px; text-align: center; height: 75px; width: 640px; border: 0px;" class="img1"></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9294aade721dd61ed98e024b98b820fecdd45e548a5a697b47c527ac26b12a38e02e917fda909ad18c5f4e0be32837be13b2f033ca8b27dc933" title=""   data-linkto="https://"><img data-assetid="181704" src="https://image.email.dynamiccatholic.com/lib/fe3d11737164047c771572/m/1/37959259-959e-4f0d-86d7-3dd8f5b65e2c.jpg" alt="Like the quote? You'll love the book. Get your copy today!" height="300" width="640" style="display: block; padding: 0px; text-align: center; width: 640px; height: 300px; border: 0px;"></a></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 40px 0px 30px; " class="stylingblock-content-wrapper camarker-inner"><div class="shareText" style="text-align: center;">
+	<b><span style="color:#003865;"><span style="font-size:20px; letter-spacing: 2px;">SHARE WITH FRIENDS</span></span></b></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0px" cellspacing="0" class="w320" style="padding:0px; background:#FFF;">
+ 
+  <tr>
+   <td style="padding: 0px 15px 0px 15px;">
+    <div class="mkteditable" id="fb_share">
+     <a   data-linkto="https://" href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9293a6b48ad2ef9d2b5f0ce11bad87cb9beb0b2c0c0701d75c9c9bd85fa55c309343481dd09d46b20864ff890589cb994274c5c4d8a91651d11" target="_blank" title=""><img alt="Share this quote with your friends on Facebook" constrain="true" imagepreview="false" src="https://dcemail.dynamiccatholic.com/FFT/fb_navy.gif"></a></div></td><td style="padding: 0px 15px 0px 15px;">
+    <div class="mkteditable" id="twitter_share">
+     <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9297d72e7600dc0ba1b1f48e04a3e331a1d2eead0d28331b86c68f443b89aa22fd4963008d32d62de7c2025131c66c43debec05625446023271" target="_blank"><img alt="Share this quote with your friends on Twitter" constrain="true" imagepreview="false" src="https://dcemail.dynamiccatholic.com/FFT/tw_navy.gif"></a></div></td><td style="padding: 0px 15px 0px 15px;">
+    <div class="mkteditable" id="pinterest_share">
+     <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92998f87a93655b9d35de621820360a1c787d9bf82484b5e4f667f4113a90df0a98af269fabb4b96cd2664e1fb0e4060434b1081eabd7282e3a" target="_blank"><img alt="Share this quote with your friends on Pinterest" constrain="true" imagepreview="false" src="https://dcemail.dynamiccatholic.com/FFT/pin_navy.gif"></a></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="78588" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/Phone_email_gray_line.png" alt="" height="67" width="640" style="display: block; padding: 0px; text-align: center; height: 67px; width: 640px; border: 0px;"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #FFFFFF; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="wFull darkmode2" style="background-color:#FFFFFF;" width="100%">
+ 
+  <tr>
+   <td align="center" class="darkmode2" max-width="640" pardot-data="" style="background: #fff;" valign="top">
+    <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929d231b048bbc79a114895b825a60ddd270b3f6afab0cde5b01f44d19a75bd89251c8b36b546dc740f94b591b7035a29d7f99b095a73b52f5a" target="_blank"><img alt="DynamicCatholic.com" class="fadeimg" src="https://dcemail.dynamiccatholic.com/Sunday+Gospels/DynamicCatholic.comTransparent.png" style="width: 650px; max-width: 600px;" width="650"></a></td></tr><tr>
+   <td align="center" style="color:#707070; font-family: Georgia; font-style: italic; padding:20px 0;" valign="top">
+    <!-- DCIFooter--><p align:="">
+     Something Wonderful Is About To Happen!&nbsp;</p></td></tr><tr>
+   <td align="center" valign="top">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:80%; max-width:640px;" width="80%">
+     <tbody align="center">
+      <tr>
+       <!-- Social Media Section // --></tr><tr align="center" border="0" cellpadding="0" cellspacing="0" class="centerFloat" style="display:inline-block;">
+       <td align="center" style="padding: 10px 10px 10px 10px;" valign="middle" width="40">
+        <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929ec3114113758ad443130e64ad99eb1d9918bafe889aabb004bb1cb0e036cb1b91e10ff01095d7787fac4f2f136685dd5ea129237002d2b21" style="text-decoration:none;border:0"><img alt="#" border="0" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/socialicon_instagram.png" style="display:block;border:0; width:30px;" width="30"> </a></td><td align="center" style="padding: 10px 10px 10px 10px;" valign="middle" width="40">
+        <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9295276e3efb9e86e85c1aedb8f3526fe104edb700b606cdaca4cfe804147a56e0c5146036c49b9fddb7bf165fb8d55ce9d1bc5fbd8af74687c"><img alt="#" border="0" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/socialicon_twitter.png" style="display:block;border:0;width:30px;" width="30"></a></td><td align="center" style="padding: 10px 10px 10px 10px;" valign="middle" width="40">
+        <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929c3b95d6d9a5e99e589a27e48c3edac39cfbaad6ec0f43ed874901188efcb7f94ae4ca42a8871bffa5c40ff82de880cb188d4e25280f556a9"><img alt="#" border="0" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/socialicon_pinterest.png" style="display:block;border:0;width:30px;" width="30"> </a></td><td align="center" style="padding: 10px 10px 10px 10px;" valign="middle" width="40">
+        <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92912eb97858e42296083935d9fe4eb5ce7cf2838e87dfd66fa6162c6f929aaf99ac39088a02b7455bc9d330a4ea12180b341e8ef93471cbccc"><img alt="#" border="0" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/socialicon_facebook.png" style="display:block;border:0;width:30px;" width="30"> </a></td><td align="center" style="padding: 10px 10px 10px 10px;" valign="middle" width="40">
+        <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b929710d8d26a48ad9ac16e719f4732d50136cabaa81db0ff51eb9ccd140b5dd54a2f5347d422c905cf419898e30f7d4dc9ce35652d835ae0592"><img alt="#" border="0" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/socialicon_youtube.png" style="display:block;border:0;width:30px;" width="30"> </a></td></tr></table></td></tr><tr>
+   <td align="center" max-width="640" valign="top">
+    <a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92965bd4ff55854ca6b4556fa8ceb2a998ecf95e31465aec3cadbabfe9a60811b38d86a414b99731338ea9e3a5680c6104efb98fb04b84aa88a" target="_blank"><img alt="" class="fadeimg" src="https://dcemail.dynamiccatholic.com/Footer/New+Footer+2021/Phone_email_DCI_footer.png" style="width: 100%; max-width: 600px;" width="100"></a></td></tr><tr>
+   <td style="padding:10px 0 10px 0; text-align: center; font-family: Georgia; font-style: italic; letter-spacing: 1px; font-size: 14px; line-height: 23px; color: white;" width="100%">
+    <span style="font-size:12px;"><span style="color:#707070;">Dynamic Catholic is a 501(c)(3) non-profit organization.<br>
+    Thank you for your support! <a   data-linkto="https://" href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92951a212f8553d0cc2cd9a256e6992045e57a2db540e200d48f2be25b41733f8b0e2dee6f6cdaa02fba6f17e8bf22e75c2d3fa6b576dc07123" style="color:#F05828;text-decoration:none;" title="">DONATE TODAY</a>.</span></span></td></tr><tr>
+   <td align="center" pardot-data="" style="background:; padding: 5px 40px; text-align: center; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; letter-spacing: 1px; font-size: 13px; line-height: 24px; color: white;" width="100%">
+    <span style="font-size:13px;"><span style="color:#707070;">Want to be a part of something bigger? <u><a   data-linkto="https://" href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b9297762885e08e2fd87c74b23be3c2ebb2c6d7399c34769933f64469503f81693d7954b38f62a761f2df78efd160fc4bd24050e6f1a46fa72bc" style="color:#707070;text-decoration:none;" title=""><u>Join Our Team.</u></a></u></span></span></td></tr><tr>
+   <td style="width: 640px; text-align: center; padding:10px 0 40px 0;">
+    <span style="font-size:13px;"><span style="color:#707070;">&copy; Dynamic Catholic 2022 | 5081 Olympic Blvd. | Erlanger, KY 41018<br>
+    Visit the </span><u><a href="https://click.email.dynamiccatholic.com/?qs=1d874c763d04b92927db384cad87785610f657ce9b3fd0677621fb6c5ca4e04fbbbae933bb8c33fdf16d904e4a863929bf427d706790a202b91f768ad4a8de99" rel="nofollow,noreferrer"><span style="color:#707070;">Email Preference Center</span></a></u> <span style="font-size:13px;"><span style="color:#707070;">to Unsubscribe</span></span></span></td></tr></table></td></tr></table>
+              
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--IJUkkoXnFbKF=_?:--
+

@@ -1,0 +1,641 @@
+Return-Path: <bounce-4570_HTML-41390957-6846-100007389-130444@bounce.s10.exacttarget.com>
+Received: from dalspm01.suddenlink.net ([13.111.53.197])
+          by dalifep05.suddenlink.net
+          (InterMail vM.8.04.03.22 201-2389-100-167-20150619) with ESMTP
+          id <20180907224737.UPBX14094.dalifep05.suddenlink.net@dalspm01.suddenlink.net>
+          for <dustinadling@suddenlink.net>; Fri, 7 Sep 2018 17:47:37 -0500
+Received: from fh197.mc.pd25.com ([13.111.53.197])
+          by dalspm01.suddenlink.net
+          (InterMail vM.8.04.03.22 201-2389-100-167-20150619) with ESMTP
+          id <20180907224737.URNR17764.dalspm01.suddenlink.net@fh197.mc.pd25.com>
+          for <dustinadling@suddenlink.net>; Fri, 7 Sep 2018 17:47:37 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=c.caringbridge.org;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:
+ List-Unsubscribe:List-ID; i=Caringbridge@c.caringbridge.org;
+ bh=IvqOQIpK6F/r48bpFLoakqtHixukq5KPGuYPM+QCSKc=;
+ b=vJYlyn3Ytv1vLiF1dbXZxIODZZiqbtu6w0d/xZO/UOfx8xzkpIxSZNsmqq24QE8xT6ZusYvVDaB/
+   slg1rh8B2KXoVQ4RIOvF8vixSEEbRuAbjQoJfmMQuPLKyk/lkUMNZJqejKqlt6pVKlfvwcXUpDGd
+   88NY7xZF+pXLXkkPaOg=
+Received: by fh197.mc.pd25.com id hic00i2fmd4f for <dustinadling@suddenlink.net>; Fri, 7 Sep 2018 22:35:23 +0000 (envelope-from <bounce-4570_HTML-41390957-6846-100007389-130444@bounce.s10.exacttarget.com>)
+X-Virus-Scanned: amavisd-new at orionsmtp-106.s10.exacttarget.com
+Message-ID: <ebdc8ca7-f08b-49ae-8c61-8502b41162aa@dfw1s10mta50.xt.local>
+Date: Fri, 07 Sep 2018 16:35:23 -0600
+Subject: See what we heard from our users
+From: CaringBridge <Caringbridge@c.caringbridge.org>
+Reply-To: Caringbridge@c.caringbridge.org
+To: dustinadling@suddenlink.net
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1536359718_ad34444b780b482e5885e08ee8d10e34_=_"
+X-Source-Ref-Id: 176957005
+List-Unsubscribe: <https://wvw.caringbridge.org/unsubscribe/u/493421/d13705e9449d50dd9c4080d3c7c7f756c2bf6821720db8eb6bae67ebaab8e137/176957005>
+X-Report-Abuse-To: abuse@pd25.com
+List-ID: <100007389_6846.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 100007389_6846
+X-Cloudmark-Analysis: v=2.2 cv=d4G38lrE c=1 sm=0 tr=0 a=6giede-wJD4A:10 a=JBFolyDoGHsA:10 a=igeF1_C1xUEA:10 a=-uNXE31MpBQA:10 a=TLjeuGg8AAAA:8 a=yeTfplJOnZxyF4XodM8A:9 a=QEXdDO2ut3YA:10 a=3g80flMcAAAA:8 a=drS0y6E2AAAA:8 a=GAn-aSadAAAA:8 a=fNgMAp9OB71tbJ3RvjwA:9 a=kv3kF6pY6_yuZsNq:21 a=gKO2Hq4RSVkA:10 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=DkHDkVLwyPwCy9T7eSp7:22 a=-nQ1-1nVuPe6lleybnr_:22 a=UM1xAY0NvW3136_APDCo:22
+
+--_=_swift_v4_1536359718_ad34444b780b482e5885e08ee8d10e34_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=0996
+
+=09=09=09=09=09=09=09=09=09=09=09=09Starting a prayer chain
+=
+
+=09=09=09=09=09=09=09=09=09=09=09=09 =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C
+
+=09=09=09=09=09=09=09=09=09=20
+
+https://wvw.cari=
+ngbridge.org/e/493421/s-how-to-start-a-prayer-chain-/xcgt6/176957005
+
+4=
+ Tips on Starting a Prayer Chain
+
+Prayer is a powerful thing for so man=
+y families who use CaringBridge, and prayer chains often have a place in he=
+alth journeys. Check out the ways in which CaringBridge users have organize=
+d that power for good.
+
+Read the Story:  https://wvw.caringbridge.org/e=
+/493421/s-how-to-start-a-prayer-chain-/xcgt6/176957005
+
+Our mission is =
+to amplify the love, hope &amp; compassion in the world, making each health=
+ journey easier.
+Join us on Facebook: https://wvw.caringbridge.org/e/4934=
+21/CaringBridge-/xcgt8/176957005
+Follow us on Instagram: https://wvw.cari=
+ngbridge.org/e/493421/CaringBridgeOfficial-/xcgtb/176957005
+Follow us on =
+Twitter:  https://wvw.caringbridge.org/e/493421/CaringBridge-/xcgtd/1769570=
+05
+
+Never miss an update from your close friends and family by adding m=
+ail@e.caringbridge.org  to your contacts list.
+You're receiving this emai=
+l because of activity on CaringBridge.org.
+
+Copyright =C2=A9 1997-2018 =
+CaringBridge, a nonprofit organization.
+2750 Blue Water Road, Suite 275, =
+Eagan, MN 55121
+
+Privacy Policy: https://wvw.caringbridge.org/e/493421/=
+privacy-policy/xcgtg/176957005
+Unsubscribe https://wvw.caringbridge.org/u=
+nsubscribe/u/493421/d13705e9449d50dd9c4080d3c7c7f756c2bf6821720db8eb6bae67e=
+baab8e137/176957005
+                                                     =
+     =20
+
+
+
+--_=_swift_v4_1536359718_ad34444b780b482e5885e08ee8d10e34_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+=09
+
+<!doctype html>
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml">
+<head>
+=09<title></title>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+=09<meta name=3D"format-detection" content=3D"telephone=3Dno">
+=09<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+=09<style>
+    @import url('https://fonts.googleapis.com/css?family=3DLato');
+</style>
+=09<style type=3D"text/css">
+=09=09/* Global Styles */
+        html *{font-family:'Lato', Arial, sans-serif;}
+=09=09body, html {height:100%; margin:0 auto; padding:0; width:100%;min-wid=
+th: 100%; background-color:#eae5e1;}
+=09=09#outlook a{padding:0;}
+=09=09.ReadMsgBody{width:100%;}=20
+=09=09.ExternalClass{width:100%;}
+=09=09.ExternalClass, .ExternalClass span, .ExternalClass td, .ExternalClas=
+s th, .ExternalClass div {line-height: 100%;}
+=09=09body, table, td, th, a {-webkit-text-size-adjust:100%;text-size-adjus=
+t:100%; -ms-text-size-adjust:100%;-webkit-font-smoothing: antialiased;font-=
+family:'Lato', Arial, sans-serif;}
+=09=09th { font-weight:normal; padding:0px; display:table-cell;}
+=09=09body {height:100%!important; margin:0 auto!important; padding:0!impor=
+tant; width:100%!important; min-width:100%!important; background:#eae5e1!im=
+portant;}
+=09=09a,a:link,a:active,a:visited{color:#852470;text-decoration:underline;p=
+adding:0px;margin:0px;}
+=09=09a:hover,a:link:hover,a:active:hover,a:visited:hover{color:#852470;tex=
+t-decoration: underline;padding:0px;margin:0px;}
+=09=09a img,a:visited img,a:link img{border:0px;text-decoration:none;paddin=
+g:0px;margin:0px;}
+=09=09table, td, th{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+=09=09img{border:0; height:auto; line-height:100%; outline:none; text-decor=
+ation:none;}
+=09=09p {margin-top:0px!important; margin-bottom:1em;}
+=09=09.ftrlinks a {color: #555555 !important; text-decoration: none !import=
+ant;}
+=09=09.mobilebuttoncopy:hover, .mobilebuttoncopy a:hover {background-color:=
+ #A21984 !important;}
+=09=09
+=09=09/** mobile email styles **/
+=09=09@media screen and (max-width: 500px) {
+=09=09.stack {width:100% !important; display:block !important; min-width:0p=
+x !important; max-width:100% !important;}
+=09=09.mobile {width:100%!important;  text-align: center!important; margin:=
+ 0; padding: 0px!important; min-width: 0px!important; }
+=09=09.centered {text-align:center!important;}
+=09=09.hero img {width:100%!important; height:auto!important;}
+=09=09.show {display: block !important;}
+=09=09.hide {display: none !important;}
+
+
+=09=09.mobilebg {background-position: top !important; background-repeat: re=
+peat; background-attachment: scroll; height: auto !important; padding: 0px =
+!important;}
+=09=09.twocolmobilebg {background-size: 100%; background-position: top !imp=
+ortant; background-repeat: repeat; background-attachment: scroll; height: a=
+uto !important; padding: 0px !important;}
+=09=09.width90 {width:90% !important;!important; max-width:90% !important; =
+min-width:0px !important;}
+=09=09.logo img {width: 80% !important; display: inline-block !important;}
+=09=09.paddleftright15 {padding-left: 15px !important; padding-right: 15px =
+!important;}
+=09=09.paddleftright25 {padding-left: 25px !important; padding-right: 25px =
+!important;}
+=09=09.paddtop30 {padding-top: 30px !important;}
+=09=09.mobileheadline, .mobileheadline span {font-size: 24px !important;}
+=09=09.mobilesubheadline, .mobilesubheadline span {font-size:20px !importan=
+t;}
+=09=09.mobilecopy, .mobilecopy span {font-size: 16px !important;}
+=09=09.mobilebuttoncopy, .mobilebuttoncopy span {font-size: 20px !important=
+;}
+=09=09.scurvepadding {padding-top: 15px !important; padding-bottom: 30px !i=
+mportant;}
+=09=09.padd0 {padding: 0px !important;}
+=09=09.hideme { display: none!important; line-height: 0px!important;height:=
+ 0px!important;padding: 0px!important;font-size: 0px!important;}
+=09=09.showme {max-height: none!important; width: 100%!important; display: =
+inline!important;}
+=09=09
+=09=09.scurvepaddleftright {padding-left: 0px !important; padding-right: 0p=
+x !important;}
+=09=09.mobilenav {height: 60px !important; line-height: 60px !important; wi=
+dth: 100%; display: block !important; border-bottom: 1px solid #eae5e1; tex=
+t-decoration: none!important;text-align: center; color: #555555!important;f=
+ont-size:18px!important;font-weight: bold; text-transform: uppercase!import=
+ant;}
+=09=09.logo img {width: 85% !important; height: auto;}
+=09=09.logo {padding-bottom: 0px !important;}
+=09=09.mobilepadd15 {padding-left: 15px !important; padding-right: 15px !im=
+portant;}
+=09=09.socialimg img {width: 15% !important; height: auto !important;}
+=09=09}
+=09=09
+=09</style>
+=09<style type=3D"text/css">.gmailfix {display:none;display:none!important;=
+}
+=09</style>
+=09<!--[if mso]>
+=09<style type=3D"text/css">
+=09body, table, td, th, span, strong, a {font-family:Arial, sans-serif !imp=
+ortant;}
+=09.mobilebuttoncopy {padding-top: 8px !important; padding-bottom: 8px !imp=
+ortant;}
+=09</style>
+=09<![endif]-->
+=09<!--[if gte mso 9]><xml>
+=09<o:OfficeDocumentSettings>
+=09<o:AllowPNG/>
+=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09</o:OfficeDocumentSettings>
+=09</xml><![endif]-->
+</head>
+
+<body style=3D"width:100%; padding:0px; margin:0px;">
+<table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-colla=
+pse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"100%">=
+
+=09<tbody>
+=09=09<tr>
+=09=09=09<th align=3D"center" bgcolor=3D"#eae5=
+e1" style=3D"padding-top: 20px; padding-bottom: 20px;">
+=09=09=09<table a=
+lign=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mobile" style=3D"width:640px; max-width:640px; border-co=
+llapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"640"=
+><!-- START: preheader / view online -->
+=09=09=09=09<tbody>
+=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09<th style=3D"padding: 0 0px 10px 0px; backgr=
+ound-color: #eae5e1;">
+=09=09=09=09=09=09<table bgcolor=3D"#eae5e1" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:collap=
+se; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"100%">
+=09=09=
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09<th class=3D"stack" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobile" sty=
+le=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;=
+" width=3D"310">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<th class=3D"m=
+obilecopy centered" style=3D"text-align:left; font-family:'Lato', Arial, sa=
+ns-serif; font-size:12px; color:#555555; font-weight:normal;">Starting a pr=
+ayer chain</th>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--[if !mso]><!-->=
+
+=09=09=09=09=09=09=09=09=09=09=09=09<th style=3D"display: none; max-heig=
+ht: 0px; overflow: hidden;">&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
+=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C</th>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--<![endif]-->
+=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody=
+>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>=
+
+=09=09=09=09=09=09=09=09=09<th class=3D"stack" height=3D"10" style=3D"wi=
+dth:20px; height: 10px;" width=3D"20">&nbsp;</th>
+=09=09=09=09=09=09=09=
+=09=09<th class=3D"stack" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobile" style=
+=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" =
+width=3D"310">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<th class=3D"mobi=
+lecopy centered" style=3D"text-align:right; font-family:'Lato', Arial, sans=
+-serif; font-size:12px; color:#555555; font-weight:normal;"><a href=3D"http=
+s://wvw.caringbridge.org/webmail/493421/176957005/d13705e9449d50dd9c4080d3c=
+7c7f756c2bf6821720db8eb6bae67ebaab8e137" style=3D"color:#555555;">View emai=
+l online |</a><a mailto:caringbridgenews=3D"" style=3D"color:#555555; href=
+=3D"> Unsubscribe</a></th>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<!-- END: preheader / view=
+ online --><!-- START: logo / nav bar -->
+=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09<th style=3D"border-bottom: 2px solid #eae5e1; padding: 30px 0;">=
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt;=
+ mso-table-rspace:0pt;" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"logo=
+" style=3D"padding: 0px 0 20px 0;"><a href=3D"https://wvw.caringbridge.org/=
+e/493421/il-utm-campaign-Sept-Visitor-A/xcgtj/176957005"><img border=3D"0" =
+src=3D"http://contentz.mkt51.net/lp/10613/642111/logo_twocolor_rgb_large.pn=
+g" style=3D"display: inline-block;" width=3D"283"></a></th>
+=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=
+=09<th class=3D"hide">
+=09=09=09=09=09=09=09=09=09<table align=3D"center"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:=
+collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<t=
+r>
+=09=09=09=09=09=09=09=09=09=09=09=09<th style=3D"width:160px; text-ali=
+gn:center; font-family:'Lato', Arial, sans-serif; font-size:16px; color:#55=
+5555; font-weight:bold;"><a href=3D"https://wvw.caringbridge.org/e/493421/i=
+l-utm-campaign-Sept-Visitor-A/xcgtl/176957005" style=3D"text-decoration:non=
+e;color:#555555;">ABOUT US</a></th>
+=09=09=09=09=09=09=09=09=09=09=09=09<=
+th style=3D"width:160px; text-align:center; font-family:'Lato', Arial, sans=
+-serif; font-size:16px; color:#555555; font-weight:bold;"><a href=3D"https:=
+//wvw.caringbridge.org/e/493421/il-utm-campaign-Sept-Visitor-A/xcgtn/176957=
+005" style=3D"text-decoration:none;color:#555555;">HOW IT WORKS</a></th>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09<th style=3D"width:160px; text-align:ce=
+nter; font-family:'Lato', Arial, sans-serif; font-size:16px; color:#555555;=
+ font-weight:bold;"><a href=3D"https://wvw.caringbridge.org/e/493421/il-utm=
+-campaign-Sept-Visitor-A/xcgtq/176957005" style=3D"text-decoration:none;col=
+or:#555555;">RESOURCES</a></th>
+=09=09=09=09=09=09=09=09=09=09=09=09<th s=
+tyle=3D"width:160px; text-align:center; font-family:'Lato', Arial, sans-ser=
+if; font-size:16px; color:#555555; font-weight:bold;"><a href=3D"https://wv=
+w.caringbridge.org/e/493421/il-utm-campaign-Sept-Visitor-A/xcgts/176957005"=
+ style=3D"text-decoration:none;color:#555555;">FIND A SITE</a></th>
+=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody=
+>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>=
+
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=
+=09=09=09=09<!-- END: logo / nav bar --><!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D CODE PERFECT MODULES START HERE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D--><!-- START: full width image -->
+=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09<th style=3D"padding: 0px 0px 20px 0px;">
+=09=09=09=09=09=
+=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:=
+0pt;" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th align=3D"center" class=3D"hero"=
+ style=3D"font-family:'Lato', Arial, sans-serif; color:#555555; font-size:1=
+3px; line-height:1.3em; font-weight:normal;"><a href=3D"https://wvw.caringb=
+ridge.org/e/493421/il-utm-campaign-Sept-Visitor-A/xcgtv/176957005"><img alt=
+=3D"Read Article" border=3D"0" height=3D"315" src=3D"https://wvw.caringbrid=
+ge.org/l/493421/2018-08-17/x67cg/493421/59887/_0005_2638x1807_word_v14.jpg"=
+ style=3D"display: block; width: 640px; height: 315px; border-width: 0px; b=
+order-style: solid;" width=3D"640"></a></th>
+=09=09=09=09=09=09=09=09</tr=
+>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<!-- END: full width=
+ image --><!-- START: headline text -->
+=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09<th class=3D"mobilepadd15" style=3D"padding: 0 30px 20px 30px;">=
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt;=
+ mso-table-rspace:0pt;" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"mobi=
+leheadline" style=3D"text-align:left; font-family:'Lato', Arial, sans-serif=
+; font-size:28px; line-height:1.3em; color:#555555; font-weight:normal;">4 =
+Tips on Starting a Prayer Chain</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<!-- END: headline text --=
+><!-- START: text block -->
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th c=
+lass=3D"mobilepadd15" style=3D"padding: 0 30px 20px 30px;">
+=09=09=09=09=
+=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspa=
+ce:0pt;" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"mobilecopy" style=
+=3D"text-align:left; font-family:'Lato', Arial, sans-serif; font-size:16px;=
+ line-height:1.3em; color:#555555; font-weight:normal;">
+=09=09=09=09=09=
+=09=09=09=09<p>We have heard prayer is a powerful thing for so many familie=
+s who use CaringBridge, and prayer chains often have a place in health jour=
+neys. Check out the ways in which CaringBridge users have organized that po=
+wer for good.</p>
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<!-- END: t=
+ext block --><!-- START: button -->
+=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09<th align=3D"center" class=3D"mobilepadd15" style=3D"padding:0 30px 20px=
+ 30px;">
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"mobile" style=3D"border-collapse:collapse=
+; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+=09=09=09=09=09=09=09<tbo=
+dy>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th align=
+=3D"center" class=3D"mobilebuttoncopy" style=3D"background-color:#852470; c=
+olor:#FFFFFF; font-weight:bold; font-family:'Lato', Arial, sans-serif; font=
+-size:20px; border-radius: 5px; padding: 8px 45px;" valign=3D"middle"><a hr=
+ef=3D"https://wvw.caringbridge.org/e/493421/il-utm-campaign-Sept-Visitor-A/=
+xcgtv/176957005" style=3D"text-decoration:none;color:#ffffff;">Read the Sto=
+ry</a></th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</=
+tr>
+=09=09=09=09=09<!-- END: button --><!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D CODE PERFECT MODULES END HERE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D--><!-- START: mission banner -->
+=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09<th align=3D"center" class=3D"mobilepadd15" style=3D"padding=
+: 30px 20px 30px 20px; background-color: #6e175b;">
+=09=09=09=09=09=09<ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" =
+width=3D"80%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr=
+>
+=09=09=09=09=09=09=09=09=09<th align=3D"center" style=3D"padding-bottom=
+: 10px;"><a href=3D"https://wvw.caringbridge.org/e/493421/il-utm-campaign-S=
+ept-Visitor-A/xcgtl/176957005"><img alt=3D"0" border=3D"0" src=3D"http://co=
+ntentz.mkt51.net/lp/10613/642111/mission_heart.png" style=3D"display: inlin=
+e-block;" width=3D"50"></a></th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"mobilecopy=
+" style=3D"text-align:center; font-family:'Lato', Arial, sans-serif; font-s=
+ize:16px; color:#ffffff; font-weight:bold;">Our mission is to amplify the l=
+ove, hope &amp; compassion in the world, making each health journey easier.=
+</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=
+=09=09=09=09=09<!-- END: mission banner --><!-- START: social icons -->
+=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th align=3D"center" class=3D"mobil=
+epadd15" style=3D"padding: 30px 20px 30px 20px; background-color: #ffffff; =
+border-bottom: 1px solid #eae5e1;">
+=09=09=09=09=09=09<table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-colla=
+pse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"80%">=
+
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09<th class=3D"mobilecopy" style=3D"text-align:center; font=
+-family:'Lato', Arial, sans-serif; font-size:16px; color:#555555; font-weig=
+ht:bold;">Join us here...</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th align=3D"center" class=
+=3D"socialimg" style=3D"padding-top: 10px;"><a href=3D"https://wvw.caringbr=
+idge.org/e/493421/CaringBridge-/xcgt8/176957005"><img alt=3D"Facebook" bord=
+er=3D"0" height=3D"30" src=3D"http://contentz.mkt51.net/lp/10613/642111/Fac=
+ebook-purp.png" style=3D"display: inline-block;" width=3D"30"></a>&nbsp; &n=
+bsp; &nbsp; &nbsp;<a href=3D"https://wvw.caringbridge.org/e/493421/CaringBr=
+idgeOfficial-/xcgtb/176957005"><img alt=3D"Instagram" border=3D"0" height=
+=3D"30" src=3D"http://contentz.mkt51.net/lp/10613/642111/Instagram-purp.png=
+" style=3D"display: inline-block;" width=3D"30"></a>&nbsp; &nbsp; &nbsp; &n=
+bsp;<a href=3D"https://wvw.caringbridge.org/e/493421/CaringBridge-/xcgtd/17=
+6957005"><img alt=3D"Twitter" border=3D"0" height=3D"30" src=3D"http://cont=
+entz.mkt51.net/lp/10613/642111/twitter-purp.png" style=3D"display: inline-b=
+lock;" width=3D"30"></a></th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>=
+
+=09=09=09=09=09</tr>
+=09=09=09=09=09<!-- END: social icons --><!-- STA=
+RT: mobile navigation --><!-- END: mobile navigation --><!-- START: footer =
+copy -->
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th class=3D"mobilepadd1=
+5" style=3D"padding: 30px 30px 20px 30px; background-color: #eae5e1;">
+=
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; ms=
+o-table-rspace:0pt;" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th style=3D"text-al=
+ign:center; font-family:'Lato', Arial, sans-serif; font-size:12px; color:#5=
+55555; font-weight:normal;">
+=09=09=09=09=09=09=09=09=09<p class=3D"ftrli=
+nks">Never miss an update from your close friends and family by adding<br c=
+lass=3D"hide">
+=09=09=09=09=09=09=09=09=09Caringbridge@c.caringbridge.org=
+ to your contacts list</p>
+
+=09=09=09=09=09=09=09=09=09<p class=3D"ftrl=
+inks">You're receiving this email because of activity on CaringBridge.org.<=
+/p>
+
+=09=09=09=09=09=09=09=09=09<p class=3D"ftrlinks">Copyright =C2=
+=A9 1997-2018 CaringBridge, a nonprofit organization.<br>
+=09=09=09=09=09=
+=09=09=09=092750 Blue Water Road, Suite 275, Eagan, MN 55121</p>
+
+=09=
+=09=09=09=09=09=09=09=09<p class=3D"ftrlinks"><a href=3D"https://wvw.caring=
+bridge.org/e/493421/privacy-policy/xcgtg/176957005" style=3D"color:#555555;=
+text-decoration:underline;">Privacy Policy</a> | <a href=3D"https://wvw.car=
+ingbridge.org/e/493421/settings/xcgtx/176957005" style=3D"color:#555555;">U=
+pdate Address</a> | <a href=3D"https://wvw.caringbridge.org/unsubscribe/u/4=
+93421/d13705e9449d50dd9c4080d3c7c7f756c2bf6821720db8eb6bae67ebaab8e137/1769=
+57005" style=3D"color:#555555;">Unsubscribe</a></p>
+=09=09=09=09=09=09=09=
+=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</=
+tr>
+=09=09=09=09=09<!-- END: footer copy -->
+=09=09=09=09</tbody>
+=09=
+=09=09</table>
+=09=09=09</th>
+=09=09</tr>
+=09</tbody>
+</table>
+<!=
+--gmail on iOS6 fix-->
+
+<div class=3D"gmailfix" style=3D"white-space:no=
+wrap; font:15px courier; line-height:0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp;</div>
+<!--end fix-->
+<img alt=3D"" src=3D"htt=
+ps://wvw.caringbridge.org/r/493421/1/176957005/open/1" /><style>@media prin=
+t{ #_t { background-image: url('https://kgqjofdl.emltrk.com/kgqjofdl?p');}}=
+ div.OutlookMessageHeader {background-image:url('https://kgqjofdl.emltrk.co=
+m/kgqjofdl?f')} table.moz-email-headers-table {background-image:url('https:=
+//kgqjofdl.emltrk.com/kgqjofdl?f')} blockquote #_t {background-image:url('h=
+ttps://kgqjofdl.emltrk.com/kgqjofdl?f')} #MailContainerBody #_t {background=
+-image:url('https://kgqjofdl.emltrk.com/kgqjofdl?f')}</style><div id=3D"_t"=
+></div>
+<img src=3D"https://kgqjofdl.emltrk.com/kgqjofdl" width=3D"1" hei=
+ght=3D"1" border=3D"0" /></body>
+
+</html>
+
+
+
+--_=_swift_v4_1536359718_ad34444b780b482e5885e08ee8d10e34_=_--
+
+

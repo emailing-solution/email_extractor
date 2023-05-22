@@ -7,14 +7,11 @@ namespace imap_extractor
 {
     public partial class EXTRACTOR : Form
     {
+        Dictionary<string, Tuple<string, int>> ?data = null;
         public EXTRACTOR()
         {
             InitializeComponent();
-        }
-
-        private void Port_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+            data = LoadCSVFile("./data.csv");
         }
 
         static async Task WriteFileAsync(string dir, string file, string content)
@@ -44,7 +41,63 @@ namespace imap_extractor
             }
             return string.Empty;
         }
-       
+
+        public Dictionary<string, Tuple<string, int>>? LoadCSVFile(string filePath)
+        {
+            try
+            {
+                // Open the file
+                using var reader = new StreamReader(filePath);
+                var result = new Dictionary<string, Tuple<string, int>>();
+
+                // Loop through the rows
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    // Split the line by the semicolon delimiter
+                    var fields = line.Split(';');
+
+                    if (fields.Length != 3)
+                    {
+                        Console.WriteLine($"Row with incorrect number of columns found, it will be skipped.");
+                        continue;
+                    }
+
+                    // Get the first field as the key
+                    var key = fields[0];
+
+                    // Get the second field as the string value
+                    var stringValue = fields[1];
+
+                    // Get the third field as the int value
+                    int intValue;
+                    if (!int.TryParse(fields[2], out intValue))
+                    {
+                        Console.WriteLine($"Failed to parse integer from third field in row with key '{key}', it will be skipped.");
+                        continue;
+                    }
+
+                    // Add to dictionary
+                    if (result.ContainsKey(key))
+                    {
+                        // Handle duplicate keys if necessary
+                        Console.WriteLine($"Duplicate key '{key}' found. Only the first occurrence will be used.");
+                    }
+                    else
+                    {
+                        result.Add(key, new Tuple<string, int>(stringValue, intValue));
+                    }
+                }
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+                return null;
+            }
+        }
+
         private void Extract_Click(object sender, EventArgs e)
         {
 
@@ -54,19 +107,7 @@ namespace imap_extractor
 
                 extract.Enabled = false;
                 extract.Text = "SEARCHING ...";
-
-                string imap_connection = imap.Text;
-                if (string.IsNullOrEmpty(imap_connection))
-                {
-                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-                int port_connection = int.Parse(port.Text);
-                if (port_connection == 0)
-                {
-                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+               
                 string search_connection = search.Text;
                 if (string.IsNullOrEmpty(search_connection))
                 {
@@ -85,11 +126,22 @@ namespace imap_extractor
                 int found = 0;
                 Parallel.ForEach(users, user =>
                 {
-                    try
-                    {
+                try
+                {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if(!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
                         var unique = new List<string>();
                         using var client = new ImapClient();
-                        client.Connect(imap_connection, port_connection, true);
+                        client.Connect(imap.Item1, imap.Item2, true);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...
@@ -149,22 +201,7 @@ namespace imap_extractor
             try
             {
                 string dir = "./" + DateTime.Now.ToString("dd_MM_yyyy_HH_mm");
-
-                extract_froms.Enabled = false;
-                extract_froms.Text = "SEARCHING ...";
-
-                string imap_connection = imap.Text;
-                if (string.IsNullOrEmpty(imap_connection))
-                {
-                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-                int port_connection = int.Parse(port.Text);
-                if (port_connection == 0)
-                {
-                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+              
                 string search_connection = search.Text;
                 if (string.IsNullOrEmpty(search_connection))
                 {
@@ -185,10 +222,21 @@ namespace imap_extractor
                 {
                     try
                     {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if (!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
                         var addresses = new List<string>();
 
                         using var client = new ImapClient();
-                        client.Connect(imap_connection, port_connection, true);
+                        client.Connect(imap.Item1, imap.Item2, true);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...
@@ -241,38 +289,6 @@ namespace imap_extractor
 
         }
 
-        private void Isp_SelectedValueChanged(object sender, EventArgs e)
-        {
-            var isps = new Dictionary<string, string>()
-            {
-                {"windsteam.net", "imap.windstream.net"},
-                {"optonline.net", "mail.optonline.net"},
-                {"cox.net", "imap.cox.net"},
-                {"mail.com", "imap.mail.com"},
-                {"charter.net", "mobile.charter.net"},
-                {"suddenlink.net", "imap.suddenlink.net"},
-                {"ntlworld.com", "imap.ntlworld.com"},
-                {"hawaiiantel.net", "mail.hawaiiantel.net"},
-                {"bellnet.ca", "imap.bellnet.ca"},
-                {"roadrunner.com", "mail.twc.com"},
-                {"tds.net", "mail.tds.net"},
-                {"sasktel.net", "mail.sasktel.net"},
-                {"videotron.ca", "imap.videotron.ca"},
-                {"ptd.net", "promail.ptd.net"},
-                {"earthlink.net", "imap.earthlink.net"},
-                {"zoominternet.net", "imap.zoominternet.net"},
-                {"hughes.net", "imap.hughes.net"},
-                {"optimum.net", "mail.optimum.net"},
-                {"usa.com", "imap.mail.com"},
-                {"embarqmail.com", "mail.centurylink.net"},
-                {"ntelos.net", "mail.ntelos.net"},
-                {"hargray.com", "secure28.carrierzone.com"},
-            };
-
-
-            imap.Text = isps.GetValueOrDefault(isp.Text, "NA");
-        }
-
         private void extract_listid_Click(object sender, EventArgs e)
         {
             try
@@ -281,19 +297,7 @@ namespace imap_extractor
 
                 extract_listid.Enabled = false;
                 extract_listid.Text = "SEARCHING ...";
-
-                string imap_connection = imap.Text;
-                if (string.IsNullOrEmpty(imap_connection))
-                {
-                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-                int port_connection = int.Parse(port.Text);
-                if (port_connection == 0)
-                {
-                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+               
                 string search_connection = search.Text;              
                 string seach_connection2 = search2.Text;
                 bool multi_from = from.Checked;
@@ -309,11 +313,22 @@ namespace imap_extractor
                 {
                     try
                     {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if (!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
                         var listIds = new List<string>();
 
 
                         using var client = new ImapClient();
-                        client.Connect(imap_connection, port_connection, true);
+                        client.Connect(imap.Item1, imap.Item2, true);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...
@@ -380,18 +395,7 @@ namespace imap_extractor
                 extract_links.Enabled = false;
                 extract_links.Text = "SEARCHING ...";
 
-                string imap_connection = imap.Text;
-                if (string.IsNullOrEmpty(imap_connection))
-                {
-                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-                int port_connection = int.Parse(port.Text);
-                if (port_connection == 0)
-                {
-                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+               
                 string search_connection = search.Text;
                 string seach_connection2 = search2.Text;
                 bool multi_from = from.Checked;
@@ -407,10 +411,22 @@ namespace imap_extractor
                 {
                     try
                     {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if (!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
+
                         var links = new List<string>();
 
                         using var client = new ImapClient();
-                        client.Connect(imap_connection, port_connection, true);
+                        client.Connect(imap.Item1, imap.Item2, true);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...
@@ -481,19 +497,7 @@ namespace imap_extractor
 
                 extract_message_id.Enabled = false;
                 extract_message_id.Text = "SEARCHING ...";
-
-                string imap_connection = imap.Text;
-                if (string.IsNullOrEmpty(imap_connection))
-                {
-                    MessageBox.Show("ENTER IMAP CONNECTION", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-                int port_connection = int.Parse(port.Text);
-                if (port_connection == 0)
-                {
-                    MessageBox.Show("ENTER IMAP PORT", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
+               
                 string search_connection = search.Text;
                 string seach_connection2 = search2.Text;
                 bool multi_from = from.Checked;
@@ -509,11 +513,23 @@ namespace imap_extractor
                 {
                     try
                     {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if (!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
+
                         var messageIds = new List<string>();
 
 
                         using var client = new ImapClient();
-                        client.Connect(imap_connection, port_connection, true);
+                        client.Connect(imap.Item1, imap.Item2, true);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...

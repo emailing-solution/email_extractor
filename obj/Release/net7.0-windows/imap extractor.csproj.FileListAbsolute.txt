@@ -19,3 +19,4 @@ C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\refint\
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\imap extractor.pdb
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\imap extractor.genruntimeconfig.cache
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\ref\imap extractor.dll
+C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\data.csv

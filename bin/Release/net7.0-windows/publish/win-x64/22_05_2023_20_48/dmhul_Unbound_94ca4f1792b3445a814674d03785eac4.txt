@@ -1,0 +1,408 @@
+Return-Path: <bounce-111_HTML-29920402-486094-514009946-1004@bounce.email.unbound.org>
+Received: from cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net
+          ([10.223.1.172]) by cmx-alt-fep021.mx.internal with ESMTP
+          id <20221116160107.OGNP5198.cmx-alt-fep021.mx.internal@cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net>
+          for <dmhul@suddenlink.net>; Wed, 16 Nov 2022 16:01:07 +0000
+X-RG-VS-CS: commercial-misc
+X-RG-VS-SC: 17
+X-RG-VS: Clean
+X-RG-Rigid: 6373B7A3006EC2AE
+X-RG-Orig-IP: 13.111.175.76
+Received-SPF: pass (cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net:
+ domain bounce.email.unbound.org designates 13.111.175.76 as permitted sender)
+ identity=mailfrom; receiver=cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net;
+ client-ip=13.111.175.76; envelope-from=bounce-111_HTML-29920402-486094-514009946-1004@bounce.email.unbound.org;
+ helo=mta.email.unbound.org;
+Received-SPF: none (cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net:
+ domain mta.email.unbound.org does not designate permitted sender hosts)
+ identity=helo; receiver=cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net;
+ client-ip=13.111.175.76; helo=mta.email.unbound.org;
+X-RazorGate-Vade: gggruggvucftvghtrhhoucdtuddrgedvgedrgeeigdekfecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucetnffvkfevgfgfufdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedtudenucdnofetkffnkffpifculddujedmnecujfgurhephffvufffjfggrhejkfgtsegrtderredttdejnecuhfhrohhmpedffghnsghouhhnugdfuceoihhnfhhosegvmhgrihhlrdhunhgsohhunhgurdhorhhgqeenucggtffrrghtthgvrhhnpefggfeiiefhueetiedufeeiveehgeevlefgieetgffhveffudeukeefjeelhfeiudenucffohhmrghinhepuhhnsghouhhnugdrohhrghenucfkphepudefrdduuddurddujeehrdejieenucevlhhushhtvghrufhiiigvpedugeenucfrrghrrghmpehhvghlohepmhhtrgdrvghmrghilhdruhhnsghouhhnugdrohhrghdpihhnvghtpedufedrudduuddrudejhedrjeeipdhmrghilhhfrhhomhepsghouhhntggvqdduuddupgfjvffonfdqvdelledvtdegtddvqdegkeeitdelgedqhedugedttdelleegiedquddttdegsegsohhunhgtvgdrvghmrghilhdruhhnsghouhhnugdrohhrghdpnhgspghrtghpthhtohepuddprhgtphhtthhopegumhhhuhhlsehsuhguuggvnhhlihhnkhdrnhgvthdprhgvvhfkrfepmhhtrgdrvghmrghilhdruhhnsghouhhnugdrohhrghdpshhpfhepphgrshhspdgukhhimhepphgrshhspdhgvghoihhppegfufdp
+	mhhtrghhohhstheptghmgidqrghlthdqrhhgihhntddtle
+X-RazorGate-Vade-Verdict: clean 17
+X-RazorGate-Vade-Classification: commercial-misc
+X-Optimum-Rcpt: dmhul@suddenlink.net
+Received: from mta.email.unbound.org (13.111.175.76) by cmx-alt-rgin009.mx-altice.prod.cloud.synchronoss.net (5.8.810)
+        id 6373B7A3006EC2AE for dmhul@suddenlink.net; Wed, 16 Nov 2022 16:01:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=11dkim1; d=email.unbound.org;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:X-CSA-Complaints:Message-ID:Content-Type;
+ i=info@email.unbound.org;
+ bh=SkTytq+lhUJy3xVHia40DnGhueE0nhY0Rs0KLin2bvY=;
+ b=f7Yxg/PdQthahacidrH/k9y74q+v3LScmub4XU4v3yxmpl4MikfIYaYlPj2tAFN7l6e6VZG/HjuQ
+   iZOhAHvrGcRpMK1m4oItXgXCOS48n5h3eiZkzWuRVZ5W45c99/tVpwr01n3QKLD4ZSWml+arEQY0
+   ki/Ib0k21OSUg+CR3jJQpNaG9CHHNWcj14oXi4jhXuvrgI2wtrGEmFwzMTqbRInYC88eDuAZR23f
+   WGC7ZpiqM8ioODQdpmgVN3lsN9TZ+E76h2KlSh6OuIBeOr/gSAKvVBia2ojOxxzJWYMFLTIYGjgH
+   eZUZ/YHLC9NMv/ZAH8RMEyjUYxwe2CMhgdNMew==
+Received: by mta.email.unbound.org id hek4k42fmd4d for <dmhul@suddenlink.net>; Wed, 16 Nov 2022 16:01:06 +0000 (envelope-from <bounce-111_HTML-29920402-486094-514009946-1004@bounce.email.unbound.org>)
+From: "Unbound" <info@email.unbound.org>
+To: <dmhul@suddenlink.net>
+Subject: The Hope You Give
+Date: Wed, 16 Nov 2022 10:01:05 -0600
+List-Unsubscribe: <https://click.email.unbound.org/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MTQwMDk5NDYiLCJzIjoiMjk5MjA0MDIiLCJsaWQiOiIxMTEiLCJqIjoiNDg2MDk0IiwiamIiOiIxMDA0IiwiZCI6IjExMDAyMSJ9.ZLYeGpPx3HveaOMh80ahZBprHmXj7niZZ55KxGj3RLY>, <mailto:leave-fd581571740b5c392848-fe6316797c6604797516-fec0107873640d79-fe291171716404747c1076-ff3a15707560@leave.email.unbound.org>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+x-CSA-Compliance-Source: SFMC
+MIME-Version: 1.0
+Reply-To: "Unbound" <reply-fec0107873640d79-111_HTML-29920402-514009946-1004@email.unbound.org>
+List-ID: <514008758.xt.local>
+X-CSA-Complaints: csa-complaints@eco.de
+X-SFMC-Stack: 11
+x-job: 514009946_486094
+Message-ID: <787cbbd1-68ee-466d-aa74-1e5c853aa451@atl1s11mta507.xt.local>
+Content-Type: multipart/alternative;
+	boundary="tREFDEONZXP5=_?:"
+
+This is a multi-part message in MIME format.
+
+--tREFDEONZXP5=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+ 
+
+ Unbound
+ 
+ 
+ 
+  &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;
+ 
+ 
+ 
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8932e07c3daecc1d232b5af37a0509129ff8cd1563ff1a536d45d192d94945232977b97d1a881a6fe5dae361810586eff62af607a240576b3 
+
+
+ 
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a807ee7bf491f4277fa8637ec9b2655d9668775eedad47df9f6ef064c365b539d1b6ecab52217c9dda28d5caee6bc27cd38649d378fa1e94e1 
+Sponsor   |  
+https://click.email.unbound.org/?qs=8067a4e76d9892a83e144a11d87333c53a4da925ee7467eff8c752da684af4b25cbda3e0b30a99c4da18fd8f8974ea1a1baaae8a836327b1d495f33f6bbbf7f3 
+Donate   |  
+https://click.email.unbound.org/?qs=8067a4e76d9892a8b2d6c3e0250fe07a1bc40d0c427b76d710655010bbf2723d225d6aae9681daa287342796f0d40b8dd37375f4f7cdfce6b390be47421b97e4 
+Our Impact 
+
+
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8bd9b312b27d3a4915d5df886704084d384ce1a1f893056f95faaae12f98eb431ef48b2dd2747fa86de58455b56925f0fb94066d2f2a77c9f 
+
+Diana,
+
+
+You make it possible for Unbound to provide hope in times of crisis. Already deeply rooted in communities, Unbound staff can respond to the specific needs of families who have suffered setbacks due to natural disasters, medical emergencies, or other dire circumstances. Thanks to the 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8bd9b312b27d3a4915d5df886704084d384ce1a1f893056f95faaae12f98eb431ef48b2dd2747fa86de58455b56925f0fb94066d2f2a77c9f 
+Critical Needs Fund , Unbound can provide the light of hope, even in the darkest times. 
+Critical Needs Fund in Action
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8d8efcf9e6c3d75541b683e147bad4b0bd51a6093937a1df65941dceab83b29bcc2e66aee49cbf64780f7ff44aae21890c133e06db6c2f295 
+
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a83f620f83e390953fa105ee95438f7a1668e05a9a4f1ea8876c11950ec4809cf881b4e3f3cf18bc277da9d71955e5d8beee87a985e92d8f1d 
+Weathering the Storm 
+Around the world, families live in regions prone to extreme weather. In times of disaster, Unbound stands ready to help families recover.
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8d8efcf9e6c3d75541b683e147bad4b0bd51a6093937a1df65941dceab83b29bcc2e66aee49cbf64780f7ff44aae21890c133e06db6c2f295 
+Learn How 
+
+
+
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a87af983a6537066846a2791e3f4898724065b9d943d151ef8caad5aebd3ec866781496aef7366098b0adf8b2d43b278280c110be609177ee4 
+
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8a3ffa9782833d56afe07d4fb92b0a4f6a4bfa8c7edc5ac6010ae8020eefd64760928bf9d0f20ff0020eb9b4546e3d3c0e7eb18a7fb3ae884 
+Keeping Crisis at Bay 
+In times of unexpected need, Unbound provides support for families. See how Alejandra, the mother of two sponsored children, was able to grow her business.
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a87af983a6537066846a2791e3f4898724065b9d943d151ef8caad5aebd3ec866781496aef7366098b0adf8b2d43b278280c110be609177ee4 
+Watch Video 
+
+
+
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8455e49e0c339b979694f2ab7aa062f11de1b73dfce40ccd1429af197a3935bbcfe237c6b9ef6c7d83a5856f4f4f5fd9976dcbfc907af8f90 
+
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a866f550a7f833a822de8b9d467fe2d46fa609dd6cc23ff4d977b91b3a26890409185a18a48cb1ad32ebca51808ae81fe9fbc2498dfbe692ef 
+A Place They Call Home 
+Sometimes brighter futures begin with a place to call home. Learn how Unbound&rsquo;s Critical Needs Fund makes the dream of a home reality for people like Esther in Kenya.
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8455e49e0c339b979694f2ab7aa062f11de1b73dfce40ccd1429af197a3935bbcfe237c6b9ef6c7d83a5856f4f4f5fd9976dcbfc907af8f90 
+Meet Esther 
+
+
+
+Your donation to the Critical Needs Fund will make it possible for Unbound to continue to provide relief for families in our program, giving them a helping hand when they need it most. Thank you for walking with families around the world.
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8bd9b312b27d3a4915d5df886704084d384ce1a1f893056f95faaae12f98eb431ef48b2dd2747fa86de58455b56925f0fb94066d2f2a77c9f 
+Support Families in Crisis 
+
+
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8932e07c3daecc1d232b5af37a0509129ff8cd1563ff1a536d45d192d94945232977b97d1a881a6fe5dae361810586eff62af607a240576b3 
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8f1a94317c91fa4f4373323a74ede61d48bad5d572da31982adfb2d5854a30f7bf03982e7a72cad6cabb12289f1f77559a6aa53485318bcfd 
+
+  
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a895ef26c37e0a9a4f048b0282892251c25bf933d454dd5c1cdbf0429f19e7f6dba4fd5910c4de55e20c1fd8787f282b30823d541e7c9ee220 
+
+  
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a86784756824b000dea3086371ab3dd9978a3fa623765fe436516e923877721a992df8ed67d34ceb694290d2f6e67c305740323bb5a297f1e9 
+
+  
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8844e22b9a5b4a3b873c19a07576f1fa6cd24c112e57c60f8fd3ebf50e97c4cd318b52de58cedc4b71bbe03bce8e04628c31068735497dbd5 
+
+  
+ 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8a117a7ad5d52ca9b528a0cec66954e0cbc0db4addccf4c204522e081431c938dfa922bdb5114a5e6bf7c95824d1d0401ce6e7a1a14313ce9 
+
+1 Elmwood Ave, Kansas City, KS 66103
+
+mailto:info@unbound.org 
+info@unbound.org  - 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8932e07c3daecc1d232b5af37a0509129ff8cd1563ff1a536d45d192d94945232977b97d1a881a6fe5dae361810586eff62af607a240576b3 
+unbound.org 
+
+This email was sent to you because you support Unbound.
+
+https://click.email.unbound.org/?qs=8067a4e76d9892a8684608a4cd3a5d197037795836ac9020bf9e95634ad97016418ea509e8426cff4433e70fc640e5a2d24054c496c2fce89f80069c81d3009b 
+Unsubscribe  - 
+https://click.email.unbound.org/?qs=8067a4e76d9892a8f2c02c0fff75190113ebc7c22f029c45e76096d1a685637dce41180d509ba82e3fdbfd4245fbb881b30b080ac906e322d745b93ed6ac0e16 
+Update your subscription  - 
+
+https://view.email.unbound.org/?qs=b2aed1efdd632a7f92016225794bf6a64da393d5b1dbdbbc88a586798252363df18eaa1b26b05eccf2888aa170303c4bc80b59ac193350550d5618da33431d7634bb0eccacdd368bccc659eb890d13ee 
+View as webpage 
+
+Copyright (c) 2022 Unbound 
+https://click.email.unbound.org/?qs=8067a4e76d9892a86783107de3ccd9f441dbf644b72ce560f78f26d62b4e7549c937603cc22e6e6d66e3e894c0b2f8fa1070492edde3493c9dbfde3c4ab77195 
+Privacy policy 
+
+
+ 
+
+
+
+--tREFDEONZXP5=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--  -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+
+    <title>Unbound</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+      @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+      .body { margin: 0 !important; min-width: 100% !important; padding: 0 !important; width: 100% !important; }
+      
+      * { -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+      
+      img { border: 0; height: auto; line-height: 100%; }
+      
+      sup { font-size: 45%; line-height: 0; }
+      
+      span.outlook-overflow-scaling { width: 100% !important; max-width: 100%; padding: 0 !important; }
+      
+      table, td { font-family: Open Sans, Helvetica, Arial, sans-serif; }
+      
+      a, a:link { text-decoration: none; }
+      
+      h1, h2, h3, h4, h5, h6, p { margin: 0; }
+      
+      #backgroundWrapper, .body { background-color: #ffffff; }
+      
+      .desktop-content { display: block!important; height: inherit !important; }
+      
+      .desktop-show { display: inline!important; height: inherit !important; }
+      
+      .mobile-content, .mobile-show { display: none!important; }
+      
+      .stack-wrapper { font-size: 0; text-align: center; white-space: nowrap; }
+      .stack-wrapper .column, .stack-wrapper .column1, .stack-wrapper .column2, .stack-wrapper .column3 { display: inline-block; vertical-align: top; white-space: normal; width: 100%; }
+      
+      .onecolpad { padding: 0 40px !important; }
+      .heropad { padding: 0 40px !important; }
+      
+      .header .column1 { max-width: 284px; }
+      .header .column2 { max-width: 16px; }
+      .header .column3 { max-width: 340px; }
+      
+      .twocolumn .stack-wrapper { max-width: 640px !important; }
+      
+      .twocolpad { padding: 0 24px !important; }
+      
+      .quotepad { padding: 0 60px !important; }
+      
+      .event .column { max-width: 320px; }
+      
+      @media only screen and (max-width: 639px) { u ~ .body #backgroundWrapper { width: 100vw !important; }
+        .desktop-content, .desktop-show { display: none!important; height: 0 !important; }
+        .mobile-content { display: block!important; }
+        .mobile-show { display: inline!important; }
+        .stack-wrapper { white-space: normal !important; }
+        .onecolpad { padding: 0 20px !important; }
+        .heropad { padding: 0 20px !important; }
+        .header .column1, .header .column2, .header .column3 { max-width: 100%; }
+        .twocolumn .stack-wrapper { max-width: 320px !important; }
+        .twocolpad { padding: 24px !important; }
+        .quotepad { padding: 0 40px !important; }
+        .event .column { max-width: 100%; } }
+    </style>
+    <!--[if false]><!-->
+    <style>
+      a[x-apple-data-detectors], #MessageViewBody .samsungfix a { color: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; text-decoration: none !important; }
+      
+      #MessageViewBody, #MessageWebViewDiv { margin: 0 !important; padding: 0 !important; }
+      
+      @media yahoo { #backgroundWrapper { table-layout: fixed; } }
+    </style>
+    <!--<![endif]-->
+    <!--[if true]>     <style>       table { border-collapse: collapse; }              table, td { font-family: Arial, sans-serif; mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }              li { text-indent: -1em; margin: 0px 0px 6px; }              sup { font-size: 75%; mso-text-raise: 12%; }              h1 { font-family: Arial, sans-serif !important; font-weight: bold !important; }              h2, h3, h4, h5, h6 { font-family: Arial, sans-serif !important; }              p { font-family: Georgia, serif !important; }              .column, .column1, .column2, .column3 { margin: 0 !important; }              .desktop-content { display: block !important; }     </style>     <![endif]-->
+    
+    <!--[if gte mso 9]>     <xml>       <o:OfficeDocumentSettings>         <o:AllowPNG/>         <o:PixelsPerInch>96</o:PixelsPerInch>       </o:OfficeDocumentSettings>     </xml>     <![endif]-->
+  </head>
+  <body class="body" style="font-family: Open Sans, Helvetica, Arial, sans-serif; margin: 0; padding: 0;"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">How you help Unbound provide assistance in times of crisis</div>
+    <table id="backgroundWrapper" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+      <tr>
+        <td align="center">
+          <div style="display: none; max-height: 0px; overflow: hidden;">
+            
+           
+ &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+            <img src="https://click.email.unbound.org/open.aspx?ffcb10-fec0107873640d79-fe5b1573716200787212-fe291171716404747c1076-ff6c157174-fe6316797c6604797516-ff3a15707560&d=110021&bmt=0" width="1" height="1" alt="">
+          </div>
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation">
+            <tr>
+              <td class="main" align="center" style="width: 640px;">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+	
+		<tr>
+			<td>
+				<!--[if false]><!--><table width="100%" cellspacing="0" cellpadding="0" border="0">
+					
+						<tr>
+							<td style="height: 10px; background: #ffffff url('http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/1b98d69e-204e-42a8-979a-c3a040a6e679.png') repeat left top; background-size: auto; font-size: 10px; line-height: 1;" valign="top" align="center">
+								&nbsp;</td></tr></table><!--<![endif]--><!-- Outlook img src --><!--[if true]>       <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">         <tr>           <td align="center" valign="top">             <img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/fa21beb2-a063-4858-ae9e-897f52b7279c.png" alt=" " width="640" style="border: 0; display: block; margin: 0; width: 640px;" />           </td>         </tr>       </table>       <![endif]--></td></tr><tr>
+			<td align="center">
+				<table class="header" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+					
+						<tr>
+							<td class="stack-wrapper" style="padding: 20px 0;" align="center">
+								<!--[if true]>             <table border="0" cellpadding="0" cellspacing="0" role="presentation">               <tr>                 <td align="center" valign="middle" style="width: 284px;">                   <![endif]--><div class="column1" style="vertical-align: middle; white-space: normal;">
+									<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+										
+											<tr>
+												<td align="center">
+													<a  href="https://click.email.unbound.org/?qs=8067a4e76d9892a82823c1868914d266ec11c132e627f7f0a794c1a1a5499fbba53a4a6ea3439e4a471a3f40e9b5cdc4721bf0cc25f4ae763cde9e2814e6bcd5" target="_blank"><img alt="UNBOUND" src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/f934a1eb-4814-4b0d-a1d6-060028192a2f.png" style="border: 0; display: block; margin: 0; width: 204px; color: #333333; font-size: 28px; text-decoration: none;" width="204"></a></td></tr></table></div><!--[if true]>                 </td>                 <td align="center" valign="middle" style="width: 16px;">                   <![endif]--><div class="column2" style="vertical-align: middle; white-space: normal;">
+									<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+										
+											<tr>
+												<td style="font-size: 18px; line-height: 1;">
+													&nbsp;</td></tr></table></div><!--[if true]>                 </td>                 <td align="center" valign="middle" style="width: 340px;">                   <![endif]--><div class="column3" style="vertical-align: middle; white-space: normal;">
+									<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+										
+											<tr>
+												<td style="color: #333333; font-family: Open Sans, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 18px; line-height: 1; margin: 0;" align="center">
+													<a  href="https://click.email.unbound.org/?qs=8067a4e76d9892a8e690ac949dfe3a010d5b25f7cf93700314102ebe43ff59f946fee24640f8037f663c9f8b6b6d906b5676790d453086c5ab673eab6e0570af" style="color: #333333; text-decoration: none;" target="_blank">Sponsor</a> &nbsp;|&nbsp; <a  href="https://click.email.unbound.org/?qs=8067a4e76d9892a8944cf52e6e285a23c1a212f5b0149d9947d377aca612a47cb70e471248570f661645489f4762379c2f9297cd863daa8a1e723ad926b91662" style="color: #333333; text-decoration: none;" target="_blank">Donate</a> &nbsp;|&nbsp; <a  href="https://click.email.unbound.org/?qs=8067a4e76d9892a8ef8c780d93f64976d2bed62168e066682bcf349ce5ab1110f5fe9c66d5763439913f5db0be9fa47607cf921f6620bf7b6e264d1e02c223f2" style="color: #333333; text-decoration: none;" target="_blank">Our&nbsp;Impact</a></td></tr></table></div><!--[if true]>                 </td>               </tr>             </table>             <![endif]--></td></tr></table></td></tr></table></td></tr></table>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8c0998406f216158a1c791b9c28884b065e481863d851dad85262128e90714be79c864a9fc8279bf81fc3e0c3d2f7fa2cb49a6b76e9c27b1d" title=""   data-linkto="http://"><img data-assetid="129674" src="https://image.email.unbound.org/lib/fe291171716404747c1076/m/2/6ddf78b0-b17c-48bd-8dde-cfb9a960ebe6.jpg" alt="Provide Hope" width="700" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #ECE5D4; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px; " class="stylingblock-content-wrapper camarker-inner"><span style="line-height: 107%;"><font face="Whitney Light"><span style="font-size: 12pt;">Diana,<br>
+<br>
+You make it possible for Unbound to provide hope in times of crisis. Already deeply rooted in communities, Unbound staff can respond to the specific needs of families who have suffered&nbsp;</span>setbacks<span style="font-size: 12pt;">&nbsp;due to natural disasters, medical </span>emergencies<span style="font-size: 12pt;">, or other dire circumstances. Thanks to the <span style="color:#2ab0b7;"><b><a   data-linkto="http://" href="https://click.email.unbound.org/?qs=8067a4e76d9892a8a7eb442f3edcc2790f327139e10efa43f4dacea69af0cf85b0316eeb05b9dd1d126bb0e2a24d8eebd7ce608ab78ed0fef66e03f1cc1b8925" style="color:#2ab0b7;text-decoration:none;" title="Critical Needs Fund">Critical Needs Fund</a></b></span>, Unbound can provide the light of hope, even in the darkest times.&nbsp;</span></font></span></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><h1 style="text-align: center;">
+ <span style="font-family:Arvo, Georgia,serif;"><span style="color:#182952;">Critical Needs Fund in Action</span></span></h1></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 2px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; border: 0px solid transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px; " class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8fd4f9b01b011e4158d235a178cdfc73f125b6e36ff4777c80436ef290aacadddcb5b72533074f2aa43bfdda2b0bcaba52f0a4d4664f9aca4" title=""   data-linkto="https://"><img data-assetid="126061" src="https://image.email.unbound.org/lib/fe291171716404747c1076/m/1/466c2e43-f192-4733-a1cf-5271ce267e35.png" alt="" width="300" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 3px solid #182952;"></a></td></tr></table></td></tr>
+</table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><span style="font-size:20px;"><u><b><span style="font-family:Whitney light,Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;"><a   data-linkto="http://" href="https://click.email.unbound.org/?qs=8067a4e76d9892a88a280b219caa4c0c27a0ced145e600ffb1579dde141739fc811849b93b1a0ac716ae9fd44ecda87f60d6a41c75bda25caf5d1d5688c109eb" style="color:#000000;text-decoration:underline;" title="Weathering the Storm">Weathering the Storm</a></span></b></u></span><br>
+<span style="font-family:Whitney light, Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;">Around the world, families live in regions prone to extreme weather. In times of disaster, Unbound stands ready to help families recover.</span></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#2AB0B7" style=" border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background-color: #2AB0B7;">
+<a target="_blank" class="buttonstyles" style=" font-size: 16px; font-weight: bold; font-family: Arvo, Georgia, serif; color: #182952; text-align: center; text-decoration: none; display: block; background-color: #2AB0B7; border: 3px solid #182952; padding: 10px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;" href="https://click.email.unbound.org/?qs=8067a4e76d9892a8fd4f9b01b011e4158d235a178cdfc73f125b6e36ff4777c80436ef290aacadddcb5b72533074f2aa43bfdda2b0bcaba52f0a4d4664f9aca4" title=""   data-linkto="https://">Learn How</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 2px; " class="stylingblock-content-wrapper camarker-inner">
+<table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8d43b062b40ae97a9e3028613ebf89f886b7b6ba25a3a71b4b6d3c43b2dbdb4150865d5906fc6ea9a07c3d36e8771e882b2a84fa503d72bb8" title=""   data-linkto="https://">
+<img data-assetid="130120" src="https://image.email.unbound.org/lib/fe291171716404747c1076/m/2/f6c2f998-9b60-46ba-96e3-60e0d121c299.png" alt="Keeping Crisis at Bay" width="300" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 3px solid #182952;"></a></td></tr></table></td></tr></table></td>
+<td valign="top" class="responsive-td" style="width: 50%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><span style="font-size:20px;"><u><b><span style="font-family:Whitney light,Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;"><a   data-linkto="http://" href="https://click.email.unbound.org/?qs=8067a4e76d9892a82861f4bbe709a3ce01ddf31bf5a99b29d10288fb5fb6e814baa1e97c4a44c889b871efe77c9889dc7d605dd0c061030a7665dccd14def38b" style="color:#000000;text-decoration:underline;" title="Keeping Crisis at Bay">Keeping Crisis at Bay</a></span></b></u></span><br>
+<span style="font-family:Whitney light, Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;">In times of unexpected need, Unbound provides support for families. See how Alejandra, the mother of two sponsored children, was able to grow her business.</span></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#2AB0B7" style=" border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background-color: #2AB0B7;">
+<a target="_blank" class="buttonstyles" style=" font-size: 16px; font-weight: bold; font-family: Arvo, Georgia, serif; color: #182952; text-align: center; text-decoration: none; display: block; background-color: #2AB0B7; border: 3px solid #182952; padding: 10px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;" href="https://click.email.unbound.org/?qs=8067a4e76d9892a8d43b062b40ae97a9e3028613ebf89f886b7b6ba25a3a71b4b6d3c43b2dbdb4150865d5906fc6ea9a07c3d36e8771e882b2a84fa503d72bb8" title=""   data-linkto="https://">Watch Video</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 2px 2px 12px; " class="stylingblock-content-wrapper camarker-inner">
+<table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 50%; padding-right: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #2AB0B7; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.unbound.org/?qs=8067a4e76d9892a872a1dc67cc5a15d42dac0ea317ed7cdcbac886451ddd58d84b2317abe426f1da2e00372c9076124bb46225ed830ba053e7876a6cec53d091" title=""   data-linkto="https://">
+<img data-assetid="129170" src="https://image.email.unbound.org/lib/fe291171716404747c1076/m/2/b0ba9dde-e13d-47cd-93fa-405d968d9b6d.png" alt="" width="300" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 3px solid #182952;"></a></td></tr></table></td></tr></table></td>
+<td valign="top" class="responsive-td" style="width: 50%; padding-left: 3px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><span style="font-size:20px;"><u><b><span style="font-family:Whitney light,Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;"><a   data-linkto="http://" href="https://click.email.unbound.org/?qs=8067a4e76d9892a8eeb1152d090d5800a803d8597f73480a2a679c43394c7d9e253f39073332c29ba3be4b76c7e1b9639d3c65f4091289eaed23b8d7b206bb21" style="color:#000000;text-decoration:underline;" title="A Place They Call Home">A Place They Call Home</a></span></b></u></span><br>
+<span style="font-family:Whitney light, Calibri,Candara,Segoe,&quot;Segoe UI&quot;,Optima,Arial,sans-serif;">Sometimes brighter futures begin with a place to call home. Learn how Unbound&rsquo;s Critical Needs Fund makes the dream of a home reality for people like Esther in Kenya.</span></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#2AB0B7" style=" border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background-color: #2AB0B7;">
+<a target="_blank" class="buttonstyles" style=" font-size: 16px; font-weight: bold; font-family: Arvo, Georgia, serif; color: #182952; text-align: center; text-decoration: none; display: block; background-color: #2AB0B7; border: 3px solid #182952; padding: 10px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;" href="https://click.email.unbound.org/?qs=8067a4e76d9892a872a1dc67cc5a15d42dac0ea317ed7cdcbac886451ddd58d84b2317abe426f1da2e00372c9076124bb46225ed830ba053e7876a6cec53d091" title=""   data-linkto="https://">Meet Esther</a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #ECE5D4; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px 20px 10px; " class="stylingblock-content-wrapper camarker-inner"><span style="line-height: 107%;">
+<font face="Whitney Light">Your donation to the Critical Needs Fund will make it possible for Unbound to continue&nbsp;to provide relief for families in our program, giving them a helping hand when they need it most. Thank you for walking with families around the world.</font></span></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #ECE5D4; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 20px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td class="innertd buttonblock" bgcolor="#E4B954" style=" border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; background-color: #E4B954;">
+<a target="_blank" class="buttonstyles" style=" font-size: 16px; font-weight: bold; font-family: Caecilia, Arvo, Georgia, serif; color: #182952; text-align: center; text-decoration: none; display: block; background-color: #E4B954; border: 1px solid #E4B954; padding: 10px 20px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px;" href="https://click.email.unbound.org/?qs=8067a4e76d9892a8364e969b4e2ccc34c9500c937e9697fa7b5deedb6b4b10106bf6d7183c2ce8026c08890a36a429f4bbf1dae41d1ab7a197cc074f6b9341f7" title="waiting list"   data-linkto="http://">Support Families in Crisis</a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr>
+<td align="center"><img data-assetid="123284" src="https://image.email.unbound.org/lib/fe291171716404747c1076/m/1/10be461b-13dd-4127-90d9-fb3b5671bfdf.jpg" alt="Let's walk together" width="700" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></td></tr></table></td></tr></table>
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#efeded">
+  <tr>
+    <td align="center" style="padding: 30px 0;">
+      <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8a7ac1e79306b7781c2270725f3938c429d24712b2e65ed434a998a43bc90ca2e0b5c2b838bc6947ea71e8e06316cd2dfeb21fa285a4e4362"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/938ed759-553e-451d-8869-fb70b43f80a5.png" alt="UNBOUND" width="95" style="border: 0; display: block; margin: 0; width: 95px; color: #333333; font-size: 14px; text-decoration: none;" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation">
+        <tr>
+          <td align="center" width="29">
+            <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a807948afa8ec29098ee8c34584c46dd12e2ee2086c7079ca9e601713dae6f83cdf9c78cddf239fa583328ecacadd7844adb6341e93a807ed3"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/96839d8c-4f18-42a6-ab15-3bf7460dda34.png" alt="facebook" width="29" style="display: block; margin: 0; border: 0; padding: 0; font-size: 1px; color: #efeded;"></a>
+          </td>
+          <td align="center" width="30">
+            &nbsp;
+          </td>
+          <td align="center" width="35">
+            <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a83baedc9f6e748d45247478f73358ee73069b0c2769a596d3872cef3db4b9e21f7376ef2bd90b59464435085ef665b53bec5d8fc4c9ec6d3d"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/ea310d9c-d28e-454d-a52a-42f4e209594a.png" alt="twitter" width="35" style="display: block; margin: 0; border: 0; padding: 0; font-size: 1px; color: #efeded;"></a>
+          </td>
+          <td align="center" width="28">
+            &nbsp;
+          </td>
+          <td align="center" width="27">
+            <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8ad1e3fc358896bcd8a81b714a36e86924bd1ce308a13db701c31be1409b8345fa7d83784916ad7daeaf6537eb458b681b13801d72d52a9e3"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/e62fff5d-6c47-4af0-a108-05da4b952fbe.png" alt="instagram" width="27" style="display: block; margin: 0; border: 0; padding: 0; font-size: 1px; color: #efeded;"></a>
+          </td>
+          <td align="center" width="30">
+            &nbsp;
+          </td>
+          <td align="center" width="32">
+            <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8f137d402dbde464c15e5cfda67273d7143d5a4a9536fae280b66219ae035da9f9a4cf0726c3be8df94a79621535156551fbf845cafadffe0"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/9c4867cd-cef2-49ee-b76a-25baa292e1fb.png" alt="youtube" width="32" style="display: block; margin: 0; border: 0; padding: 0; font-size: 1px; color: #efeded;"></a>
+          </td>
+          <td align="center" width="28">
+            &nbsp;
+          </td>
+          <td align="center" width="34">
+            <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a837fb877b22f9f5272765b91fb7251d0aad23f4de1e84402a950ec20ff6fc9e11f8529ac1aea741073c34a47b29ecce4a0d9c8beeeeee9e61"  target="_blank"><img src="http://image.email.unbound.org/lib/fe291171716404747c1076/m/1/52df58f2-df3e-4b56-84e0-77b5f0ddc547.png" alt="linkedin" width="34" style="display: block; margin: 0; border: 0; padding: 0; font-size: 1px; color: #efeded;"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td class="samsungfix" align="center" style="padding: 30px 10px 60px; color: #4b4a4a; font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+      <p style="margin: 0;">1 Elmwood Ave, Kansas City, KS 66103</p>
+      <p style="margin: 0 0 18px;"><a href="mailto:info@unbound.org" alias="info unbound org" target="_blank" style="color: #4b4a4a; text-decoration: none;">info@unbound.org</a> &bull; <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a879f36b9beb7ffc75997df9b1d1f2636b59201d9c9038d5536b5622a2e8694768e1f4fda84125581f24905964d851830b2f60091997ac39cd"  target="_blank" style="color: #4b4a4a; text-decoration: none;">unbound.org</a></p>
+      <p style="margin: 0;">This email was sent to you because you support&nbsp;Unbound.</p>
+      <p style="margin: 0 0 18px;"><a href="https://click.email.unbound.org/?qs=8067a4e76d9892a821b52d6699098702d1bfefead39cd4f4051eece3e2fd9438ea31579388f610be9866bda426c2a2f3b97c3a1c4b465248668de2820a8f8b5f"  target="_blank" style="color: #4b4a4a; text-decoration: none;">Unsubscribe</a> &bull; <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8faa30ae4fea65958fc7dc68be3e22c93abffd8d223626682d9bd6afa53a230695c8574d41812c08202f63fe624e1665a5954fd83a494b734"  target="_blank" style="color: #4b4a4a; text-decoration: none;">Update your subscription</a><!--[if false]><!--><span class="desktop-show" style="display: none; height: 0; overflow: hidden;"> &bull; </span><span class="mobile-show" style="display: inline;"><br /></span><!--<![endif]--><!--[if true]> &bull; <![endif]-->
+<a href="https://view.email.unbound.org/?qs=b2aed1efdd632a7f92016225794bf6a64da393d5b1dbdbbc88a586798252363df18eaa1b26b05eccf2888aa170303c4bc80b59ac193350550d5618da33431d76c3bfb9d6c5b33c116405af5bfede024e"  target="_blank" style="color: #4b4a4a; text-decoration: none;">View&nbsp;as&nbsp;webpage</a></p>
+      <p style="margin: 0;">Copyright &copy; 2022 Unbound <a href="https://click.email.unbound.org/?qs=8067a4e76d9892a8e28e4493591cb2d0b089636d94ca7a4ee9203819f5b754c7a6ec5136c5c77c0fd07115e80acb1cfa356e084f9808c5a9e268d32a09b2e6c3"  target="_blank" style="color: #4b4a4a; text-decoration: none;">Privacy policy</a></p>
+    </td>
+  </tr>
+</table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--tREFDEONZXP5=_?:--
+

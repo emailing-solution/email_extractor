@@ -1,2 +1,3 @@
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\publish\win-x64\imap extractor.pdb
+C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\publish\win-x64\data.csv
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\publish\win-x64\imap extractor.exe
