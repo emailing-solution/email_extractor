@@ -40,6 +40,8 @@
             this.extract_listid = new System.Windows.Forms.Button();
             this.extract_links = new System.Windows.Forms.Button();
             this.extract_message_id = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.feildTxt = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label5
@@ -151,11 +153,30 @@
             this.extract_message_id.UseVisualStyleBackColor = true;
             this.extract_message_id.Click += new System.EventHandler(this.extract_message_id_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(208, 507);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(153, 23);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "EXTRACT FEILD";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // feildTxt
+            // 
+            this.feildTxt.Location = new System.Drawing.Point(87, 507);
+            this.feildTxt.Name = "feildTxt";
+            this.feildTxt.Size = new System.Drawing.Size(115, 23);
+            this.feildTxt.TabIndex = 25;
+            // 
             // EXTRACTOR
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(382, 518);
+            this.ClientSize = new System.Drawing.Size(385, 567);
+            this.Controls.Add(this.feildTxt);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.extract_message_id);
             this.Controls.Add(this.extract_links);
             this.Controls.Add(this.extract_listid);
@@ -190,5 +211,7 @@
         private Button extract_listid;
         private Button extract_links;
         private Button extract_message_id;
+        private Button button1;
+        private TextBox feildTxt;
     }
 }

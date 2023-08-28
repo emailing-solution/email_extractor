@@ -1,5 +1,6 @@
 using MailKit;
 using MailKit.Net.Imap;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text.RegularExpressions;
 
@@ -328,7 +329,7 @@ namespace imap_extractor
 
 
                         using var client = new ImapClient();
-                        client.Connect(imap.Item1, imap.Item2, true);
+                        client.Connect(imap.Item1, imap.Item2);
                         client.Authenticate(user[0], user[1]);
 
                         // The Inbox folder is always available on all IMAP servers...
@@ -582,6 +583,98 @@ namespace imap_extractor
 
                 extract_message_id.Enabled = true;
                 extract_message_id.Text = "EXTRACT MESSAGE IDS";
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string dir = "./" + DateTime.Now.ToString("dd_MM_yyyy_HH_mm");
+
+                button1.Enabled = false;
+                button1.Text = "SEARCHING ...";
+
+                string search_connection = search.Text;
+                string seach_connection2 = search2.Text;
+                bool multi_from = from.Checked;
+                var users = user_pass.Text.Split(Environment.NewLine).Select(x => x.Trim().Split(":")).Where(x => x.Length == 2).ToArray();
+                if (users.Length < 1)
+                {
+                    MessageBox.Show("ENTER AT LEAST 1 USER AND PASS", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                string feild = feildTxt.Text;
+                if(string.IsNullOrEmpty(feild) )
+                {
+                    MessageBox.Show("ENTER FEILD TO SEARCH", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                int found = 0;
+                Parallel.ForEach(users, user =>
+                {
+                    try
+                    {
+                        var config = user[0].Split("@");
+                        if (config.Length != 2)
+                        {
+                            return;
+                        }
+                        var domain = config[1];
+                        if (!data.ContainsKey(domain))
+                        {
+                            return;
+                        }
+                        var imap = data.GetValueOrDefault(domain);
+                        var listIds = new List<string>();
+
+
+                        using var client = new ImapClient();
+                        client.Connect(imap.Item1, imap.Item2);
+                        client.Authenticate(user[0], user[1]);
+
+                        // The Inbox folder is always available on all IMAP servers...
+                        var inbox = client.Inbox;
+                        inbox.Open(FolderAccess.ReadOnly);
+                        Debug.WriteLine("Total messages: {0} in {1}", inbox.Count, user[0]);
+
+                        for (int i = 0; i < inbox.Count; i++)
+                        {
+                            var message = inbox.GetMessage(i);
+                            var body = message.ToString();
+
+                            string pattern = @"^.*" + Regex.Escape(feild) + @".*$";
+                            Regex regex = new Regex(pattern, RegexOptions.Multiline);
+                            Match match = regex.Match(body);
+
+                            if (match.Success)
+                            {
+                                string foundLine = match.Value;
+                                listIds.Add(foundLine);                                
+                                Interlocked.Increment(ref found);
+                            }                          
+                        }
+
+                        string file = user[0].Split("@")[0] + "_"+ feild + "_" + Guid.NewGuid().ToString("N") + ".txt";
+                        Task asyncTask = WriteFileAsync(dir, file, string.Join(Environment.NewLine, listIds.ToArray()));
+
+                        client.Disconnect(true);
+                    }
+                    catch (Exception ex)
+                    {
+                        Debug.WriteLine(ex.ToString());
+                    }
+
+                });
+
+                MessageBox.Show($"FOUND {found}", "ENDED", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            finally
+            {
+
+                button1.Enabled = true;
+                button1.Text = "EXTRACT FEILD";
             }
         }
     }

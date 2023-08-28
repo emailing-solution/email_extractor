@@ -5,7 +5,6 @@ C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\imap extractor.pdb
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\MailKit.dll
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\MimeKit.dll
-C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\BouncyCastle.Crypto.dll
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64\imap extractor.csproj.AssemblyReference.cache
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64\imap_extractor.EXTRACTOR.resources
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64\imap extractor.csproj.GenerateResource.cache
@@ -20,3 +19,4 @@ C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64\imap extractor.genruntimeconfig.cache
 C:\Users\malohtie\source\repos\imap extractor\obj\Release\net7.0-windows\win-x64\ref\imap extractor.dll
 C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\data.csv
+C:\Users\malohtie\source\repos\imap extractor\bin\Release\net7.0-windows\win-x64\BouncyCastle.Cryptography.dll
